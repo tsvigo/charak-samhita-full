@@ -36,8 +36,9 @@ SYSTEM = (
     "Переводишь Чарак Самхиту (английский перевод с санскрита, издание carakasamhitaonline). "
     "Стиль: точный книжный русский, живой но без отсебятины. "
     "Сохраняй markdown-структуру один в один (## заголовки, списки * ...). "
-    "Санскритские термины в подчёркиваниях _..._ сохраняй в транслитерации "
-    "(вата, питта, капха, доша, унмада и т.п.), при первом появлении допустим перевод в скобках. "
+    "Санскритские термины в подчёркиваниях _..._ переводи в русские кавычки «...» "
+    "(вата, питта, капха, доша, унмада и т.п.: _доша_ → «доша»), при первом появлении допустим перевод в скобках. "
+    "Никогда не оставляй нижние подчёркивания _ в переводе. "
     "Разбивку на абзацы сохраняй один в один. Только текст перевода, без пояснений."
 )
 PROMPT_TMPL = "Переведи следующий отрывок Чарак Самхиты на русский. Только перевод:\n\n{text}"
@@ -149,7 +150,7 @@ def cmd_run(args):
                 tmp.replace(OUT_DIR / f"{pstem}.ru.txt")
                 print(f"  [{pstem}]: {len(ru.split())} слов ({model})", flush=True)
                 return True
-            except (errors.APIError, RuntimeError, ConnectionError) as e:
+            except Exception as e:
                 wait = min(15 * attempt, 120)
                 print(f"  [{pstem}] {model} попытка {attempt}/{MAX_RETRIES}: "
                       f"{type(e).__name__}: {str(e)[:100]}; жду {wait}с", flush=True)
@@ -175,6 +176,11 @@ def cmd_run(args):
     print(f"Готово. Осталось: {left}" + (" — повтори run" if left else " — выполни merge"))
 
 
+def norm_quotes(s):
+    """_термин_ → «термин»: подчёркивания ужасны при озвучке, кавычки читаются чисто."""
+    return re.sub(r"(?<!_)_(?!_)([^_\n*]+?)(?<!_)_(?!_)", r"«\1»", s)
+
+
 def cmd_merge(_args):
     if not MANIFEST.exists():
         sys.exit("ОШИБКА: сначала выполни split")
@@ -187,7 +193,7 @@ def cmd_merge(_args):
             if not p.exists():
                 missing.append(p.name)
                 continue
-            out.append(p.read_text(encoding="utf-8").strip())
+            out.append(norm_quotes(p.read_text(encoding="utf-8").strip()))
         if len(out) == f["parts"]:
             dest = RU_ROOT / f["sthana"] / f"{Path(f['src']).stem}.ru.txt"
             dest.parent.mkdir(parents=True, exist_ok=True)

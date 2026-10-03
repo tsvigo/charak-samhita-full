@@ -1,0 +1,98 @@
+Роль _meda_ (жировая ткань) имеет огромное значение в патогенезе _prameha_ (диабета). Её роль заключается не просто в статусе _dushya_ (нарушение функционирования _dhatu_ — тканей организма), а в чем-то большем. Согласно «Чарака Самхите», _bahudrava shleshma_ (капха, содержащая избыток жидкости) соединяется с _meda_ и воздействует на неё, заставляя её стать _abaddha_ (неуплотненной или текучей) в понимании Аюрведы. В Аюрведе это описывается как _sharira-kleda_ (жидкое состояние тела). Таким образом, избыток воды в крови вызывает усиленный диурез. Очень важно разъяснить термин _bahudrava shleshma_. _Shleshma/kapha_ — одна из трех основных дош (жизненных начал), регулирующих все физиологические и психологические процессы в живом организме. В своем нормальном состоянии она обеспечивает связность тканей тела, то есть поддерживает целостность тканей, представляет собой нормальный клеточный иммунитет и т. д. _Bahudrava_ означает, что _kapha_ теряет свои естественные свойства и приходит в состояние дисбаланса; важно отметить, что это нарушение может быть как приобретенным, так и врожденным. Какова бы ни была причина, эта витиированная (испорченная) _kapha_ не способна выполнять свои нормальные функции. Описывая физические свойства _kapha_, упоминается, что она маслянистая на ощупь и выглядит как _ghrita_ (топленое масло). Таким образом, можно сказать, что _kapha_ в организме представляет липидные компоненты тела, а витиированную _kapha_ можно соотнести с дислипидемией. Роль дислипидемии и метаболических нарушений в патогенезе диабета совершенно очевидна и хорошо разработана в современной медицине. Среди метаболических нарушений, которые обычно сопровождают диабет, — расстройства в производстве и клиренсе плазменных липопротеинов. Более того, развитие дислипидемии может быть предвестником будущего диабета. Характерная картина, называемая диабетической дислипидемией, состоит из низкого уровня липопротеинов высокой плотности (ЛПВП), повышенных триглицеридов и постпрандиальной липемии. Этот паттерн наиболее часто встречается при диабете 2-го типа и может быть поддающимся лечению фактором риска последующих сердечно-сосудистых заболеваний.[37]
+
+### Причины нарушений липопротеинов при диабете [38]
+
+Дефекты действия инсулина и гипергликемия могут приводить к изменениям в плазменных липопротеинах у пациентов с диабетом. Альтернативно, особенно в случае диабета 2-го типа, ожирение/инсулинорезистентное метаболическое расстройство, лежащее в основе этой формы диабета, само по себе может приводить к липидным нарушениям, независимо от гипергликемии.
+
+Нарушения липопротеинов, обычно присутствующие при диабете 2-го типа, ранее называвшемся инсулиннезависимым сахарным диабетом, включают гипертриглицеридемию и снижение уровня холестерина ЛПВП в плазме. Кроме того, липопротеины низкой плотности (ЛПНП) превращаются в более мелкие, возможно, более атерогенные липопротеины, называемые мелкими плотными ЛПНП. В отличие от диабета 1-го типа, этот фенотип обычно не корректируется полностью при гликемическом контроле. Более того, эта дислипидемия часто обнаруживается у преддиабетиков — пациентов с инсулинорезистентностью, но нормальными показателями глюкозы в плазме. Следовательно, с этим липидным нарушением связаны именно аномалии в действии инсулина, а не гипергликемия как таковая. Вероятно, за диабетическую дислипидемию ответственны несколько факторов: влияние инсулина на выработку аполипопротеина печенью, регуляция липопротеинлипазы (ЛПЛ), действия белка-переносчика эфиров холестерина (CETP) и периферическое действие инсулина на жировую и мышечную ткани.
+
+### Различные цвета мочи
+
+#### Белый
+
+ * Фосфатурия обычно носит прерывистый характер, возникая после еды или после употребления большого количества молока.[39]
+ * Пиурия (обилие лейкоцитов) в сочетании с инфекцией мочевыводящих путей.
+ * Белая мутная моча редко может быть обусловлена хилурией (лимфатической жидкостью), возникающей в результате сообщения между лимфатической системой и мочевыводящими путями.[40]
+
+#### Красный / Розовый
+
+ * Наличие эритроцитов, свободного гемоглобина (от распада эритроцитов) или миоглобина (от распада мышечных клеток).
+ * Гемоглобинурия — инфекция мочевыводящих путей, мочекаменная болезнь или злокачественное новообразование мочевыводящих путей.
+
+#### Синий / Зеленый
+
+ * Наследственная форма высокого уровня кальция (называемая «семейной гиперкальциемией») может привести к синему цвету мочи, что дало этому заболеванию прозвище «синдром синего подгузника». Другое метаболическое расстройство, индиканурия, может вызывать синий цвет мочи из-за индольных метаболитов триптофана.[41]
+
+#### Коричневый / Черный
+
+ * Меланин и меланоген, обнаруженные в моче пациентов с меланомой, окрашивают стоячую мочу в темный цвет сверху вниз, по мере воздействия воздуха.[42]
+ * Алкаптонурия, редкое наследственное заболевание: моча темнеет после воздействия воздуха в течение некоторого времени из-за присутствия гомогентизиновой кислоты.[43]
+ * Выделение с мочой гидроксифенилпировиноградной кислоты из-за метаболического расстройства тирозиноза также вызывает коричнево-черный цвет мочи.
+ * При поздней кожной порфирии моча кажется красновато-коричневой при естественном освещении, но флуоресцирует розовым цветом под ультрафиолетовым светом.
+
+### Прогноз
+
+На основании прогноза пациенты с _prameha_ были классифицированы на три группы: _Sadhya_ (излечимые), _Yapya_ (контролируемые) и _Asadhya_ (трудно поддающиеся лечению).
+
+#### Характеристики _Prameha_, классифицированные на основе прогноза
+
+### Перспективы для будущих исследований
+
+ 1. Критерии оценки для классификации различных типов _Prameha_ на основе как физических, так и лабораторных параметров.
+ 2. Шкалирование _Prameha_ на основе современных инструментов исследования, чтобы лечение могло проводиться в соответствии с классификацией.
+ 3. Сравнение _Purvarupa_ (продромальных признаков и симптомов) _Prameha_ с таковыми при преддиабетической стадии диабета и установление лабораторных параметров для его диагностики, чтобы диабет можно было успешно предотвратить.
+ 4. Поиск генов, общих для диабета и дислипидемии, и сбор данных о распространенности диабета, связанного с дислипидемией.
+ 5. Сбор данных для поиска наиболее распространенного типа дислипидемии при диабете.
+ 6. Ретроспективное клиническое исследование для установления факта, что дислипидемия является причиной диабета, а не его следствием.
+
+### Связанные главы
+
+ * Prameha Chikitsa
+ * Kiyanta Shiraseeya Adhyaya
+
+**Присылайте нам свои предложения и отзывы об этой странице.**
+
+## Литература
+
+ 1. ↑ Sushruta. Nidana Sthana, Cha.6 Pramehanidana. In: Shastri A, Editor. Tattva- Samdipika Sushruta Samhita. 14th ed. Varanasi: Chaukhambha Publications, 2003.
+ 2. ↑ Vridha Vagbhata. Nidana Sthana, Cha.10 Pramehanidana. In: Gupta KA, Editor. Ashtanga Sangraha. 1st ed. Bombay: Nirnaysagar Press;1951
+ 3. ↑ extracts sourced from https://www.niddk.nih.gov/-/media/05040CE3B59147FB88B1B75E5D7C1833.ashx
+ 4. ↑ extracts sourced from https://www.niddk.nih.gov/-/media/05040CE3B59147FB88B1B75E5D7C1833.ashx
+ 5. ↑ extracts sourced from http://blog.ncpad.org/2011/07/08/10-dangerous-foods-for-diabetes/ and https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2886982/
+ 6. ↑ extract sourced from http://www.joybauer.com/photo-gallery/worst-foods-for-diabetes/bacon/
+ 7. ↑ The Economic Costs of Non‐Communicable Diseases in the Pacific Islands. A Rapid Stocktake of the situation in Samoa, Tonga and Vanuatu. Final Report November2012.
+ 8. ↑ Uma P., Hariharan R.S., Ramani V. and Seshiah V. Glycaemic Indices of Different Sugars.Department of Diabetology, Madras Medical College & Govt. General Hospital, Madras.1987; 78-82.
+ 9. ↑ extract sourced from http://cosbin2001.blogspot.com/2014/12/health-benefits-of-jaggery-or-gur.html
+ 10. ↑ Shastri KN, Chaturvedi GN, Charak. Nidana Sthana, Cha.4 Pramehanidana ver.3. In: Shastri KN, Chaturvedi GN, Editors. Vidyotini Commentary Charak Samhita.1st ed. Varanasi: Chaukhamba Bharti Academy;2004.
+ 11. ↑ Shukla VD, Tripathi RD. Charak. Nidana Sthana, Cha.4 Pramehanidana ver.3. In: Shukla VD, Tripathi RD Vaidyamanorama Commentary Charak Samhita.1st ed. Delhi; Chaukhamba Sanskrit Pratisthana, 2002.
+ 12. ↑ Chandola HM, Bhatia S. Concept of Diabetes mellitus in Ayurveda and its treatment with certain indigenous drugs. AYU Int 2001;1:84-87.
+ 13. ↑ Tripathi SN, Chandola HM.Study on variations in diabetes mellitus (Prameha) with special reference to plasma insulin, cortisol and catecholamines. In Bajaj JS,ed. Diabetes mellitus in Developing Countries. New Delhi, India: Interprint, 1984:125-128.
+ 14. ↑ Sharma H, Chandola HM..Prameha in Ayurveda: Correlation with Obesity, Metabolic Syndrome, and Diabetes Mellitus.Part 1-Etiology, Classification, and Pathogenesis. The Journal of Alternative and Complementary Medicine.2011. 17(6):491-496.
+ 15. ↑ Kajaria Divya, Chandola H.M. Dislipidemia Cause or Consequence of Diabetes- Reanalyzing the pathogenesis with the vision of Ayurveda. Journal of Diabetes and Health, Photon. 2014.
+ 16. ↑ Pandey Rashmi, Dubey N., Tripathi NS. Ayurvedic Concept of Lifestyle Ailments and its Healing Through Traditional Regimen., 2015, Scholars Journal of Applied Medical Sciences, 3(3H):1599-1601
+ 17. ↑ Kumar Manish, Kivadassanavar MB et al. Screening of Serum Insulin in Obese Individual WSR to Sthaulya: An Observational Study. 2016. European Journal of Pharmaceutical and Medical Research, 2016,3(9),638-640
+ 18. ↑ extracts from http://www.jbsoweb.com/admin/php/uploads/215_pdf.pdf
+ 19. ↑ sourced from http://www.slideshare.net/ayurmitra/madhumeha-kc041-gdg
+ 20. ↑ sourced from http://www.slideshare.net/ayurmitra/madhumeha-kc041-gdg
+ 21. ↑ May, RC et al. 1996. Glucocorticoids and acidosis stimulate protein and amino acid catabolism in vivo. Kidney Int. 1996 Mar;49(3):679-83.
+ 22. ↑ Vaudevan et al. 2011. Textbook of biochemistry for medical students, Sixth Edition, JP Medical Publishers
+ 23. ↑ Parfitt A. 1982 The coupling of bone formation to bone resorption: a critical analysis of the concept and of its relevance to the pathogenesis of osteoporosis. Metab Bone Dis Relat Res 4:1–6.
+ 24. ↑ Mundy G 1989 Local factors in bone remodeling. Rec Prog Horm Res 45:507–531.
+ 25. ↑ Hayward M, Fiedler-Nagy C 1987 Mechanisms of bone loss: rheumatoid arthritis, periodontal disease and osteoporosis. 22:251–254.
+ 26. ↑ Tuominen J, Impivaara O, Puukka P, Ronnenmaa T 1999 Bone mineral density in patients with type 1 and type 2 diabetes. Diabetes Care 22:1196–1200.
+ 28. ↑ Macey L, Kana SM, Jingushi S, Terek RM, Borretos J, Bolander ME 1989 Defects of early fracture-healing in experimental diabetes. J Bone Joint Surg Am 71:722–733.
+ 29. ↑ Gebauer G, Lin S, Beam H, Vieira P, Parsons J 2002 Low-intensity pulsed ultrasound increases the fracture callus strength in diabetic BB Wistar rats but does not affect cellular proliferation. J Orthop Res 20:587–592.
+ 30. ↑ Barrett-Conner E, Holbrook T 1992 Sex differences in osteoporosis in older adults with non-insulin-dependent diabetes mellitus. JAMA 268:3333–3337.
+ 31. ↑ Loe H 1993 Periodontal disease. The sixth complication of diabetes mellitus. Diabetes Care 16:329–334.
+ 32. ↑ Nelson R, Shlossman M, Budding L, Pettitt DJ, Saad MF, Genco RJ, Knowler WC1990 Periodontal disease and NIDDM in Pima Indians. Diabetes Care 13:836–840.
+ 33. ↑ https://www.slideshare.net/sprince33/glomerulonephritis accessed on 12 June 2017
+ 34. ↑ https://www.coursehero.com/file/pd3u7l/Ketones-include-acetone-beta-hydroxybutyrate-and-acetoacetate-Progressive-rise accessed on 12 June 2017
+ 35. ↑ https://www.coursehero.com/file/pd3u7l/Ketones-include-acetone-beta-hydroxybutyrate-and-acetoacetate-Progressive-rise accessed on 12 June 2017
+ 36. ↑ Hampton T. Studies probe oral health diabetes link. JAMA 2008; 300:2471-2473.
+ 37. ↑ http://press.endocrine.org/doi/10.1210/jcem.86.3.7304 accessed on 12 June 2017
+ 38. ↑ Goldberg J.Ira . Diabetic Dyslipidemia: Causes and Consequences .The Journal of Clinical Endocrinology & Metabolism. 2001. 86 (3): 965-971.
+ 39. ↑ http://doctor.ndtv.com/faq/ndtv/fid/8091/What_is_the_cause_for_white_cloudy_urine.html accessed on 12 June 2016
+ 40. ↑ http://ehealthforum.com/health/topic35228.html accessed on 12 June 2016
+ 41. ↑ http://www.freerepublic.com/focus/f-chat/1424388/replies?c=1 accessed on 12 June 2016
+ 42. ↑ https://answers.yahoo.com/question/index?qid=20100106090425AACh3og accessed on 12 June 2016
+ 43. ↑ http://www.freerepublic.com/focus/f-chat/1424388/replies?c=1 accessed on 12 June 2016
