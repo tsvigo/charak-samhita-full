@@ -1,0 +1,330 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Agnivesha’s query
+ * 2.2 Twenty disorders of female genital tract
+ * 2.2.1 Explanation by Atreya
+ * 2.2.2 Causative factors
+ * 2.2.3 Vata dominant _yonivyapat_
+ * 2.2.4 Pitta dominant _yonivyapat_
+ * 2.2.5 Kapha dominant _yonivyapat_
+ * 2.2.6 Tridosha dominant _yonivyapat_
+ * 2.2.7 _Asrija yonivyapat_
+ * 2.2.8 _Arajaska yonivyapat_
+ * 2.2.9 _Acharana yonivyapat_
+ * 2.2.10 _Aticharana yonivyapat_
+ * 2.2.11 _Prakcharana yonivyapat_
+ * 2.2.12 _Upapluta yonivyapat_
+ * 2.2.13 _Paripluta yonivyapat_
+ * 2.2.14 _Udavartini yonivyapat_
+ * 2.2.15 _Karnini yonivyapat_
+ * 2.2.16 _Putraghni yonivyapat_
+ * 2.2.17 _Antarmukhi yonivyapat_
+ * 2.2.18 _Suchimukhi yonivyapat_
+ * 2.2.19 _Shushka yonivyapat_
+ * 2.2.20 _Vamini yonivyapat_
+ * 2.2.21 _Shandhi yonivyapat_
+ * 2.2.22 _Mahayoni yonivyapat_
+ * 2.2.23 Consequences of _yonivyapat_
+ * 2.2.24 Dosha dominance in _yonivyapat_
+ * 2.2.25 General principles of management
+ * 2.2.26 Manual intervention in displaced genital tract/uterus
+ * 2.2.27 Mild purification in management of all _yonivyapat_
+ * 2.2.28 Treatment after purification
+ * 2.2.29 Management of vata vitiation
+ * 2.2.30 Various formulations in management of vataja yonivyapat
+ * 2.2.31 Therapeutic procedures for management of vata dominant _yonivyapat_
+ * 2.2.32 Therapeutic procedures for management of pitta dominant _yonivyapat_
+ * 2.2.33 Various formulations in management of pittaja yonivyapat
+ * 2.2.33.1 _Brihat shatavari ghritam_
+ * 2.2.34 Management of kapha dominant _yonivyapat_
+ * 2.2.35 Various formulations in management to kapha dominant _yonivyapat_
+ * 2.2.36 General guidelines for basti medication in dosha dominance
+ * 2.2.37 Management of _rakta yoni_ (vaginal bleeding)
+ * 2.2.38 Management of vata dominant _asrigadara_
+ * 2.2.39 Management of pitta dominant _asrigadara_
+ * 2.2.40 _Pushyanuga churna_
+ * 2.2.41 Management of kapha dominant _asrigadara_
+ * 2.2.42 Virechana in pitta dominant _asrigadara_
+ * 2.2.43 Formulation for _uttara basti_
+ * 2.2.44 Treatment of _arajaska_ (amenorrhoea)
+ * 2.2.45 Management of _vamini_ and _upapluta yonivyapat_
+ * 2.2.46 Management of _vipluta yonivyapat_
+ * 2.2.47 Management of _udavarta_ and _mahayoni yonivyapat_
+ * 2.2.48 Management of _mahayoni_
+ * 2.2.49 Vata alleviating (_Vatanashaka_) treatment in _yonivyapat_
+ * 2.2.50 Management of _shweta pradara_ (leukorrhea)
+ * 2.2.51 Treatment of sticky vaginal discharge
+ * 2.2.52 Treatment of stiff and dryness in vagina
+ * 2.2.53 Treatment of foul smelling vaginal discharge
+ * 2.2.54 Importance of purification before conception
+ * 2.2.55 Summary
+ * 2.3 Disorders of Male genital tract
+ * 2.3.1 Agnivesha’s queries about disorders of male genital tract
+ * 2.3.2 Process of ejaculation and causes of vitiation of shukra (defects in semen and sperms)
+ * 2.3.3 Eight abnormalities in semen
+ * 2.3.4 Characteristics of _shuddha retas_ (normal semen)
+ * 2.3.5 Principles of management of disorders of semen
+ * 2.3.6 _Klaibya_ (impotency)
+ * 2.3.7 Causes of _klaibya_ (impotency)
+ * 2.3.8 _Bijopaghataja klaibya_ (impotency due to genetic abonormality)
+ * 2.3.9 _Dhwajabhangaja klaibya_ (impotency due to erectile dysfunction)
+ * 2.3.10 _Jarasambhavajaja klaibya_ (impotency due to senility)
+ * 2.3.11 _Kshayaja klaibya_ (impotency due to deficiency of dhatu)
+ * 2.3.12 Management of _klaibya_ (impotency)
+ * 2.4 Menstrual disorders
+ * 2.4.1 _Asrigadara_ (menorrhagia)
+ * 2.4.2 Four types of _pradara_
+ * 2.4.3 Vata dominant _pradara_
+ * 2.4.4 Pitta dominant _pradara_
+ * 2.4.5 Kapha dominant _pradara_
+ * 2.4.6 _Sannipataja Pradara_
+ * 2.4.7 Signs of incurability in _pradara_
+ * 2.4.8 Characteristics of normal menstruation
+ * 2.4.9 Treatment of _pradara_
+ * 2.5 Abnormalities of breast milk
+ * 2.5.1 _Stanya dushti_ (abnormalities of breast milk and lactation)
+ * 2.5.2 Causes of _Stanya dushti_ (abnormal breast milk)
+ * 2.5.3 Signs of vitiation of breast milk as per dosha dominance
+ * 2.5.4 Signs of vata vitiation in breast milk and baby
+ * 2.5.5 Signs of pitta vitiation in breast milk and baby
+ * 2.5.6 Signs of kapha vitiation in breast milk and baby
+ * 2.5.7 Treatment of diseases due to vitiated breast milk
+ * 2.6 Pediatrics
+ * 2.6.1 Principles of management in pediatrics
+ * 2.7 Colophon of Chikitsa Sthana
+ * 2.7.1 Importance of Chikitsa Sthana
+ * 2.7.2 Contributors to the treatise
+ * 2.8 Important factors in management of diseases
+ * 2.8.1 Guiding principles to understand _anukta vyadhi_ (untold diseases that are not mentioned here)
+ * 2.8.2 Routes of administration of medicine
+ * 2.8.3 Factors to be considered for medicine administration
+ * 2.8.4 _Aushadha sevana kala_ (time of administration of medicine)
+ * 2.8.5 Ten slots of consuming medicines
+ * 2.8.6 Relation between time of administration and type of vitiated vata dosha
+ * 2.8.7 Signs of complete digestion
+ * 2.8.8 _Kala_ (season, state and time)
+ * 2.8.9 Circadian rhythm of dosha disorders
+ * 2.8.10 Importance of proper dosage
+ * 2.8.11 Satmya (adaptability) as per habitat
+ * 2.8.12 _Viparitarthakari chikitsa_ (contradictory treatment)
+ * 2.9 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Female genital tract and its disorders
+ * 4.2 General causes of _yonivyapat_
+ * 4.3 Doshaja yonivyapat
+ * 4.4 Other _yonivyapat_ and their possible clinical correlation
+ * 4.5 Principles of treatment of _yonivyapat_
+ * 4.6 Male genital tract and its disorders
+ * 4.6.1 Abnormal semen
+ * 4.6.1.1 The characteristics of abnormal semen
+ * 4.6.2 Characteristics of normal semen
+ * 4.6.2.1 Normal semen
+ * 4.6.3 Common causes of ED
+ * 4.6.3.1 Vasculogenic
+ * 4.6.3.2 Neurogenic
+ * 4.6.3.3 Anatomical or structural
+ * 4.6.3.4 Hormonal
+ * 4.6.3.5 Drug-induced
+ * 4.6.3.6 Psychogenic
+ * 4.6.4 Penile & Testicular diseases of Chronic Inflammatory etiology
+ * 4.7 Concept of shukrashmari & ejaculatory duct obstruction
+ * 4.8 Surgical measures described in the treatment of _klaibya_ (impotency)
+ * 4.9 Times of administration of medicines
+ * 5 References
+
+## Introduction
+
+_Yoni_ means origin or source. The source of birth of human being is in the male and female genital tracts. The present chapter describes the disorders of male and female genital tracts. 
+
+It largely describes disorders of female genital tract due to excessive aggravation of dosha i.e.vata, pitta, kapha and rakta. The chapter explains causes, numbers, classifications, symptoms, clinical features, complications and treatment of gynecological and menstrual disorders. Some references about this are also available in 19th chapter of Sutra Sthana. 
+
+As female is considered to be the root of a healthy offspring, due importance is given to her reproductive health especially external and internal reproductive system and the diseases which affect those. A female afflicted with any such diseases will not be able to conceive and will be susceptible for various other disorders. 
+
+Abnormal diet and lifestyle, abnormalities of sperm and ovum are responsible for vitiation of dosha mainly vata dosha, causing gynecological disorders. All gynecological disorders should be managed with _purvakarma_ like proper oleation and sudation followed by Panchakarma. Besides Panchakarma and special therapies, healthy diet, purgatives and milk are also beneficial to treat the gynecological disorders. Importance of purification before conception for healthy progeny is highlighted. 
+
+This is highly significant to prevent hereditary or genetic disorders from passing them to next generations. 
+
+The second part of this chapter deals with disorders of male genital tract. It mentions factors causing male infertility. 
+
+Characteristics of abnormal semen and dosha involvement, shuddha shukra (normal semen) characteristics, male impotency, coital dysfunction, its classifications and causes are discussed. The treatment of shukra dushti (faulty semen) and other dysfunctions need Panchakarma, rasayana and vajikarana treatment. It also gives guidelines of management of diseases in newborn originated due to defective breast milk. 
+
+The third part guides some common factors to be considered in clinical management of diseases like habitat, season, time of administration and adaptability. Consideration of assessment of dosha dominance in anukta vyadhi (diseases which are not mentioned in the text) is important guideline given in this chapter. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Yonivyapat Chikitsa" (Management of disorders of the genital tract). Thus said Lord Atreya.[1-2] 
+
+### Agnivesha’s query
+
+Agnivesha asked to Punarvasu who was self controlled, seer of the ideas, spiritual knowledge, wandering besides Himalaya which was endowed with sacred water sources like _Ganga_ , devine herbs, various metals and stones of different colors, as well as inhabited by gods, virtue of knowledge of penance accomplished by the sages. [3-4] 
+
+Oh Lord ! The prime source of progeny is the woman. An offspring cannot be conceived if there are disorders in the genital tract. Hence,for the welfare of people, I want to hear or know the causes of disorders of the genital tract,their symptoms as well as the treatment. [5-6] 
+
+### Twenty disorders of female genital tract
+
+#### Explanation by Atreya
+
+Thus after queried by the disciple Agnivesha, the son of Atri, best among the sages said that twenty types of the disorders of the genital tract were mentioned in the _Rogasangraha_ (enumeration of diseases) chapter.[7] 
+
+#### Causative factors
+
+Those occur in women due to their faulty lifestyle habits, vitiated menstrual blood, defects in ovum (_beeja_)(hereditary or congenital defects) and the destiny. (Now) Listen about each of them.[8] 
+
+#### Vata dominant _yonivyapat_
+
+If woman of vatika constitution follows vata-aggravating diet and life style, then vata gets aggravated and reaches the genital tract. This leads to piercing pain, stiffness, feeling of crawling of ants, hardness, numbness and exhaustion. Beside this, other vatika disorders are likely to occur. Vitiated yoni due to vata, secretes frothy, thin, rough menstrual blood with sound and pain. [9-10] 
+
+#### Pitta dominant _yonivyapat_
+
+Due to excessive use of pungent, sour, salty, alkaline substances etc. pitta dominant type of disorders of the genital tract are prone to occur. In the vagina, which is vitiated by pitta, the burning sensation, suppuration (inflammation) and heat occurs with the feeling of fever and heat. The menstrual blood flow is of blue, yellow and black color with excessive heat and as the smell of cadaver. [11-12] 
+
+#### Kapha dominant _yonivyapat_
+
+If kapha aggravating substances are used in excess then kapha gets aggravated and affects the genital tract of woman which makes it slimy, cold, associated with itching and mild pain. Woman becomes pale and secretes the pale and slimy menstrual blood.[13] 
+
+#### Tridosha dominant _yonivyapat_
+
+When a woman uses all the _rasas_ in excess and by mixing wholesome and unwholesome food articles together, then all three dosha located in her uterus vitiate the genital tract and produce their symptoms. Thus the vitiated genital tract suffers from the burning sensation and pain and discharges the white, slimy menstrual blood. [14-15] 
+
+#### _Asrija yonivyapat_
+
+The menstrual blood (stored in _yoni_) is vitiated by the pitta due to excessive intake of rakta & pitta aggravating diet and lifestyle, then even after conception, the menstrual blood flows excessively. It is known as _asrija_ (raktaja) _yoni_. [16] Here, even after conception, the pregnancy does not continue because of the excessive flow of blood. So in place of _Asrija_ some scholars read it as "Apraja". 
+
+#### _Arajaska yonivyapat_
+
+If the blood is vitiated by the pitta which is located in the genital tract and uterus, then the patient becomes emaciated and develops abnormal complexion. This condition is known as _Arajaska_.[17] 
+
+#### _Acharana yonivyapat_
+
+When a woman does not wash her external genitalia , then micro-organisms (bacteria, virus) are likely to grow and cause itching, by which woman has frequent desire of man. This is known as _Acharna_.[18] 
+
+#### _Aticharana yonivyapat_
+
+Due to excessive coitus, the vata gets aggravated and causes swelling, numbness, pain in female genital tract. This is known as _Aticharana_. [19] 
+
+#### _Prakcharana yonivyapat_
+
+When the sexual intercourse is performed in too premature (younger/adolescent) girls, then vata gets aggravated leading to vitiation of the genital tract and produces pain in back, waist, thighs and groins. This is known as Prakcharana. [20] 
+
+#### _Upapluta yonivyapat_
+
+If a woman ingests kapha aggravating substances and suppresses the urges of vomiting and expiration, then vitiated vayu carries the aggravated kapha to the genital tract and leads to its vitiation. In this condition pale colored fluid with piercing pain or white mucus is secreted. The defects of kapha and vata are involved in this genital disorder. This is known as _upapluta_ [21-22] 
+
+#### _Paripluta yonivyapat_
+
+When a woman of pitta dominant constitution uses the pitta aggravating things, suppresses the urges of sneezing and eructation during coitus, then vayu mixed with pitta gets aggravated affecting the female genital tract. Due to this woman suffers from fever and _yoni_ (female genital tract) becomes swollen, inflamed, tender and painful. The menstrual blood becomes blue, yellow in colour and associated with pain in pelvis, groin and back. This is known as _paripluta_. [23-24] 
+
+#### _Udavartini yonivyapat_
+
+When natural urges are suppressed, then vayu goes upwards and takes the genital tract in upward direction (retroversion condition). Due to this, severe pain occurs by which eviction of the menstrual blood is very difficult because of its upward tendency. After discharge of menstrual blood, pain subsides. It is known by the wise physician as _udavartini_ because of the upward course of menstrual blood.[25-26] 
+
+#### _Karnini yonivyapat_
+
+If woman, without labor pain strains untimely to deliver a fetus, vayu gets obstructed by the fetus and combined with kapha and blood it produces small muscular sprouts or knots called "_Karnika_ " in the _yoni_ which obstructs the passage of menstrual blood. This is known as _karnini_.[28] 
+
+#### _Putraghni yonivyapat_
+
+Due to dryness (consumption of ununctuous diet and lifestyle), the aggravated vayu destroys the fetus which is formed by the abnormal _shonita_ causing repeated loss of pregnancy. [28] 
+
+#### _Antarmukhi yonivyapat_
+
+When a woman overeats and indulges in coitus in an abnormal posture, then vayu situated in genital tract and pressed with food, twists the opening of Yoni and produces different types of vatika pains in the bone and muscles. There is severe pain in vagina leading to intolerance of coital act. This is known as antarmukhi. [29-30] 
+
+#### _Suchimukhi yonivyapat_
+
+If pregnant woman consumes the vata aggravating ununctuous diet and lifestyle, then the yoni (genital tract) of female fetus is affected. Due to this, orifice of Yoni becomes narrow. This anatomical defect happening in female fetus is due to faulty habits of mother and it is known as suchimukhi.[32] 
+
+#### _Shushka yonivyapat_
+
+During coitus, if the natural urges are suppressed, then vitiated vayu causes pain and retention of feces and urine, dryness of the vaginal orifice. This is known as _sushkayoni_.[33] 
+
+#### _Vamini yonivyapat_
+
+The condition in which there is expulsion of the shukra with or without pain within six or seven days after entry in the uterus, is known as _vamini_. [34] 
+
+#### _Shandhi yonivyapat_
+
+Due to the genetic defects and abnormalities of sperm and ovum of the parents, the uterus of the female fetus is affected with abnormal vata. The woman dislikes the males and is having underdeveloped breasts. This is incurable and is known as _shandhi_.[35] 
+
+#### _Mahayoni yonivyapat_
+
+If coitus is performed with difficulty on an uncomfortable bed, the vitiated vata dilates the orifices of uterus and vagina. By this, vaginal opening is unclosed, painful and rough, frothy menstrual blood comes out. There is muscular protuberance in the vagina and there is associated pain in the joints and groin. This is known as _mahayoni_. [35-37] 
+
+#### Consequences of _yonivyapat_
+
+Thus, the twenty female gynecological disorders (disorders of the genital tract) have been described based upon clinical features. The affected _yoni_ (uterus) due to these defects is unable to hold the semen (sperm). So, woman does not conceive and suffers from _gulma_ , piles, heavy bleeding and gets afflicted with various disorders of vata, pitta and kapha. [37-39] 
+
+#### Dosha dominance in _yonivyapat_
+
+Sixteen disorders mentioned in the end (excluding those four, described first with specific dosha dominance). Among these, the first two are caused by pitta dosha. 
+
+_Paripluta_ and _vamini_ are caused by dominance of vata and pitta dosha. 
+
+_Karmini_ and _upapluta_ are caused by vata and kapha dosha; while remaining ten disorders are [[vata]ja. Vatadi dosha afflict the genital tract with their respective symptoms. [40-41] 
+
+#### General principles of management
+
+In vatika disorders, vata alleviating procedures such as snehana (unction), swedana(fomentation), basti (enema) should be prescribed. 
+
+In _paittika_ disorders, cold measures which pacify the rakta and pitta should be used. The expert should exert the dry and hot remedies in kaphaja disorders of the genital tract. 
+
+In _sannipataja_ and _dwandaja_ female genital disorders, mixed treatment should be done. [41-42] 
+
+#### Manual intervention in displaced genital tract/uterus
+
+If vagina or genital organs are displaced from their place, it should be brought to its normal position after the snehana (unction) and swedana (fomentation). 
+
+If it becomes twisted, then it should be pressed with hand. 
+
+If the vaginal opening is contracted,it should be dilated. 
+
+If it is prolapsed from its place, then it should be placed inside. 
+
+If the _yoni_ is dilated, then it should be turned (for contraction), because displaced genital organs act as the _shalya_ (foreign body). [43-44] 
+
+#### Mild purification in management of all _yonivyapat_
+
+In all the disorders of the genital tract, female should be treated with application of five mild vamanadi (evacuative) measures after snehana (unction) and swedana (fomentation). [45] 
+
+#### Treatment after purification
+
+Now when woman is evacuated by the mild application of five evacuative measures, remaining measures should be applied.[46] 
+
+#### Management of vata vitiation
+
+The woman who is suffering from the vataja yoni roga (disorders of genital tract, affected by the vata), vata alleviating treatment is always beneficial. _Yoni_ (vagina) should be fomented with the meat of aquatic and marshy animals or milk mixed with sesame and rice and vata-alleviating drugs. Or vagina should be massaged with salt and oil and fomented with warm iron, stone or bolus. When vagina is completely smooth, then woman should take the bath with warm water and take vata alleviating meat soup. [47-49] 
+
+#### Various formulations in management of vataja yonivyapat
+
+One _adhaka_ (approx. 2.50kg) _ghrita_ and oil mixed and should be cooked in the two drone decoction (approx. 20 lts.) of _bala_ , At the time of preparation, the decoction of paste of _sariwana, payasya, jivanti, veera, rishbhaka, jivaka, shravani, pippali, mudaga parni, pilu, mashaparni, sharkara, ksheerakakoli_ and _kakanasa_ should be mixed. This should be cooked tactfully along with the mixing of four times (four _adhaka_) milk. After processed, it should be used according to strength. It helps in conception after treating the _yoni rogas_ (genital disorders) caused by the vata and pitta. [49-51] 
+
+One _prastha_ (approx. 640 gm) _ghrita_ should be cooked with the paste of one _karsha_ each of _kashmarya, triphala, draksha, kasamarda, parushaka, punarnava, haridra, daruharidra, kakanasa, sahachara, shatavari_ and _guduchi_. This should be taken to destroy the vataja yoni roga and is best for conception.[52-53] 
+
+The equal quantity of _pippali, upakunchika, jiraka, vrishaka, saindhava, vacha, yavakshara, ajmoda, sharkara,_ and _chitraka mula_ should be crushed, fried in _ghrita_ and consumed after mixing with _prasanna_ (clear wine).It helps to alleviate the pain in vagina, flanks, heart diseases, _gulma_ and the piles. [54-55] 
+
+_Vrishaka, matulunga mula, madayantika_ should be pounded and drink with wine and rock salt. Or _pippali_ and _upakunchika_ should also be pounded and drink with alcohol and rock salt. Both these preparations helps to pacify the pain of vagina (genital tract).[56] 
+
+In case of pain in vagina the _rasna, shwadransta, vrishaka_ should be pasted and cooked with milk or _yoni_ should be irrigated with the decoction of _guduchi, triphala_ and _dantimula_ in equal parts. It helps to relieve the _yonishula_.[57] 
+
+Oil should be cooked with the paste of equal parts of _saindhava, tagara, kushtha, brahati_ and _devadaru_. Tamponing in vagina with this medicated oil helps to relieve the _yonishula_. [58] 
+
+One _prastha_ oil (approx. 640ml) should be cooked with the paste of _guduchi, jati, rasna, bala, madhuka, chitraka, kantakari, devadaru, yuthika_ each 1-1 _karsha_ (10gm) along with the cow’s urine and milk (two _prastha_ each). The vaginal tamponing should be done with this oil especially in those who suffer from Vata predominant Yonivyapad. This oil should also be used for uttarabasti. [59-60] 
+
+#### Therapeutic procedures for management of vata dominant _yonivyapat_
+
+The _vatika_ disorders of the female genital tract should be treated with warm and unctous substances in the form of irrigation, massage and tamponing. The oil for unction (snehana) should be prepared and used.[61] 
+
+If the vagina is afflicted due to vata, it should be massaged with warm oil and the paste of _hanspadi_ root should be retained. 
+
+In the _yoni_ suffering from pitta, the paste of _panchavalkala_ should be retained in vagina and in that which is suffering from kapha, the paste of _shyamadi_ drugs should be used. [62] 
+
+#### Therapeutic procedures for management of pitta dominant _yonivyapat_
+
+In gynaecological disorders (disorders of the genital tract) which are caused by pitta then cold, pitta alleviating irrigation, massage and tamponing etc. should be done. A vaidya should use the _ghrita_ (processed with vata alleviating drugs) for unction (snehana). [63] 
+
+#### Various formulations in management of pittaja yonivyapat
+
+##### _Brihat shatavari ghritam_

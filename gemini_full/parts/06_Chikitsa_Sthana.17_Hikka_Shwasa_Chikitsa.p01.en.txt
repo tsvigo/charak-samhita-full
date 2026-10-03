@@ -1,0 +1,213 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Agnivesha’s query
+ * 2.2 Atreya’s reply and nature of disease of _shwasa_ and _hikka_
+ * 2.3 Predominance of dosha and affliction of dhatu
+ * 2.4 Etiological factors
+ * 2.5 General _Samprapti_ (pathogenesis)
+ * 2.6 Premonitory symptoms
+ * 2.7 Specific pathogenesis of _hikka_
+ * 2.8 _Gambhira hikka_
+ * 2.9 _Vyapeta hikka_
+ * 2.10 _Kshudra hikka_
+ * 2.11 _Annaja Hikka_
+ * 2.12 Prognosis of _hikka_
+ * 2.13 Specific pathogenesis of _Shwasa_
+ * 2.14 _Mahashwasa_
+ * 2.15 _Urdhva Shwasa_
+ * 2.16 _Chhinna Shwasa_
+ * 2.17 _Tamaka Shwasa_
+ * 2.18 Types of _Tamaka Shwasa_
+ * 2.19 _Kshudra shwasa_
+ * 2.20 Necessity of quick management of _hikka_ and _shwasa_
+ * 2.21 Guidelines for treatment of _hikka_ and _shwasa_
+ * 2.22 Treatment of remaining dosha
+ * 2.23 Management of complications
+ * 2.24 Precautions and guidelines for _swedana_ (sudation)
+ * 2.24.1 Contra-indication for _swedana_ in _shwasa_
+ * 2.24.2 _Mridu swedana_ (mild sudation)
+ * 2.24.3 _Utkarika_(poultice)
+ * 2.24.4 _Vamana_
+ * 2.25 Two types of patients as per dosha dominance
+ * 2.26 Contra-indication for Purification therapy in _hikka_ and _shwasa_ patients
+ * 2.27 Various formulations
+ * 2.28 Guidelines for management of _tamaka shwasa_
+ * 2.29 _Shatyadi churna_
+ * 2.30 _Muktadi churna_
+ * 2.30.1 _Shatyadi churna_
+ * 2.30.2 Nasya formulations
+ * 2.30.3 Ghee formulations and other therapies
+ * 2.31 _Tejovatyadi_ ghee
+ * 2.32 _Manahshiladi_ ghee
+ * 2.33 General guidelines for prevention and management
+ * 2.34 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Origin of diseases
+ * 4.2 Pathogenesis
+ * 4.3 Causes of shwasa
+ * 4.4 Hikka
+ * 4.4.1 Matta rishabha eva nisha (like a bull)
+ * 4.5 Management
+ * 4.6 Current researches
+ * 4.7 Experience based views
+ * 5 References
+
+## Introduction
+
+_Hikka_ (hiccups) and _shwasa_ (dyspnea/shortness of breath) may be caused due to pandu roga with pathological signs of anemia (alpa rakta), abnormal fat metabolism(alpa medaska) and depletion of body constituents (dhatu-kshaya). [Chakrapani Cha.Sa. Chikitsa Sthana 17/1]. That is why this chapter follows the chapter on Pandu Chikitsa. The term 'Shwasa' denotes physiological process of respiration and pathological sign too. In physiological process, breathing without any distress is seen; however pathological signs can be diagnosed if person suffers any distress during breathing and has to take extra efforts for same._Hikka_ and _shwasa_ have common etiological factors (_karana_) like raja (pollen or dust particles), _dhuma_ (smoke) etc., location (_sthana_) and treatment or _mula_. For that reason, both conditions are described in the same chapter. 
+
+_Hikka_ and _shwasa_ are two diseases of serious nature which can be presented at terminal stages of life and as complication of other diseases [Cha.Sa. Chikitsa Sthana 17/6]. These can cause death if not treated properly. The etiological factors, site, origin of both _hikka_ and _shwasa_ are same, and hence the line of treatment is also common. The etiological factors related to food, regimen and mental faculties lead to the aggravation of vata in the _pranavaha srotas_ and derangement of kapha situated in the chest region producing lethal blockage of _prana vayu_. 
+
+The _maha_ (severe form), _gambhira_ (having depth) and _vyapeta_ (originating after food and with complications) types of _hikka_ are incurable. If the _vyapeta_ or _yamala hikka_ (with two hiccups together) is associated with symptoms of emaciation, delirium, pain, excess thirst and stupor then it is incurable for treatment, while it is curable in non emaciated and mentally strong individual with unimpaired _dhatus_ and _indriyas_ performing their normal function. _Kshudra hikka_ (minor variety) and _annaja hikka_ (due to improper food intake) are curable types of _hikka_. _Maha_ (severe form), _urdhva_ (shallow respiration) and _chinna_ (irregular pattern dyspnea) _shwasa_ are incurable and lead to death very fast. _Tamaka_ (with black outs) and _kshudra shwasa_ (minor variety) are curable if patient is strong, and disease is in early stage, while in weak patients they are _yapya_ (work as palliatives). 
+
+The patient suffering from _hikka_ and _shwasa_ should be treated with oleation, unctuous sudation to liquefy the accumulated kapha, soften the channels and to facilitate _vatanulomana_ (movement of vata in its normal direction). This should be followed by the administration elimination therapy in the form of vamana (emesis therapy), virechana (purgation), nasya and following of wholesome diet and regimen. The palliative medications should be administered keeping in view the condition of patient and stage of disease. Avoiding the causative factors and following wholesome regimen is important to prevent progress of disease and to reverse the pathogenesis. In brief _shodhana_ followed by brimhana therapy (nourishing therapy) and _shamana_ treatment (palliative therapy) are the ideal management methods in _hikka_ and _shwasa_. All diseases of respiratory system and channels transporting vital breath (pranvaha srotas) are treated based on the principles of management of shwasa laid down in this chapter. [Cha. Sa.Vimana Sthana 5/26] 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Hikka-Shwasa chikitsa"(Management of Hikka (Hiccups) and Shwasa (Dyspnea)). Thus said Lord Atreya. [1-2] 
+
+### Agnivesha’s query
+
+Agnivesha , an intelligent disciple, asked his doubt with modest salute of folded hands to Lord Atreya, who has the knowledge about the subject and principles of the Vedas “The diseases are categorized under two categories (_samanyaja_ and _nanatmaja_) of three dosha (vata, pitta and kapha) aggravated due to three factors (like unwholesome utilization of sense organs (_asatmendriyartha samyoga_), intellectual errors (_pajnaparadha_) and advent of maturity of time (_parinama_)). Which among these diseases is most difficult to cure?” [3-4] 
+
+### Atreya’s reply and nature of disease of _shwasa_ and _hikka_
+
+After listening to Agnivesha, Lord Punarvasu, the most prudent among the sages was very delighted and made ultimate and conclusive statement. “In fact there are many diseases which can kill a patient. But none of the diseases is as lethal as _shwasa_ and _hikka_ as they can cause immediate death. The person suffering from any other disease can also get eventually afflicted with enormously painful _hikka_ and _shwasa_ at the time of death.”[3-7] 
+
+### Predominance of dosha and affliction of dhatu
+
+_Hikka_ and _shwasa_ are mainly kapha and vata dominant in nature. They originate at the site of pitta (upper part of stomach). This results in further depletion of dhatu like rasa dhatu situated in heart. Hence generally they are extremely difficult to treat. After getting afflicted with this disease, if one indulges in unwholesome regimens, then disease gets aggravated and results in death just as from fatal snake venom. [8-9] 
+
+### Etiological factors
+
+Five types of _hikka_ and _shwasa_ , based on etiology, signs, symptoms and treatment are being elaborated here, listen to them carefully: 
+
+ * Environmental factors: Dust, smoke and wind, residing in cold place, use of cold water.
+ * Regimen: Excessive exercise, excessive sexual intercourse, excess walking,
+ * Diet: Intake of dry food, _vishamashana_ (food in excessive or less quantity at irregular time)
+ * Conditions: Accumulation of ama _, anaha_ (constipation associated with flatulence), dryness in the body, excessive depletion (_apatarpana_), weakness, injury to _marmas_ (vital points), rapid change in exposure to heat and cold, diarrhea, fever, vomiting, rhinitis, _kshata_ (injury), _kshaya_ (wasting), _raktapitta_ (bleeding disorder), _udavarta_ (upward movement of vata), _visuchika_ (enteritis), _alasaka_ (sluggish bowel), _pandu_ (anemia) and intake of poisons can result in _hikka_ and _shwasa_.
+ * Diet: Regular intake of _nishpava_ (beans), _masha_ (black gram), _pinyaka_ (oil cake), _tila taila_ (sesame oil), _pishta_ (cakes and pastry), _shaluka_ (lotus stem), _vishtambhi anna_ (food aggravating vata), _vidahi_ (food causing burning sensations), heavy to digest food, flesh of aquatic and marshy animals, curd, raw milk, _abhishyandhi_ (ingredients leading to obstruction of channels), food aggravating kapha
+ * Injury: Injury to throat and chest
+ * Others: Various types of _vibandha_ (obstructions) [10-16]
+
+### General _Samprapti_ (pathogenesis)
+
+By the above mentioned etiological factors the vata gets aggravated in the _pranavahasrotas_ ( channels carrying _prana_) and deranges the kapha situated in the chest region producing lethal blockage of _pranavayu_ and five types of dreadful _hikka_ and _shwasa_. [17-18] 
+
+### Premonitory symptoms
+
+Following are the premonitory symptoms of both the diseases: 
+
+Heaviness in throat and chest, astringent taste in mouth, and distension of abdomen are the premonitory symptoms of _hikka_. 
+
+_Anaha_ (constipation with flatulence), pain in the flanks, pain in the cardiac region, abnormal movement of _pranavayu_ are the premonitory symptoms of _shwasa_.[18-20] 
+
+### Specific pathogenesis of _hikka_
+
+ * _Vishesha samprapti_ : Vata along with kapha blocks the channels carrying _prana, udaka_ and _anna_ and produces _hikka_.
+
+A List of the signs and symptoms of many types is elaborated further: 
+
+ * _Mahahikka_ : Vata along with kapha affects the throat of an individual whose mamsa dhatu (muscles), strength, _prana_ and agni are depleted. It further produces remarkably loud and resonant hiccups occurring in bouts of two or three constantly. The blockage of _pranavaha srotas_ (channels carrying _prana_).
+ * Vayu along with aggravated kapha obstructs the _pranavaha srotas_ and _marma jatharagni_ resulting in loss of consciousness, stiffness in the body and also obstructs the channels of food and drinks. There is impairment of memory, tears in the eyes and stiffness in the temples and displacement of eyebrows. He suffers from delirium along with obstruction of speech, which does not get relief by any means. _Maha hikka_ is _mahamula_ (deep rooted), _mahavega_ (massive attack), _mahashabda_ (very loud sound), _maha bala_ (very strong). This can lead to death immediately, hence named as _mahahikka_. [21-26]
+
+### _Gambhira hikka_
+
+Excessive aggravation of kapha and vayu in an aged, emaciated and mentally depressed individual leads to _hikka_. This _hikka_ is characterised by deep and resonant sound, and affliction of the chest. He yawns, contracts and expands his body, and while respiring he contracts both the flanks making murmuring sounds, and suffers from stiffness and pain. In such a patient the _hikka_ arises from the umbilicus or _pakvashaya_ (intestines) with pain all over the body. During this time his body bends and he suffers from black outs, obstruction in the respiratory tract and loss of strength and unconsciousness. Such _hikka_ is known as _gambhira hikka_ which ultimately results in death. [27-30] 
+
+### _Vyapeta hikka_
+
+The _vyapeta hikka_ produced after the intake of four types of food (i.e. eatable, chewable, drinkable, lickable) and gets aggravated after food gets digested. He suffers from delirium, vomiting, diarrhea, thirst and unconsciousness. There is yawning, watering of eyes, dryness of mouth and bending of the body, and _adhmana_ (distension of the abdomen). This _hikka_ originates from the root of the clavicle and attack is not continuous. _Hikka_ is injurious to life. [31-33] 
+
+### _Kshudra hikka_
+
+The _vayu_ gets slightly aggravated in the _koshtha_ (alimentary tract), due to the physical exercises and reaches the throat and produces _kshudra hikka_. This does not produce much pain and does not afflict the head and vital parts (_hridaya marma_). In this type of _hikka_ , the _doshas_ do not reside or get lodged in the channels of respiration, food and drinks. This gets aggravated on exertion and subsides on taking food. _Hikka_ gets subsided by itself also. The _doshas_ are situated in cardiac region, _kloma_ , throat and palate. This mild form of _hikka_ is curable and known as _kshudra hikka_. [35-37] 
+
+### _Annaja Hikka_
+
+The _vayu_ gets aggravated and moves in the upward direction due to the intake of excess food or drinks in hurry or excess of alcohol, anger, talking, laughing, weightlifting etc. factors aggravate vayu in _koshtha_ (alimentary tract) gets afflicted by food and drinks and move in the upward direction and get lodged in channels of chest and produce _annaja hikka_. This _hikka_ occurs slowly and intermittently along with sneezing. The _hikka_ that does not afflict vital points (_marma_) and organs and it subsides after drinking water or taking food is known as _annaja hikka_.[38-41] 
+
+### Prognosis of _hikka_
+
+The _hikka_ destroys a person suffering from excessive accumulation of dosha, emaciated due to fasting, emaciated due to disease, weak due to ageing or excessive indulgence in sex. The symptoms of delirium, pain, excess thirst and stupor in _yamika hikka_ patient make it incurable for treatment. 
+
+The _yamika hikka_ is curable in an individual who is not emaciated, not weak mentally, the dhatu and indriya are unaffected and performing their normal function. Otherwise in case if body is weak, it is incurable. [42-44] 
+
+### Specific pathogenesis of _Shwasa_
+
+The aggravated vayu along with vitiated kapha obstructs the channels (of _prana, udaka_ and _annavaha_) and spreads throughout the body and produces _shwasa_. [45] 
+
+### _Mahashwasa_
+
+The patient breathes with a loud noise during the night due to the upward movement of aggravated vayu like intoxicated bull. The vayu gets obstructed and the person becomes unconscious. The eyes get distorted and he cannot visualize properly. The eyes and face become abnormal and the elimination of urine and feces is obstructed and the voice becomes feeble and the person looks tired and respiration could be heard from distance, such person suffering from _mahashwasa_ succumbs to death very fast. [46-48] 
+
+### _Urdhva Shwasa_
+
+The vitiated kapha obstructs channels of respiration leading to aggravation of vata resulting in prolonged expiration and shallow inspiration (breath doesn’t get deeply inspired). The patient looks up with moving eye balls as if he is scared of something. When he gets afflicted with this type of _shwasa_ he suffers from unconsciousness, dryness of mouth, restlessness. The upward movement of vayu is aggravated resulting in obstruction of downward movement and unconsciousness, black outs and he succumbs to death quickly. [49-51] 
+
+### _Chhinna Shwasa_
+
+The patient suffering from _chhinna shwasa_ has interrupted breath as the prana(vital centers) [Cha. Sa. Sutra Sthana 29] is afflicted. There is complete stoppage of breath, such individual suffers from intense pain as if cutting of the _marma_ (vital parts), constipation with abdominal distension, sweating, unconsciousness, burning sensation in _basti_ (bladder and urinary system), excessive tears in the eyes, emaciation of the body, the eyes become red when patient struggles to breath, mental disorientation, dryness of mouth, discoloration of skin, delirium, looseness of joints. An individual suffering from above said features of _chhinna shwasa_ succumbs to death very quickly. [52-54] 
+
+### _Tamaka Shwasa_
+
+The vayu moves in the opposite direction due to the obstruction in the respiratory tract, stiffness in the neck, head aggravates the kapha and produces rhinorrhoea, and _gurghuraka_ sound (rhonchi). Exceedingly severe attack afflicts the _prana_ and enhances severity. During severe attack, the patient faints repeatedly, has severe cough and becomes unconscious. The patient finds it difficult to expectorate the phlegm and feels relieved for period of 1 _muhurta_ (3 hours) after expectoration of phlegm. There is hoarseness of voice and patient speaks with difficulty, even he does not get proper sleep, and on lying down he suffers from dyspnea as his flanks are afflicted by vayu. He feels comfortable in the sitting position. He likes hot things. His eye balls are always prominent, there is sweat on the forehead, dryness of the mouth, gets repeated attacks of dyspnea, and it increases and subsides repeatedly. In gets aggravated when appearance of clouds in the sky, rains, cold weather, easterly winds and kapha enhancing food and behavior. The _tamaka shwasa_ having above mentioned features is _yapya_ (palliable) and in the initial stages it is curable disease. [55-62] 
+
+### Types of _Tamaka Shwasa_
+
+In a patient of _tamaka shwasa_ if _jwara_ (fever) and unconsciousness are occurring as complication, then it is called as _pratamaka shwasa_. The _shwasa_ produced due to _udavarta_ (upward movement of vayu in _koshtha_), dust, indigestion, excessive liquid accumulation in the body (_klinna kaya_), and suppression of natural urges results in increase of _tama_. This gets relieved by following of cooling regimen. The person suffering from this _shwasa_ feels as if he is submerged in darkness, thus it is known as _santamaka_.[63-64] 
+
+### _Kshudra shwasa_
+
+Due to intake of dry food and exertion, vata is mildly vitiated in _koshtha_ and moves in the upward direction i.e respiratory tract resulting in _kshudra shwasa_. The patient suffering from this type of _shwasa_ does not have any affliction of various body parts and the functions are not affected. It is not very painful as it does not affect the channels of food and drinks nor does it cause pain to the sense organs. This is curable if the symptom is not completely manifested and the patient is strong. Thus all the types of _hikka_ and _shwasa_ are elaborated along with their signs and symptoms.[65-67] 
+
+### Necessity of quick management of _hikka_ and _shwasa_
+
+Among them the fatal varieties (like _maha hikka, gambhira hikka, vyapeta hikka, maha shwasa, urdhva shwasa, chhinna shwasa_ are incurable types) should not be treated. While the curable and controllable variety of _hikka_ and _shwasa_ should be treated with medicine quickly. If neglected then it destroys the _prana_ of the patient as the fire burns away the dry grass very fast.[68-69] 
+
+### Guidelines for treatment of _hikka_ and _shwasa_
+
+The etiological factors, site, origin of both _hikka_ and _shwasa_ are same and hence the treatment is also same. Kindly listen attentively the treatment of _hikka_ and _shwasa_ as known by the seers. 
+
+Initially the patient suffering from _hikka_ and _shwasa_ should be treated with massage with combination of rock salt and sesame oil over the chest region followed by administration of unctuous sudation by means of _nadi sveda_ or _prastara sveda_ or _sankara sveda_. By this the clogged kapha gets liquefied in the channels and the channels become soft and vata moves in the downward direction (vatanulomana). As the ice on the top of the mountain gets liquefied by the rays of the sun, the kapha accumulated in the srotas get liquefied by swedana. 
+
+After the administration snehana (oleation) and swedana (sudation), one has to give rice along with unctuous substances. The meat soup prepared from fish or pig or curds in large quantity should be taken in meals. When the kapha gets aggravated due to above mentioned means vamana (emesis therapy) should be administrated with powder of _pippali_ (piper longum Linn), _saindhava_ (rock salt) and honey. While selection of the drugs care should be taken not to administer the vata aggravating drugs. After the expulsion of vitiated kapha the patient feels relieved as the vata gets alleviated and moves in the normal direction as obstructed _srotas_ are cleared. [70-76] 
+
+### Treatment of remaining dosha
+
+The dosha remaining after the administration of vamana treatment should be expelled by means of _dhuma_ (medicated smoking). The _haridra_ (turmeric), roots of _eranda_ (Ricinus communis Linn), _laksha_ (Ficus Lacor Buch-Ham), _manahshila_ (realgar, an Arsenic compound), _jatamansi_ (Nardostachys jatamansone BC), are powdered properly and wick is prepared. This wick is smeared with ghee and used for medicated smoking. The barley should be mixed with ghee and used for smoking. 
+
+The bee wax, _rala_ (exudate of Shorea robusta Gaertn.) and ghee are kept in inside two mud plates (_mallaka samputa_). The smoke coming out of it after application of heat should be inhaled for smoking. 
+
+Cow’s horn, hair, ligaments are mixed and used for smoking by putting it in _dhuma netra_. _Shyonaka,_ roots of _eranda_ (Ricinis communis Linn) and _kusha_ (Desmostachya bipinnata Stapf.) should be filled with above mentioned drugs and used as a pipe for smoking. _Padmaka_ (Prunus puddum), _guggulu_ (Commiphora mukul (Hook ex Stocks), _agaru_ (Aquallaria agollacha Roxb) and _shallaki_ (Boswellia serrata Roxb.) are powdered and mixed with ghee and used for smoking. [77-80] 
+
+### Management of complications
+
+The _hikka_ and _shwasa_ patient accompanied with complications like feeble voice, diarrhea, _raktapitta_ (bleeding disorder) should be treated with medicines having properties of sweet, unctuous, and cold. [81] 
+
+### Precautions and guidelines for _swedana_ (sudation)
+
+#### Contra-indication for _swedana_ in _shwasa_
+
+The patient of _shwasa_ and _hikka_ suffering from burning sensation, bleeding, and excessive sweating, depleted dhatu, loss of strength, dryness, and associated with condition of pregnancy or having pitta Prakriti should not be administered swedana(sudation). 
+
+#### _Mridu swedana_ (mild sudation)
+
+In such condition, if it is very essential then mild sudation should be given over chest and throat region for short duration, in the form of _parisheka_ with warm oil or application of warm _utkarika_ (a kind of poultice) mixed with sugar or _upanaha_(poultice). 
+
+#### _Utkarika_(poultice)
+
+_Utkarika_ is prepared with powders of sesame, black gram and wheat are mixed with vatahara sneha _and gruel andswedana is done or warm gruel and milk are used for swedana in the form of _parisheka _._
+
+#### _Vamana_
+
+The patient suffering from fever of recent origin and _ama dosha_ should be treated with _ruksha sweda_ and langhana. Or vamana (emesis) should be induced by administering _saindhavalavana_ (rock salt) and water. 
+
+Meal should be taken along with vata alleviating meat soups etc. in condition of aggravation of vata due to excessive vamana. Alleviation of vata should also be done by massage with vatahara drugs which are not cold, nor hot in property. [82-87] 
+
+### Two types of patients as per dosha dominance
+
+The patients suffering from _hikka_ and _shwasa_ are of two types i.e. one having strength and other weak. One has aggravation of kapha and other having dryness and vata predominance. 

@@ -1,0 +1,201 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Importance and objective of vimana sthana
+ * 2.2 Effect of Rasa
+ * 2.3 Effect of rasa on dosha
+ * 2.4 _Dravya prabhava_ (effect of _dravya_)
+ * 2.5 Three substances contra-indicated for long term consumption and their effects on body
+ * 2.5.1 Effect of long term consumption of long pepper
+ * 2.5.2 Effect of long term consumption of alkali
+ * 2.5.3 Effect of long term consumption of salt
+ * 2.6 Satmya(adaptation/habituation)
+ * 2.7 _Ashta vidha ahara visheshayatana_ ( eight specific factors for diet)
+ * 2.8 Methods of taking meals (Ahara vidhi vidhana)
+ * 2.8.1 Eat warm and freshly cooked food
+ * 2.8.2 Eat unctuous food
+ * 2.8.3 Eat in proper quantity
+ * 2.8.4 Eat after complete digestion of previous meals
+ * 2.8.5 Eat suitable combination of food
+ * 2.8.6 Eat at right place and with right accessories
+ * 2.8.7 Do not eat too fast
+ * 2.8.8 Do not eat too slowly
+ * 2.8.9 Eat with proper concentration on eating and with normal mental state
+ * 2.8.10 Eat with self-awareness
+ * 2.9 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 3.1 TABLE -1. _Ashta Vidha Aahara Vidhi Visheshayatana_
+ * 3.2 TABLE -2. _Ahara Vidhi Vidhaana_
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 5 Further reading
+
+## Introduction
+
+The chapter Rasa Vimana deals with rasa and dosha, since rasa is the primary trigger for the action of drugs on dosha. Three rasa act as either enhancers or suppressors for each dosha. Once the action of a particular rasa on a dosha is known, the effect of dravya can be predicted in the same manner and after knowing the action of dosha one can understand the disease process. Prolonged usage of certain food articles is known to vitiate dosha. For example, if a person is consuming kshara (alkali) and lavana (salt) for a long time, he is advised to decrease the quantity gradually to prevent the effect on dosha. Typically, it is advised to take meals that have all the six _rasas_ , since that helps neutralize the effect of any particular rasa on a dosha. 
+
+Thus, considering the beneficial and harmful effects of food, eight types of dietary regimen have been described in Ayurveda, collectively called _ashta ahara vidhi vishesh aayatana_ , with special instructions like eating freshly prepared warm food that is unctuous, neither more or less in quantity, is suitable to the individual’s capacity to digest, is suitable to the location, and that the food is not eaten too slow or too quickly. 
+
+Another agent discussed in this chapter is drugs used in pacifying aggravated dosha. The use of a dravya in a specific scenario depends on its intrinsic rasa and guna and its effect on a dosha. In cases where the use of a food article or an agent/_dravya_ results in direct action that is well understood, is called prakriti samavaya. For example, taila (oil), ghrita (clarified butter) and madhu (honey) are known to pacify vata, pitta and kapha respectively. 
+
+This rule is, however, not applicable for all afflictions or agents because when a dravya is combined with another dravya in different quantity and/or of varying purity, then the outcome could be quite different than that of a basic dravya. Such outcomes are known as vikriti vishama samavaya. Rasa, dravya, dosha and vikara prabhava are based upon these two principles. The three dravya mentioned earlier (taila, ghrita and madhu) are largely used in formulations of other drugs, as diet, or as anupana (concomitant drug). These three do not have any side effects. On the other hand, pippali (piper longum), alkaline and saline substances invariably vitiate dosha on frequent use and are advised for limited use. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter Rasa Vimana(Taste-based factors for the measurement of diseases and drugs). Thus said Lord Atreya. [1-2] 
+
+### Importance and objective of vimana sthana
+
+After comprehending the features of a disease in terms of its etiology, prodromal features, signs and symptoms, suitability, number, predominance of morbid factor, classification, proportional variation, intensity and duration, the physician should assess carefully the features of the drugs, agents, and the constitution of the patient (dosha, drugs, place, time, strength, body, constitutional dominance of one or the other dhatu, diet, suitability, psyche, constitution and age) because the therapeutic interventions depend on the knowledge of the features of dosha, etc. A physician having no knowledge of the features of dosha is incapable of controlling the disease. Hence O Agnivesha! For the knowledge of the features of dosha, etc., we shall describe this section on vimana (specific features) [3] 
+
+### Effect of Rasa
+
+To start with, we shall talk about the effects of rasa, dravya (substance), dosha and vikara (disorder). Rasas, as we know, are six – sweet, sour, saline, pungent, bitter and astringent. These maintain the body in harmony if used appropriately otherwise vitiate the dosha. [4] 
+
+### Effect of rasa on dosha
+
+Dosha are three – vata, pitta and kapha. In their normal state, these are beneficial to the body while in an abnormal state, these afflict the body with various disorders. [5] 
+
+Three _rasas_ aggravate one dosha while the other three pacify it. For example, pungent, bitter and astringent (rasa) aggravate vata while sweet, sour and saline pacify it. Likewise, pungent, sour and saline rasas aggravate pitta while sweet, bitter and astringent ones pacify it. Sweet, sour and saline rasa aggravate kapha while pungent, bitter and astringent pacify it. [6] 
+
+In case of the conjunction of rasa and dosha, rasas aggravate those dosha sharing similar properties and pacify those that have opposing or antagonistic properties. This explains six _rasas_ for the three dosha. [7] 
+
+Details of mutual combinations and proportional variations with regard to them are innumerable because these variations are innumerable. [8] 
+
+Whether it is an agent (generically termed _dravya_ in Sanskrit) with multiple _rasas_ or a disorder having afflictions of various dosha, one should first critically analyze the role of each rasa or dosha individually and then determine the effect of the _dravya_ and the disorder. [9] 
+
+But this rule is not applicable universally because in case of complex disorders (and dravya) where the effect is not exactly in accordance with the cause due to multiple causative factors operating, with differing (often conflicting) modes of operation, it is not possible to determine the effect of the dravya or the disease on the basis of the effect of individual rasa or dosha. [10] 
+
+In such cases, the effect of the _dravya_ or the disease is ascertained on the basis of their cumulative action. [11] 
+
+Hence we shall describe the concept according to the effect of rasa (individual) and _dravya_ (total) on one side and dosha (individual) and disease (total) on the other. [12] 
+
+### _Dravya prabhava_ (effect of _dravya_)
+
+The effects of the six types of rasa were described in an earlier verse. Now we shall describe the effect of _dravya_. Oil, ghee and honey are the substances capable of pacifying vata, pitta and kapha respectively. [13] 
+
+Oil possesses the properties of unctuousness, hotness and heaviness and as such pacifies vata when used regularly. Vata possesses roughness, coldness and lightness and is thus pacified by the habitual use of oil. In the same way, ghee’s sweetness, coldness and dullness overcomes pitta’s non-sweet, hot and sharp properties. Finally, honey’s roughness, sharpness and astringency neutralizes the effects of kapha’s unctuous, dull and sweet properties. Any other substance which is antagonistic in properties to vata, pitta and kapha will similarly help in pacifying them when used regularly. [14] 
+
+### Three substances contra-indicated for long term consumption and their effects on body
+
+Now there are three substances whose excessive use is strictly prohibited in comparison to other ones - long pepper, alkali and salt. [15] 
+
+#### Effect of long term consumption of long pepper
+
+Long peppers are pungent but sweet in _vipaka_ , heavy, not too unctuous, hot and moistening. They are considered to be among the most effective of drugs and exhibit their good or bad effect fairly quickly. If used properly and sparingly, they are beneficial but still lead to consequent accumulation of _doshas_. If used regularly, however, they aggravate _kapha_ due to their heaviness and moistening properties, _pitta_ due to their hotness while they are unable to pacify _vata_ because of little unctuousness and hotness. Hence one should not use long peppers excessively. [16] 
+
+#### Effect of long term consumption of alkali
+
+Alkali, endowed with hotness, sharpness and lightness at first acts like a liquid, but dries up subsequently. It is used for digestion, burning, and tearing but if used excessively, damages hair, eyes, heart and virility. The people of villages, cities, communes and districts who use it continuously suffer from blindness, impotency, baldness and grey hair, and constricting pain in the cardiac region, such as the inhabitants of the eastern region and China. Hence one should not use alkali excessively. [17] 
+
+#### Effect of long term consumption of salt
+
+Salt is endowed with hotness, sharpness, moistening, laxative, and relishing qualities and is not much heavy to digest and unctuous. It gives immediate benefits when used proper course and combination. But when used habitually or excessively, it causes accumulation of dosha. 
+
+Its excessive usage causes malaise, laxity and debility in the body. The people of villages, cities, communes and districts who use it continuously are exceedingly depressed, have loose muscles and blood and low tolerance for pain. Such inhabitants as those of Bahlika, Saurashtra, Sindhu and Sauveera (countries / regions in ancient times) even take salt with milk. Moreover, such regions of the world have barren, saline soil and plants – herbs, shrubs, trees and big trees – that do not grow or are stunted because of damage by salt. Hence one should not use salt too much. Even the persons who tend to use excessive salt fall victims to untimely baldness, graying of hair and wrinkles. [18] 
+
+Hence it is beneficial for them to wean themselves away gradually from the habit of using these substances. The habituated things, if given up gradually, cause no or little harm. [19] 
+
+### Satmya(adaptation/habituation)
+
+Satmya(habituation) means that which suits the self. Satmya and upashaya have the same meaning. Based on one’s habitual usage of rasas, satmya could be categorized into three types- superior, inferior and medium/average. The use of all the rasas collectively is considered superior, those that use only one rasa are considered inferior, while all scenarios that lie between these two are considered medium. Effort should be made to gradually move up from the inferior and the medium types of satmya to the superior type. Even if one has achieved the superior satmya or is habituated of using all the rasas collectively, the individual should strive to abide by the factors of dietetics and nutrition as mentioned in the following verse. [20] 
+
+### _Ashta vidha ahara visheshayatana_ ( eight specific factors for diet)
+
+These are eight specific factors of method of dieting - prakriti (nature), karana (processing), _samyoga_ (combination), rashi (quantity), desha (place), kala (time/ stage of the disease), _upayoga -samstha_ (rules for use) and _upayoktra_ (consumer). [21] 
+
+Prakriti is _swabhava_ , or the natural attribute or trait of a substance, such as heaviness, etc. For example, the prakriti of black gram or pork is heavy, while that of green gram or deer meat is light. [22.1] 
+
+_Karana_ (processing) is the making or refinement of the dravya, or the _samskara_ that are added to the properties of those substances. These properties are imparted by contact of water and fire, by cleansing, churning, place, time, infusing, steeping, etc. and also by the medium used for storage or processing (e.g., copper vessel, or earthen pot), etc. [22.2] 
+
+_Samyoga_ (combination) is the aggregation or combination of two or more _dravya_. This exhibits peculiarities that are not seen in case of individual substances, such as combination of honey and ghee, and that of honey, fish and milk. [22.3] 
+
+Rashi (quantity) consists of _sarvagraha_ (account of a whole amount or unit) and _parigraha_ (account of part of a substance, or of individual parts (in case the substance is a combination of multiple ingredients or parts)) which ascertain the effect of any food article taken in proper or improper quantity. [22.4] 
+
+Desha denotes the geographic region relating that the substance(s) are local or endemic to, and thus, are suitable to. [22.5] 
+
+Kala is time. It can be taken to be the ever moving time, as in seasons (e.g., suitable to seasons), or as duration from the standpoint of a condition (e.g., a condition that does not get treated within a specific duration becomes incurable). [22.6] 
+
+_Upayogasamastha_ denotes the rules for dieting. This depends on the digestible features (of the food). [22.7] 
+
+_Upayokta_ is the one who consumes the food. On him depends the oka-satmya (i.e.,habituation developed by practice). Thus, are described the specific factors of the method of dieting. [22] 
+
+The characteristics of the eight factors mentioned in the above verses are inter-dependent (for example, a substance of optimum quantity taken in the right season and in the right place). Any regimen prescribed should be done after gaining a thorough understanding of the food articles from these eight aspects for them to be wholesome. Food or any other dravya that is liked but is unwholesome and likely to result in unpleasant consequences should not be used by ignorance or carelessness. [23] 
+
+### Methods of taking meals (Ahara vidhi vidhana)
+
+The prescribed method of eating for the healthy and the sick (in certain cases) who take wholesome food timely and habitually is that one should eat warm, unctuous food in proper quantity, after the previously consumed food is digested. The food eaten should be non-antagonistic (i.e., not unsuitable to one’s constitution or habit) and should be consumed in a favorable place, with all the favorable accessories, not too fast, not too slow, not while talking or laughing, and with full concentration. [24] 
+
+#### Eat warm and freshly cooked food
+
+(I will now explain their merits). One should eat warm (freshly cooked food) because it tastes well and the food consumed stimulates the digestive process, gets digested quickly, normalizes functions of vata dosha and reduces kapha dosha (which obstructs digestion process).[25.1] 
+
+#### Eat unctuous food
+
+One should eat unctuous because it tastes well, the food consumed stimulates any dormant digestive process, gets digested quickly, normalizes functions of vata, nourishes body, provides firmness to sense organs, increases strength, and enhances complexion. [25.2] 
+
+#### Eat in proper quantity
+
+One should eat in proper quantity without disturbing vata, pitta and kapha because that only helps promote one’s life-span, easily passes down the bowels, does not disturb the agni (digestive capacity), and gets digested without discomfort. [25.3] 
+
+#### Eat after complete digestion of previous meals
+
+One should eat when the previous meal is digested because if one eats before earlier meal is digested, mixing with undigested food will vitiate all the dosha quickly. On the other hand, when one eats after the previous meal is well digested, the dosha do not get vitiated or unsettled from their natural locations, agni is stimulated, appetite is increased, entrances of the channels get cleared, eructation is pure, heart is normal, there are natural urges to pass bodily wastes and there is no obstruction to their passage, and the eaten food enhances one’s life without afflicting any dhatu. [25.4] 
+
+#### Eat suitable combination of food
+
+One should take food consisting of the items that are non-antagonistic in nature to ensure one is not afflicted with the disorders caused by food that is unsuitable to the individual. [25.5] 
+
+#### Eat at right place and with right accessories
+
+One should eat in a favorable place and with favorable accessories because it is important to feel comfortable and satisfied while eating. [25.6] 
+
+#### Do not eat too fast
+
+One should not eat too quickly to ensure the food does not get into the wrong passage, and that the person is able to ascertain the qualities and taste of the food or even detect any defects in the food. [25.7] 
+
+#### Do not eat too slowly
+
+One should not eat too slow, because by eating too slow one does not get satisfaction, eats much, and the food becomes cold and is digested irregularly. [25.8] 
+
+#### Eat with proper concentration on eating and with normal mental state
+
+One should eat with utmost concentration on the food, while not talking or laughing. By taking food while talking or laughing or with mind elsewhere, he is inflicted with the same defects as by eating too fast. [25.9] 
+
+#### Eat with self-awareness
+
+One should eat with due consideration to self, i.e., knowing one’s own constitution and tastes. He/she should take food that is suitable to him/her. [25] 
+
+### Summary
+
+He is (or should be) our physician who knows the rasas, dravyas, dosha, disorders, place, time and body. [26] 
+
+To sum up (all the verses of this chapter): 
+
+The meaning of vimana is to know the effects of rasa, dravya, dosha and disorders, substances not to be used excessively, the three forms or types of satmya, and the eight factors of diet and merits of food. All these have been briefly discussed in this chapter on Rasa Vimana [27-28] 
+
+ityagniveÐakrte tantre carakapratisanskéte vimÁnasthÁne rasavimÁnam nÁma prathamoadhyÁya½ 
+
+Thus ends the first chapter on Rasa Vimana in Vimana Sthana in the treatise composed by Agnivesha and redacted by Charak. 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Rasa (taste) is one of the attributes present in dravya (substances), which can be perceived by the tongue. 
+ * There are six rasa, madhura _(sweet),_ amla _(sour),_ lavana _(salty),_ katu _(pungent)_ , tikta _(bitter) and_ kashaya _(astringent)._
+ * Each rasa is composed of two mahabhuta (basic elements). Madhura rasa is made up of Prithvi and apa, amla rasa of Prithvi and agni, lavana of apa and agni, katu of vayu and agni, tikta of vayu and akasha , and kashaya is made up of vayu and Prithvi.
+ * Rasas influence dosha which influence health and disease. For example: madhura, amla and lavana aggravate kapha, while katu, tikta, and kashaya pacify it. Similarly, amla, lavana and katu aggravate pitta while madhura, tikta, and kashaya pacify it. And katu, tikta and kashaya aggravate vata, while madhura, amla and lavana pacify it. Thus, three rasa aggravate one dosha, whereas others pacify it. Proportionate use of all six rasas in a diet is considered healthy practice and forms the basis of a superior satmya. 
+ * The three aggravator rasas have similar mahabhuta constitution as the dosha while the other three pacifier rasas have opposite mahabhuta constitution.
+ * Manifestations of panchmahabhautic constitution of dravya follows rules of cause and effect in regards to relationship between rasa, vipaka and veerya and is known as prakriti samasamaveta with an exception of vikriti visham samveta. Same rule is followed by interplay between dosha in genesis of disease.
+ * If dravya and manifestations of interplay between dosha do not follow cause and effect rules, then it is called vikrati vishamasamaveta.
+ * Certain drugs are very effective but have side effects when used for prolonged periods, and therefore should be used carefully, such as pippali, kshara and lavana.
+ * There are eight guidelines for taking food ,called ahara vidhi visheshayatana (please see the chart given below).
+ * Guidelines for a person to evaluate the type and quantity of food to be eaten, along with the time and the method of ingestion is provided below in Figure 1.
+
+### TABLE -1. _Ashta Vidha Aahara Vidhi Visheshayatana_
+
+### TABLE -2. _Ahara Vidhi Vidhaana_
+
+## Vidhi Vimarsha (Applied Inferences)
+
+ * The effect of _rasas_ is subdued by _vipaka,_ which is based on them. _Vipaka_ is of three kinds i.e., _madhura, amla_ and _katu_. According to Agnivesha, it is often noted that the _dravyas_ having _katu, tikta_ and _kashaya rasa_ have _katu vipaka,_ while _amla rasa dravyas_ have _amla vipaka_ and _dravyas_ with _madhura_ and _lavana rasa_ have _madhura vipaka._
+ * _Eka rasa satmyata_ (literally, one rasa suitability) provides minimal nutrition to the _dhatus_ of body, whereas _sarva rasa satmyata_ provides the most nutrition. _Sarva rasa abhyasa_ (or, all rasa exercise/habit) is a practice that helps meet all the nutrient requirement of the body. Consumption of one _rasa dravyas_ for prolonged periods of time can create imbalances in the body. For example, _madhura rasa_ is rich in carbohydrates and its habitual consumption may lead to excess carbohydrate and lack of other nutrients.

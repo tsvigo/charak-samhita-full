@@ -1,0 +1,181 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Numerical classification of diseases
+ * 2.2 Types of diseases
+ * 2.2.1 Diseases of Eight Types
+ * 2.2.2 Diseases of Seven Types
+ * 2.2.3 Diseases of Six Types
+ * 2.2.4 Diseases of Five Types
+ * 2.2.5 Diseases of Four Types
+ * 2.2.6 Diseases of Three Types
+ * 2.2.7 Diseases of Two Types
+ * 2.2.8 Diseases of One Type
+ * 2.2.9 Diseases of Twenty Types
+ * 2.3 Definite relation between _dosha_ and disease
+ * 2.4 Endogenous and exogenous diseases
+ * 2.5 Progression of endogenous and exogenous diseases
+ * 2.6 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 _Udara roga_
+ * 4.2 _Mutraghata_
+ * 4.3 _Ksheera dosha_
+ * 4.4 _Reto dosha_
+ * 4.5 _Kushtha_
+ * 4.6 _Pidaka_
+ * 4.7 _Visarpa_
+ * 4.8 _Atisara_
+ * 4.9 _Udavarta_
+ * 4.10 _Gulma_
+ * 4.11 _Kasa_
+ * 4.12 _Shvasa_
+ * 4.13 _Hikka_
+ * 4.14 _Trishna_
+ * 4.15 _Chhardi_
+ * 4.16 _Arochaka_
+ * 4.17 _Shiroroga_ and _Hridroga_
+ * 4.18 _Pandu_
+ * 4.19 _Unmada_
+ * 4.20 _Apasmara_
+ * 4.21 _Akshi roga, karna roga_ and _mukha roga_
+ * 4.22 _Grahani_
+ * 4.23 _Mada/Murchha_
+ * 4.24 _Shosha_
+ * 4.25 _Klaibya_
+ * 4.26 _Shotha_
+ * 4.27 _Kilasa_
+ * 4.28 _Raktapitta_
+ * 4.29 _Jwara_
+ * 4.30 _Vrana_
+ * 4.31 _Aayama_
+ * 4.32 _Gridhrasi_
+ * 4.33 Miscellaneous diseases
+ * 5 References
+
+## Introduction
+
+Important principles of diseases in this section of the _Roga Chatushka_ (tetrad on diseases) have been described. The preceding chapter provided a broader explanation for the cause of innumerable diseases due to dosha vitiation as well as variations in characteristics like pain, sign, etiology, site of origin, site of manifestation, symptoms and nomenclature. However, only the most important diseases, probably prevalent at that time, have been classified in view of prescribing treatment. Classification of these known diseases, based on characteristics provided above, and coupled with a few more variables such as prognosis, chronicity, treatment etc. have been done at various places within the Charak Samhita. On critically analyzing, we find that the diseases have been classified into groups having as few as one to as many as eight diseases each.Three disease groups of twenty types each have been classified at the end. It has been observed that the listing of groups by diseases has been done in a descending order - from those having eight diseases to one - because there are no other groups that have greater than eight types of diseases within them, except for the three groups with twenty types. Hence, these outliers (with twenty types) have been enumerated at the end rather than in the beginning of the chapter. Even though there are eighteen types of obstinate skin diseases, only the seven most obstinate ones have been enumerated here. 
+
+As mentioned above, various modes of classification have been used to classify diseases in the Samhita - some diseases have been classified only according to dosha involved, such as _apasmara_ (epilepsy), _akshi roga_ (eye diseases), _mukha roga_ (diseases of oral cavity), _pratishyaya_ (rhinitis) etc. In some cases, apart from dosha, certain etiological factors have also been considered and nomenclature has been done accordingly e.g. in case of _unmada, pandu roga, hridroga, chhardi, shosha, vrana_ etc. Some diseases have been classified taking into consideration only prominent clinical features, such as in the case of _kushtha, kilasa, arsha, jwara,_ and _aayama_. In some cases, nomenclature is based on the site involved in pathogenesis, as in _rakta pitta, kamala_ etc, while in some cases, severity has been the basis for classification e.g. _vatarakta_. We also find groups containing sub-classes or sub-groups of diseases. This hierarchical basis has been used while classifying the three disease families mentioned that have twenty types of diseases. _Krimi_ are first classified into _bahya, raktaja, shleshmaja_ and _purishaja_ which are sub-classified into other diseases. Similarly, twenty types of _pramehas_ are broadly classified into three groups on the basis of dosha and then subtypes are mentioned. _Yoni vyapada_ (gynecological disorders) are broadly classified into diseases caused by dosha and diseases caused by amalgamation of dosha and _dushyas_ , with further sub-classifications. Thus, it can be said that classification has not been restricted to a single hierarchic pattern but a hierarchical system for disease classification as well. Still, the classification of all known diseases is not complete using the above mentioned system. Need-based or contextual re-classification of various disease groups can be found in many places within the Samhita. 
+
+This lack of standardization or disease classification or nomenclature does warrant a need to frame some standards that are unanimously acceptable across the world. In fact, the need for standardizing disease classifications has been strongly aired by experts and this body of classification has been given the name of Ayurvedic Classification of Diseases (ACD). Moreover, considering the importance of traditional medicine, the World Health Organization (WHO) is also incorporating Traditional Medicine (TM) in ICD-11. WHO recently completed a survey among member nations and discovered that 82% of the world's population uses some form of TM.[2] To bring all countries onto one platform for health management requires the inclusion of TM in ICD. 
+
+To make this happen, immense efforts are required to develop adequate nomenclature and classification for Ayurvedic diseases. However, there are practical challenges associated with correlating all these diseases mentioned in Ayurveda with modern disease families. For example, certain diseases or disorders such as _kushtha, pandu, prameha, gulma,_ etc. may not have an equivalent in modern medicine. Some do have a direct correlation with those found or classified today, such as _bhagandara, kamala, baddhodara, chidrodara, tamaka shwasa_ etc. 
+
+The relationship between the dosha and endogenous diseases can be explained using the following analogy mentioned in this text: just as no bird (under the Sun) can fly without casting a shadow, no endogenous disease (caused by the disturbance of the equilibrium of dhatu) can occur without the vitiation of vata, pitta and kapha. The exogenous diseases may or may not be caused due to a vitiated dosha but so far as their treatment is concerned, dosha need not be factored in. There is also a mention of exogenous and endogenous diseases coexisting together. Endogenous diseases are, at times, followed by the exogenous ones and vice-versa. While treating such conditions, one should start treatment on the basis of the secondary development and our understanding of the primary nature of the disease. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Ashtodariya" (Numerical Classification of Diseases starting from eight types of abdominal diseases). Thus said Lord Atreya [1-2] 
+
+### Numerical classification of diseases
+
+There are eight types of _udara roga_ (abdominal swellings), eight types of _mutraghata_ (oliguria/anuria), eight types of _ksheera dosha_ (disorders related to breast milk), eight types of _reto dosha_ (disorders of semen), seven types of _kushtha_ (skin disorders), seven types of _pidaka_ (inflammatory swelling), seven types of _visarpa_ (acute spreading inflammatory skin conditions like erysipelas ), six types of _atisara_ (diarrhoeal diseases), six types of _udavarta_ (abdominal diseases due to suppression of natural urges), five types of _gulma_ (abdominal lumps/tumour), five types of _pliha dosha_ (disorders of spleen), five types of _kasa_ (cough), five types of _shwasa_ (dyspnoea), five types of _hikka_ (hiccup), five types of _trishna_ (thirst), five types of _chhardi_ (vomiting), five types of _bhaktasyanashanasthanani_ (anorexia), five types of _shiroroga_ (diseases of head), five types of _hridroga_ (diseases of heart), five types of _panduroga_ (anaemia), five types of _unmada_ (insanity), four types of _apasmara_ (epilepsy), four types of _akshiroga_ (disorders of eyes), four types of _karna roga_ (disorders of ear), four types of _pratishyaya_ (rhinitis), four types of _mukha roga_ (oral diseases/buccal diseases), four types of _grahani roga_ (assimilation disorders/malabsorption disorders), four types of _mada roga_ (intoxication), four types of _murchcha_ (fainting), four types of _shosha_ (consumption/wasting disorders), four types of _klaibya_ (sterility), three types of _shopha_ (swellings), three types of _kilasa_ (vitiligo), three types of _rakta-pitta_ (coagulopathies), two types of _jwara_ (fever), two types of _vrana_ (wound), two types of _aayama_ (abnormal posture of body due to severe muscular spasm), two types of _gridhrasi_ (sciatica), two types of _kamala_ (jaundice), two types of _ama_ (disorders due to indigestion and metabolism), two types of _vatarakta_ (gout), two types of _arsha_ (piles), one type of _urustambha_ (spastic paraplegia), one type of _sanyasa_ (coma), one type of _mahagada_ (Pshyconeurosis), twenty types of _krimi roga_ (parasitic infestations), twenty types of _prameha_ (urinary disorders which are characterized by abnormal and increased frequency of urine), and twenty types of _yoni vyapad_ (gynaecological disorders). Thus, classifications of forty-eight diseases have been briefly described in this chapter. [3] 
+
+### Types of diseases
+
+#### Diseases of Eight Types
+
+These diseases will be described in detail in the same order as enumerated earlier. 
+
+ * Eight types of _udara roga_ (abdominal swelling) are vataja, pittaja, kaphaja, sannipataja, plihodara(due to splenic disorder), _baddhodara_ (due to intestinal obstruction), _chidrodara_ (due to intestinal perforation) and _dakodara_ (ascites).
+ * Eight types of _mutraghatas_ (Oliguria/Anuria) are vataja, pittaja, kaphaja, sannipatika, ashmarija(due to stone in urinary tract), _sharkaraja_ (due to gravels in urinary tract), _shukraja_ (due to spermolith) and _shonitaja_ (due to hematoma).
+ * Eight types of _ksheera-dosha_ (disorders of breast milk) are _vaivarnya_ (discoloration), _vaignadhyam_ (altered smell), _vairasyam_ (altered taste), _paichichhilyam_ (sliminess), _phenasamghata_ (excessive frothiness), _raukshyam_ (absence of unctuousness), _gauravam_ (heaviness in digestion/physical character) and _atisneha_ (excessive unctuousness).
+ * Eight types of _reto dosha_ (disorders of semen) are _tanu_ (increased liquidity/decreased liquefaction time), _shuskam_ (less viscous/dry), _phenilam_ (excessive frothiness), _ashwetam_ (discoloration), _puti_ (foul smelling), _atipichichhilam_ (excessive sliminess), _anyadhatupahitam_ (presence of tissue constituents) and _avasadi_ (increased specific gravity) (1)
+
+#### Diseases of Seven Types
+
+ * Seven varieties of _kushtha_ (obstinate skin diseases) are _kapala, udumbara, mandala, rishyajihwa, pundarika, sidhma_ and _kakanaka_.
+ * Seven types of _pidakas_ (inflammatory swellings) are _sharavika, kachhapika, jalini, sarshapi, alaji, vinata_ and _vidradhi_.
+ * Seven types of _visarpa_ (acute spreading inflammatory skin conditions) are vataja, pittaja, [kapha]]ja, sannipatika, agni, kardama and granthi. (2)
+
+#### Diseases of Six Types
+
+ * Six types of _Atisara_ (diarrhoeal disorders) are _vatika, paittika,kaphaja, sannipatika, bhayaja_ (caused by fear) and _shokaja_ (caused by grief.)
+ * Six types of _Udavartas_ (abdominal diseases due to suppression of natural urges) are _vataja_ (due to suppression of flatus), mutraja (due to suppression of urine), _purishaja_ (due to suppression of feces), _shukraja_ (Due to suppression of ejaculation of semen), _chhardija_ (due to suppression of vomiting) and _kshavathuja_ (due to suppression of sneezing). (3)
+
+#### Diseases of Five Types
+
+ * Five types of _gulmas_ (abdominal lump/tumour) are vataja, pittaja, kaphaja, sannipataja and raktaj.
+ * Five types of _pliha doshas_ (splenic disorders) are of the same type as those of _gulma_.
+ * Five types of _kasa_ (cough) are _vataja, pittaja, kaphaja, kshataja_ (caused by internal injuries in respiratory tract) and _kshayaja_ (caused by wasting).
+ * Five types of _shwasa_ (dyspnoea) are _mahashwasa, urdhwashwasa, chhinna shwasa, tamaka shwasa_ and _kshudra shwasa_ (dyspnoea due to exertion).
+ * Five types of _hikka_ (hiccup) are _mahati, gambhira, vyapeta, kshudra_ and _annaja_.
+ * Five types of _trishna_ (thirst) are vataja,pittaja, amaja, kshayaja (due to wasting) and _upsargaja_ (secondary to other diseases).
+ * Five types of _chhardi_ (vomiting) are vataja, pittaja, kaphaja, sannipataja _and_ dwistarthsangyogaja _(by coming in contact with obnoxious articles)._
+ * Five types of _bhaktasyanasana_ (anorexia) are vataja, pittaja,kaphaja, sannipataja _and_ dweshaja _(repugnance)_
+ * Five types of _shiroroga_ (disorders of head) are vataja, pittaja, kaphaja, sannipataja and _krimija_ (due to parasitic infection).
+ * Five varieties of _hridroga_ (cardiac disorders) are same as disorders of head i.e. vataja,pittaja,kaphaja, sannipataja _and_ krimija _(due to parasitic infection)._
+ * Five types of _pandu_ (anaemia) are vataja, pittaja, kaphaja, sannipataja and _mridbhakshanaja_ (due to intake of clay).
+ * Five types of _unmada_ (insanity) are vataja,pittaja,kaphaja, sannipataja and _aagantuja_ (due to exogenous causes). (4)
+
+#### Diseases of Four Types
+
+ * Four types of _apasmara_ (epilepsy) are vataja, pittaja, kaphaja and sannipataja.
+ * Four types of _akshiroga_ (diseases of the eye)
+ * Four types of _karna roga_ (diseases of the ear)
+ * Four types of _pratishyaya_ (rhinitis)
+ * Four types of _mukha roga_ (oral disorders)
+ * Four types of _grahani roga_ (mal-absorption disorders)
+ * Four types of _mada roga_ (intoxication) and
+ * Four types of _murchcha_ (fainting) are same as that of _apasmara_ (epilepsy) i.e. vataja, pittaja, kaphaja and _sannipataja._
+ * Four varieties of _shosha_ (consumption/wasting) are _sahasaja_ (over strain), _sandharanaja_ (suppression of natural urges), _kshayaja_ (wasting) and _vishamashanaja_ (irregularities in diet).
+ * Four types of _klaibya_ (sterility) are _beejopaghataja_ (affliction of sperm), _dhwajabhangaja_ (atonia of genital organs/erectile dysfunction), _jaraaja_ (senility) and _shukrakshayaja_ (decreased production of sperm) (5)
+
+#### Diseases of Three Types
+
+ * Three types of _shothas_ (swellings) are vataja, pittaja and kaphaja.
+ * Three types of _kilasas_ (vitiligo) are "rakta" (red), _tamra_ (coppery) and _shukla_ (white) coloured.
+ * Three types of _lohitatapittas_ (coagulopathies) are _urdhabhagam_ (involving upper channels), _adhobhagam_ (involving lower channels and _ubhayabhagam_ (involving both channels). (6)
+
+#### Diseases of Two Types
+
+ * Two types of _jwara_ (fever) are _ushnabhipraya shitasamuttha_ (fever arising from cold and patient has desire for hot substances) and _shitabhipraya ushnasamuttha_ (fever arising from heat and patient has desire for cold substances).
+ * Two types of _vrana_ (wound) are _nija_ (endogenous causes) and _agantuja_ (exogenous causes).
+ * Two types of _aayama_ (abnormal posture of body due to severe muscular spasm) are _bahya_ (opisthotonus) and _abhayantara_ (emprosthotonus)
+ * Two types of _gridhrasi_ (sciatica) are _vatika_ and _vata-kaphaja_.
+ * Two types of _kamala_ (jaundice) are _koshthashraya_ (pre-hepatic & hepatic jaundice) and _shakhashraya_ (Obstructive jaundice).
+ * Two types of _ama_ (disorders due to improper digestion and metabolism) are _alasaka_ (intestinal torper) and _visuchika_ (cholera/food poisoning).
+ * Two types of _vatarakta_ (gout) are _gambheera_ (deep) and _uttana_ (superficial).
+ * Two types of _arsha_ (piles) are _shushka_ (non bleeding masses) and _aardra_ (bleeding masses). (7)
+
+#### Diseases of One Type
+
+ * There is one _urustambha_ (spastic paraplegia) which is caused by _ama_ and all three dosha.
+ * _Sanyasa_ (coma) is also of one type that is caused by all three dosha and is psycho-somatic in nature.
+ * _Mahagada_ (major disease) is one and is due to _atattvabhinivesha_ (mental and moral perversion). (8)
+
+#### Diseases of Twenty Types
+
+ * Twenty types of _krimis_ (parasites) include _yuka_ (lice) and _pipilika_ (eggs of lice) on the body surface and produced from external impurities, six parasites in blood (_kesada, lomada, lomadwipa, saurasa, audumbara_ and _jantumatara_). Seven parasites that live in _kapha_ -specific body locations (_antrada, udaraveshta, hridayada, churu, darbhapushpa, saugandhika_ and _mahaguda_), and five parasites originating from feces (_kakeruka, makeruka, leliha, sashulaka_ and _sausurada_).
+
+ * Twenty types of _pramehas_ (urinary disorders characterized by abnormal and increased frequency of urine) include _udakameha_ (polyuria), _ikshuvalikarasameha_ (glycosuria), _sandrameha, sandraprasadameha, shuklameha, shukrameha, shitameha, shanairmeha, sikatameha_ and _lalameha_ (ten diseases caused by _kapha_). _Ksharameha, kalameha, nilameha, lohitameha, manjisthameha_ and _haridrameha_ are six types caused by _pitta_. Finally, _vasameha, majjameha, hastimeha_ and _madhumeha_ are four types caused by _vata_.
+
+ * There are twenty types of _yoni vyapadas_ (gynaecological disorders). Of these, vatika, paittika and kaphaja and sannipataja are produced by vata, pitta, kapha and a combination of all the three dosha (_tridosha_) respectively. The remaining sixteen are caused through various permutations and combinations of dosha, dushya and other causative factors. These are _raktayoni_ (menorrhagia), _arajaska_ (amenorroea), _acharana_ (colpitis mycotica), _aticharana_ (chronic vaginitis), _prakcharana_ (deflorative vaginitis), upapluta (secondary dysmenorrhoea), paripluta (acute vaginitis), udavartini (primary dysmenorrhoea), karinini (endo-cervitis), _putraghini_ (abortive tendency), _antarmukhi_ (inversion of uterus), _suchimukhi_ (colpo stenosis), _sushka_ (culpo xerosis), _vamini_ (profluvium seminis), _sandhyayoni_ (undeveloped female sex organs/pseudo-uterus) and _mahayoni_ (prolapse of the uterus). These are twenty types of gynaecological disorders. (9)
+
+### Definite relation between _dosha_ and disease
+
+All the endogenous diseases occur invariably due to the vitiation of vata, pitta and kapha. As a bird cannot infringe upon its own shadow even by flying throughout the day, in the same way all the diseases are produced by disturbances in equilibrium in dhatu and cannot occur without vitiation of vata, pitta and kapha. By examining location, sign and symptoms, causes of vitiation of vata, pitta and kapha in any condition, the intelligent physician diagnose all diseases. (5) 
+
+### Endogenous and exogenous diseases
+
+Disturbance in equilibrium of dhatu results in number of diseases and these are only due to pitta, kapha and vata i.e. they cannot be produced without involvement of these three dosha. Exogenous diseases are exception to this. (6) 
+
+### Progression of endogenous and exogenous diseases
+
+Exogenous diseases may occur as secondary development after endogenous and similarly endogenous diseases may further progress as exogenous diseases. One should carefully analyze primary causes and secondary complications before starting treatment. (7) 
+
+### Summary
+
+Summing up the contents- this chapter on “Numerical classification of diseases with eight types of abdominal diseases” lists down three diseases having twenty variants each, three diseases having one each, eight diseases having two each, ten diseases having four each, twelve diseases having five each, four diseases having eight each, two diseases having six each, and three diseases having seven variants each. (8-9) 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Numerical classification of diseases is important in practice for differential diagnosis and planning treatment.
+ * The diseases can be classified by dosha dominance, cardinal signs, clinical presentation, or location of dosha.
+ * Dosha are inevitable factors associated with the pathogenesis of every disease. A disease cannot occur without disequilibrium in the dosha.
+ * In due course of time, endogenous diseases make the patient vulnerable to exogenous diseases and vice versa.
+
+## Vidhi Vimarsha (Applied Inferences)

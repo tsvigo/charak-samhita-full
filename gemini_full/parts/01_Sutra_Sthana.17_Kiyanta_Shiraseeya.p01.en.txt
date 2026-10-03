@@ -1,0 +1,321 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Questions by Agnivesha
+ * 2.2 Explanation by Atreya
+ * 2.3 Number of diseases
+ * 2.4 Causes of diseases of head
+ * 2.5 Importance of the Head
+ * 2.6 Diseases of the Head
+ * 2.7 Types of Diseases of Head
+ * 2.8 Vata - dominant diseases of the Head
+ * 2.9 Symptoms of vata- dominant diseases of head
+ * 2.10 Pitta- dominant diseases of the Head
+ * 2.11 Symptoms of pitta dominant diseases of head
+ * 2.12 Kapha-dominant diseases of head
+ * 2.13 Symptoms of kapha dominant diseases of head
+ * 2.14 Three dosha-dominant disease of head
+ * 2.15 Etiological factors and pathogenesis of _krimija shiroroga_ (disease of head due to parasites/micro-organisms)
+ * 2.16 Symptoms of _krimija shiroroga_
+ * 2.17 Etiological factors and pathogenesis of vata-dominant disease of heart (vataja hridroga)
+ * 2.18 Symptoms of vata-dominant disease of heart
+ * 2.19 Etiological factors and pathogenesis of pitta-dominant heart diseases (pittaja hridroga)
+ * 2.20 Symptoms of pitta-dominant heart diseases
+ * 2.21 Etiological factors and pathogenesis of kapha-dominant heart diseases (kaphaja hridroga)
+ * 2.22 Symptoms of kapha-dominant heart diseases
+ * 2.23 Etiological factors and pathogenesis of three dosha-dominant heart diseases (_tridoshaja hridroga_)
+ * 2.24 Etiological factors and pathogenesis of _krimija hridroga_
+ * 2.25 Symptoms of _krimija hridroga_
+ * 2.26 Sixty two permutations and combinations of _samsarga_ and _tridosha_
+ * 2.26.1 (I). Thirteen types of _sannipata_
+ * 2.26.2 (II). Nine types of _samsarga_
+ * 2.26.3 (III). Twenty-five conditions of kshina dosha
+ * 2.26.4 (IV). Twelve _sannipata_ of normal, increased and decreased dosha
+ * 2.27 Twelve types of irregular (vishama) sannipata(combination of dosha)
+ * 2.27.1 1\. Normal pitta, decreased kapha and increased vata sannipata
+ * 2.27.2 2.Normal kapha, increased vata and decreased pitta sannipata
+ * 2.27.3 3\. Normal vata, decreased kapha, and increased pitta sannipata
+ * 2.27.4 4\. Normal kapha, decreased vata, and increased pitta sannipata
+ * 2.27.5 5\. Normal vata, decreased pitta, and increased kapha sannipata
+ * 2.27.6 6\. Increased kapha, normal pitta, and decreased vata sannipata
+ * 2.27.7 7\. Decreased vata,increased kapha, and pitta sannipata
+ * 2.27.8 8\. Decreased pitta, increased kapha, and vata sannipata
+ * 2.27.9 9\. Decreased kapha, increased vata and pitta sannipata
+ * 2.27.10 10\. Decreased vata and pitta and increased kapha sannipata
+ * 2.27.11 11\. Decreased vata and kapha and increased pitta sannipata
+ * 2.27.12 12\. Decreased pitta and kapha and increased vata sannipata
+ * 2.28 General principle of symptoms of increased and decreased dosha
+ * 2.29 Types of _kshaya_ (decrease)
+ * 2.29.1 Decrease of rasa dhatu
+ * 2.29.2 Decrease of rakta dhatu
+ * 2.29.3 Decrease of mamsa dhatu
+ * 2.29.4 Decrease of meda dhatu
+ * 2.29.5 Decrease of asthi dhatu
+ * 2.29.6 Decrease of majja dhatu
+ * 2.29.7 Decrease of shukra dhatu
+ * 2.29.8 Decrease in purisha
+ * 2.29.9 Decrease of mutra
+ * 2.29.10 Decrease of malayana
+ * 2.29.11 Decrease of ojas
+ * 2.30 Description of ojas
+ * 2.30.1 General etiological factors of ojas kshaya(i.e., depletion of ojas)
+ * 2.31 Etiological factors and pathogenesis of avrita madhumeha (diabetes due to obstructive pathogenesis)
+ * 2.32 Symptoms of _avrita madhumeha_
+ * 2.33 _Sapta pidika_ (seven papules/pustules/carbuncles)
+ * 2.33.1 1\. _Sharavika_
+ * 2.33.2 2\. _Kacchapika_
+ * 2.33.3 3\. _Jalini_
+ * 2.33.4 4\. _Sarshapi_
+ * 2.33.5 5\. _Alaji_
+ * 2.33.6 6\. _Vinata_
+ * 2.33.7 7\. _Vidradhi_ -(1) _bahya vidradhi_
+ * 2.34 Etiology and pathogenesis of internal abscess
+ * 2.34.1 Etymology of _vidradhi_
+ * 2.34.2 Three types of _vidradhi_
+ * 2.34.3 Symptoms of ripened abscess
+ * 2.34.4 Pus discharge according to type of abscess
+ * 2.34.5 Symptoms of _vidradhi_ according to organ involved
+ * 2.34.6 Route of discharge
+ * 2.34.7 Prognosis of abscesses
+ * 2.35 Possibility of _Pidika_ without prameha
+ * 2.36 Prognosis of _pidika_
+ * 2.37 Bad prognostic _pidika_
+ * 2.38 Miscellanous _pidika_
+ * 2.39 Complications of pustules (_pidika_)
+ * 2.40 States (gati) of dosha
+ * 2.41 Seasonal course of dosha
+ * 2.42 Physiological and pathological course of dosha
+ * 2.43 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Indriya buddhi (centres of senses in the brain)
+ * 4.2 _Samsarga_ and _Sannipata_
+ * 4.2.1 Table 3: Types of Pidika in different classics:
+ * 4.2.2 Table 4:Types of _Vidradhi_ :
+ * 5 Related Chapters
+ * 6 References
+
+## Introduction
+
+After describing the guidelines for health care management in clinical Ayurveda practice in earlier four tetrads, information about principles of basic Ayurvedic pathology in causing disease is detailed in Roga Chatushka (tetrad on disease information). 
+
+The present chapter begins with an enumeration of diseases afflicting the head and describes the significance of head, followed by description of five varieties of diseases of head with headache as the main symptom and five types of heart diseases with different clinical presentations. Thereafter, sixty two permutations and combinations in the form of sannipata (involvement of three dosha) and samsarga(involvement of two dosha), based on variations in quantum of increased or decreased state of involved dosha, along with descriptions of symptoms of twelve varieties of sannipata have been described in this chapter. Also described are eighteen conditions caused by decrease of dosha, dhatu, mala and ojas, along with plausible reasons for all the decrease taking place in the body. Further, definition and characteristics of ojas have been discussed in brief with a specific variety of Avrita Madhumeha (diabetes due to obstructive vata) in which ojas is excreted in urine. The description of avrita madhumeha (resembles diabetes mellitus type II - NIDDM) and seems to represent the disease of third marma (vital organ) i.e. basti. Skin infection is a common complication of diabetes mellitus. Therefore it is described in detail under the heading of prameha pidika(carbuncles). Seven types of inflammatory swellings viz. sharavika, kacchapika, jalini, sarshapi, alaji, vinata and vidradhi are described in detail with a disclaimer stating that these can also occur independently due to vitiation of meda dhatu. The chapter ends with references to various gati (states) of dosha that are related to health as well as disease. 
+
+The diseases related to trimarma, or the three vital organs, have also been described in the 26th chapter of Chikitsa Sthana Trimarmiya Chikitsa and later in 9th chapter of Siddhi Sthana Trimarmiya Siddhi. While the Sutra Sthana helps provide the fundamental approaches to treating these diseases, the Chikitsa Sthana primarily addresses the management aspects and Siddhi Sthana describes the internal and external traumas of these organs. As per Ayurveda, there are 107 marmas that are considered to be points of prana (vital energy) and are located in various parts of the body. It is accepted that injuries to marma -external, internal or psychological - may either cause immediate death or permanent deformities (some of which may cause complications and death at a later stage). Among these 107 _marmas_ , Charak has given utmost importance to the head, the heart and the urinary bladder. Among these three, the head is foremost as it is central to all senses and is the prime location of _prana_. This is the reason why other texts have compared human body with an inverted-tree model (with roots at the top and branches at the bottom). 
+
+The _shiroroga_ , or the disease(s) of the head, have various clinical manifestations of headache and vary depending upon dosha-dominance and _krimi_ -infestation. Though headache is a common form of five major types of _shiroroga_ , different manifestations of headache can give an idea of the predominant dosha which may further decide the course of treatment. Similarly _hridroga_ (heart diseases) and diseases associated with the urinary bladder mentioned in this chapter are also due to dosha predominance and _krimi_ infestation. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Kiyanta Shiraseeya" (Diseases of three vital organs including Head and other conditions). Thus said Lord Atreya. [1-2] 
+
+### Questions by Agnivesha
+
+(Agnivesha asked the questions) “Oh God! How many are the diseases of head and heart of human beings? How many are the disorders caused by the varied combinations of discordant vata and other dosha? How many are the disorders caused by kshaya? How many are the papules (pidika)? O Holy One and Dispeller of Dosha! How many types of gati of dosha are there? [3-4] 
+
+### Explanation by Atreya
+
+On hearing the above questions of Agnivesha, Guru Atreya said “O gentle one! Hear me for the detailed description” [5] 
+
+### Number of diseases
+
+“There are five _shiroroga_ (diseases of head) and five _hridroga_ (diseases of heart). On the basis of permutations and combinations of dosha, there are sixty-two disorders” [6] 
+
+“There are eighteen varieties of _kshaya_ , seven varieties of _pidika_ (pustule/carbuncles) caused due to _madhumeha_ and three courses (_gati_) of dosha. These are being described in detail henceforth” [7] 
+
+### Causes of diseases of head
+
+Suppression of natural urges, day-sleep, insomnia, intoxication, talking too loudly, exposure to frost, exposure to wind from the front, excessive sex, inhalation of unwholesome (or toxic) smell, exposure to dust, smoke, cold and sun, over eating of heavy, sour and green food, use of very cold water, trauma to the head, formation of products of improper digestion and metabolism in the body (i.e., ama), excessive weeping or suppression of tears, cloudy weather, irritation of mind/anxiety (manastapa), and anomalous climate/season are the general causative factors of shiroroga. The above factors provoke or vitiate vata, affecting rakta (blood circulation) in the head leading to shiroroga with various symptoms [8-11] 
+
+### Importance of the Head
+
+_Shira_ (head) is foremost among all organs as it is the region of the body where the vital centres and all the senses (_indriya_) of a living-being are located It is vital (_uttama_) amongst all the other organs of the body [12] 
+
+### Diseases of the Head
+
+### Types of Diseases of Head
+
+As mentioned in Ashtodariya Adhyaya, there are five types of _shiroroga_ that are described here with their etiological factors , signs and symptoms [15] 
+
+### Vata \- dominant diseases of the Head
+
+Indulgence in loud speech, excessive talk, strong drinks, awaking till late night, exposure to cold wind, excessive sexual act, suppression of natural physical urges, fasting, trauma, excessive/strong vamana or virechana, excessive weeping, grief, fear, terror, excessive-load carrying, way-faring, severe emaciation leads to provocation of vata which by affecting the vessels of the head gets further provoked and produces severe pain in head [16-18] 
+
+### Symptoms of vata\- dominant diseases of head
+
+Intense pain in both the temples, splitting sensation in the nape, excessive heat and pain in forehead and between the eyebrows region, severe cutting pain and dissonances in ear, feeling as if the eyes are being gouged out, dizziness, sense of separateness in all the joints, excessive throbs in blood vasculature, stiffness of neck are the symptoms of vataja shiroroga. Use of hot and unctuous things provides relief in vata type of headache [19-21] 
+
+### Pitta\- dominant diseases of the Head
+
+Excessive use of pungent, sour, salty and alkali substances and wine, exposure to sun (or heat) and anger leads to provocation of pitta, which by lodging in the head produces pitta dominant diseases of head [22] 
+
+### Symptoms of pitta dominant diseases of head
+
+Burning sensation and pain in the head, desire for cold things, burning sensation in the eyes, thirst, giddiness and perspiration are the symptoms of pitta dominant diseases of head [23] 
+
+### Kapha-dominant diseases of head
+
+Due to sedentary life-style, excessive sleep, indulgence in intake of heavy and unctuous meals or excessive food intake, kapha gets provoked in the head and produces kapha dominant diseases of head. [24] 
+
+### Symptoms of kapha dominant diseases of head
+
+Dull headache, numbness, stiffness and heaviness in head, drowsiness, laziness and anorexia are the symptoms of kapha doinant diseases of head [25] 
+
+### Three dosha-dominant disease of head
+
+In _tridoshaja shiroroga_ aching pain, giddiness and tremors occur due to vata, burning sensation, intoxication and thirst occur due to pitta', and heaviness and drowsiness occur due to kapha [26] 
+
+### Etiological factors and pathogenesis of _krimija shiroroga_ (disease of head due to parasites/micro-organisms)
+
+When a person with provoked dosha indulges in excessive intake of sesame, milk, molasses,takes meals even when previous meal has not properly digested, eats putrefied or promiscuous food, and/or takes incompatible diet - it causes pathological discharges of rakta, kapha and mamsa, wherein parasites are produced, leading to _krimija shiroroga_ with dreadful symptoms [27-28] 
+
+### Symptoms of _krimija shiroroga_
+
+The patient of _krimija shiroroga_ suffers from piercing, cutting or aching pains in the head with itching, swelling and foul smelling and detectable parasites [29] 
+
+### Etiological factors and pathogenesis of vata-dominant disease of heart (vataja hridroga)
+
+Grief, fasting, over-exercise, intake of rough (non oily or ununctuous) or dry food articles, or food items of low nutritional value are the key etiological factors of vata dominant diseases of heart. Provoked vata , due to these causes, produces severe chest pain by affecting the heart. [30] 
+
+### Symptoms of vata-dominant disease of heart
+
+The symptoms of vata-dominant disease of heart are extra systole/ fibrillation, cardiac cramps, pauses in cardiac beats, stupor, sensation of emptiness in the cardiac region, and murmur (_dara_). The patient suffers from severe chest pain at the time of completion of digestion of the meal [31] 
+
+### Etiological factors and pathogenesis of pitta-dominant heart diseases (pittaja hridroga)
+
+Excessive intake of hot, sour, pungent, salty and alkaline food articles, alcohol, exposure to sun, and anger are the etiological factors of pitta-dominant heart diseases [32] 
+
+### Symptoms of pitta-dominant heart diseases
+
+Burning sensation in the precordial region, bitter taste in mouth, sour eructation, exhaustion, thirst, fainting, giddiness and perspiration are the symptoms of pitta-dominant heart diseases [33] 
+
+### Etiological factors and pathogenesis of kapha-dominant heart diseases (kaphaja hridroga)
+
+Over-eating, intake of heavy and fatty food substances, worry-free and sedentary lifestyle, excessive sleep are the etiological factors of kapha-dominant heart diseases[34] 
+
+### Symptoms of kapha-dominant heart diseases
+
+Numbness, stiffness and heaviness in the precordial area, a stony sensation in the heart region, drowsiness and anorexia are the symptoms of 'kapha-dominant heart diseases [35] 
+
+### Etiological factors and pathogenesis of three dosha-dominant heart diseases (_tridoshaja hridroga_)
+
+In _tridoshaja hridroga_ , the etiological factors and symptoms of all the three dosha dominant types of the heart diseases are present. (_tridoshaja hridroga_ is considered a most troublesome disease by great sages)[35½] 
+
+### Etiological factors and pathogenesis of _krimija hridroga_
+
+### Symptoms of _krimija hridroga_
+
+The patient of _krimija hridroga_ feels severe pain in the precordial region and complains of itching, as if the heart is being pricked and pierced with needles or cut open by weapons. _Krimija hridroga_ is a very grave heart condition and may lead to immediate death. Therefore it should be promptly diagnosed and managed [39-40] 
+
+### Sixty two permutations and combinations of _samsarga_ and _tridosha_
+
+#### (I). Thirteen types of _sannipata_
+
+There are 13 conditions of _sannipata_ of dosha (combination of all three dosha), out of these, three conditions are with a dominance of two dosha (other one dosha comparatively less increased), three conditions are with dominance of only one dosha (others two dosha comparatively less increased), six conditions with diminished, moderate and dominant dosha, and one condition with equal aggravation of all three dosha [41] 
+
+#### (II). Nine types of _samsarga_
+
+_Samsarga_ means a combination of two provoked dosha and there are nine such combinations or _samsargas_. Of these, six _samsargas_ have one dosha more provoked than the other. In the remaining three cases, both dosha are equally increased [42] 
+
+#### (III). Twenty-five conditions of kshina dosha
+
+Similar to the combinations of increased dosha mentioned above, there are 25 conditions of kshina (decreased) dosha [42½] 
+
+#### (IV). Twelve _sannipata_ of normal, increased and decreased dosha
+
+There is another form of sannipata where the dosha are present in normal, decreased or increased combinations, and such cases are of 12 types there. Out of these, six conditions are where one dosha is increased, the second is normal and the third is decreased. In three types of combinations, two dosha are increased and the third decreased. Finally, there are three types of combinations where one dosha is increased and the other two are decreased. [43-44] 
+
+### Twelve types of irregular (vishama) sannipata(combination of dosha)
+
+#### 1\. Normal pitta, decreased kapha and increased vata sannipata
+
+In a condition where kapha is decreased, vata that takes out normal pitta from its site and spreads it within the body. Wherever this pitta is placed, there is intermittent breaking pain and burning sensation as well as fatigue and weakness [46] 
+
+#### 2.Normal kapha, increased vata and decreased pitta sannipata
+
+In a condition of decreased pitta, the increased vata that takes out normal kapha from its site and spreads it within the body. Wherever this kapha is placed, there is coliky pain, coldness, stiffness and heaviness [47] 
+
+#### 3\. Normal vata, decreased kapha, and increased pitta sannipata
+
+In a condition of grossly decreased kapha, when increased pitta obstructs the pathway of normal vata, causing burning sensation and coliky pain (shula) [48] 
+
+#### 4\. Normal kapha, decreased vata, and increased pitta sannipata
+
+In case of a grossly decreased vata, increased pitta obstructs the normal kapha, causing fever accompanied with a feeling of heaviness and drowsiness [49] 
+
+#### 5\. Normal vata, decreased pitta, and increased kapha sannipata
+
+In the case of decreased pitta, if increased kapha obstructs the normal vata leading to a sensation of cold, heaviness and pain [50] 
+
+#### 6\. Increased kapha, normal pitta, and decreased vata sannipata
+
+In case of decreased vata, if increased kapha obstructs the normal pitta then it causes slow digestion,stiffness of head, excessive sleep, drowsiness, delirium, cardiac diseases, heaviness in the body, yellowness in nails etc and excess discharge of kapha-pitta[51-52] 
+
+#### 7\. Decreased vata,increased kapha, and pitta sannipata
+
+#### 8\. Decreased pitta, increased kapha, and vata sannipata
+
+In case of decreased pitta, the increased kapha and vata combine together , causing stiffness, coldness, unstable pricking pain, heaviness, diminution of digestion, disinclination for food, tremors, pallor of nails etc., and roughness of the body parts [53-56] 
+
+#### 9\. Decreased kapha, increased vata and pitta sannipata
+
+In case of decreased kapha and an increased vata and pitta combine together, causing giddiness, cramps, pricking pain, burning sensation, disruption, tremors, body-ache, dehydration, burning of mouth, throat and palate and smoke from mouth [57-58] 
+
+#### 10\. Decreased vata and pitta and increased kapha sannipata
+
+In case of decreased vata and pitta and an increased kapha, obstruction of srotas causes complete loss of movement, loss of speech and fainting (59). 
+
+#### 11\. Decreased vata and kapha and increased pitta sannipata
+
+In case of decreased vata and kapha with an increased pitta, by affecting the ojas causes malaise (_glani_), asthenia of senses, thirst, fainting and decreased physiological functions (60). 
+
+#### 12\. Decreased pitta and kapha and increased vata sannipata
+
+In case of decreased pitta and kapha, an increased vata causes compression of the vital centres, adversely impacts consciousness, or leads to severe tremors throughout the whole body [61] 
+
+### General principle of symptoms of increased and decreased dosha
+
+An increase in dosha causes a consequent provocation, to the same extent as the increase, of a symptom of a disease. On the other hand a decrease of dosha leads to decreased or reduced functions. In normal conditions, dosha are in an equilibrium [62] 
+
+### Types of _kshaya_ (decrease)
+
+Now the symptoms of decrease of dosh,dhatu, mala(i.e., excreta such as urine, feces,and excreta of nose, ears, eyes and mouth, as well as body hair) and ojas will be described. The symptoms of decreased dosha have already been described. [63] 
+
+#### Decrease of rasa dhatu
+
+Symptoms of diminution of rasa dhatu include restlessness (or feeling as if the heart is being churned), intolerance to loud sounds, acceleration of flow (tachycardia), pain and distress even with the slightest exertion [64] 
+
+#### Decrease of rakta dhatu
+
+Symptoms of decrease of rakta dhatu include roughness, cracks, withering and dryness of skin.[65] 
+
+#### Decrease of mamsa dhatu
+
+Symptoms of decrease in mamsa dhatu include thinning specially of hips, neck and belly [65] 
+
+#### Decrease of meda dhatu
+
+Symptoms of decrease of meda dhatu include cracking of the joints, lassitude of eyes, exhaustion and thinning of the abdomen [66] 
+
+#### Decrease of asthi dhatu
+
+Symptoms of decrease of asthi dhatu are loss of scalp and body-hair, beard, nails and teeth, fatigue and loose joints [67] 
+
+#### Decrease of majja dhatu
+
+Symptoms of decrease of majja dhatu are atrophy of bone tissues, weakness and lightness of bones and the patients suffers frequently from vata disorders [68] 
+
+#### Decrease of shukra dhatu
+
+Symptoms of decrease in shukra dhatu include debility, dryness of mouth, pallor, asthenia, fatigue, impotency and absence of ejaculation [69] 
+
+#### Decrease in purisha
+
+In decrease of purisha, provoked vata causes painful peristalsis in the intestine which spreads upwards and oblique, causing distension of belly and dryness [70] 
+
+#### Decrease of mutra
+
+Symptoms of decrease of mutra include dysuria, discoloration of urine, excessive thirst and dryness of mouth [71] 
+
+#### Decrease of malayana

@@ -1,0 +1,239 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Importance of _swedana_
+ * 2.2 _Scope of Swedana_
+ * 2.3 Mode of _swedana_ as per site of _dosha_
+ * 2.4 Sensitive body parts for _swedana_
+ * 2.5 Pre-sudation care
+ * 2.6 Care during sudation therapy
+ * 2.7 Indications for stopping sudation
+ * 2.8 Signs of over-sudation and its treatment
+ * 2.9 Contra-indications of _swedana_
+ * 2.10 Indications of _swedana_
+ * 2.11 _Swedana dravya_ (material for sudation)
+ * 2.12 Preparation for comfortable sudation
+ * 2.13 Decoctions for _nadi sweda_ (tubular fomentation)
+ * 2.14 Material for _avagaha sweda_ (tub fomentation)
+ * 2.15 Material for _upanaha sweda_ (poultice fomentation)
+ * 2.16 Thirteen types of _sweda_
+ * 2.16.1 _Sankara sweda_ (bolus fomentation)
+ * 2.16.2 _Prastara sweda_ (lying on a medicinal mattress)
+ * 2.16.3 _Nadi sweda_ (tubular steam sudation)
+ * 2.16.4 _Parisheka sweda_ (shower technique for fomentation)
+ * 2.16.5 _Avagaha sweda_ (tub fomentation)
+ * 2.16.6 _Jentaka sweda_ (sudation therapy in room)
+ * 2.16.7 _Ashmaghana sweda_ (sudation on heated slab of stone)
+ * 2.16.8 _Karshu sweda_ (sudation by using heat in a trench under bed)
+ * 2.16.9 _Kuti sweda_ (sudation in a cottage) and _bhu sweda_ (sudation on floor)
+ * 2.16.10 _Kumbhi sweda_ (sudation with a pitcher)
+ * 2.16.11 _Kupa sweda_ (sudation in a pit)
+ * 2.16.12 _Holaka sweda_ (sudation using a heap of dung)
+ * 2.17 Ten sudation methods without using fire
+ * 2.18 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Clinical administration of swedana
+ * 4.2 _Kizhi / Pinda / Pottali_
+ * 4.2.1 Preparation of _Kizhi_
+ * 4.2.2 Preparation of the patient
+ * 4.2.3 Application of _kizhi_
+ * 4.2.4 General Indications of _swedana_ by _kizhi_
+ * 4.2.5 _Dosha_ -specific indications of _kizhi_
+ * 4.3 _Prakriti_ & season specific indications of _kizhi_
+ * 4.4 _Patrapottali sweda_ (sudation using bolus made of herbal leaves)
+ * 4.4.1 Materials required
+ * 4.4.2 Preparation of _pottali_
+ * 4.4.3 Procedure
+ * 4.4.4 Indications
+ * 4.5 _Jambeera pinda sweda_ (sudation using bolus made of lemon)
+ * 4.5.1 Materials required
+ * 4.5.2 Preparation of medicine
+ * 4.5.3 Preparation of the patient & Procedure
+ * 4.5.4 Indications
+ * 4.5.5 Specific care
+ * 4.6 _Churna pinda sweda_ (Sudation using bolus made of herbal powders)
+ * 4.6.1 Material required
+ * 4.6.2 Preparation of _pottali_
+ * 4.6.3 Procedure
+ * 4.6.4 Indications
+ * 4.6.5 Special care
+ * 4.7 _Shashtika pinda sweda_ (sudation using bolus made of _shashtika_ rice)
+ * 4.7.1 Materials required
+ * 4.7.2 Preparation of medicine
+ * 4.7.3 Preparation of _shashtika_
+ * 4.7.4 Preparation of _pottali_
+ * 4.7.5 Procedure
+ * 4.7.6 Indications
+ * 4.7.7 Special care
+ * 4.8 _Ksheera dhuma_ (fomentation by steam of medicated milk)
+ * 4.8.1 Materials required
+ * 4.8.2 Preparation of medicine
+ * 4.8.3 Preparation of the patient
+ * 4.8.4 Procedure
+ * 4.8.5 Indications
+ * 4.9 Avagaha (sitz bath)
+ * 4.9.1 Materials required
+ * 4.9.2 Preparation of patient
+ * 4.9.3 Procedure
+ * 4.9.4 Indications
+ * 4.10 _Pizhicchil_
+ * 4.10.1 Materials required (for 7 days)
+ * 4.10.2 Preparation of patient
+ * 4.10.3 Preparation of medicine
+ * 4.10.4 Procedure
+ * 4.10.5 Complications
+ * 4.10.6 Indications
+ * 4.11 _Dhanyamla dhara_
+ * 4.11.1 Materials required
+ * 4.11.2 Preparation of patient
+ * 4.11.3 Procedure
+ * 4.11.4 Indications
+ * 4.11.5 Practical tips
+ * 5 References
+
+## Introduction
+
+As per Ayurveda, the functioning of the universe depends upon _agni_ and _soma_ which symbolize sources of hot and cold energy. _Uttarayana_ (northward sojourn of sun) and _dakshinayana_ (southward sojourn of sun) are together responsible for maintaining homeostasis on this planet. This homeostasis is also mirrored in the individual through the concept of _loka purusha samanya siddhantha_ (that the individual is a microcosm of the universe, the macrocosm). The _purusha_ (individual human being) imbibes this energy and confines it in the _sharira_ (body) as _pitta_. This _pitta_ controls, or rather regulates, the _ushmanattva_ (core body temperature) of the body. [Cha.Sa.Sutra Sthana 12/11] It is responsible for all the metabolic processes at the cellular level and digestion at the level of the gut. _Pitta_ is the contributor of _ushnaguna_ (warmth) to the body. The stimulator (_preraka_) of _pitta_ is _vata_ (the accelator-_sameerano agnehe_. [Cha.Sa.Sutra Sthana 12] _Vata_ , in association with _pitta_ and _kapha_ , maintains the normal core body temperature by controlling the heat regulating system and balancing the _sheeta_ and _ushnaguna_. 
+
+_Swedana_ uses the _agni_ principle in therapy. Practical applications of _swedana_ procedures, along with indications, contraindications and complications associated with their management have been described in this chapter. It is recommended after proper _snehana_ and is enlisted as one among six important therapies along with _langhana_ (fasting or reducing therapy), _brimhana_ (nourishing therapy), _snehana_ (oleation), _stambhana_ (styptic therapy) and _rukshana_ (drying therapy)._Swedana_ has to be adopted based on the symptoms and conditions considering the _samanya visesha sidhantha_ (theory of similarity and dissimilarity). _Swedana_ procedures are indicated in _vata, kapha_ and _vata-kapha dosha_ dominant disorders, but are contraindicated in _pittaja_ disorders. There are three types of twin procedures (with opposing actions to each other) used for various conditions: 
+
+ 1. Thirteen types of procedures of _sagni sweda_ (induced with help of fire) and ten types of _niragni/anagniswedana_ (induced without help of fire) described for various sudation procedures.
+ 2. _Ekangtah-sarvangtah_ (localized-generalized). An _ekangtah_ , or localized _swedana,_ is administered by means of _sankara sweda_ (bolus fomentation) and _naadisweda_ (using a tube for fomentation) etc. and _sarvantah_ or generalized _swedana_ is administered by means of _prastar_ (lying down on medicated hot mattress) and _jentaaka_ , (sudation in a heated room) etc.
+
+_Snigdha_ (unctuous) procedures for _vata_ dominant disorders and _ruksha_ (dry) procedures for _kapha_ dominant disorders are advised. In _vata-kapha_ dominant disorders, _snigdha-ruksha_ procedures are recommended. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Sweda"(sudation). Thus said Lord Atreya. [1-2] 
+
+### Importance of _swedana_
+
+Now the various techniques of sudation will be explained. A well administered sudation cures various disorders of _vata_ and _kapha_ origin, provided they have been identified among a set of diseases that are curable by inducing sweat. Administering sudation, especially after oleation, controls _vata_ and prevents clogging of feces, urine as well as semen. If oleation and sudation could soften dried out timber, then why not a human being? [3-5] 
+
+Sudation that is neither too hot (and unbearable) nor too mild (and insufficient), administered with suitable drugs and applied as per the disease condition, season and the diseased person in specific, at the affected and the indicated body part, is indeed effective. [6] 
+
+Strong fomentation is indicated in a physically strong patient with severe illness in an extreme cold climate. In a weak person, mild fomentation and in a moderately strong patient, moderate fomentation is preferred. In _vatakapha,vata_ or _kapha_ -dominant, sudation technique is to be applied with the help of unctuous and dry agents, only unctuous agents or only dry agents respectively. [7-8] 
+
+### Mode of _swedana_ as per site of _dosha_
+
+When _vata_ is located at the site of _ama_ (_amashaya_ or stomach), sudation is administered with dry agents and when _kapha_ is located in the site of _pakva_ (_pakwashaya_ ,or colon) , sudation is initiated with unctuous agents. [9] 
+
+### Sensitive body parts for _swedana_
+
+In the sensitive areas of testicles, precordium and eyes, sudation is not done or done very gently. Moderate sudation may be applied in the area of groins. In other parts of the body, sudation is done as desired. [10] 
+
+### Pre-sudation care
+
+Before starting sudation, eyes should be closed and covered with very clean cloth or bolus of wet wheat powder or petals of lotus (Nelumbo nucifera) or white lotus (Nymphaea alba). [11] 
+
+### Care during sudation therapy
+
+While sudation is being administered, the precordial region should be frequently touched with a string of cool pearls or cold vessels or wet lotuses or even with wet hands. [12] 
+
+### Indications for stopping sudation
+
+It is indicated that sudation procedure should be stopped when the patient is relieved from feeling cold, pain, stiffness, heaviness and feels softness in the body. [13] 
+
+### Signs of over-sudation and its treatment
+
+The symptoms of oversudation include aggravation of _pitta_ , fainting, generalized fatigue, thirst, burning sensation, low or weak voice, and weakness of limbs. In oversudation the entire regimen explained for summer season in Tasyashiteeya chapter, and consuming food articles that are sweet, unctuous and cool is to be followed. [14-15] 
+
+### Contra-indications of _swedana_
+
+The physician should be aware that sudation is contraindicated in those who regularly consume astringents and alcohol, in pregnant women, persons with bleeding disorders, individuals with _pitta_ predominance, those who are suffering from diarrhoea and sicca, patients with diabetes mellitus, inflamed colon, prolapsed rectum, in toxic conditions, fatigued, unconscious, obese, _pitta_ -predominant diabetics, individuals having thirst, hunger, anger, depression, jaundice, ascitis, injured, rheumatoid diseases, weakness, extremely emaciated, highly immune compromised and those who often suffer from blackouts. [16-19] 
+
+### Indications of _swedana_
+
+It is said that _swedana_ is useful in rhinitis, cough, hiccups, breathing difficulties, heaviness of body, earache, headache, cervical pain, hoarseness of voice, choking sensation of throat, facial palsy, monoplegia, quadriplegia, hemiplegia, prostrated postures, abdominal flatulence, constipation, urinary retention, excessive yawning, stiffness of flanks, dorsum, lumbar and abdomen, sciatica, dysuria, scrotal enlargement, body ache, pain and stiffness of dorsum of foot, knee, thigh and calf, edema, severely painful radiculopathy, indigestion, chills and shivering, subluxation of ankle, contractures, convulsions, colicky pains, stiffness, heaviness and numbness, and such disorders anywhere in the body. [20-24] 
+
+### _Swedana dravya_ (material for sudation)
+
+Fomentation bolus prepared with _tila_ (Sesamum indicum Linn.), _masha_ (Phaseolus radiates Linn.), _kulatha_ (Dolichos biflorus Linn.), sour preparations, _ghee_ , oil, meat, boiled rice (_odana_), sweet porridge (_payasa)_ , boiled mixture of cereals and legumes (_krishara_) and flesh, feces of cow, ass, camel, pig and horse along with barley grains with chaff, sand, dust, stone, dried cow dung and iron powder is effective for fomentation in the cases of _kapha_ and _vata_ related diseases. These articles may also be used for fomentation using a hot stone (_prastara sweda_). [25- 27] 
+
+### Preparation for comfortable sudation
+
+To get a comfortable sudation experience, the patient should have oil applied to his body and then exposed to some heat in an underground cellar (_jentaka_) type room, or a warm enclosed room that is heated with firebrands and is devoid of smoke. [28] 
+
+### Decoctions for _nadi sweda_ (tubular fomentation)
+
+Proper decoctions may be prepared out of flesh of domesticated, marshy or aquatic animals, milk, head of goat, blood, bile and flesh of pig, unctuous substances like sesame seeds and cereals, and tubular fomentation may be applied appropriately by an expert physician, considering variations in geography and season. Tubular fomentation can also be done with decoctions of leaves of _varuna_ (Crataeva religiosa Forst.), _amritaka_ (Tinospora cordifolia), _eranda_ (Ricinus communis), _shigru_ (Moringa oleifera), _mulaka_ (Raphanus sativus), _sarshapa_ (Brassica nigra), _vasa_ (Adathoda vasica), _vamsha_ (Bambusa arundinacea), _karanja_ (Pongamia pinnata), _arka_ (Calotropis gigantea), _ashmantaka_ (Bauhinia racemosa), _sobhanjana_ (variety of _shigru_), _saireya_ (Barleria prionitis), _malati_ (Jasminum grandiflorum), _surasa_ (Ocimum sanctum), and _arjaka_ (Ocimum gratissimum). [29-33] 
+
+### Material for _avagaha sweda_ (tub fomentation)
+
+These same decoctions can be used in a water tub for fomentation. In a similar manner, _ghee_ , milk, and sesame oil may also be used in tub fomentation. [34] 
+
+### Material for _upanaha sweda_ (poultice fomentation)
+
+Poultice for fomentation can be prepared with wheat powder and/or barley flour mixed with sour preparations, oily substances, yeast, and salt. Poultice can also be logically prepared with aromatic drugs, _jivanti_ (Leptandenia reticulata), _shatapushpa_ (Foeniculum vulgare), _uma_ (Linum usitatissimum), and _kushta_ (Saussurea lappa) mixed with oil. 
+
+Non-putrefied hairy leather of hot potency animals should be used as a bandage when using poultice. In case of non availability, silk or woolen blanket can also be used. [35-37]
+
+To prevent burning sensations, the bandage applied at night should be removed in the morning and the one applied during the day should be removed at night. The duration of bandage application may be prolonged in cold weather. [38] 
+
+### Thirteen types of _sweda_
+
+Thirteen varieties of fomentation are _sankara, prastara, nadi, parisheka, avagahana, jentaka, ashmaghna, karshu, kuti, bhu, kumbhika, kupa,_ and _holaka_. They are further detailed accordingly in the same sequence. [39-40] 
+
+#### _Sankara sweda_ (bolus fomentation)
+
+Fomentation by means of bolus containing prescribed drugs with or without being wrapped with clothes is termed as _sankarasweda_. [41] 
+
+#### _Prastara sweda_ (lying on a medicinal mattress)
+
+The fomentation technique involving an individual with oil properly applied all over his/her body, lying down on a mattress prepared with corn, pulse and _pulaka_ (type of grain), or steamed boneless meat (_vesavara_), sweet porridge, boiled mixture of pulses and cereals (_krishara_), and pudding cake (_utkarika_), covered with silk, woolen pieces or leaves of _panchangula_ (Ricinus communis), _urubuka_ (variety of the same plant) and _arka_ (Calotropis gigantean, is termed as _prastara sweda_. [42] 
+
+#### _Nadi sweda_ (tubular steam sudation)
+
+Drugs for fomentation like plant-based articles (roots, fruits, leaves, buds etc.) or animal-based articles (flesh and heads of animals and birds) are mixed up with sour, salt or unctuous substances and urine, milk, etc. and decocted in a pitcher in such a way that the vapor does not leak out. Then, a pipe made up of leaves of _vamsha_ (Bambusa arundinacea Retz.), _karanja_ (Pongamia pinnata Merr.) or _arka_ (Calotropis gigantea) with its fore part having the shape of the trunk of an elephant is inserted into the pitcher. The pipe required should be of one _vyama_ (91.44cm) or half a _vyama_ (45.72 cm) length, with its circumference being one-fourth of a _vyama_ (22.86 cm) in its proximal end, one-eighth of a _vyama_ in the distal end, and curved twice or thrice. All the clefts in the pipe should be well covered with leaves that alleviate _vata_. The well-massaged patient should then get this steam through the curved pipe. Curvatures of the pipe help in lessening the intensity of steam and thus help in providing a comfortable fomentation experience. This fomentation technique is called _nadi sweda_. [43] 
+
+#### _Parisheka sweda_ (shower technique for fomentation)
+
+A fomentation technique that involves taking shower, using pitchers or vessels with holes at the bottom (_varshanika_) or pipes, filled with lukewarm decoctions of roots of drugs that alleviate isolated _vata_ or _vata_ -predominant disorders, after suitable application of oil over body parts covered with cloth, is termed as _parisheka_. [44] 
+
+#### _Avagaha sweda_ (tub fomentation)
+
+Fomentation by immersion in a tub filled up with _vata_ alleviating decoctions, milk, oil, ghee, meat juices or hot water is termed as _avagaha_. [45] 
+
+#### _Jentaka sweda_ (sudation therapy in room)
+
+Examine the land thoroughly before resorting to the _jentaka_ type of fomentation. Construct a circular building facing east or north, with a pond in front and ensuring that the site is in the eastern or northern side of the village. The building should be situated at a distance of 7- 8 _aratnis_ (320-365 cm) from the pond. The land should be fertile, plain, and black or golden in colour. The height and diameter of the building should be 16 _aratni_ each. (731 cm) and should be circular (as mentioned earlier), well plastered with mud and with many windows. A bench having 1 _aratni_ (approximately 45 cm) width and height should be prepared all around the wall up to the door. An oven of clay, with a lid and with many holes, of four _hasta_ diameter, and of height equal to that of the individual should be prepared in the center of the room. This oven should be filled up with fuel of _khadira_ (acacia catechu) and _aswakarna_ (dipterocarpus alatus) and ignited. As the wooden fuel is properly burned and the room is wellheated with fire alone (i.e., devoid of any smoke), it should be understood as fit for sudation with heat. Then you request the patient,who is well massaged with oil prepared with vata alleviating drugs and covered with a cloth, to enter the room by saying “Oh gentleman! Enter the room for the sake of your auspicious health. Go to the bench and lie down thereon, alternately changing sides comfortably, you should not leave the bench even if you feel fainting by severe sweating until you feel suffocated, otherwise on leaving you may not be able to reach the door and it may be fatal, do not leave the bench. As you feel yourself free from all clogging, with sticky sweat drained and all channels open, light and devoid of obstructions, stiffness, numbness, pain, and heaviness, you should then leave the bench and exit through the door. After coming out of that room, do not immediately apply cold water for the sake of your eyes. After one _muhurta_ , as the heat and exertion subsides, you should bathe in lukewarm water and then eat a meal”. This is _jentaka sweda_. [46] 
+
+#### _Ashmaghana sweda_ (sudation on heated slab of stone)
+
+A compact slab of stone, of the length of an average human body, is heated with _vata_ alleviating wooden fuel. Then all the firebrands are removed and the slab sprinkled with hot water and covered with silk or woolen sheets. The person, well massaged with oil all over his body and covered with garments is made to lie down on the slab for sudation. This fomentation technique is called _ashmaghna sweda_. [47-49] 
+
+#### _Karshu sweda_ (sudation by using heat in a trench under bed)
+
+A physician well versed in location should get dug a flask-shaped trench right below the bed-stead (this technique assumes earthen/mud-thatched houses), fill it up with smokeless firebrands and lay the patient on the bed over this. This fomentation technique is termed as _karshu sweda_. [50-51] 
+
+#### _Kuti sweda_ (sudation in a cottage) and _bhu sweda_ (sudation on floor)
+
+A thick – walled, round cottage that is neither too high, nor too wide, and without any windows should be constructed with its inner walls plastered with drugs like _kushtha_ (Saussurea lappa). There should be a bed at the center of this cottage covered with sheets prepared from cotton, silk, animal skin, a variety of grass (_kuttha_), woolen blanket, or a variety of woolen cloth / wooden ball (_golaka_). The bed should be surrounded with furnaces filled up with firebrands. The person, with oil applied all over his body, would lie on this bed for fomentation. This fomentation technique is termed as _kuti sweda_. 
+
+_Bhusweda_ is done on floor with the same methods as _asmaghna sweda_ and is administered in well chosen, leveled sites free from excessive wind. [52-55] 
+
+#### _Kumbhi sweda_ (sudation with a pitcher)
+
+A pitcher, filled up with decoction of vata alleviating drugs should be buried in earth upto one-fourth or one-fourth of it and a bed covered with a thin sheet kept over it. The patient, well massaged with oil alleviating _vata_ and covered with a cloth, should either lie down or sit on the bed. Thereafter hot iron balls or stones should be put into the pitcher. The heat coming out of the pitcher helps in fomentation and this is termed as _kumbhisweda_. [56-58] 
+
+#### _Kupa sweda_ (sudation in a pit)
+
+In a location free from excessive wind, a pit of the width of a bed and twice as deep as wide should be dug. Its inner portion should be well cleaned and filled with dried dung of elephant, horse, cows, ass, or camel and then ignited. A bed or sheet covered with a thin sheet should be kept over it. The patient, well massaged with oil and covered with cloth, should either lie down or sit over the bed till proper fomentation. This technique is called as _kupasweda_. [59-60] 
+
+#### _Holaka sweda_ (sudation using a heap of dung)
+
+A heap of dung (of similar description as above) of the size of a bed is ignited. After it is completely burnt and becomes smokeless, a bed covered with a thin sheet is kept over it. The patient, well massaged with oil and covered with cloth, is made to lie down over the bed for comfortable fomentation. This is called _holaka sweda_ and is considered healthy by sages. 
+
+Thus ends the description of the thirteen types of fire-induced sudation. [61-63] 
+
+### Ten sudation methods without using fire
+
+Ten methods of sudation without fire include exercises, residing in a warm chamber, wearing heavy clothing, restraining hunger, consuming excess liquid (specially alcoholic beverages) , fear, anger, poultice, wrestling and exposure to sunlight. [64-65] 
+
+As described earlier, fomentation can be categorized into two types- using fire and not using fire. Again, there could be two types of fomentation based on whether the whole body is exposed or only parts of it. Another categorization is based on whether it is wet or dry fomentation. These three pairs of fomentation types are well known forms of sudation. [65-66] 
+
+A well oleated person should be subjected to sudation and on proper sweating, should take a wholesome diet. After fomentation, the patient should abstain from exercise that day. [67] 
+
+### Summary

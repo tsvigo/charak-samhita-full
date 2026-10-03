@@ -1,0 +1,253 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Specifications of Punarvasu
+ * 2.2 Causes of _unmada_
+ * 2.3 Pathogenesis of _unmada_
+ * 2.4 Clinical features
+ * 2.5 Types of _unmada_
+ * 2.6 _Vata_ dominant _unmada_
+ * 2.7 _Pitta_ dominant _unmada_
+ * 2.8 _Kapha_ dominant _unmada_
+ * 2.9 _Sannipata unmada_ (due to vitiation of all _doshas_)
+ * 2.10 _Agantu unmada_ (exogenous type)
+ * 2.11 Signs of _bhutonmada_ (affliction of evil spirits)
+ * 2.12 Various types of _agantu unmada_
+ * 2.12.1 Affliction by God
+ * 2.12.2 Affliction by _unmada_ due to affliction of guru etc.
+ * 2.12.3 _Unmada_ due to affliction of ancestors or forefathers
+ * 2.12.4 _Unmada_ due to affliction of _gandharva_ (celestial musicians)
+ * 2.12.5 _Unmada_ due to affliction of _yaksha_
+ * 2.12.6 _Unmada_ due to affliction of _rakshasa_ (demons)
+ * 2.12.7 _Unmada_ due to affliction of _brahma-rakshasa_ (a class of evil demons)
+ * 2.12.8 _Unmada_ due to affliction of _pishacha_
+ * 2.13 Days, time and susceptible persons for affliction
+ * 2.14 Untreatable _unmada_
+ * 2.15 Management principles
+ * 2.16 Various formulations
+ * 2.16.1 _Hingvadi ghee_
+ * 2.16.2 _Kalyanaka_ ghee
+ * 2.16.3 _Mahakalyanaka ghee_
+ * 2.16.4 _Mahapaishachika ghee_
+ * 2.16.5 _Lashunadya ghee_
+ * 2.16.6 Second formulation of _lashunadya ghrita_
+ * 2.16.7 Different useful recipes of medicated ghee
+ * 2.17 Therapeutic utility of old ghee
+ * 2.18 External applications in _vata-kapha_ dominant _unmada_
+ * 2.18.1 _Siddharthakadi Agada_
+ * 2.19 Treatment of _pitta_ dominant _unmada_
+ * 2.20 Isolation of _unmada_ patients
+ * 2.21 Psychotherapy and other therapies
+ * 2.22 Therapies in mental trauma patients
+ * 2.23 Spriritual therapies in exogenous type of _unmada_
+ * 2.24 Signs of complete cure of _unmada_
+ * 2.25 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Similar conditions observed in contemporary psychiatry
+ * 4.1.1 _Nija unmada_ (endogenous psychoses)
+ * 4.1.2 _Agantuja unmada_ (exogenous psychoses)
+ * 4.2 Management of _unmada_
+ * 4.2.1 _Yuktivyapashraya Chikitsa_ (rational treatment)
+ * 4.2.2 Concept and rationale of _ghrita-pana/ shamana sneha pana_
+ * 4.2.3 Recommended therapies for _dosha_ dominant _unmada_
+ * 4.2.4 Specific therapies by _dosha_ dominant _unmada_ , and prescribed medicines
+ * 4.2.5 Useful single drugs mentioned in unmada
+ * 4.2.6 Compound Formulations
+ * 4.3 _Pathya Apathya_ (Dietary Indications and contraindications)
+ * 4.3.1 _Pathya_
+ * 4.3.2 _Satvavajaya_
+ * 4.4 Contemporary researches
+ * 4.4.1 Hingvadi Ghrita
+ * 4.5 Summary
+ * 5 References
+ * 5.1 Further reading
+ * 5.2 Related Chapter
+
+## Introduction
+
+The _unmada_ covers a wide range of major mental disorders and is considered synonymous with madness and mental derangement, in which a person loses his/her contact from reality and loses the ability to regulate his/her actions and conduct according to norms of the society. In _unmada_ there is upward movement of _doshas_ leading to disturbance in the functions of _manas_ causing _mada_ ( delusional/ intoxicated state ) in an individual. The factual clinical picture of the mental status of psychotic patients is vividly described. This description suggests that a patient of _unmada_ develops derangement of all the activities of _manas_ (mind), _buddhi_(intellect), _ahamkara_ (conceit of self-individuality) and _indriyas_ (senses). He develops thought disturbances in the form of abnormalities of _chintana_ (thinking), _vichara_(discrimination) and _uhya_ (analysis), derangement of memory in the form of _smriti nasha_ (loss of memory) and _smriti bramsha_ (impairment of memory), behavioral, social and emotional disturbances in the form of abnormalities of _achara_ (behaviour), _dharma_ (eternal duties) and _bhavas_ (mental factors) along with functional derangement of _indriyas_ which is manifested clinically as disturbed speech and its various presentations like incoherence (_abaddha vakyama_), thought blocking (_hridaya shunyata_ ), loosening of associations, neologism, echolalia etc. and various psycho-motor disturbances . 
+
+Thus, _unmada_ is not a lone clinical entity comparable to a single modern diagnostic category, rather it is a syndrome describing a group of psychotic disorders. It is a common and broader entity, which provides guidance to the line of management for almost all psychiatric disorders in Ayurveda. In this ailment, the intellect, mind and memory get perverted. _Unmada_ can be described as the disordered state of mind, in which an individual loses the ability of regulating his/her actions and conduct according to the rules of society. As the psychotic disorders cover almost all the major mental illnesses, the different types and sub-types of _unmada_ can be separately correlated with different psychotic disorders. The clinical features of the different types of _unmada_ resemble various types of schizophrenia, manic psychosis, psychotic depression / major depressive disorder. _Unmada_ is divided into two broad categories – 
+
+(1) _Nija_ \- those caused by internal imbalance of body humors i.e. _vata, pitta, kapha_ and the _sannipataja_ and the 
+
+(2) _Agantunimitta_ \- those caused by exogenous factors. 
+
+The medicated _ghrita_ , the most preferred dosage form for the management, enhances intellect, memory and plays an important role in the treatment of _unmada_. Hence many _ghrita_ formulations have been described for the management. _Anjana_ and _nasya_ are other treatment modalities indicated in _unmada_. Vagbhata emphasizes upon their importance by saying that if all medications for _unmada_ like _vamana, virechana_ etc. fail, one should do _teekshna anjana_ and _nasya karma_. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Unmada Chikitsa" (Management of psychosis disorders). Thus said Lord Atreya. [1-2] 
+
+### Specifications of Punarvasu
+
+Punarvasu, the abode of intellect, memory, knowledge, penance and saviour of living beings, timely described the etiology, symptoms and treatment of _unmada_ to Agnivesha as queried. [3] 
+
+### Causes of _unmada_
+
+Food with incompatible, contaminated and unclean properties; possession by spirits like gods, teachers and _brahmanas_ ; mental trauma due to recurrent exposure to fear or exhilaration and adopting difficult posture are the general causes of _unmada_.[4] 
+
+### Pathogenesis of _unmada_
+
+By the above causative factors, the dosha get vitiated in the person possessing low level of sattva guna (weak minded people) in turn vitiate hridaya (mind), which is seat of intellect. There from the channels carrying mental factors (manovaha srotas), quickly delude the mind of the person. [5] 
+
+### Clinical features
+
+Perverted intellect, psychic agitation, restlessness in eyes, impatience, incoherent speech and feeling of emptiness in _hridaya_ (mind), these are the general features of _unmada_. 
+
+Thus, the person with deranged mind does not know pleasures, pain, ethics and eternal duties and does not get peace anywhere. Therefore, he lets the mind wander here and there due to loss of memory, intellect and perceptions. [6-7] 
+
+### Types of _unmada_
+
+_Unmada_ refers to excessive affliction of intellect, mind and memory. This is of two types – _nija_ (endogenous) and _agantuja_ (exogenous). According to origin, it is of five types.(I) will describe their symptoms and treatment separately.[8] 
+
+### _Vata_ dominant _unmada_
+
+_Vata_ gets aggravated by the intake of rough, deficient in quantity and cold in property food, excessive evacuation of _doshas,_ depletion of body tissues and fasting. This aggravated _vata_ affects the _hridaya_ (site of mind), which is already afflicted with anxiety etc. and thus quickly deranges intellect and memory. 
+
+Laughing, smiling, dancing, singing, speaking, abnormal movement of body parts, weeping at improper places and improper time, roughness, emaciation, reddish discoloration of body parts and aggravation of the disease after digestion of food; are the clinical features of the _vata_ dominant _unmada_ .[9-10] 
+
+### _Pitta_ dominant _unmada_
+
+The already accumulated _pitta_ gets aggravated due to indigestion, by the intake of pungent, sour food, those articles causing burning sensation, and hot in potency. It takes shelter in the _hridaya_ (site of mind) in the person without self restraint and thus suddenly gives rise to severe episode of _unmada_ as per the above mentioned pathogenesis. 
+
+Intolerance, agitation, nakedness, terrorizing, excessive movements, (running), heat, wrath (anger), yellowish luster and desire for dense shady places, cold food - are the clinical features of pitta dominant _unmada_. [11-12] 
+
+### _Kapha_ dominant _unmada_
+
+In the persons taking excessive food and doing slow activities (having sedentary habits), _kapha_ along with heat (_pitta_) increases in their vital organ (_hridaya_), impairing intellect and memory and thereby deranging their mind produces insanity. Slow speech and movements, anorexia, and liking for women and loneliness, excessive sleep, vomiting, salivation, aggravation of the disease after taking meals and whiteness of nails etc.– these are the clinical features of the _kapha_ dominant _unmada_. [13-14] 
+
+### _Sannipata unmada_ (due to vitiation of all _doshas_)
+
+The severe type of _unmada_ arising from _sannipata_ (aggravation of all three _doshas_) is caused by all the above etiological factors. It presents with all the above characters in mixed form and because of antagonistic therapeutic principles, it is difficult to treat and therefore should be rejected. [15] 
+
+### _Agantu unmada_ (exogenous type)
+
+Possession by the gods, sages, _gandharvas_ (celestial choristers), _pishachas_ (devils), _yakshas_ (living supernatural being/spiritual apparition), _rakshasas_ (demons) and _pitru_(forefathers/ancestors spirits); unmethodical performance of spiritual rituals and vows etc. and the deeds of past life are the causes of the exogenous type of _unmada_. [16] 
+
+### Signs of _bhutonmada_ (affliction of evil spirits)
+
+Persons presenting with superhuman speech, valor, power and activities along with superhuman knowledge, understanding, strength etc. and having irregular time of aggravation of the disease, are the clinical features of _unmada_ caused by exogenous causes (evil spirits). [17] 
+
+Celestial beings invisibly and swiftly enter into the body of a person by their own supernatural effect without affecting the body of the individual. This simulates with as image enter the mirror and sunlight enters the sun-stone. [18] 
+
+As said earlier in the diagnosis -section, prodromal features coincide with the entry of celestial beings. Now listen about the symptoms of various types separately, time of affliction and susceptible person. [19] 
+
+### Various types of _agantu unmada_
+
+#### Affliction by God
+
+Gentle look, serious, unassailable, unwrathful, having no desire for sleep and food, with decreased sweat, urine, stool and flatus, auspicious smell and face like blossomed lotus flower- are the characters of unmada caused due to affliction by gods. 
+
+#### Affliction by _unmada_ due to affliction of guru etc.
+
+One having movements, diet and speech corresponding to type of _abhishapa_ (curse), _abhichara_ (magical spell) or _abhidhyana_ (desire to transform by willpower), meditation of teacher, elders, accomplished person (_siddhas_) and sages should be known as _unmada_ caused due to affliction by them (_rishis_ etc.) respectively. 
+
+#### _Unmada_ due to affliction of ancestors or forefathers
+
+Unhappy look, inability to see, drowsiness, interrupted speech, lack of desire for food, anorexia and indigestion are the characteristics of the person suffering from _unmada_ caused due to affliction by _pitris_(manes). 
+
+#### _Unmada_ due to affliction of _gandharva_ (celestial musicians)
+
+Violent acts, over courageousness, sharpness, seriousness, invincibility, liking for vocal music, instrumental music played by mouth, dancing, singing, good food and drinks, garlands, incense, perfume, red apparels, _bali_ (offerings of sacrifices), laughing, humorous talks and pleasant aroma from the body are the features of the patients suffering from _unmada_ caused due to affliction by _gandharvas_ (celestial musicians). 
+
+#### _Unmada_ due to affliction of _yaksha_
+
+Frequent sleep, cry and laugh, liking for dancing, singing, playing instruments, reciting sacred scriptures, liking for stories, good food and drinks, garlands, incense, perfume, red & tearful eyes ,despising _dvijas_ (persons of families of _brahmana, kshatriya_ and _vaishyas_.) and physicians, disclosing the secrets are the features of the patients suffering from _unmada_ caused due to affliction by _yakshas_ (demigods, semi-divine celestial beings, attendants of _Kubera_ , the celestial physician). 
+
+#### _Unmada_ due to affliction of _rakshasa_ (demons)
+
+Sleeplessness, hatred for food and drinks, and excessive strength in spite of aversion for food, liking for weapons, blood, meat and red garlands and ferociousness are the features of the patients suffering from _unmada_ caused due to affliction by _rakshasas_ (demons). 
+
+#### _Unmada_ due to affliction of _brahma-rakshasa_ (a class of evil demons)
+
+Excessive laughter, dance, hatred and disobedience to Gods, _brahmins_ and physicians, reciting sacred scriptures and illustrations from hymns, the _Vedas_ and _mantras_ (incantations), injuring himself by pieces of wood etc. are the features of the patients suffering from _unmada_ caused due to affliction by _brahma-rakshasas_ (a class of evil demons). 
+
+#### _Unmada_ due to affliction of _pishacha_
+
+One who has impaired mind (fickle minded), does not find peace anywhere, dances, sings and laughs frequently, delirious with coherent or incoherent speech, fond of climbing on garbage, dirty lanes, cloth, grass, stone and wood, has hoarse and rough voice, remains naked, running and not standing at a place, always complaining of his miseries and sorrows before others and has lost his memory should be known as _unmada_ caused due to affliction by _pishacha_ (a class of demons). [20] 
+
+### Days, time and susceptible persons for affliction
+
+The Gods (_deva_) attack the person with purity and good conduct and engage in austerity and study of religious scriptures by finding an opportunity to afflict often on the first or thirteenth day of the bright fortnight. 
+
+The Sages (_rishis_) possess the person who is fond of bath, purity and loneliness and is conversant with religious scriptures and _vedic_ sentences often on sixth or ninth day of fortnight by finding an opportunity to afflict. 
+
+The forefathers (_pitris_) enter into the person who is engaged in the service of mother, father, and teacher, elders, _siddhas_ (who have accomplished spiritual perfection) and preceptors often on tenth day of the dark fortnight or new moon by finding an opportunity to afflict. 
+
+The _gandharvas_ (celestial musicians) enter into person who is fond of hymns (praising verses), vocal and instrumental music; has liking for others wife, perfume and garland, and has purity and good conduct often on twelfth and fourteenth day of the fortnight (by finding an opportunity to afflict in them). 
+
+_Yakshas_ possess a person endowed with mental and physical strength, good complexion, ego and valor, who are fond of garlands, unctuous substances and laughter, who is talkative generally during the seventh and twelfth day of bright fortnight (by finding an opportunity to afflict in them). 
+
+_Brahma-rakshasa_ enters into the person who has disliking for study, austerity, religious practices and rules, fasting celibacy and worship of god, ascetics and preceptors(_gurus_); lost interest in cleanliness, whether _brahmana_ or not but says himself as _brahmana_ , regards himself as brave, has fondness for playing in temples and water tanks often on the fifth day of the bright fortnight (_shukla paksha_) or full moon day . 
+
+_Rakshasa_ (demons) and _pishachas_ (a class of evil demons) attack the person who has inferior psyche (devoid of will power), has back- biting tendency, fond of women, thief, greedy and wicked often on the second, third and eighth day of the fortnight. These are the eight prominent ones among innumerable _grahas_ (seizures), which are described. [21] 
+
+### Untreatable _unmada_
+
+Of the above varieties of _unmadas,_ he who strikes at others or himself, without hesitation raising his hands with wrath and agitation should be considered as incurable. He who has tearful eyes, hemorrhage from penis, wounded tongue, running nose, a bruised skin, uninteractable hands, constantly groaning, deranged complexion, excessive thirst and foul smell should be known as maddened by a violent type of spirits (grahas) and should not be treated. [22] 
+
+### Management principles
+
+Those madden by the types of spirits possessing due to longing for pleasure and worship, should be ascertained as such by the liking (intentions) and behavior (conduct) of the patients and should be treated with administration of the mantras (incantations/hymns) and drugs mixed with the respective gifts and offerings. [23] 
+
+Now I will describe in brief and detail the treatment of both the endogenous and exogenous types of _unmada_. 
+
+In _vata_ dominant type, first of all one should prescribe intake of oils and _ghritas_ (_sneha_) substance but if there is obstruction in channels, mild unctuous evacuatives in small quantities should be administered. 
+
+If the insanity is caused by _kapha_ and _pitta_ , emesis and purgation should be given after unction and sudation. Post- evacuation dietetic regimen should be prescribed (gradually from lighter to heavier diet as per prescribed procedure). Thereafter non-unctuous (_niruha_) and unctuous (_anuvasana_) enema and nasal errhines (_shiro-virechana_) should be administrated. 
+
+Depending upon the predominance of _doshas_ , one or the other of the above measures should be repeatedly applied. 
+
+By the administration of these therapeutic measures, heart, sense organs, head and bowels (_koshtha_) get cleansed as a result of which the mind gets refreshed and the patient regains memory as well as consciousness. 
+
+Even after the completion of above cleansing procedure, if the abnormal behaviour persists, the application of irritant snuffing, collyrium and beating should be done, which are useful for stimulating his mind, intellect and body. 
+
+One who is non-submissive and strong in physique, should be bound with firm and soft cotton bandage and should be confined in a dark room free from irons rods, wooden pieces etc. 
+
+Verbal teasing or threatening/shouting with anger (_tarjana_), terrorizing (_trasanam_), gifts /donations(_danam_), gladdening and exhilaration(_hanshanam_), consolation (_santwanam_), frightening(_bhayam_) and astonishing/exhibition of surprising acts (_vismaya_) restore the mind to normalcy by diverting it and counteracting the causes of loss of memory. 
+
+The patients suffering from _unmada_ should be administered thick ointment (_pradeha_), anointing (_utsadana_), massage (_abhyanga_), fumigation (_dhuma_) and intake of ghee to arouse mind, intellect, memory and consciousness. 
+
+In exogenous type of _unmada_ , intake of ghee (_sarpih pana_) etc. along with chanting of hymns (mantras) is recommended for the benefit of the patient. [24-32] 
+
+### Various formulations
+
+#### _Hingvadi ghee_
+
+Now listen, some of the most efficacious formulations for alleviating the _unmada_. 
+
+_Hingu, sauvarchala_ and _trikatu_ (_shunthi , maricha_ and _pippali_ ) each 80 gm (two _palas_) should be made to paste and cooked with one _adhaka_ of ghee (2.56 kg ) and four times cow’s urine is a tested destroyer of _unmada_.[33-34] 
+
+#### _Kalyanaka_ ghee
+
+_Vishala, triphala, harenuka, devadaru, elevaluka, shalaparni, tagara,_ two types of _haridra_ (_haridra_ and _dauharidra_), two types of _sariva, priyangu, nilotpala, ela, manjishtha,danti,dadima, nagakeshara, talisapatra, brahati,_ fresh flower of _jati, vidanga, prishnaparni, kushtha, chandana_ and _padmaka_ , (total 28 drugs) each 10 gm, and ghee 640 gm, should be cooked well with four times water. 
+
+This ghee is useful in epilepsy, fever, cough, poor digestion, wasting, _vatarakta,_ coryza, tertian and quaternary fever, vomiting, piles, dysuria, erysipelas, itching, anemia, _unmada,_ poisoning, _prameha_ , mental affection by supernatural beings (evil spirits), stammering voice, loss of consciousness and female sterility. It promotes life span, wealth and strength. It alleviates inauspiciousness, sins and micro-organism including all the _grahas_ (seizures). This _kalyanaka ghrita_ is also excellent for _punsavana_ (_samskara_ for formation of fetus). [35-41,1/2] 
+
+#### _Mahakalyanaka ghee_
+
+In the same way, the twenty one drugs beginning with _sthira_ (_shalparni_) are boiled in water. With this decoction ghee is cooked adding four times milk of _primi para_ cow (milk collected from the cow after its first delivery) and paste of vira, two types of _masha_ (_masha_ and _rajmasha_) , _kakoli, kapikacchu, rishabhaka_ and _riddhi_. This _mahakalyanaka ghrita_ is particularly nourishing (bulk promoting) and an excellent alleviator of _sannipata_ (simultaneous vitiation of all three _doshas_). [42 1/2-44] 
+
+#### _Mahapaishachika ghee_
+
+Ghee processed with drugs like _jatamansi, haritaki, bhutkeshi, charati, kapikacchu, vacha, trayamana, jaya_ (_jayanti_), _vira_(_kshirakakoli_), _choraka, katurohini, vayastha, varahi, chhatra, atichhatra, palankasha, shatavari, kayastha,_ two types of _nakuli_ (_nakuli_ and _gandha nakuli_), _katabhi_ and _shalaparni_ , is known as _mahapaishachika ghrita_. It is like ambrosia and alleviates quartan fever, _unmada_ , epilepsy. It also promotes intellect and memory and help in development of children. This is _mahapaishachika ghrita_. [45-48] 
+
+#### _Lashunadya ghee_
+
+One hundred dehusked bulbs of garlic, 30 fruits of _haritaki, trikatu_ 40 gm ,ash of cow leather 640 gm, cow milk and cow urine 5.12kg should be well cooked with ten year old cow ghee 640 gm .After it is well cooked and cooled, 40 gms of powder of _hingu_(asafoetida) and honey 320gm should be added .This _lashunadya ghrita_ applied in the form of intake, massage and snuffing alleviates quickly all types of _unmada_ , both endogenous and exogenous, intermittent fever and epilepsy. [49-51] 
+
+#### Second formulation of _lashunadya ghrita_
+
+Undamaged garlic decorticated -200gm, _dashamula_ -100gm should be boiled in 5.12 liters of water and reduced to one fourth. Thereafter ghee -640 gm garlic juice -640 gm along with the juice of _kola_ (jujube), radish, _vrikshamla, matulunga_ and fresh ginger, pomegranate, _sura_ , curd water and sour gruel -each 320 ml and the past of _triphala, devadaru,_ rocksalt, _trikatu, ajamoda, yavani, chavya, hingu_ and _amlavetasa_ -each 20 gm should be cooked. This medicated ghee by intake alleviates colic, _gulma_ , piles, _udara_ , inguinal hernia, anemia, spleen enlargement, female genital disorders, fever, worms, disorder of _vata, kapha_ and all types of _unmada_. [52-56] 
+
+#### Different useful recipes of medicated ghee
+
+ 1. Ten year old ghee cooked with _hingu, hinguparni, kayastha, vayastha_ is useful.
+ 2. Similar is the ghee cooked with _vayastha, hingu_ and _choraka_. The old ghee alone or cooked with the above drugs be administered.
+
+After administrating the maximum dose the patient should be kept in isolation in some underground ditch or room. Particularly old ghee should be administrated to the patients of _unmada_. [57-58] 
+
+### Therapeutic utility of old ghee

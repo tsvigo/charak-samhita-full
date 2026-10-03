@@ -1,0 +1,178 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration with English Translation
+ * 2.1 Objective of Kalpa Sthana
+ * 2.2 Vamana (therapeutic emesis) and Virechana (therapeutic purgation)
+ * 2.3 Pharmacodynamics of Vamana
+ * 2.4 List of Drugs for Vamana and Virechana
+ * 2.5 Three Types of _Desha_ (regions or habitats)
+ * 2.6 Characteristics of a Suitable _Desha_ for Medicinal Plants
+ * 2.7 Method of Collection of Medicinal Plants
+ * 2.8 Method of Storage
+ * 2.9 Administration per Dosha Dominance
+ * 2.10 Administration of Madanaphala
+ * 2.11 Procedure of Vamana
+ * 2.12 Various Pharmaceutical Preparations of _Madanaphala_
+ * 2.13 Synonyms of _Madanaphala_
+ * 2.14 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Mode of action of therapeutic emesis (vamana)
+ * 4.2 Phytochemistry of madanaphala
+ * 4.3 Pharmacological activity of madanaphala
+ * 4.4 Recent researches on action of herbs
+ * 4.5 Research work on comparative study of Vamana by two different methods
+ * 4.6 Research on emesis performed during Spring season:
+ * 5 References
+
+## Introduction
+
+In the preceding section to Kalpa Sthana, i.e., in Chikitsa Sthana, therapeutic emesis and purgation have been prescribed in the context of the treatment of various diseases. In this section, these recipes have been described in detail. Generally, purgation therapy is administered only after the administration of emetic therapy. Therefore the chapters describing emetic therapy are placed before the chapters dealing with purgative therapy in Kalpa Sthana. 
+
+Among emetic drugs, _Madanaphala_ is considered to be the best because it does not cause any adverse effect. That explains why a chapter on _Madanaphala_ precedes all other chapters in this section. 
+
+_Kalpa_ means "that which is processed". In this context, pharmaceutical preparations are called _Kalpa_. This _Sthana_ is called Kalpa Sthana since formulations of emetics and purgatives have been described here. The preparations which expel the dosha upwards through mouth are called _Urdhavabhagahara_ (emetics) and those which expel downwards through rectum are _Adhobhagahara_ (purgatives). In this section, it is explained that drugs possessing vayu and agni mahabhuta predominance initiate vamana action, while drugs with prithvi and jala predominance produce virechana action. However, these actions have been attributed to the principle of a specific action(prabhava). It is clearly mentioned that these drugs became efficacious by the effect of _desha_ (appropriate habitat), _kala_ (season and time), guna (enriched with excellent attributes) and _bhaajana_ (storing in appropriate containers). 
+
+In this reference three basic kind of _desha_ (habitat) i.e. _jangala_ , _anupa_ and _sadharana_ have been ascribed on the basis of specific flora and fauna. Laws for collection of different parts of a plant ,i.e., roots in summers or late winter when the leaves of the trees have ripened and withered away; barks, rhizome and latex in autumn; heartwood in _Hemanta_ (early winter); and flowers and fruits during appropriate seasons have been laid out. 
+
+Since these are variations with regard to place (_desha_) and time (_kala_), preparations and processing of drugs and it is not possible to prescribe one drug which might be universally applicable. Moreover all the drugs may not be available everywhere. Hence a number of formulations of _Madanaphala_ are described. The physician may select one out of them which is suitable for the person. 
+
+Further the number six hundred for vamana and virechana preparations is not restrictive, it is only for guidance to brilliant scholars to formulate more while it would serve as standard for average physician. 
+
+Thus, the first chapter _Madanakalpa_ throws the light on complete Kalpa Sthana and also deals with the basic concepts to understand the habitat, collection and storage of unprocessed drugs (or ingredients) and the pharmacodynamics of vamana and virechana drugs. 
+
+## Sanskrit Text, Transliteration with English Translation
+
+Now we shall expound the chapter "Madana Kalpa" (Pharmaceutical preparations of Madana(phala)). Thus said Lord Atreya. [1-2] 
+
+### Objective of Kalpa Sthana
+
+Now I shall expound the section on pharmaceuticals that deals with preparations of emetic and purgative drugs, describing combinations and administration of these formulations and simple methods for the purpose of emesis and purgation, Oh Agnivesha! [3] 
+
+### Vamana (therapeutic emesis) and Virechana (therapeutic purgation)
+
+Of all drugs, those that eliminate impurities from the upper part are known as emetics while those that act via the lower part are called purgatives. Or (broadly), both are collectively termed as evacuatives (or purgatives) because of their purging out excrement from the body. [4] 
+
+### Pharmacodynamics of Vamana
+
+The _ushna_ , _tikshna_ , _sukshma_ , _vyavayi_ and _vikashi_ drugs, because of their vigorous ability in reaching the heart and circulating through the vessels, affect masses of impurity within the entire body, liquefying them and making them pass through large and small ducts (due to the fiery nature of such drugs) and detach them due to their sharpness. Consequently the detached masses left floating get ejected by _udana_ (vayu). They get thrown upwards because of the natural composition of the drug with agni and vayu (Mahabhuta) and the specific potency (for emesis). When the natural composition of the drug predominates in jala and prithvi and there is specific potency (for purgation), it goes down. When both the above characters are combined it moves both ways. Thus the definition is said in brief. [5] 
+
+### List of Drugs for Vamana and Virechana
+
+Here I will describe six hundred evacuative formulations involving _Madanaphala_ , _jimuta_ , _ikshvaku_ , _dhamargava_ , _kutaja_ and _kritvedhana_ (all emetics); _shyama_ , _trivrita_ , _chaturangula_ , _tilvaka_ , _mahavriksha, saptala, shankhini, danti_ \- there are innumerable combinations of drugs due to variations in habitat, place and time; taste, _Rasa, Virya, Vipaka_ and _Prabhava_ (of drugs); in body, morbidity, constitution, age, strength, agni, inclination, suitability, states of disease etc. (of the patient) and in smell, color, taste and touch (of vehicles and subsidiary drugs) for easy administration. [6] 
+
+These drugs are the most potent when they are exposed to the most suitable of place, time, properties and containers. [7] 
+
+### Three Types of _Desha_ (regions or habitats)
+
+A region could be of three types – arid, marshy and medium/normal. Of these, the arid zone is primarily sparse. As regards plants, there are dense fruits of _Kadara, Khadira, Asana, Aswakarna, Dhava, Tinisa, Sallaki, Sala, Somavalka, Badari, Tinduka, Asvaittha, Vata_ and _Amalaki,_ predominance of _Sami, Kakubha_ and _Shimshipa,_ young (immature) plants that are firm, dry and those that, when shaken with severe winds, sway vigorously as if dancing. The land abounds in mirages, is thin, coarse, rough and abounds in sand and gravels. The region is inhabited by birds such as the common quail, partridge, _chakora_. The place abounds in vata and pitta and is inhabited mostly by firm and hard people. 
+
+Marshy regions have dense forests of _Hintala, Tamala,_ , coconut trees, and banana plants. These lands adjoin coasts of sea and rivers, abounding in cold breeze. The land is intercepted by water streams having _Vanjula_ and _Vanira_ (willow) plants on banks, adorned with hills and bowers, abounding in trees attended by mild breeze. The region is full of rows of flowered plants in abundance, embraced with amorous branches of trees resounding with coos of swan, _Chakravaka,_ crane, _Nandimukha, Pundanka, Kadamba, Madgu, Bhringaraja, Sataparna_ and the intoxicatingly sweet _koyal_. The region is typically inhabited by delicate people and is dominated by vata and kapha. 
+
+A region is considered to be of medium or normal kind that has the combined characters of the above two in respect of plants, birds and animals and is inhabited by people firm, delicate, endowed with strength, complexion and compactness and other medium qualities. [8] 
+
+### Characteristics of a Suitable _Desha_ for Medicinal Plants
+
+Medicinal plants grown in medium or arid zones, nourished timely with cold, sun (heat), air and water, even, clean, with facilities of water, except cremation ground, sacred place, temple, meeting place, ditch, orchard, ant-hills and barren land, covered with _kusha_ and _rohisha_ plants, having unctuous, black, sweet or golden sweet soil, soft, unploughed,and unaffected by other stronger plants are recommended (for us). [9] 
+
+### Method of Collection of Medicinal Plants
+
+Of all medicinal plants, those that are grown in time (proper season), grow mature with taste, potency and smell; have smell, color, taste, touch and efficacy unaffected by time, sun, fire, water, air and organisms, are fresh and situated in northern direction (should be collected). Their branches and leaves should be collected in rainy seasons and when those plants are fully matured; bark, tubers and latex should be collected in autumn; heartwood in early winter and flowers and fruits according to their season. These should be collected by one with auspicious behavior, benevolent conduct, cleanliness and white dress after worshiping, observing fast and facing toward east or north. [10] 
+
+### Method of Storage
+
+After collecting the plant extracts, they should be kept in suitable containers and stored in rooms facing eastward or northward, devoid of wind but well ventilated , and daily ritualized with offering of flower and other things, holding them up in a swing of rope well-covered and making them unapproachable for fire, water, humidity, smoke, dust, rats and quadrupeds. [11] 
+
+### Administration per Dosha Dominance
+
+These (drugs) should be administered according to the relevant dosha, with an appropriate vehicle/medium such as wine, _Sauviraka, Tusodaka, Maireya, Medaka,_ _Dhanyamla, Phalamla,_ sour curd, etc. in vata; grapes, _Amalaka_ , honey, _Madhuka, Parusaka, Phanita,_ milk etc. in pitta and in kapha impregnated with or dissolved in honey, urine and decoction etc. This is in a nutshell. This will be explained further in details according to drugs, body, morbidity, suitability etc. [12] 
+
+### Administration of Madanaphala
+
+Of all the emetic drugs, _Madana_ fruits are regarded as the best ones because they are free from complications. These should be collected during the period of transition between spring and summer in _Pusya, Aswini_ or _Mrigasiras_ constellation and _Maitra Muhurta_. Those which are ripe, undamaged, non-green, of pale color, free organisms, under-composed, uneaten by animals, not too small (immature) should be taken. Having been washed, wrapped within _Kusa_ grass and pasted with fresh cow-dung they should be stored for eight days in the heap of one of the following-barley husk, black gram, _Sali_ rice, horse gram and green gram. Thereafter when they are softened and develop good honey-like aroma they should be taken out and dried (in the sun). When they are well-dried, their pepper-like seeds should be mixed gently with ghee, curd, honey and sesamum paste and again dried. Finally they should be filled up in a new earthen pitcher, well-cleaned and dustless, up to neck and placed well on a swing of rope well-covered and well-protected. [13] 
+
+### Procedure of Vamana
+
+The patient, the subject of emesis, having been administered with unction and sudation for two or three days, should be fed with meat soups of domestic, marshy and aquatic animals, milk, curd, black gram, sesamum, vegetable etc. in the night prior to emesis, in order to excite kapha. Next day when the previous food is digested, in the forenoon, after performing offering, oblations, auspicious and expiatory rites, he should take a dose of ghee along with gruel (on an empty stomach) that may not be very smooth or greasy. The physician should take one closed fist sized dosage of seeds of _Madanaphala_ , pound them and impregnate them with a decoction of _Yastimadhu_ or one of these-_Kovidara, Karbudara, Nipa, Vidula, Bimbi, Sanapuspi_ and _Prayakpuspi_ -for the whole (previous) night. In the morning, this mix should be pressed and filtered, added with honey and rock salt and heated slightly. The cup filled with the drug should be enchanted with the following hymn:- 
+
+“Brahma, Daksa, Asvina, Rudra, Indra, Earth, Moon, Sun, Air, Fire, Sages, medicinal plants and multitude of creatures may protect you.This drug may prove for you as Rasayana for the sages, nectar for the gods and ambrosia for the best among serpents.” 
+
+After enchanting thus, the physician should administer the drug to the patient facing northward or eastward particularly suffering from kaphaja fever, _gulma_ and coryza time and again until bile begins to come out. Thus he vomits well. If the urges are deficient, they should be moved by administering paste of _Pippali, Amalaka, Sarsapa, Vacha_ and salt dissolved in hot water frequently till bile is seen. This is the entire method of administration of emetic drugs. [14] 
+
+In all emetic formulations, honey and rock salt should be added for liquefying kapha (mucus). There is no adverse reaction of honey to heat when added to an emetic formulation as it returns back without digestion and helps in the elimination of impurity. [15] 
+
+### Various Pharmaceutical Preparations of _Madanaphala_
+
+Two parts of the seeds of _Madanphala_ should be washed with the decoction of _Kovidara_ etc. twenty one times. With this liquid the third part of the same (seeds) should be pounded and made into doses equal to (the fruits) of _Haritaki, Bibhitaka_ or _Amalaka_. Of them one or two doses after having been impregnated with one of the above decoctions in quantity of 160 ml. should be administered in cases of severe salivation, glands, fever, _Udara_ and anorexia. Other things as above. [16] 
+
+Milk boiled with _Madanaphala_ seeds and gruel prepared with this milk are given in cases of downward internal haemorrhage and burning sensation in cardiac region. 
+
+The supernatant fatty layer of curd prepared from the above milk is useful in kaphaja vomiting, bronchial asthma and salivation. 
+
+The supernatant fatty layer of the above milk when cold is given in the dose of 160 gm. in vitiation of pitta in chest, throat and cardiac region along with coating of thin kapha. Other things as above. [17] 
+
+Butter formed from the milk boiled with _Madanaphala_ seeds and processed with the paste and the decoction of _Madanaphala_ etc. should be administered in proper dose to the patients whose agni is subdued by kapha and body is being dried up. Other things are as above. [18] 
+
+Pollen- like powder of _Madanaphala_ seeds made after impregnating it twenty one times with decoction of _Madanaphala_ etc. should be cast on a big lotus flower in evening. In the next morning the flower should be plucked and then powdered with the drug . It should be given for inhalation to the patient who is delicate and averse to drugs and has excited pitta and kapha after he has taken meal of _Haridrakrsara_ or _Ksira-Yavagu_ (gruel prepared with milk) added with rock salt, jaggery and treacle till satiation. Other things are as above. [19] 
+
+The extract of _Madanaphala_ seeds prepared per the Bhallataka method should be heated till it becomes thready and treacle-like. The powder of the seeds dried in the sun should be given with decoction of _Jimuta_ etc. in (condition of) pitta located in the seat of kapha. Other things as above. [20] 
+
+The powder of the _Madanaphala_ can be made into Vartti (caplets) by impregnating it with a decoction of one of the six _Phaladi_ (_Madana_ etc.) drugs and taken with the above decoction. Other things are as above. [21] 
+
+Linctus is prepared of _Madanaphala_ seeds with the decoction of one of the following drugs – _Aragvadha, Kutaja, Vikankata, Patha, Patala, Sarngesta, Murva, Saptaparana, Naktamala, Nimba, Patola, Susavi, Guduci, Somavalka, Dvipika, Pippali, Pippalimula, Gajapippali, Chitraka_ and _Sunthi_. This is an effective preparation. Other things are as above. [22] 
+
+Preparations of _Utkarika_ (a semisolid preparation) or _Modaka_ (balls) may be made of _Madanaphala_ seeds with one of the following twenty drugs – _Ela, Harenuka, Satapuspa, Kustumburu, Tagara, Kustha, Twak, Coraka, Marubaka, Aguru, Guggulu, Elavaluka, Srivestaka, Paripelava, Mamsi, Salicyaka, Sthauneyaka, Sarala, Paravatapdi_ and _Asokarohini_. These should be used according to dosha, disease and inclination. Other things are as above. [23] 
+
+_Saskuli_ or _Pupa_ (dietary preparations) may be made of sesamum and Sali rice flour impregnated with decoction of _Madanaphala_ seeds and be taken with the same decoction. Other things are as above. [24] 
+
+The above preparation may also be made with the decoction of any one of the following drugs – _Sumukha, Surasa, Kutheraka Kandira, Kalamalaka, Parnasaka, Ksavaka, Phanijjhaka, Ganjana, Kasamarda, Bhrngaraja, Pota, Iksuvalika, Kalankataka_ and _Dandairaka_. [25] 
+
+Besides, _Madanaphala_ should be administered combining it with preparations such as _Badarasadava, Raga, Leha, Modaka, Utkarika, Tarpana, Panaka,_ meat soup, vegetable soup and wine according to dosha, disease and inclination. Thus the patient vomits well. [26] 
+
+### Synonyms of _Madanaphala_
+
+Pharmaceutical preparations of _Madana_ are also known by the synonyms _Karahata, Ratha, Pinditaka, Phala_ and _Svasana_. [27] 
+
+### Summary
+
+Now the summing up verses – 
+
+Nine formulations in decoctions, eight in _Matra_ (like _Haritaki_ fruit etc.) five in milk and ghee, two in _Phanita_ and _Churna_ , one in inhalation, six in caplets, twenty each in _Leha, Modaka_ and _Utkarika_ , sixteen each in _Saskuli_ and _Pupa_ and ten others in _Sadava_ etc. Thus total 133 formulations are described by the great sage in the chapter on pharmaceuticals of _Madanaphala_. [28 – 30] 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * The impurities in upper part of body can be removed through mouth by Vamana (therapeutic emesis).
+ * The impurities in lower part of body can be removed through rectum by Virechana (therapeutic purgation).
+
+penetrating), _vyavayi_(quality of spreading all over body before digested/quickly acting) and _vikashi_ (quality of spreading all over body before digested/quickly acting and displaces tissues from physiological sites). 
+
+ * In the process of therapeutic emesis, it is necessary for drug to reach the heart, circulate through vessels and effect the mass of
+
+impurity in the entire body, liquefy it out through large and small ducts due to agni (factors responsible for digestion and metabolism) nature and disjoin it due to sharpness. 
+
+ * The impurities, thus dislocated from the micro-circulation by drugs, consequently float (in circulation) and get propelled upside by force of _Udana_ (Vayu) towards mouth.
+ * Therapeutic emesis occurs by the natural composition of the drug with Agni and Vayu (Mahabhuta) and the specific potency (for emesis).
+ * Therapeutic emesis occurs when the natural composition of the drug predominates in Jala and Prithvi mahabhuta and there is specific potency (for purgation).
+ * Three types of habitat are _Jangala_(arid), _Anupa_(marshy) and _Sadharana_ (medium). People with Vata and Pitta dominance are seen in 'Jangala _habitat. People with_ Vata _and_ Kapha _dominance are seen in_ Anupa _habitat._
+ * The drugs are required to be collected keeping in view the appropriate habitat (_desha-sampat_), appropriate season (_kala sampat_) and their effective attributes (guna smapat). The Vamana dravya (drug) possesses strong potency endowed due to
+
+_desha_(habitat), _kala_(time) guna (properties) and _bhajana_ (container). 
+
+ * The proportion of active principle in useful parts of medicinal plant varies according to season. Hence, time of collection is important while collecting the medicinal plant, in order to achieve its highest potency, safety and efficacy.
+ * The timely grown, naturally matured, unaffected by environment and organisms are the best drug for collection.
+ * Effect of drugs vary depending upon habitat, collection, storage of herbs. The biological effect depends upon patients' _deha_ (physique), Dosha, prakriti (constitution), _Vaya_ (age), _Bala_ (strength), Agni (power of digestion and metabolism), _Bhakti_ (liking of particular type of recipe), Satmya(wholesomeness).
+
+## Vidhi Vimarsha (Applied Inferences)
+
+### Mode of action of therapeutic emesis (vamana)
+
+ * _Ushna-Tikshna-Sukshma-Vyavayi_ and _vikasi_ are the common properties of the _Vamanakarma dravya_. According to Sushruta, the _ushna_ property has _pachana karma_ [1].Chakrapani (the commentator on Charaka Samhita) states that _ushna_ means _ushna veeryam_. This has been cleared in AshtÁnga Sangraha by Vagabhata and the function are like _dahana_ and pachana and having ability to decrease vata and kapha dosha [2]. Sushruta defines that _tikshna_ as the property produces _daha, paka_ and _srava_[3]. According to Charaka, _Tikshna guna_ is _vichchindana_ [4]. Chakrapani clarified the word as _vichchindayati_ , means breaking down the complex morbid matter into simple molecules. The _Sukshma guna_ reaches to minute _srotasa_ and remove the morbid matter to bring it to reach the _amashaya_ according to Dalhana [5]. The _Vyavayi_ drugs, when administered initiate the action immediately and thereafter bio-transformation takes place. Sushruta has clarified that _Vikasi_ drugs causes laxity in _dhatubandhana_ [6].Due to above mentioned properties Vamana drugs are beneficial for therapeutic emesis.
+
+ * Vamana (emesis) is one of the five physio-therapeutic procedures to eliminate impurities through gastro-oral route emerged due to aggravated kapha in human body. It is to be noted for vitiation of each dosha viz. kapha, pitta and vata,three therapeutic procedures vamana, virechana and basti are recommended respectively.
+
+ * Vamana is the foremost therapeutic procedure among Panchakarma (five therapeutic procedures). If virechana karma is performed prior to vamana, there are all possibilities of vitiation of the kapha. This vitiated kapha having _guru-snigdha guna_ with impurities descends down to _grahani_ (the seat of agni) and with the result of that _pravahika_ is developed.[7].
+
+ * Its importance has been realized in rasayana and _vajikarana_ therapy; therefore, it is mandatory to do vamanakarma before aforesaid therapies for excellent results. Thus, it is obvious that Panchakarma has dual benefits i.e., health preventive and disease curative.
+
+ * Virechana, vireka, chhardi, chardana, vami, ullekhana, lekhana, shodhana _and_ sansodhana _are the various synonyms ofvamana as found in Ayurvedic classics._

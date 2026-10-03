@@ -1,0 +1,286 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Etiology of _prameha_
+ * 2.2 _Dushya_ (vitiated factors) and pathogeneis
+ * 2.3 Classification and Prognosis
+ * 2.4 Vitiating factors involved in pathogenesis
+ * 2.5 Twenty types of _dosha_ dominant _prameha_
+ * 2.6 Criteria for diagnosis
+ * 2.7 Premonitory signs and symptoms
+ * 2.8 Principles of management
+ * 2.9 _Samshamana_ ( pacification therapy)
+ * 2.9.1 Diet
+ * 2.10 Specific Therapies
+ * 2.11 Various formulations
+ * 2.11.1 Decoctions for _kaphaja prameha_
+ * 2.11.2 Decoctions for _pittaja prameha_
+ * 2.11.3 Decoctions for all types of _prameha_
+ * 2.11.4 Formulations for _kaphaja_ and _pittaja prameha_
+ * 2.11.5 Formulations for _vata_ association in _kaphaja_ and _pittaja prameha_
+ * 2.12 _Madhvasava_
+ * 2.13 _Dantyasava_ and _bhallatakasava_
+ * 2.14 Beneficial diet and drinks
+ * 2.15 Indications of above treatment
+ * 2.16 Various external applications
+ * 2.17 Indication of _apatarpana_ treatment
+ * 2.18 _Vata_ dominant _prameha_
+ * 2.19 Prevention of _prameha_
+ * 2.20 Differentiation between _raktapitta_ and _prameha_
+ * 2.21 Two types of _prameha_ patient
+ * 2.22 Prognosis
+ * 2.23 In-curability of hereditary diseases
+ * 2.24 Treatment of _prameha pidaka_
+ * 2.25 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Role of _kapha_ dominant diet
+ * 4.2 Role of obesity and pathogenesis in _sthula prameha_
+ * 4.3 Diagnosis of _prameha_ based on characteristics of urine
+ * 4.3.1 1\. _Kaphaja prameha_ (progressive stage from pre-diabetic to diabetes mellitus type-2)
+ * 4.3.2 2._Pittaja prameha_ \- (Stage of infection & inflammation in diabetes)
+ * 4.3.3 3\. _Vataja prameha_ \- (Type-1Diabetes mellitus)
+ * 4.4 Parameter of urinalysis used in above
+ * 4.4.1 1\. Physical parameters
+ * 4.4.2 2\. Chemical parameters
+ * 4.4.3 3\. Microscopic Examination
+ * 4.5 Importance of Barley
+ * 4.5.1 Importance of Barley in Diabetes
+ * 4.6 Contemporary management of _prameha_
+ * 4.7 Pacification Treatment
+ * 4.8 Researches on effect of herbs on diabetes
+ * 4.8.1 _Curcuma neilgherrensis_
+ * 4.8.2 _Gymnema Sylvester_
+ * 4.8.3 _Tinospora cordifolia_
+ * 4.8.4 _Swertia chirayita_
+ * 4.8.5 _Enicostema littorale_
+ * 4.9 Future Scope for Research
+ * 4.10 Related Chapter
+ * 5 References
+
+## Introduction
+
+The word _Prameha_ literally means urinary disorders with increased quantity of urine with turbidity in it. In the last chapter of Nidana Sthana, _prameha_ is said to have originated from excess consumption of ghee. This chapter deals with the detail etio-pathogenesis, clinical features, classification and management of _prameha_. It is widely considered as diabetes mellitus. However, _prameha_ covers various types of obstinate urinary disorders under its umbrella. The key to management of _prameha roga_ is to attempt to stop its pathogenesis for which the etiological factors responsible for the origin of the disease are identified. These etiological factors include both faulty dietary habits and life style that cause imbalance between energy consumption and energy expenditure and ultimately cause obesity. Indulgence in high calorie diet including refined carbohydrate and bad fat associated with sedentary life style causes excessive storage of fatty tissue in body to disturb the body mass index. The disturbed body mass index reflects as obesity causing disturbed lipid metabolism and assimilation (FFAs, TG, HDL and VLDL) that in turn causes insulin resistance and produces type-2 DM. 
+
+It is interesting to note that the ancient acharyas (preceptors, teachers) were aware of the fact that insulin resistance is secondary to the dyslipidemia. Therefore, the patients of _prameha_ are classified as _sthula pramehi_ and _krisha pramehi_ which can be identified based on body mass index. All those factors, that cause vitiation of _kapha_ will cause _prameha_. At the end of the chapter, it is mentioned that _jatah/ kulaja_ (hereditary) _prameha_ and _madhumeha_ are incurable. _Prameha_ is also classified as 
+
+(1) _jatah pramehi_ (hereditary) and 
+
+(2) _sthula pramehi_ (acquired). 
+
+Further justification that acquired type of _prameha_ (_apathyanimmitaja_) occurs only in obese persons i.e. obesity is the root cause for insulin resistance. But in addition to that it is stated that genetic predisposition is also required for the development of disease. There is difference of opinion within the Ayurvedic community on equating _prameha_ with diabetes mellitus. Though it is not always feasible to accurately/exactly correlate or map Ayurvedic terms with modern medical concepts (e.g., there are no accurate medical terms to explain the concepts of _gulma_ or _prameha_), Ayurveda provides insights that can prove to be invaluable in exploring effective ways of the management of various chronic diseases, including diabetes. The medical community of today believes that raised FFAs cause insulin resistance leading to diabetes mellitus along with hypertension and atherogenic dislipidemias[1][2]. It is assumed that targeting FFA will help in mitigating insulin resistance more than using only hypoglycemic drugs. This chapter clearly depicts that the Ayurvedic approach for the management of _prameha_ by _apatarpana chikitsa_ (depleting therapy), drugs as well as diet that are helpful in lowering both fat as well as glucose such as _yava_ (barley), _triphala_ etc. 
+
+The chapter also gives the detailed description of urinalysis for the diagnosis, classification and assessment of prognosis of the disease. Distinctive description of _raktameha_ and _siktameha_ correlates with current method of microscopic examination of urine. 
+
+Description of _Sahaja prameha_ and role of genetic predisposition in the development of disease clears all the doubt about the scientific validity of Ayurveda. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Prameha Chikitsa" (Management of Urinary Diseases including diabetes). Thus said Lord Atreya. [1-2] 
+
+Punarvasu who is free from delusion, ego, hatred and attachment, and who has attained magnanimity because of his knowledge and penance, described the etiology, signs and symptoms, and treatment of _meha_ (_prameha_) to Agnivesha at proper time (when query was asked).[3] 
+
+### Etiology of _prameha_
+
+Over-indulgence in the pleasure of sedentary habits, excess sleep, curds, soup of the meat of domesticated and aquatic animals and animals inhabiting marshy land, milk and its preparations, freshly harvested food articles, freshly prepared drinks, preparations of jaggery and all _kapha_ \- aggravating factors are responsible for the causation of _prameha_. [4] 
+
+### _Dushya_ (vitiated factors) and pathogeneis
+
+Aggravated _kapha_ vitiates _medas, mamsa_ and _kleda_ of the body located in _basti_ (bladder and urinary system) and causes different types of _kapha_ dominant _meha_. 
+
+Similarly, _pitta_ aggravated by hot things vitiates those elements and causes different types of _pitta_ dominant _meha_. When other two _doshas_ are in a relatively diminished state, the aggravated _vata_ draws tissues elements (viz. _ojas, majja,_ and _lasika_) into the urinary tract and vitiates them to cause _vata_ dominant _pramehas_. Different _doshas_ having entered the urinary tract in vitiated condition give rise to the respective types of _meha_ with their own dominance. [5-6] 
+
+### Classification and Prognosis
+
+_Kaphaja pramehas_ are of ten types and they are curable because of their compatibility of the therapies meant for their cure (_samakriyatvata_). 
+
+_Pittaja pramehas_ are of six types and they are only palliable (_yapya_) because of their incompatibility of the therapies meant for their treatment. 
+
+_Vatika pramehas_ are of four types and they are incurable because of their incompatibility with therapies and dreadful nature of _vata_ leading to complications. [7] 
+
+### Vitiating factors involved in pathogenesis
+
+_Doshas_ like _kapha, pitta_ and _vata,_ and _dushyas_ like _medas, rakta, shukra, ambu_ (body fluid), _vasa_ (muscle fat), _lasika_ (lymph), _majja, rasa, ojas_ and _mamsa_ are responsible for the causation of _prameha_ which is of twenty types. [8] 
+
+### Twenty types of _dosha_ dominant _prameha_
+
+Ten varieties of _kaphaja meha_ have the following characteristic features: 
+
+ 1. The urine resembling water (_udaka meha_)
+ 2. The urine resembling sugar cane juice (_iksu- valika meha_)
+ 3. Dense urine (_sandra meha_)
+ 4. Low density urine with transparent upper layer (_Sandra prasad meha_)
+ 5. The urine having white colour (_shukla meha_)
+ 6. The urine containing seminal fluid (_shukra meha_)
+ 7. The urine having cold touch (_shita meha_)
+ 8. The urine passing out slowly (_shanaih meha_)
+ 9. The urine containing slimy material like saliva (_lala meha_) and
+ 10. The urine containing sand like substance (_sikata meha_).
+
+Six varieties of _pittaja meha_ have following characteristic features: 
+
+ 1. The urine resembling alkali solution (_kshara meha_)
+ 2. The urine having black color (_kala meha_)
+ 3. The urine having indigo color (_nila meha_)
+ 4. The urine having yellow color like turmeric (_haridra meha_)
+ 5. The urine having reddish color like that of _manjistha_ (_manjishtha meha_) and
+ 6. The urine having blood in it (_rakta meha_).
+
+Four varieties of _vatika meha_ have the following characteristic features: 
+
+ 1. The urine mixed with _majja_ (_majja meha_)
+ 2. The urine mixed with _ojas_ (_oja meha_ )
+ 3. The urine mixed with muscle fat (_vasa meha_)
+ 4. The urine mixed with lympha (_lasika meha_)
+
+Diminution of other _dhatus_ or tissue elements (besides those described above) is responsible for the causation of the above mentioned four varieties of _vatika prameha_. [9-11] 
+
+### Criteria for diagnosis
+
+Different types of _prameha_ are characterized by the color, taste, touch and smell of the respective _dosha_. _Vatika_ varieties of _prameha_ are characterized by grayish or reddish coloration of the urine, pain and attributes of _majja_ , etc. These types of _vatika prameha_ are incurable. [12] 
+
+### Premonitory signs and symptoms
+
+Sweating, body odor, flabbiness of the body, liking for constantly lying on the bed, sitting, sleeping and leading an easy life, a feeling as if the cardiac region is covered with extraneous material, exudation of excreta from eyes, tongue and ears, corpulence of the body, excessive growth of hair and nails, liking for cold things, dryness of throat and palate, sweet taste in the mouth, burning sensation in hands and legs and swarming of ants on the urine- these are the premonitory signs and symptoms of _prameha_. [13-14] 
+
+### Principles of management
+
+Patients suffering from _prameha_ are classified into two categories, viz. (1) those who are obese and strong, and (2) those who are emaciated and weak. 
+
+Patients belonging to the latter category should be given nourishing therapy. Patient of the former category who are strong and who have more _doshas_ in the body should be treated with elimination therapy. 
+
+For this purpose, the oleated patient should be given various recipes described in Kalpa Sthana with a view to eliminating metabolic waste products through both upward and downward tracts. After the waste products (excess metabolic bi-products) are eliminated from his body, the patient should be given _santarpana_ or nourishment therapy. Because _apatarpana_ (depletion) therapy in this condition may produce _gulma_ , consumption, pain in phallus and urinary bladder including kidneys and retention of urine. Such patients should be given _santarpana_ therapy depending upon their power of digestion. [15-17] 
+
+### _Samshamana_ ( pacification therapy)
+
+If the patient of _prameha_ is not eligible for _samshodhana_ or elimination therapy, _samshamana_ or alleviation therapies should be given. [18] 
+
+#### Diet
+
+The patient suffering from _prameha_ should be given the following food: 
+
+ 1. _Manthas_ (flour of different types of corn mixed with water), _kashayas_ (decoctions), barley powder, linctus prepared of barley and other light- eatables;
+ 2. _Yavaudana_ (cooked barley) without adding any unctuous articles, _vatya_ (barley porridge), _saktu_ (roasted corn flour) and _apupa_ (pancakes) mixed with the meat soup of gallinaceous and pecker birds and animals inhabiting arid land;
+ 3. Old _shali_ rice cooked and mixed with the soup of _mudga_ etc., and preparations of bitter vegetables; and
+ 4. Cooked _shashtika_ rice and _trina dhanyas_ mixed with the oil of _danti, ingudi, atasi_ and _sarshapa_.
+
+_Shashtika_ rice with _shyamaka_ etc., _truna dhanya_ with _yava_ as predominant food is advised for _prameha_ patients. 
+
+Various food recipes of _yava_ with honey are indicated in _kapha_ dominant _prameha_. 
+
+Barley soaked in the decoction of _triphala_ and kept overnight should be mixed with honey. It is a refreshing (_tarpana_) diet. It should be taken by the patient suffering from _prameha_ regularly to overcome the disease. Barley should be soaked separately with each of decoctions prescribed for the treatment of _kaphaja prameha_ and taken by the patient in the form of _saktu_ (roasted flour), _apupa_ (pancake), _dhana_ (roasted barley) and other types of eatables along with jaggery. 
+
+Various eatables prepared from the barley or bamboo seed or wheat previously eaten by asses, horses, cows, swans and deer and collected from their dung should be given to the patient suffering from _prameha_. [18-24] 
+
+### Specific Therapies
+
+Purificatory therapies including specifically emesis and fasting therapies, administered at the appropriate time, cure _kaphaja_ types of _prameha_. Similarly, _pittaja_ types of _prameha_ are overcome by purgation, _santarpana_ (refreshing therapy) and alleviation therapies. [25] 
+
+### Various formulations
+
+The patient suffering from _prameha_ should take the decoction of _darvi, surahva, triphala_ and _musta_ mixed with honey. He may also take _haridra_ along with the juice of _amalaki_. [26] 
+
+#### Decoctions for _kaphaja prameha_
+
+The following ten decoctions should be mixed with honey and given to patients suffering from _kaphaja prameha_: 
+
+ 1. Decoction of _haritaki, katphala, musta_ and _lodhra_ ;
+ 2. Decoction of _patha, vidanga, arjuna_ and _dhanvana_ ;
+ 3. Decoction of _haridra, daruharida, tagar_ and _vidanga_ ;
+ 4. Decoction of _kadamba, shala, arjuna_ and _dipyaka_ ;
+ 5. Decoction of _darvi, vidanga, khadira_ and _dhava_ ;
+ 6. Decoction of _surahva, kushtha, aguru_ and chandana;
+ 7. Decoction of _darvi, agnimantha, triphala_ and _patha_ ;
+ 8. Decoction of _patha, murva_ and _shvadamshtra_ ;
+ 9. Decoction of _yavani, ushira, abhaya_ and _guduchi_ ; and
+ 10. Decoction of _chavya, abhaya, chitraka_ and _sapta parna_.
+
+#### Decoctions for _pittaja prameha_
+
+The following ten decoctions should be mixed with honey and given to patients suffering from _pittaja prameha_: 
+
+ 1. Decoction of _ushira, lodhra, arjuna, lalachandana_
+ 2. Decoction of _ushira, musta, amalaka_ and _abhaya_ ;
+ 3. Decoction of _patola, nimba, amalaka_ and _amrita_ ;
+ 4. Decoction of _musta, abhaya, padmaka_ and _vrikshaka_ ;
+ 5. Decoction of _lodhra, ambu, kaliyaka_ and _dhataki_ ;
+ 6. Decoction of _nimba, arjuna, amrita, nisha_ and _utpala_ ;
+ 7. Decoction of _shirisha, sarja, arjuna_ and _keshara_ ;
+ 8. Decoction of _priyangu, padma, utpala_ and _kimshuka_ ;
+ 9. Decoction of _ashvattha, patha, asana_ and _vetasa_ ; and
+ 10. Decoction of _katankateri_ (_daruharidra_), _utpala_ and _mustaka_. [30-32]
+
+#### Decoctions for all types of _prameha_
+
+Two recipes of decoction are described for the treatment of all varieties of _prameha_. These decoctions can be used for the preparation of _mantha_ (a drink prepared of roasted corn flour mixed with water), for the impregnation of barley and for the preparation of different kinds of food and drinks. 
+
+Medicated oils and medicated ghee prepared by cooking with these decoctions should be administered to patients suffering from _vatika prameha_. These decoctions correct the vitiated _medas_ and _kapha_ , and the aggravated _vata_ in these patients gets alleviated by the unctuous ingredients (viz., oil and ghee) included in these recipes. [33-34] 
+
+#### Formulations for _kaphaja_ and _pittaja prameha_
+
+Powder of _kampillaka_ , barks of _saptachchada, bibhitaka, rohitaka_ and _kutaja_ and flower of _kapittha_ should be added with honey, made to a linctus and taken by patients suffering from _kaphaja_ and _pittaja prameha_. One _aksha_ of the paste of above mentioned drugs should be mixed with the juice of _amalaki_ and given at the appropriate time to patients suffering from _kaphaja_ and _pittaja_ types of _prameha_. After the digestion of this potion, the patient should be given to eat old rice cooked and mixed with the delicious soup of the meat of animals living in arid land.[35-36] 
+
+#### Formulations for _vata_ association in _kaphaja_ and _pittaja prameha_
+
+If _vata_ is secondarily aggravated along with either _kapha_ or _pitta_ , then the patient should be administered unctuous preparations. For the _kapha_ aggravation, medicated oil should be processed with the decoction of _kapha_ alleviating drugs. .For the pitta aggravation, medicated ghee should be processed with the decoction of _pitta_ alleviating drugs. _Trikantaka, ashmantaka, somavalka, bhallataka, ativisha, lodhra, vacha, patola, arjuna, nimbi, musta, haridra, padmaka, dipyaka, manjishtha, aguru_ and _chandana_ \- all these drugs together should be used in the preparation of medicated oil for the treatment of _kaphaja prameha_ which is associated with secondarily aggravated _vata_. In case of pitta dominance, ghee shall be processed with above mentioned drugs. 
+
+If the signs and symptoms of all the three _doshas_ are manifested, then with all the above mentioned drugs together, ghee and oil both in a mixed form should be cooked and given to the patient. 
+
+**Recipe for all types of prameha:**
+
+The decoction of _triphala, darunisha, vishala_ and _musta_ should be mixed with the paste of _haridra_ and honey. Intake of this potion cures all types of _prameha_ even when these are manifested in acute form. [37-40] 
+
+### _Madhvasava_
+
+_Lodhra, shati, pushkaramula, ela, murva, vidanga, triphala, yamani, chavya, priyangu, kramuka, vishala, kiratatikta, katurohini, bharngi, nata, chitraka, pippalimula, kushtha, ativisha, patha, kalingaka, keshara, indravaruni, nakha, patra, maricha_ and _plava_ \- one _karsha_ of each of these drugs should be boiled in one _drona_ of water till one fourth remains. This decoction along with half its quantity of honey should be kept inside a ghee smeared jar for a fort night. This is called _madhvasava_. It instantaneously cures _kaphaja_ and _paittika_ types of _meha_ when administered in a dose of two _palas_. It also cures _pandu, arsha, aruchi, grahani dosha, kilasa_ and different types of _kushtha_.[41-44] 
+
+### _Dantyasava_ and _bhallatakasava_
+
+In the above mentioned decoction, eight _palas_ of _danti_ , eight _palas_ of sugar and the same quantity of honey should be added and processed. Similarly, in the above mentioned decoction four _palas_ of _bhallataka_ , eight _palas_ of sugar and the same quantity of honey should be added and processed. These two _asavas_ (namely _dantyasava_ and _bhallatokusava_) are useful in the treatment of _prameha_. [45] 
+
+### Beneficial diet and drinks
+
+The patient suffering from _prameha_ should drink _sarodaka_ (water boiled with the heart- wood of _khadira_ etc.,), _kushodaka_ (water boiled with _kusha_), _madhudaka_ (water mixed with honey), _triphala rasa_ (juice or decoction of _triphala_) or _sidhu_ (a type of wine) which is properly fermented or _madhvika_ (another type of wine) which is of superior quality and is prepared after fermenting for a long time. 
+
+Spit- roasted meat of animals and birds and different eatables prepared of barley should be given to the patient to eat. Different types of _prameha_ caused by over-nourishment should be alleviated by the administration of elimination therapies, _arishtas_ (a type of wine), decoctions and various types of linctus. 
+
+Persons habitually taking roasted barley, dry corn- flour, _mudga_ and _amalaka_ do not suffer from _prameha, shvitra_ (leucoderma), _mutrakrucchra_ (dysuria) and _kaphaja kushtha_. [46-48] 
+
+### Indications of above treatment
+
+Effective formulations for producing drying effect on obese patients while describing the management of diseases caused by over- nourishment are useful in the treatment of _pramehas_ caused by _kapha_ and _pitta_ dominance. [49] 
+
+### Various external applications
+
+_Pramehas_ get immediately cured by different types of exercises, unction, bath, sprinkling of water over the body and application of ointment made of _sevya_ (_ushira_), _tvak, ela, aguru, chandana_ etc. [50] 
+
+### Indication of _apatarpana_ treatment
+
+Aggravated _kleda_ (liquid element of the body), _medas_ (adipose tissue) and _kapha_ are responsible for the causation of _prameha_. Keeping this in view, the physician, in the beginning, should administer depletion therapies to patients suffering with _kapha_ and _pitta_ dominant types of prameha. [51] 
+
+### _Vata_ dominant _prameha_
+
+Formulations described earlier for the _vatika prameha_ are actually meant for _vata_ dominant _prameha_ where _vata_ is secondarily (subsequently) aggravated. If the _vata_ is primarily aggravated in _prameha_ because of excessive depletion of tissue elements, then it is incurable and the physician need not make efforts to treat. [52] 
+
+### Prevention of _prameha_
+
+Etiological factors responsible for the causation of different types of _prameha_ should be avoided even after _prameha_ are manifested. The causative factors described shall be avoided during the treatment of those particular diseases (even after its manifestation). [53] 
+
+### Differentiation between _raktapitta_ and _prameha_
+
+If the color of the urine is yellow or if blood is excreted through the urine without the prior manifestation of premonitory signs and symptoms of _prameha_ , such a person should not be diagnosed as a patient of _prameha_. He should be diagnosed as a case of _rakta-pitta_ (a disease characterized by bleeding from different parts of body).[54] 
+
+### Two types of _prameha_ patient
+
+If the patient suffering from _prameha_ passes urine which is sweet, slimy and honey-like, then there are two possibilities. It is caused either by the diminution of _doshas_ having _vata_ -dominant type or by over- nourishment having _kapha_ dominant type. [55] 
+
+### Prognosis
+
+_Kapha_ dominant and _pitta_ dominant types of _prameha_ , if preceded by their premonitory signs and symptoms, are incurable. Similarly, _vatika prameha_ , where _vata_ is aggravated right from the beginning is incurable. _Pitta_ dominant types of _prameha_ are generally palliable. But they are curable if _medas_ (adipose tissue) is not vitiated. [56] 
+
+### In-curability of hereditary diseases
+
+Patients who suffer from _prameha_ since birth (congenital) and those who are borne of _prameha_ parents (hereditary) are not curable because of the morbidity in their _bija_ (genes). Similarly, other hereditary (_kulaja_ /familial) ailments are considered as incurable. [57] 
+
+### Treatment of _prameha pidaka_

@@ -1,0 +1,158 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Classification of _gulma_
+ * 2.2 Agnivesha’s question
+ * 2.3 Etio-pathogenesis of _vata_ -dominant _gulma_
+ * 2.4 _Pitta_ -dominant _gulma_
+ * 2.5 _Kapha_ -dominant _gulma_
+ * 2.6 _Tridosha_ dominant _gulma_
+ * 2.7 _Shonita gulma_
+ * 2.8 Prodormal symptoms
+ * 2.9 Prognosis and general principles of management
+ * 2.10 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Etiopathogenesis of _gulma_
+ * 4.2 _Shadkriyakala_ (lifecycle) of _Gulma_
+ * 4.3 Location of _gulma_
+ * 4.4 _Vataja gulma_
+ * 4.5 _Pittaja gulma_
+ * 4.6 _Kaphaja gulma_
+ * 4.7 _Sannipataja gulma_
+ * 4.8 _Raktaja gulma_
+ * 5 Researches
+ * 6 Reference Books
+ * 7 Related Chapters
+ * 8 References
+
+## Introduction
+
+The word _gulma_ is derived from the Sanskrit root _gud_ , literal meaning encircling or surrounding. Therefore the word _gulma_ stands for an entity that encircles, envelops or covers something. According to mythological concepts described in this text, people fleeing from the wrath of Lord Shiva, when he was dismantling Daksha’s holy sacrifice, were afflicted with this disease. This legend is symbolic, since situations such as panic, stress, or grief, usually accompanying such a chaotic, cataclysmic event would lead to vitiation of _vata_ causing the appearance of _vata_ -dominant diseases like _gulma_ , etc. In Ayurveda, _gulma_ has been defined as large palpable, rounded, intra- abdominal swellings between _hridaya_ (upper abdomen) and the _basti_ (bladder) regions, which develop due to accumulation of _doshas_ with predominance of _vata_. Such swellings are either transitory or static, and display the properties of spontaneous regression and reappearance. _Gulmas_ are usually non-suppurative and are separate entities from other intra-abdominal swellings such as _antar vidradhi_ (internal abscesses) where suppuration is often found. 
+
+The vitiated _vata_ , in conjunction with other _doshas_ , gets into the _mahasrotas_ and get lodged either in the _amashaya_ (stomach), _pittashaya_ (gallbladder), _pakwashaya_ (cecum) or in other regions like _hridaya_ (epigastric), _basti_ (bladder) and _nabhi_ (umblicus) leading to formation of deep-rooted shrub-like mass. Here a new term has been introduced i,e, _mahasrotas_ , that could be explained as viscera including organs of the gastrointestinal tract. However, commentators have suggested that it stands for all of abdominal viscera, including the kidneys. Thus it is evident that under the definition of _mahasrotas_ all the organs in abdomen are included. As mentioned earlier, _gulma_ afflicts the gastrointestinal region between the heart and the bladder. Depending upon the region it afflicts, it can be classified into four general types common to males and females: 
+
+ * _Hridaya_ (epigastric region),
+ * _Basti_ (pelvic region),
+ * _Nabhi_ (periumbilical region) and
+ * Both the _parshva_ (both the flanks)
+
+Besides these, there is a fifth type afflicting only women - _shonitaja gulma_ of the _yoni_ region i.e. in the _garbhashaya_ or uterus region. Such _gulma_ shows a progressive increase in size and thus requires a special attention to differentiate it from pregnancy. While there are _gulma_ variants like _paittika_ and _kaphaja gulma_ caused by an excess of _pitta_ and _kapha_ respectively, it is essentially a _vata_ disorder. _Sannipatika gulma_ is caused due to the vitiation of all the three _doshas_. Since abdominal organs have _mamsa dhatu_ as the main component, all the _siragranthi_ (glandular/tumorous) types of _srotodushti_ (vitiation of channels carrying body components) of abdominal viscera have also been covered under _gulma_. This chapter also covers obstruction and inflammation of viscera having no swelling. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Gulma Nidana"(Diagnosis and etio-pathogenesis of Abdominal lumps). Thus said Lord Atreya.[1-2] 
+
+### Classification of _gulma_
+
+There are five types of _gulma_ \- _vata_ dominant _gulma_ , _pitta_ dominant _gulma_ , _shleshma_ /_kapha_ dominant _gulma_ , _nichaya_ (_tridosha_ dominant) _gulma_ , and _shonita gulma_.[3] 
+
+### Agnivesha’s question
+
+After Lord Atreya said this, Agnivesha asked, “Sir, How can we know the specific characteristics of these five _gulmas_? Because without this knowledge, such patients cannot be successfully treated by a physician even though he is well versed in the selection and usage of drugs.”[4] 
+
+Lord Atreya replied, “Agnivesha! Specific characteristics of the five _gulma_ as well as other diseases are defined on the basis of their etiology, prodromal symptoms, clinical features with various types of pains, and therapeutic applicability.”[5] 
+
+### Etio-pathogenesis of _vata_ -dominant _gulma_
+
+When a person of _vatika_ constitution, particularly emaciated due to one of the debilitating factors like fever, emesis, purgation and diarrhoea, consumes _vata_ \- aggravating food or excessively cold food, in excessive quantities, or is administered emesis or purgation without prior unction, he vomits profusely and holds up impelling urges of flatus, urine, bowel movement. Or if such a person, after consuming a heavy meal, drinks a lot of fresh water or travels by an excessively jerking vehicle, indulges in excessive sexual intercourse, intensive physical exercise, or drinks alcoholic drinks, or suffers from excessive anxiety, or is subjected to injury or uses uneven postures in sitting, sleeping, standing and walking, or starts some other similar sort of irregular and excessive physical exercises -_vata_ gets vitiated or aggravated. [6] 
+
+Such vitiated _vata_ , on entering the _mahasrotas_ , hardens due to dryness forming a mass or swelling localised in the regions of heart, urinary bladder, sides and the navel. The condition, _gulma_ (or _vata gulma_), is painful and can take the shape of a single swelling or multiple nodules of various types. It sometimes gets aggravated and enlarged, sometimes diminished, and causes mild or severe pain due to instability of _vayu_. Sometimes there are tingling sensations like ants crawling on body and frequent onset and diminution of various types of painful sensations such as piercing, breaking, twitching, extension, contraction, numbness, hyperaesthesia, etc. These sensations could be accompanied by a rise in temperature usually in the evenings, dryness of mouth, difficulty in expiration, horripilation at the onset of pain and complications such as spleen (enlargement), distension and gurgling sound in the abdomen, indigestion, _udavarta_ (upward movement of _vata_), bodyache, pain in the lateral side of the neck, head and temple regions and _bradhana_ (swellings of the inguinal region) with appearance of blackness, reddishness and roughness in skin, nails, eyes, face, urine and feces. The disease aggravates due to these etiological factors and pacifies due to opposite factors. These are characteristic features of _vata gulma_. [7] 
+
+### _Pitta_ -dominant _gulma_
+
+If a person, weakened by ailments or various etiological factors (as mentioned above in verse 6), uses sour, salty, pungent, and alkaline substances with hot and sharp potency, vinegar, improperly prepared or denatured alcoholic drinks, salads, sour fruits and acidic vegetables, grains, meat etc., takes food during indigestion, is administered emesis when _amashaya_ is dry (or not properly oleated), suppresses natural urges for long, or is exposed excessively to the sun and wind, his _pitta_ along with _vata_ gets vitiated or aggravated. [8] 
+
+Aggravated _vata_ , along with vitiated _pitta_ , gets (completely or partially) collected in the _amashaya_ and produces the same types of pain as mentioned for _vata gulma_. Due to aggravation of _pitta_ in certain cases, the patient feels a burning sensation (with hyperacidity) in the belly, cardiac region, chest and throat while letting out smoky and sour eructations at the same time. In the location of _gulma_ , there is burning sensation, pain, sensations of fuming, sweating and moistening, laxity, tenderness and slight horripilation. The patient could exhibit symptoms such as fever, giddiness, burning pain, thirst, dryness of throat, palate and mouth, fainting and diarrhea, and develops greenish or yellowish discoloration of skin, nails, eyes, face, urine and feces. The disease aggravates due to these etiological factors and pacifies due to opposite factors. This variant of _gulma_ is called _pitta gulma_. [9] 
+
+### _Kapha_ -dominant _gulma_
+
+If a person weakened by diseases or aforesaid factors (in verse 6) takes too much unctuous, heavy, sweet and cold things, habitually takes preparations of (rice) flour, sugarcane, milk, sesame, black gram and coarse, unrefined sugar (jaggery), uses excessively immature curd, alcoholic drinks, salads, eats meat of marshy, aquatic and domesticated animals in excessive quantities, suppresses natural urges, drinks too much water when hungry, or is subjected to excessive shaking of the body (caused by travelling on rough roads, etc.), his _kapha_ along with _vata_ gets vitiated or aggravated. [10] 
+
+Such aggravated _vata_ along with vitiated _kapha_ , when accumulated in the _amashaya_ (upper part of abdomen) region or a part of it, causes the same types of painful symptoms as mentioned for _vata gulma_. _Kapha_ causes fever accompanied with cold sensation, anorexia, indigestion, bodyache, horripilation, heart disease, vomiting, excess sleep, lassitude, sweating, and a feeling of heaviness and distress in the head. In the region where the _gulma_ is located, there is fixity, heaviness, hardness, and numbness. Complications could occur such as cough, dyspnoea, coryza and even tuberculosis in much advanced stages. In terms of physical appearance, the patient develops whiteness in skin, nails, face, urine and feces. The disease aggravates due to these etiological factors and pacifies due to opposite factors. This variant of _gulma_ is called _kapha gulma_. [11] 
+
+### _Tridosha_ dominant _gulma_
+
+When the symptoms of three _doshas_ are exhibited, a _gulma_ patient is said to be ailing from _sannipatika gulma_. This condition is incurable. [12] 
+
+### _Shonita gulma_
+
+_Shonita_ or _raktagulma_ occurs specifically only in women and not in men because of presence of uterus and menstrual flow in the former. In woman, who suppress their natural urges because of dependence, ignorance or a constant attendance to service of others or uses _vata_ aggravating substances soon after abortion, delivery or during menstruation, _vata_ gets vitiated or aggravated quickly. [13] 
+
+This vitiated _vata_ gets into the cervico-vaginal canal and checks the menstrual flow. If this continues for a prolonged period, the menstrual blood being obstructed accumulates and enlarges the abdomen. The patient consequently suffers from pain, cough, diarrhea, vomiting, anorexia, indigestion, bodyache, excess sleep, lassitude, dampness, and excessive salivation. There occurs appearance of milk in breasts, dark coloration of lips and areolar region, excessive heaviness in eyes, fainting, nausea, longing for certain food articles as seen during pregnancy, swelling in feet, dilatation of the vaginal orifice and foul smelling discharge from the vagina. There is pulsation in the entire mass of _gulma_ , confusing the patient (or her attendants) into thinking that she is pregnant. [14] 
+
+### Prodormal symptoms
+
+These five types of _gulma_ have the following prodormal symptoms just prior to occurring: aversion to food, anorexia and indigestion, disturbed metabolism, burning sensation after taking meals, vomiting and unusual eructations, reduced urge for flatus, urine and bowel movements, pain, distension, gurgling sound, horripilation and diarrhea due to _vata_ , loss of appetite, debility, and inability to endure satiety. [15] 
+
+### Prognosis and general principles of management
+
+As is evident from the descriptions of _gulma_ , no variant is caused without vitiation of _vata_. Amongst these variants, _sannipatika_ _gulma_ is incurable and should not be treated. The variant caused by just one _dosha_ , should be treated with suitable therapeutics prescribed for respective _dosha_. Those caused by a combination of two _doshas_ (_vata – pitta_ or _vata – kapha_) should be managed with the general therapeutic measures applicable to _dwidoshic_ ailments. The measures that are not contrary to the _dosha_ can be applied according to severity of complications. In case of emergency situations, the measures applicable in treatment of _vata gulma_, such as _vata_ -alleviating unction, fomentation, mild unctuous purgation, enema, and use of sweet, sour and salty substances should be administered. If _vata_ is pacified, then the disease can be cured even with little efforts and other types of _gulma_ can also be treated. [16] 
+
+In the case of _gulma_ , all the measures for pacification of _vata_ should be administered properly because after _vayu_ is controlled over, other aggravated _doshas_ can be alleviated even with small remedies. [17] 
+
+### Summary
+
+Now, to summarize: 
+
+In the chapter on diagnosis of _gulma_ the number, causative factor, symptoms and prodromal symptoms along with a portion of treatment of _gulmas_ have been described.[18] 
+
+Thus ends the third chapter on the diagnosis of _gulma_ in the treatise composed by Agnivesha and redacted by Charak. 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * _Gulma_ is a disease of the _mahastrotas_ (gastro-intestinal tract/abdomen) and is caused due to predominance of _vata_. It is of five types depending upon its location (limited to the gastro-intestinal region between the heart and the bladder). Four types of _gulma_ are common to both males and females while the fifth, _raktaja gulma_ , is a condition limited to females.
+ * _Gulmas_ also vary by the vitiation of other doshas besides _vata_. The _sannipitaka gulma_ , caused by vitiation of all three _doshas_ , is said to be incurable.
+ * A primary feature of _gulma_ is obstruction to the path of _vata_ , which can be due to causes like tumor, stricture, inflammation, tuberculosis, parasites, etc.
+ * _Gulma_ with acute symptoms should have urgent relief of _vata_ obstruction.
+ * Treatment of _vata gulma_ includes _vata_ -alleviating unction, fomentation, mild unctuous purgation, enema, and use of sweet, sour and salty substances. If _vata dosha_ is pacified in _gulma_ disease, then other two _dosha_ can also be controlled.
+
+## Vidhi Vimarsha (Applied Inferences)
+
+A comprehensive effort has been made in Ayurveda to describe different types of swellings occurring in the body e.g. _gulma, udara roga, vriddhi roga, granthi, arbuddha, shopha,_ and _vidradhi_ , etc. They can be distinguished from each other according to their specific characteristics as written in different classics of Ayurveda. Generalized abdominal swellings have been described under the heading of _udara roga_ (abdominal diseases including ascitis), while localized, non-suppurated swellings are _gulmas_. Other localized swellings, such as _vriddhi roga_ (hernia and hydrocele), have also been described by ancient authors but such swellings are in regions other than the gastro-intestinal region, or in parts of the body such as the scrotal and inguinoscrotal region. 
+
+_Shopha_ is a localized inflammatory swelling. _Vidradhi_ (abscess) are also localized but large suppurative lesions and are deep - rooted that may develop either from external surfaces or internal body cavities. _Granthi_ (cyst) and _arbuda_ (tumor) are also localized, progressively increasing knotty lesions and are primarily non suppurative in nature. Such swellings may arise in any part of the body and are commonly known as neoplastic lesions. 
+
+### Etiopathogenesis of _gulma_
+
+In Charak Samhita, vitiated _vata dosha_ is considered as major etiological factor for the development of any type of _gulma_.[Cha.Sa.Chikitsa Sthana 28/58] Among the five types of _vata_ mentioned in Charak Samhita, vitiated _apana_ and/or _samanavata_ seem to be the primary etiological factors of _gulma_ , since these are mainly responsible for the normal physiological functions of _mahastrotas_. The prodromal symptoms of _gulma_ also point towards these two e.g. aversion to food, anorexia, and diminished urge to pass flatus, urine and feces. 
+
+In Chikitsa Sthana, Charak states that _vata_ gets vitiated by two basic means i.e. _dhatukshaya_ (tissue wasting) and _margavarana_ (obstruction). The etiology given in this chapter could also include excess consumption of food with _rukshaguna_, trauma and faulty _shodhana_ procedures, excessive loss of _mala_ and _dhatu_ responsible for _dhatukshaya_ and various other factors that vitiate _doshas_ and _mala_ causing obstruction of different channels, further aggravating _vata_. 
+
+While analysing the definition given by various Acharyas regarding _gulma_ it can be stated that it is the clinical condition in which only solidification of _doshas_ give rise to _gulma_. It is believed that, for the development of any other disease, vitiated _dosha_(s), together with _dushya_ need to accumulate at a specific site leading to development of the disease. Therefore for the development of any disease, a combination of _dosha_ and _dushya_ is critical. However for _gulma_ , only vitiated _doshas_ are responsible and there is no involvement of _dushya_. This is a unique feature of pathogenesis of _gulma_. Sushruta has explained further that just as water bubbles appear and disappear when rain drops fall on water, _gulmas_ appear and disappear. 
+
+Also, in the absence of any _dushya_ (_dhatu_ and _mala_), these swellings are commonly non-suppurative in nature.[1] There are, however, some cases where suppuration may take place. For example, in Chikitsa Sthana, Charak has mentioned that suppuration may takes place in _pittaja gulma_ and further elaborates the various stages of suppuration of _gulma_ i.e. _ama_ (immature or initial stage), _pachyamana_ (intermediary stage) and _pakwa awastha_ (final mature stage) etc. similar to the stages seen in various suppurative conditions like _vidradhi_. Chakrapani commented that when the _pitta gulma_ is not treated timely, _pitta dosha_ and _rakta dhatu_ get aggravated (together or separately), and involves the deeper structure (_kritmulam_). 
+
+### _Shadkriyakala_ (lifecycle) of _Gulma_
+
+ 1. _Sanchaya-Vata_ accumulates in _vatasthana_ (_pakwashaya_ , or the intestines) with the consumption of _vatika_ food and activities such as excessive exercise, suppressing emergent urges etc., further aggravating it.
+ 2. _Prakopa_ \- Consumption of _ruksha, khara_ and _sheeta_ food for prolonged periods of time reduces the _snigdha_ quality of **strotas** while stimulating excess _vata_ to overflow from its _sthana_.
+ 3. _Prasara_ -In this stage aggravated _vata_ dislodges from its accumulated site and spreads all over the body.
+ 4. _Sthanasanshraya_ \- This is the stage in which the _dosha_ stays at a particular locus and comes in contact with _dushya_. In case of _gulma_ , the _mahastrotas_ are the principal loci, with an absence of _dushya_ in their formation. The vitiated _vata_ and other _doshas_ have an affinity towards specific loci such as _hridaya, nabhi, basti_ etc. to get lodged there. Prodromal symptoms of _gulma_ such as anorexia, aversion for food, weakness etc. also become apparent at this stage.
+ 5. _Vyakti_ \- Clinical features of different types of _gulma_ manifest at this stage so management can be done depending upon specific _dosha_ characteristics.
+ 6. _Bheda_ -When the _gulma_ is not treated at the fourth and fifth stage, complications like _bradhna roga_ (inguinal swelling), _jwara_ (fever), _vidbheda_ (loose stools/diarrhea), and suppuration (in case of _pittaja gulma_) occur where surgical intervention could be necessary.
+
+### Location of _gulma_
+
+With respect to the _adhishthana_ (location) of _gulma_ , five major sites have been mentioned [Cha.Sa. Chikitsa Sthana 5/8], including the _hridaya, nabhi, basti,_ and _parshwadwaya_ (flanks). In the context of this chapter, _hridaya_ should be taken as the upper part of the abdominal cavity rather than the thoracic cage as described in Sharira Sthana. _Vata gulma_ most commonly occurs in _basti_ , while _pitta gulma_ occurs most commonly in the _nabhi_ region, and _kapha gulma_ in the _hridaya_ and _parshwadwaya_ regions.[2] The _yakrita gulma_ occurs in the region of _hridaya, ashtheela gulma_ in the region of _kukshi_ (hypogastrium), _pleeha gulma_ in the _madhya_ (central) region, _chandravivardhaka gulma_ in the region of _basti_ , and _granthi gulma_ afflicts the region of _nabhi_.[3]
+
+The pathogenesis of _pittaja_ and _kaphaja gulma_ takes place in _amashaya_ that lies in the region between _hridaya_ and _basti_ [Chakrapani on Cha.Sa.Nidana Sthana 03]. Thus these two variants of _gulma_ (i.e., _pittaja_ and _kaphaja_) cannot occur in _basti_. The five sites of _gulma_ can be mapped to the following anatomical sites of the abdomen: 
+
+**Prognosis** – _Sannipatika gulma_ is incurable, rest four are curable when treated timely. 
+
+**Management** \- All the four types of _gulma_ can be managed according to the prevalent _doshas_. In emergency conditions if there is no time to diagnose the type of _gulma,vata dosha_ should be managed first as it is prevalent in all types of _gulma_. 
+
+Considering the various clinical features of _gulma_ it can be said that the majority of _gulmas_ are non-inflammatory and non-malignant intra-abdominal swellings. But some _gulmas_ show indications of inflammatory swellings, some benign while some show the characteristics of malignant growths. 
+
+### _Vataja gulma_
+
+_Vataja gulma_ are mostly irregular, transitory swellings. These are accompanied with different intensities of colicky pain. 
+
+Complications like inguinal swelling (_bradhna roga_) gurgling sound in the intestines (_antrakoojana_), fever/elevated temperature in the evenings, splenomegaly (_pleehavriddhi_), difficulty in breathing, bodyache (_angamarda_), and headache are commonly in the advanced stages of _gulma_. The above clinical features can be seen in chronic intestinal obstruction, intestinal tuberculosis, pyloric stenosis and in mobile caecum. Intestinal tuberculosis is a chronic condition with common symptoms including transitory nodules of varying sizes occurring due to partial intestinal obstruction, often accompanied with gurgling sounds from the abdomen, poor appetite, and evening fevers, as seen in the advanced stages of _vatika gulma_. Mobile upper abdominal lump, with nausea and breathing difficulty are the features present in the case of pyloric stenosis. In mobile caecum there is also chronic progressive pain in the right flank and in the lower abdomen. 
+
+### _Pittaja gulma_
+
+They are painful abdominal lumps characterized with fever, sweating, thirst, burning sensations and burning eructations. These features are suggestive of inflammatory and suppurative changes in the intra-abdominal lump. In due course of time, _pittaja gulma_ develops yellow discoloration of nail, eyes and skin, fever, and vertigo as an added complication. These features can be seen in obstructive biliary tract. 
+
+### _Kaphaja gulma_

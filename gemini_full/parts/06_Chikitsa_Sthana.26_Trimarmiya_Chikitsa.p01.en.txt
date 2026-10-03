@@ -1,0 +1,332 @@
+## Contents
+
+ * 1 Introduction
+ * 1.1 Sanskrit Text, Transliteration and English Translation
+ * 1.1.1 Importance of _marma_
+ * 1.1.2 Etiology and pathogenesis, signs and symptoms of _udavarta_ (abnormal upward movement of vata)
+ * 1.1.3 Signs and symptoms of _udavarta_
+ * 1.1.4 Treatment of _udavarta_
+ * 1.1.4.1 Anal suppository (_varti_) method of preparation and the usage
+ * 1.1.4.2 Anal dusting treatment/ _pradhamana_ (insufflation)
+ * 1.1.5 Diet in _udavarta_
+ * 1.1.6 Treatment of chronic _udavarta_ and other complications
+ * 1.1.7 _Churna_ preparations
+ * 1.1.7.1 _Dviruttara-hingvadi-churna_
+ * 1.1.7.2 _Vachadi- churna_
+ * 1.1.7.3 _Hingvadi churna_
+ * 1.1.7.4 _Sthiradi Ghrita_ preparation
+ * 1.1.7.5 Condiments
+ * 1.1.8 Diagnosis associated symptoms and treatment of _anaha_ (bloating in upper abdomen) and use of castor oil
+ * 1.1.9 Etiology, types, pathogenesis, signs and symptoms of _mutrakrichchra_ (dysuria)
+ * 1.1.9.1 Etiology of dysuria
+ * 1.1.9.2 Pathogenesis
+ * 1.1.9.2.1 Signs of vataja dysuria
+ * 1.1.9.2.2 Signs of pittaja dysuria
+ * 1.1.9.2.3 Signs of kaphaja dysuria
+ * 1.1.9.2.4 Signs of _sannipata_ dysuria
+ * 1.1.10 Dysuria caused by _ashmari_ (urinary calculus)
+ * 1.1.10.1 Pathogenesis
+ * 1.1.11 Signs and symptoms of urinary calculus
+ * 1.1.12 Dysuria caused by _sharkara_ (graveluria)/semen
+ * 1.1.12.1 Blocked discharge of semen/dysuria caused by semen
+ * 1.1.13 Dysuria caused by vitiated semen
+ * 1.1.14 Dysuria caused by _kshata_(trauma)
+ * 1.1.15 Treatment of vataja dsyuria
+ * 1.1.16 Treatment of pittaja dysuria
+ * 1.1.17 Remedies for pittaja dysuria
+ * 1.1.18 Treatment of kaphaja type of dysuria
+ * 1.1.19 Treatment of _sannipataja_ dysuria
+ * 1.1.20 Treatment of dysuria caused by calculus and gravel
+ * 1.1.20.1 General treatment
+ * 1.1.20.1.1 Method of extraction of the calculus
+ * 1.1.20.1.2 Treatment for dysuria caused by obstruction of semen
+ * 1.1.21 Treatment of dysuria caused by _rakta_ (vitiated blood)
+ * 1.1.22 Unsuitable diet and lifestyle in dysuria
+ * 1.1.23 Heart diseases
+ * 1.1.23.1 Etiology and specific features of different types of _hridroga_
+ * 1.1.23.1.1 Etiology /causative factors
+ * 1.1.23.1.2 Symptoms
+ * 1.1.23.2 Specific features of different types of _hridrogas_
+ * 1.1.23.2.1 In predominance of vata (vataja heart disease)
+ * 1.1.23.2.2 In predominance of pitta (pittaja heart disease)
+ * 1.1.23.2.3 In predominance of kapha (kaphaja heart disease)
+ * 1.1.23.2.4 In predominance of all three dosha (_sannipata_)
+ * 1.1.23.3 Treatment of vataja hridroga
+ * 1.1.23.4 Treatment of pittaja hridroga
+ * 1.1.23.5 Treatment of kaphaja hridroga
+ * 1.1.23.5.1 _Rasayanas_ for kaphaja hridroga
+ * 1.1.23.6 Treatment of tridoshaja/sannipatika hridroga
+ * 1.1.23.7 Treatment of non-cardiac chest pain
+ * 1.1.23.8 Treatment of _krimija hridroga_
+ * 1.1.24 Diseases of Head and neck
+ * 1.1.24.1 Diseases of nose
+ * 1.1.24.1.1 Etiology and pathogenesis of _Pratishyaya_ (coryza/Rhinitis)
+ * 1.1.24.1.2 Classification and signs and symptoms of _pratishyaya_
+ * 1.1.24.1.3 _Dushtapratishyaya_ (persistent rhinitis)
+ * 1.1.24.1.4 Etiopathogenesis and clinical features of other disorders of nose
+ * 1.1.24.2 Diseases of Head region and scalp
+ * 1.1.24.2.1 Diagnosis of _shiro-roga_(diseases of Head)
+ * 1.1.24.3 Oral diseases
+ * 1.1.24.3.1 Diagnosis of oral diseases
+ * 1.1.24.4 _Arochaka_ (anorexia)
+ * 1.1.24.4.1 Etiology, Diagnosis/ signs and symptoms of _arochaka_ (anorexia)
+ * 1.1.24.5 Ear diseases
+ * 1.1.24.5.1 Diagnosis/ signs and symptoms of ear diseases
+ * 1.1.24.6 Eye diseases
+ * 1.1.24.6.1 Diagnosis of eye diseases
+ * 1.1.24.7 Hair diseases
+ * 1.1.24.8 Treatment of supra-clavicular diseases (_urdhva jatrugata roga_)
+ * 1.1.24.9 Treatment of vataja pinasa
+ * 1.1.24.10 Treatment of pittaja pinasa
+ * 1.1.24.11 Treatment of kaphaja pinasa and _dushtapratishyaya_
+ * 1.1.24.11.1 Treatment of kaphaja pinasa
+ * 1.1.24.11.2 Diet for kaphaja pinasa
+ * 1.1.24.11.3 Treatment of _dushta pinasa_
+ * 1.1.24.11.4 Treatment of swelling of the nose/ edematous rhinitis
+ * 1.1.24.11.5 Treatment of growth like tumors and polyps/ _adhimamsa_
+ * 1.1.24.11.6 Treatment of the remaining disorders of the nose
+ * 1.1.25 Treatment of diseases of head
+ * 1.1.25.1 Treatment of vataja head diseases
+ * 1.1.25.1.1 _Maha mayura ghrita_
+ * 1.1.25.2 Treatment of pittaja diseases of head
+ * 1.1.25.3 Treatment of kaphaja, sannipatika and krimija head diseases
+ * 1.1.25.3.1 General treatment of kaphaja head diseases
+ * 1.1.25.3.2 Treatment of _tridoshika/sannipatika_ head diseases
+ * 1.1.25.3.3 Treatment of head disease due to micro organisms/ _krimija_
+ * 1.1.25.4 Treatment of diseases of the mouth
+ * 1.1.25.4.1 General treatment of diseases of the mouth
+ * 1.1.25.4.2 _Khadiradi Gutika_ and _Khadiradi Taila_
+ * 1.1.25.5 Treatment of anorexia
+ * 1.1.25.5.1 General treatment of anorexia
+ * 1.1.25.6 Treatment of ear diseases
+ * 1.1.25.6.1 General treatment of ear diseases
+ * 1.1.25.6.2 Treatment of suppuration and discharge
+ * 1.1.25.6.3 Specific formulas for ear disease
+ * 1.1.25.7 Treatment of eye diseases
+ * 1.1.25.7.1 Principles of treatment: Treatment of critical stage of freshly occurred eye diseases
+ * 1.1.25.7.2 Treatment of _vataja_ eye disease
+ * 1.1.25.7.3 Treatment of _pittaja_ type eye diseases
+ * 1.1.25.7.4 Treatment of kaphaja eye diseases
+ * 1.1.25.7.5 Treatment of _sannipataja_ eye diseases
+ * 1.1.25.7.6 Formulas for other eye diseases
+ * 1.1.25.8 Treatment of baldness and greying of hair
+ * 1.1.25.8.1 General treatment of alopecia and graying of hair
+ * 1.1.25.8.2 Treatment of remaining _shiroroga_ – head diseases
+ * 1.1.25.9 Treatment of hoarseness of voice
+ * 1.1.25.9.1 Treatment of _vataja svarabheda_
+ * 1.1.25.9.2 Treatment of _pittaja svarabheda_
+ * 1.1.25.9.3 Treatment of _kaphaja svarabheda_
+ * 1.1.25.9.4 Treatment of _raktaja svarabheda_
+ * 1.1.25.9.5 Treatment of _sannipatika svarabheda_
+ * 1.1.26 Summary
+ * 1.1.27 Microcosm and macrocosm
+ * 1.1.28 Harmony among the dosha
+ * 1.1.29 In Conclusion
+ * 2 Tattva Vimarsha (Fundamental Principles)
+ * 3 Vidhi Vimarsha (Applied Inferences )
+ * 3.1 Understanding concept of _udavarta_
+ * 3.2 Treatment
+ * 3.2.1 Disease specific therapy
+ * 3.3 Important medicines
+ * 3.3.1 Medicines for oral intake
+ * 3.3.2 Panchakarma therapies
+ * 3.4 External applications
+ * 3.5 Researches done on Trimarmiya Chikitsa
+ * 3.6 Research work done on _udavarta_
+ * 3.7 Thesis done on other related topics
+ * 3.8 Diseases and management of urinary system
+ * 3.8.1 Causes
+ * 3.8.2 Clinical features
+ * 3.9 _Mutrashmari_ (urinary calculus), _mutra sharkara_ (gravel) and _shukrashmari_ (calculi of dried up semen)
+ * 3.9.1 Treatment
+ * 3.9.1.1 1\. _Mutrakricchra_ (dysuria)
+ * 3.9.1.2 2\. Panchakarma therapies
+ * 3.9.1.3 Management of urinary calculi
+ * 3.10 Researches on _Ashmari_
+ * 3.10.1 Place of research : I.P.G.T. & R.A., Jamnagar
+ * 3.10.2 B. H. U., Varanasi
+ * 3.10.3 N.I.A. Jaipur
+ * 3.10.4 Puri
+ * 3.11 Causes, prevalence, clinical features and management of diseases of heart
+ * 3.11.1 Causes of heart diseases
+ * 3.11.2 Clinical features
+ * 3.11.3 Assessment and diagnosis
+ * 3.11.4 Treatment
+ * 3.11.4.1 Preventive aspect
+ * 3.11.4.2 Management of disease
+ * 3.12 Related Chapters
+
+## Introduction
+
+Morbidity and mortality from cardiovascular, cerebrovascular, and renal diseases are leading among global burden to the society. According to the Center for Disease Control and Prevention (CDC), Cerebrovascular diseases are the fifth leading cause of death. 
+
+Cardiovascular diseases (CVDs), per the Media Center Fact Sheet of the World Health Organization (WHO), are the “number one cause of death globally” with an estimated 17.7 million people dying of it in 2015 (31% of global deaths). Last but not least, renal diseases (or chronic kidney diseases (CKDs) afflict 14% of the general population in the US and are one of the major causes of death worldwide . 
+
+_Marma_ (vital points) are junctures of muscle, tendons, ligaments, bone tissue, joints, blood vessels and nerves, nervous tissue, which forms the seat of life and it is also said that they are the seat for tridosha, triguna and the atma, hence any injury can be life threatening leading to death. 
+
+The word _marma_ is derived from the _mru marane dhatu_ (Sanskrit) which states that any trauma to _marma_ may lead to _marana_ (death) or dysfunction of that particular site. The _adhisthana_ (location) of diseases of _marma_ can be assessed by changes in physiological functions in the body and through type of _rogamarga_ (pathway of pathogenesis). _Marma_ comes under _madhyama_ (middle) _rogamarga_. Therefore understanding of the _rogamarga_ is essential to analyze the characters of the diseases, related with _dushti_ (pathogenesis). 
+
+Following are the sites of three most important _marma_ : 
+
+ 1. _Shira marma_ relates with the brain with the spinal cord comprising the body's central nervous system. This controls all the body activities, conscious communication and automatic operation of organs such as breathing, maintaining blood pressure, and releasing hormones etc.
+ 2. _Hridaya marma_ relates with heart and circulatory system, which supplies oxygen and nutrients to the tissues. The body tissues need constant nutrition supply to be active, if there is lack of blood supply to the organs, the tissues may die.
+
+The loss of substance/ body (_ashraya_) leads to the loss of the substrate/ life (_ashrayee_) hence, these _trimarma_ should be especially protected against external injury and vatadi dosha. The clinical features of diseases of head as per dosha dominance have already been described in Kiyanta Shiraseeya Adhyaya. In the present context, dosha dominant features observed in diseases of three _marma_ , of eyes, nose, ears and oral cavity are described. The diseases of scalp and hair are also described. 
+
+Later, in Trimarmiya Siddhi, the importance of three _marma_ , consequences of their injury and management with Panchakarma procedures is described in detail. In the present chapter, however, management of disorders with medicines only has been described. 
+
+_Udavarta_ literally means upward and opposite frequent movement of vata dosha. The term itself suggests pathology of aggravation of vata either due to its own causes or due to obstruction to its movement due to other dosha. If the aggravated vata affects vital _marma_ like heart, brain and urinary bladder, then it can cause serious disorders. The chapter details about the diseases of these three regions with etiological factors, clinical features and management. 
+
+There are thirteen types of _udavarta_ based upon suppression of natural urges described in Naveganadharaniya Adhyaya. The diseases vary depending upon vitiation of vata due to respective urges and so is the management of _udavarta_. In the present chapter, the diseases due to _apana vaigunaya_ (impairment of _apana_) in the pelvis region due to suppression of urge of flatus, defecation and urination are described. Though, _udavarta_ is dealt in the initial part of the chapter and three _marma_ in latter part, the name of the chapter is given as Trimarmiya Chikitsa, because it emphasizes the management of diseases of three _marma_. _Udavarta_ can be considered as cause for the diseases of three marma. 
+
+### Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter on "Trimarmiya Chikitsitam" (Management of diseases of the three vital organs).Thus said Lord Atreya. [1-2] 
+
+#### Importance of _marma_
+
+The vital organs (_marma_) are mentioned as 107 in number while enumerating different body parts in Sankhya Sharira. As per the specialists of the subjects, three vital organs, viz, _basti_ (urinary bladder), _hridayam_ (heart) and _shira_ (head) are considered supreme among themselves, because they possess life (prana) in them. Their suffering due to _vata_ , etc. also troubles/ endangers life (_prana_). Hence to protect these vital organs, the method of protection from the attack of diseases, and their management will be discussed which you may listen (addressed to Agnivesha) [3-4] 
+
+#### Etiology and pathogenesis, signs and symptoms of _udavarta_ (abnormal upward movement of vata)
+
+Excessive consumption of astringent, bitter, pungent, dry/ ununctuous food, suppression of natural urges, starvation, and excess indulgence of sex excessively aggravates apana vata in the colon. This obstructs downward moving channels and gradually obstructs the movement of stool, urine and the flatus causing _udavarta_ , the serious trouble. [5] 
+
+#### Signs and symptoms of _udavarta_
+
+Intense and frequent pain in urinary bladder, cardiac region, pelvis, abdomen, and also severe pain in back and sides of chest; flatulence, nausea, cutting pain, piercing pain, indigestion, inflammation of urinary bladder; retention of stool, appearance of nodules in the abdomen, abnormal upward movement of vata, delayed and difficulty in evacuation of dry stool; body becomes rough, ununctuous, and cold and consequently disorders such as fever, dysuria, _pravahika_ (spurious feeling of the need to evacuate stools with straining), cardiac disorders, _grahani_ disorder (malabsorption syndrome), vomiting, blindness, deafness, burning sensation in head, _vatodara_ (affliction of abdomen due to vata), _asthila_ (stony hard tumours), psychological disorders, thirst, hemorrhagic disorders, anorexia, _gulma_ (lump like feeling), cough, dyspnea, rhinitis, facial paralysis and chest pain arise. Many other severe vata disorders are caused by _udavarta_. Treatment of these ailments will be described hereafter you may listen Agnivesha.[5-10] 
+
+#### Treatment of _udavarta_
+
+The patient should be massaged with oil prepared with drugs alleviating _sheeta jwara_ (fever with external cold touch) and then fomented so that the adhered dosha get detached. There after the patient should be managed with suppositories (_varti_), non-unctuous enema and unctuous purgatives and diet which regulates movement of vata in downward direction. [11] 
+
+##### Anal suppository (_varti_) method of preparation and the usage
+
+ 1. Ingredients: equal parts of- _shyamatrivrita_ (Operculina turpethum (L.)), _magadhikam_ (Piper longum (L)), _danti_ (Baliospermum.(Blume)), _nilika_ (Vitex Negundo (Linn)) and 1/10 part of _masha_(Vigna mungo(L.)). 
+ 1. Method of preparation: Triturate the above plants/ powders in cow’s urine, then add 2 parts of salt and jaggery in sufficient quantity. Make a suppository of the size and shape of thumb. [12]
+ 2. Ingredients: oil cake (_pinyaka_), _sauvarchala_ (a type of salt), _hingu_ (Ferula asafoetida (L)), mustard (Brassica nigra (L)), _trikatu_ (_shunthi_ -Zingiber officinale (Roscoe), _maricha_ \- Piper nigrum (Linn), _pippali_ \- Piper Longum (Linn.)), _yavakshara_ (Hordeum vulgare (L.)), jaggery. [13]
+
+##### Anal dusting treatment/ _pradhamana_ (insufflation)
+
+The powder of following herbs is to be blown up with a pipe/ tube into the oleated anal canal. 
+
+Drugs used are: 
+
+ 1. Powder of _shyama_ \- Operculina turpethum (L.), _madanaphala_ \- Randia dumetorum (lam.), _alabu_ \- Cucurbita lagrenaria (Linn.) and _pippali_ \- Piper Longum (Linn). [15]
+ 2. Oleate the anus and through the tube, blow in the powder of _rakshoghna_ (_sarshapa_)- Brassica nigra (L. Koch), _tumbi_ \- Cucurbita lagrenaria (Linn), _karahata_(_madanaphala_)-Randia dumetorum (lam.), _krishna_(_pippali_)-Piper Longum (Linn), _jeemutaka_(_devadali_)-Luffa echinata (Roxb).,and rock salt [15]
+
+If the above said therapies fail to produce the desired results the physician should advise oleation and fomentation and administer _niruha_ type of basti (ununctuous medicated enema) using a special combination of herbal decoctions which are sharp (_tikshna_) in nature and having emetic and purgative properties alongwith, cows urine, oil, alkali, drugs with drugs having sour taste and vata alleviating quality: 
+
+ 1. In vata predominance: The enema should be sour, salty and oily.
+ 2. In pitta predominance: The enema should be with milk.
+ 3. In kapha predominance: The enema should be with urine.
+
+Benefits of this enema: Relieves retention of urine, stool and flatus, it strengthens the anal region as well as the connected blood vessels. [16] 
+
+#### Diet in _udavarta_
+
+The patient should be kept on diet of barley-made food, which is prepared with the following vegetables: 
+
+ 1. Leaves of _trivrita_ ( Operculina turpethum(L.)), and _snuhi_ leaves, sesamum (Brassica nigra (L. Koch), etc. vegetables.
+ 2. Meat soup of domestic, aquatic and marshy animals (animals inhabiting in marshy land) or other ingredients which help in elimination of flatus, urine and stool.
+ 3. Followed by drink of _prasanna_ (clear wine/top portion of alcohol) or _gud sidhu_ (wine prepared out of jaggery). [18]
+
+#### Treatment of chronic _udavarta_ and other complications
+
+If the _udavarta_ continues in spite of the above treatment, then the patient should be purgated with cow’s urine, _prasanna_ (clear top portion of alcohol), _dadhimanda_ (upper liquid portion of curd/ curd-scum) and _shukta_ (vinegar). If the patient is normalized but there is retention of flatus and stool due to ununctuousness, then patient should be given anuvasana type of medicated enema (unctuous enema). [19] 
+
+#### _Churna_ preparations
+
+##### _Dviruttara-hingvadi-churna_
+
+Ingredients: 
+
+ 1. 1 part-_hingu_ (Ferula asafoetida (L))
+ 2. 2 parts- _vacha_ (Acorus calamus Linn)
+ 3. 4 parts- _chitraka_ (Plumbago zeylanica Linn)
+ 4. 8 parts-_kushtha_ (Saussurea lappa)
+ 5. 16 parts-_swarjikshara_
+ 6. 32 parts- _vidanga_ (Embelia ribes Burm.)
+
+Powder all the above together. 
+
+This preparation of powder should be taken with warm water, it alleviates, _visuchika_ (diarrhea with pricking pain in abdomen), heart disease, _gulma_ (lump like feeling in the abdomen) and _urdhvasamirana_ (abnormal upward movement of vata) [20] 
+
+##### _Vachadi- churna_
+
+Powders of _vacha, haritaki, chitraka, yavakshara, pippali, ativisha,_ and _kushtha_ taken with hot water alleviates _anaha_ (abdominal tympanites), vimoodha vata (confounded vata). 
+
+Rice along with meat soup should be consumed while using this preparation. [21] 
+
+##### _Hingvadi churna_
+
+Ingredients: 
+
+ 1. 1 part- _hingu_ \- Ferula assa-foetida (L)
+ 3. 3 parts- _bida lavana_
+ 4. 4 parts- _sunthi_ \- Zingiber officinale (Roscoe)
+ 5. 5 parts- _ajaji/ jiraka_ -Cuminum cyminum Linn.
+ 6. 6 parts- _haritaki_ \- Terminalia chebula Linn
+ 7. 7 parts - _puskaramula_ \- Inula Racemosa Hook. F.
+ 8. 8 parts- _kustha_ \- Saussurea lappa C.B Clarke
+
+Intake of this [powder] alleviates _pleehodara_ (splenomegaly), indigestion and _visuchika_ (diarrhea with pricking pain in abdomen).[22] 
+
+##### _Sthiradi Ghrita_ preparation
+
+Ingredients: 
+
+Decoction prepared out of two _pala_ (80 grams) of each drugs of _sthiradivarga_ (_shalaparni_ -Desmodium gangeticum DC, _Prishnaparni_ \- Cyperus sp, _brahati_ \- Solanum indicum Linn./ _anguivi_ Lam, _kantakari_ \- Garcinia morella Desr, _gokshura_ \- Tribulus terrestris Linn), _punarnava_ \- Boerhaavia diffusa Linn, _champaka_ (_aragvadha_)-Cassia fistula Linn and _putikarnja_ \- Caesalpinia crista Linn cooked with one _prasta_ (640 gms) of ghee. 
+
+Intake of this medicated ghee cures pratiruddha vata (obstructed flatus) [23] 
+
+##### Condiments
+
+Fruits and roots mentioned under purgatives (Sutra.1:77-85) alongwith _hingu_ \- Ferula asafetida (L), _arka_ \- Calotropis Gigantea (Linn) roots, _dashamula_ (_bilva, syonaka, gambhari, patala, ghanikarnika, salaparni, prishnaparni, brahati, kantakari, gokshura_), _snuhi, chitraka_ and _punarnava_ to be taken in equal quantity. To this five types of salt in equal quantity is to be added and made in to coarse powder, this mixture is further triturated with cows urine and fat and cooked within closed earthen saucer with well-closed joints with clay smeared cloth, and then placed over fire, when cooked, the salt should be powdered and there after used with food and drinks. This eliminates _anaha_ (bloating in the upper abdomen) and pain (abdominal pain).[24-25] 
+
+#### Diagnosis associated symptoms and treatment of _anaha_ (bloating in upper abdomen) and use of castor oil
+
+_Anaha_ (bloating in upper abdomen) as caused by _ama_ (improperly digested food/product of improper digestion), associated with stiffness in cardiac region, diseases of head and heaviness, retention of belching, common cold should be treated with emesis therapy, langhana (fasting therapy) and pachana (carminatives). [26] 
+
+(If the vata is obstructed by fat, kapha, pitta or rakta (vitiated blood) in the disease like _gulma_ (lump like feeling in abdomen), _udara_ (abdominal diseases includes ascites), _bradhna_ (inguinal swelling), piles, splenic enlargement, _udavarta_ (abnormal upward movement of vata), _yoni-roga_ (gynecological diseases), seminal disorders, disorders of fat by the vitiation of kapha, deep-seated _vatarakta_ (gout), sciatica, hemiplegia etc and in such _vatika_ disorders wherein purgation therapy is recommended for cure, Castor oil is an excellent remedy, which should be added with other such ingredients which pacifies aggravated vata and administered along with milk, meat soup, juice or _triphala_ decoction, vegetable soup, cows urine, alcoholic drink etc. 
+
+Due to its vata pacifying nature, due to addition of other drugs, and because of its purgative effects, it cures _vatika_ disorders associated with vitiated fat, blood, pitta and kapha. [29-30] 
+
+Castor oil should be administered up to the dose of five _pala_ depending on the strength of the person, nature of disease, and the _koshta_. If the person is weak and is of _mridu kosta_ (laxed bowel) then, castor oil should be given along with food. [31] 
+
+Thus ends the treatment of _udavarta_[26-31] 
+
+#### Etiology, types, pathogenesis, signs and symptoms of _mutrakrichchra_ (dysuria)
+
+##### Etiology of dysuria
+
+Excessive physical exertion, intake of drugs having _tikshna_ (sharp) quality and ununctous food intake, habitual intake of alcohol, riding on a fast-moving vehicle, overeating meat of marshy animals and fish, Intake of food before the previous meal is digested and chronic indigestion leads to eight type of _mutrakricchra_ (dysuria). [32] 
+
+##### Pathogenesis
+
+_Dosha_ aggravated separately or all together when being provoked by their vitiating factors which get located in kidney or urinary bladder and distress the urinary passage, leads to _mutrakricchra_(dysuria).[33] 
+
+###### Signs of vataja dysuria
+
+Severe pain in groins, urinary bladder and genitals and the patient frequently passes urine in small quantity. 
+
+###### Signs of pittaja dysuria
+
+The patient passes yellow or bloody urine with pain and burning sensation frequently and with difficulty. [34] 
+
+###### Signs of kaphaja dysuria
+
+Heaviness and oedema in urinary bladder and phallus and the urine is associated with slimy materials. 
+
+###### Signs of _sannipata_ dysuria
+
+All the signs and symptoms described above are manifested as all the dosha are aggravated which is the cause for _sannipatika_ type of dysuria which is most difficult type of dysuria for cure. [35] 
+
+#### Dysuria caused by _ashmari_ (urinary calculus)
+
+##### Pathogenesis
+
+When the aggravated vata dries up semen and urine along with pitta and kapha which is located in urinary bladder the calculus is formed gradually like gallstone in cow. [36] 
+
+#### Signs and symptoms of urinary calculus
+
+When the calculus resembles _kadamba_ flower, stony, smooth, prismatic (having three layers) or soft and when it comes in the urinary passage, it obstructs the flow of urine and results in pain in urinary bladder and perineum-sevani (suture below the pudendum and between two testicles), phallus and hypogastric region (region over urinary bladder). Urine is passed in divided streams and because of pain; the patient squeezes the phallus and frequently voids stool and urine. [35-38] 

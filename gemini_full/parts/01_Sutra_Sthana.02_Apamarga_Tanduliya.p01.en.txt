@@ -1,0 +1,221 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Herbs used for Shirovirechana (Catharsis of Cephalic Region) and indications
+ * 2.2 Herbs used for Therapeutic Emesis
+ * 2.3 Herbs used for Therapeutic Purgation
+ * 2.4 Herbs used in Therapeutic Enema
+ * 2.5 Pre-requisites of Panchakarma Procedure
+ * 2.6 Yukti (rational therapeutics)
+ * 2.7 Description of various medicated _yavagu_ (gruels)
+ * 2.8 Ingredients and benefits of various medicated _yavagu_ (gruels)
+ * 2.8.1 Gruel for enhancing digestion and colic pain
+ * 2.8.2 Gruels for digestion, styptic action and vata dominant diarrhoea
+ * 2.8.3 Gruel used in diarrhoea with dominance of _pitta_ and _kapha_
+ * 2.8.4 Gruel used in diarrhoea with blood
+ * 2.8.5 Gruels for diarrhoea with indigestion and dysuria
+ * 2.8.6 Gruel for _krimi_ (worm infestation)
+ * 2.8.7 Gruels for excess thirst and toxicity
+ * 2.8.8 Gruels for nourishment/weight gain and weight loss
+ * 2.8.9 Gruels for unction and drying therapy
+ * 2.8.10 Gruels for respiratory diseases and colic pain
+ * 2.8.11 Gruels for constipation and diarrhoea
+ * 2.8.12 Gruels for catharsis and flatulence
+ * 2.8.13 Gruel for adverse effects due to improper administration of ghee and oil
+ * 2.8.14 Gruel for pyrexia of irregular pattern and throat disorders
+ * 2.8.15 Gruels for disorders of male genital tract and aphrodisiac action
+ * 2.8.16 Gruel for intoxication and polyphagia
+ * 2.9 Summary
+ * 2.10 Qualities of a Practicing Physician
+ * 3 Tattva Vimarsha(Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Herbs used for Shirovirechana (catharsis of cephalic region)
+ * 4.2 Herbs used in vamana (therapeutic emesis)
+ * 4.3 Herbs for _virechana_ [therapeutic purgation]
+ * 4.4 Herbs used in enema
+ * 4.5 Panchakarma therapy
+ * 4.6 Medicated gruels
+ * 4.6.1 Chart 1: Anna Kalpana (Verse 2/ 17 Chakrapani)
+ * 4.6.2 Chart 2: Types of _Yavagu_
+ * 4.6.3 Contemporary researches
+ * 4.7 Further reading and reference books
+ * 5 References
+
+## Introduction
+
+The aim of Ayurveda is to maintain the health of a healthy individual and cure diseases of an unhealthy one. Purificatory procedures (such as Panchakarma, or five purificatory procedures) play a pivotal role to protect and promote the health of the individual. In the previous chapter of Deerghanjiviteeya Adhyaya, plants with therapeutic qualities (in their roots and fruits particularly) have been described for use in purification therapies. The present chapter is written with a view to enumerate the remaining drugs that are useful for various bio-purificatory procedures, along with an explanation of their properties and the objectives of those procedures. It has been named as _Apamarga tanduliya_ to stress that the dehusked seeds of _Apamarga_ (Achyranthes aspera), rather than husked ones, are to be prescribed for therapeutic purposes. In addition to the bio-purification procedures, this chapter also explains the need for post-purification dietary regimen (samsarjana krama) to be followed in order to re-kindle _agni_ (digestive powers). It includes importance of gruels to eradicate specific diseases and re-kindle _jatharagni_ (digestive powers) and provides detailed descriptions and procedures for _yavagukalpana_ (preparation of _yavagu_ , or a special form of gruel). Among this _yavagu_ , some are _ahara pradhana_ (or diet-centric), while others are _aushadha pradhana_ (medication-centric). The chapter also emphasizes the importance of dosage (_matra_), timing and frequency (_kala_), and rational judgement (_yukti_) required for effective administration of the purificatory procedures. The chapter begins with an explanation of medicines for _shirovirechana_ (catharsis of cephalic region) and then explains purificatory procedures for _vamana_ (therapeutic emesis), _virechana_ (therapeutic purgation), _anuvasanabasti_ (oil enemata), and _niruhabasti_ (decoction enemata). The reason for such a beginning is the importance or superiority of head among all body parts. [Cha.Sa.Sutra Sthana 17/2] 
+
+It further lists down _Panchakarma dravya_ (drugs useful for purificatory procedures), description of _yavagu_ (food preparation) and characteristics of an ideal physician eligible to administer these procedures and preparations. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Apamarga Tanduliya" (Dehusked Seeds of Apamarga and other medicines).Thus said Lord Atreya. [1-2] 
+
+### Herbs used for Shirovirechana (Catharsis of Cephalic Region) and indications
+
+### Herbs used for Therapeutic Emesis
+
+_Madana_ (Catunaregam spinosa (Thunb.) Tirvengadum), _Madhuka_ (Glycyrrhiza glabra Linn.), _Nimba_ (Azadirachta indica A. Juss.), _Jimuta_(Luffa echinata Roxb.), _Kritavedhana_ (Luffa acutangula Roxb.), _Pippali_(Piper longum Linn.), _Kutaja_ (Holarrhena pubescens (Buch.-Ham.) Wallich ex Don), _Ikshvaku_ (Lagenaria siceraria (Mol.) Standley), _Ela_ (Elettaria cardamomum Maton), _Dhamargava_ (Luffa aegyptiaca Mill.), are the drugs to be used by the physician in the conditions caused by vitiation of _kapha_ and _pitta_ in upper gastrointestinal tract for emesis without causing strain to the body. [7-8]
+
+### Herbs used for Therapeutic Purgation
+
+_Trivrit_ (Operculina turpethum (Linn.) Silva Manso), _Triphala_ (Three myrobalans), _Danti_ (Baliospermum montanum (Wild.) Muell-Arg.), _Nilini_ (Indigofera tinctoria Linn.), _Saptala_ (Acacia concinna DC.), _Vacha_ (Acorus calamus Linn.), _Kampillaka_(Mallotus philippensis (Lam.) Muell.- Arg.), _Gavakshi_ (Citrullus colocynthis (Linn.) Schrader), _Kshirini_ (Mimusops hexandra Roxb.), _Udakeerya_(Pongamia pinnata (Linn.) Pierre), _Pilu_ (Salvadora persica Linn.), _Aragwadha_ (Cassia fistula Linn.), _Draksha_ (Vitis vinifera Linn.), _Dravanti_ (Croton tinglium Linn.), _Nichula_ (Barringtonia acutangula (Linn.) Gaertn.) are the drugs used for purgation when vitiating factors are located in _Pakwashaya_ (colon).[9-10] 
+
+‎ 
+
+### Herbs used in Therapeutic Enema
+
+_Patala_ (Stereospermum colais (Buch.-Ham.ex Dillw), _Agnimantha_ (Premna corymbosa Rottl.), _Bilwa_ (Aegle marmelos (Linn.) Corr.), _Shyonaka_ (Oroxylumindicum (Linn.)Benth. ex Kurz) _Kashmarya_ (Gmelina arborea Roxb.), _Shalaparni_(Desmodium gangeticum (Linn.) DC.), _Prishnaparni_ (Uraria picta Desv.), _Nidigdhika_ (Solanum xanthocarpum Schrad. & Wendl.), _Bala_ (Sida cordifolia Linn.), _Shwadamshtra_ (Tribulus terrestris Linn.), _Brahati_ (Solanum indicum auct.non Linn.), _Eranda_ (Ricinus communis Linn.), _Punarnava_ (Boerrhavia diffusa Linn.), _Yava_ (Hordeum vulgare Linn.), _Kulattha_ (Dolichos lablab Linn.), _Kola_ (Ziziphus mauritiana Lam.), _Guduchi_ (Tinospora cordifolia), _Madana_ (Catunaregam spinose (Thunb.) Tirvengadum), _Palasha_ (Butea monosperma (Lam.) Taub.), _Kuttrana_ (Cymbopogon citratus (DC) Stapf), _Sneha_ (fat), and _Lavana_ (salt) are the drugs to be selected for _Asthapana_( a variety of enema with decoction) in the event of _udavarta_ (conditions caused by the inhibition of natural urges) and _vibandha_ (constipation). These drugs are to be used for _anuvasana_ (another variety of enema with oil /unctuous substances) for the pacification of vitiated _vata_. Thus the bio-purificatory therapies are mentioned here in brief. [11-14] 
+
+### Pre-requisites of Panchakarma Procedure
+
+In the event of vitiated 'dosha _(vitiated factors) brought to_ koshtha _(gut) by oleation and sudation therapies, a physician should administer five bio-purificatory therapies by duly considering the_ matra _(dose) and_kala _(time). [15]_
+
+### Yukti (rational therapeutics)
+
+Therapeutic aptness or rational therapy depends on the _matra_ (dose) and _kala_(time). Success of the treatment depends on _yukti_ (rational therapeutics). But prior to the application of _yukti_ (rational therapeutics) the physician should always possess complete knowledge about drugs. [16] 
+
+### Description of various medicated _yavagu_ (gruels)
+
+Here after I will explain different gruels prepared with various medicinal herbs to eradicate curable diseases. [17] 
+
+### Ingredients and benefits of various medicated _yavagu_ (gruels)
+
+#### Gruel for enhancing digestion and colic pain
+
+Gruel prepared with Pippali (Piper longum L.), Pippalimoola (Piper longum L.), Chavya (Piper retrofractum Vahl), Chitraka (Plumbago zeylanica L.) and Nagara (Zingiber officinale Roscoe) stimulates agni (digestion power) and cures colic pain. [18] 
+
+#### Gruels for digestion, styptic action and vata dominant diarrhoea
+
+Gruel prepared with Dadhittha (Limonia acidissima Groff), Bilwa [Aegle marmelos (L.) Corrêa], Changeri (Oxalis corniculata L.), Takra (buttermilk), Dadima (Punica granatum L.) are _pachana_ (digestive) and _grahi_ (styptic and promoting absorption of liquid). 
+
+Whereas thin gruel prepared with _Panchamoola_ (roots of five herbs- Sthiradi Panchamoola) are beneficial in disorders of vata (dominant diarrhea).[19] 
+
+#### Gruel used in diarrhoea with dominance of _pitta_ and _kapha_
+
+Gruel prepared with Shalaparni (Desmodium gangeticum (L.) DC.), Bala (Sida cordifolia L.), Bilwa (Aegle marmelos (L.) Correa), Prishnaparni (Uraria picta (Jacq.) DC.), Amla dadima (sour pomegranate)/Punica granatum L.) is beneficial in pitta and _shleshmaja atisara_ (diarrhoea with dominant pitta and kapha).[20] 
+
+#### Gruel used in diarrhoea with blood
+
+Gruel prepared with half part of water, half part of goat milk (chaga dugdha), Hribera (Pavonia odorata Willd.), Utpala (Nymphaea alba L.), Nagara (Zingiber officinale Roscoe) and Prishniparni (Uraria picta (Jacq.) DC.) is beneficial in _raktatisaara_ (blood tinged diarrhea/dysentry). [21] 
+
+#### Gruels for diarrhoea with indigestion and dysuria
+
+Whereas in the case of diarrhea associated with _Ama_ , gruel prepared with Ativisha (Aconitum heterophyllum Wall. ex Royle), Amla dadima (Sour pomegranate)/Punica granatum L.) and Nagara (Zingiber officinale Roscoe) is beneficial. 
+
+In the case of mutrakrichchra (dysuria) one should use the gruel prepared with Shwadamshtra (Tribulus terrestris L.), Kantakari (Solanum virginianum L.), and Phanita (a preparation of sugarcane).[22] 
+
+#### Gruel for _krimi_ (worm infestation)
+
+Gruel prepared with _Vidanga_ (Embelia ribes), _Pippalimoola_ (Piper longum), _Shigru_ (Moringa oleifera Lam.), _Maricha_ (Piper nigrum) and _Souvarchala lavana_ (black salt) along with buttermilk is beneficial in treating _krimi_ (worm infestations). [23] 
+
+#### Gruels for excess thirst and toxicity
+
+Gruel prepared using _Mridvika_ (Vitis vinifera Linn.), _Sariva_ (Hemidesmus indicus R. Br.), _Laja_ (popped sorghum), _Pippali_ (Piper longum), _madhu_ (honey), _Nagara_ (Zingiber officinale Rosc.) relieves thirst. When it is cooked with _Somaraji_ (Psoralea corylifolia Linn.) it acts as anti-toxic particularly in skin diseases. [24] 
+
+#### Gruels for nourishment/weight gain and weight loss
+
+Gruel prepared with pork flesh juice extract is nourishing. The one which is prepared with fried _Gavedhuka_ (Coix lacryma.) along with honey is an effective medication for weight loss.[25] 
+
+#### Gruels for unction and drying therapy
+
+For the _snehana_ (unctuousness) one should use the gruel prepared using _tila_ (Sesamum indicum Linn.) and _lavana_ (salt). Whereas for _rukshana_ (dryness/un-oiliness) one can prepare the gruel using _kusha_ (Desmostachya bipinnata Staff.), _Amalaki_ (Emblica officinalis Gaertn.) and _Shyamaka_ (Punicum italicum Linn.)[26] 
+
+#### Gruels for respiratory diseases and colic pain
+
+Gruel prepared with _Dashamoola_ (ten root drugs) is beneficial in _hikka_ (hiccough), _shwasa_ (dyspnea), _kasa_ (cough) and is considered as _kapha hara_ (reduces kapha). The one prepared using ghee, oil and _madira_ (alcoholic beverage) alleviates pain in the colon [27] 
+
+#### Gruels for constipation and diarrhoea
+
+For the easy evacuation of stool one can use gruel prepared out of vegetables, meat, _tila_ (Sesamum indicum) and _masha_ (Phaseolus mungo Linn.) Gruel prepared using _jambu_ (Syzygium cumini Skeels), seeds of _amra_ (Mangifera indica Linn.), _Amla Dadhitha_ (Limonia acidissima Linn.) and _bilwa_ (Aegle marmelos Corr.) is _grahi_ (promoting absorption of liquid). [28] 
+
+#### Gruels for catharsis and flatulence
+
+For the _bhedana karma_ (cathartic) gruel prepared using _kshara_ (alkali), _chitraka_ (Plumbago zeylanica Linn.), _hingu_ (Ferula narthex Boiss ) and _amlavetasa_ (Garcinia pedunculata Roxb.) is beneficial. 
+
+Gruel prepared out of _Abhaya_ (Terminalia chebula Retz.), _Pippalimoola_ (Piper longum Linn.) and _Vishwa_ (Zingiber officinale Rosc.) is _vatanulomana_ (eliminates flatus).[29] 
+
+#### Gruel for adverse effects due to improper administration of ghee and oil
+
+Gruel prepared with buttermilk eradicates untoward effects caused by _ghritavyapada_ (improper administration of ghee). 
+
+Intake of gruel with buttermilk and _pinyaka_ (oil cake) alleviates untoward effects caused by the improper administration of oil.[30] 
+
+#### Gruel for pyrexia of irregular pattern and throat disorders
+
+Gruel prepared using cow meat and sour _Dadima_ (Punica granatum) is beneficial in _vishamajwara_ (type of fever with irregular pattern). 
+
+Gruel prepared with _Yava_ (Hordeum vulgare),ghee, oil, _Pippali_ (Piper longum Linn.) and _Amalaki_(Phyllanthus emblica Linn.) is useful for throat.[31] 
+
+#### Gruels for disorders of male genital tract and aphrodisiac action
+
+Gruel prepared using _Tamrachuda_ (chicken) is said to be beneficial in seminal disorder. 
+
+Gruel prepared using _Masha_ (Phaseolus mungo Linn.) along with ghee and milk is aphrodisiac. [32] 
+
+#### Gruel for intoxication and polyphagia
+
+One prepared with _Upodika_ (Basella rubra Linn.) and curd cures mada (intoxication). 
+
+Gruel prepared with _Apamarga_ (Achyranthes aspera Linn.), milk and extract of iguana flesh is beneficial in polyphagia. [33] 
+
+### Summary
+
+Thus after summarizing, 
+
+All the twenty eight varieties of gruel have been described and the drugs administered in five bio-purificatory therapies have been enumerated in brief. [34] 
+
+Though in the previous chapter description about fruits, roots and other medicinal plants have been mentioned, still from the view of bio-purificatory therapies description of drugs are included. [35] 
+
+### Qualities of a Practicing Physician
+
+A physician endowed with good memory (smriti), knowledge of cause and effect of disease (hetu-yuktijna), self restraint (jitatma), and presence of mind (pratipattiman), is entitled to practice Ayurveda through the combination of various drugs. [36] 
+
+Thus ends the second chapter named Apamarga Tanduliya of Sutra Sthana of Agnivesha’s work as redacted by Charak.[ end of chapter 2] 
+
+## Tattva Vimarsha(Fundamental Principles)
+
+ * Body purification is an important method for disease management. _Shirovirechana_ (catharsis of the cephalic region) is indicated for disease in head region. _Vamana_ (therapeutic emesis) is indicated for vitiated _kapha_ disorders. _Virechana_ (therapeutic purgation) is indicated for vitiated _pitta_ disorders. _Aasthapana_ (enema with decoction) and _Anuvasana_ (enema with oil/unctuous substances) are indicated in vitiation of disorders of _vata_.
+ * Specific _yavagu_ (gruel) processed with various herbs are indicated for treatment of specific curable diseases as well as re-kindling _jatharagni_ (digestive powers).
+ * Physicians require good memory, knowledge of etiology of diseases, self-restraint, and good presence of mind to be able to formulate Ayurvedic preparations and administer them to the patients.
+
+## Vidhi Vimarsha (Applied Inferences)
+
+In the previous chapter (Deerghanjiviteeya Adhyaya (Quest for longevity), plants and their different useful parts have been explained. There are however some other plants like _Pippali_ (Piper longum Linn.), _Maricha_ (Piper nigrum Linn.) which are also useful for panchakarma (five purificatory procedures), but not described in that chapter. Hence in this chapter remaining drugs which are useful for various bio-purificatory therapies and the objectives of applications are enumerated. The drugs mentioned in each group can be used either individually or in a combination of as many as are available. [Su.Sa.Sutra Sthana 36/33] 
+
+#### Herbs used for Shirovirechana (catharsis of cephalic region)
+
+The drug _Apamarga_ (Achyranthes aspera Linn.) is considered to be the potential drug to eliminate vitiating factors from head. [Cha.Sa.Sutra Sthana 25/40] _Surasa_ (Ocimum sanctum Linn.), _Shweta Surasa_ (Ocimum sanctum Linn.), _Phanijjaka_ (Origanum majorana), _Kutheraka_ (Ocimum canum) are the drugs of _Surasadi gana_. [Su.Sa.Sutra Sthana 38], and are said to be _krimighna_ (antimicrobial) and _kaphaghna_ (which alleviate phlegm). Chakrapanidatta terms _Ajagandha_ as _Ajamoda_ (Apium graveolens Linn.). The reference of _krimi_(microbe) in the context of those invading the head and not the body. [1] [verse 1-6] 
+
+#### Herbs used in vamana (therapeutic emesis)
+
+These refer to the plants used for emesis for a disease that originates from the site of _kapha_ ; the upper portion of _amashaya_ (stomach). _Pitta_ vitiation may not require emesis, but when this aggravated _pitta_ reaches the site of _kapha_ , then it is to be eliminated through emesis. Different sites or parts of the body are associated with different _dosha_. So when a vitiated _dosha_ leaves its own “site” and occupies the site of another _dosha_ , then it is to be treated on the lines of treatment for the latter. [Cha.Sa.Chikitsa Sthana 3/142] Among all plants enumerated for emesis _Madnaphala_ (Catunaregam spinosa ) is considered important owing to its lesser side effects[Cha.Sa.Kalpa Sthana1/13] and its strong effect. [Cha.Sa.Sutra Sthana 25/40] 
+
+Therefore, it is widely used in clinical practice. Apart from _Madanaphala_ , five other drugs, and in total 355 formulations are described; One of these formulations is _Kritavedhana_ (Luffa acutangula) _kalpa_ (formulations). It is specially indicated to be effective for treating cases of _kushtha_ (skin diseases), _garavisha_ (slow poison) etc for therapeutic emesis.[2] [verse 7-8] 
+
+#### Herbs for _virechana_ [therapeutic purgation]
+
+Evacuation of the fecal matter and other accumulated _dosha_(vitiated factors) in the lower gastrointestinal tract through the anal route is known as _virechana karma_.[Cha.Sa.Kalpa Sthana1/4) Among the three _dosha_ the morbid accumulation of _pitta dosha_ is best eliminated by this procedure. Abnormal accumulation of _kapha dosha_ in the lower gastro-intestinal tract or _pitta sthana_ (place) is also treated by the _virechana karma_. This also includes treatment of vitiated _dosha_ of the stomach, small intestine, liver and gall bladder, as well as a method of bringing them to the gastro-intestinal tract for their eventual expulsion from the body through rectum. This process not only eradicates the diseases of _pitta_ and blood, but also it helps in rejuvenating all the tissues and organs in the abdomen, improving skin complexion, imparting longevity and increasing immunity.[Cha.Sa.Sutra Sthana15/23]; [Su.Sa.Chikitsa Sthana 33/18] [Cha.Sa.Sutra Sthana 15/23]; [Su.Sa.Chikitsa Sthana 33/18] 
+
+The selection of medicines for purgation depends upon, softness or hardness of bowel movements and constitution of the patient. Among the plants for purgation, _Trivrit_ (Operculina turpethum) is considered the best because it causes comfortable evacuation. [Cha.Sa.Sutra Sthana 25/40][3] Operculina turpethum has anthraquinone glycoside also known as emodin. Unabsorbed in the small intestine, they are passed to the colon where bacteria liberates the active form, which either acts locally or is absorbed into circulation and gets excreted in bile to act on small intestine. The active principle is believed to work on myenteric plexus to increase peristalsis and decrease segmentation. Cassia fistula’s laxative action comes from a group of well documented compounds called anthraquinones that are found in all cassia and senna plants in varying degrees. 
+
+_Eranda_ (Ricinus communis) is used widely as purgative. It mainly contains triglyceride of ricinoleic acid which is a polar long chain fatty acid. It is hydrolysed in the ileum by lipase to ricinoleic acid and glycerol. It is believed to irritate the mucosa and stimulate intestinal contractions.[4][ verse 9-10] 
+
+#### Herbs used in enema
+
+Administration of liquid medicine through the rectal, urethral or vaginal route is collectively known by the term _basti_ (enema) (Sha. Ut. 5/1). In general _basti_ (enema) refers to the administration of medicine through any of the above said routes, but more particularly it refers to the therapeutic enema using the decoction through the rectal route. Administration of medicine done through the urethral or vaginal route is specifically known by the name _uttarabasti_. Moreover the procedure is also practiced to administer the medicine into a sinus wound, where it is referred by the name _vranabasti_(wound enema). 
+
+_Basti_(enema) is a prime procedure among purificatory procedures. It is described as the best line of treatment to cure the imbalances of _vata_. Simultaneously it is also true that this procedure is equally effective in rectifying the abnormal accumulation of _pitta_ as well as _kapha dosha_. 
+
+Depending upon the composition of medicines used in the administration of enema, it is said to be of two types: _asthapana_ or _niruha_ (with decoction) and _anuvasana_(with oil). 
+
+The decoction of herbs used for _niruha_ or _asthapana_ helps in keeping the body healthy as well as prolongs the life span. The enema administered using such herbs is referred as _asthapanabasti_. [Su.Sa.Chikitsa Sthana 35/17-18] Likewise, the enema administered predominantly containing _sneha_ (oil) is known as _anuvasanabasti_. Among these two types of enema, _niruha_ (decoction enema) is considered superior to _anuvasana_ (oil enema) because it is more effective in the elimination of vitiated factors. Details about these drugs have been mentioned in Vimana Sthana. [Cha.Sa.Vimana Sthana 8/138-144] 
+
+The pharmacodynamics of systemic effect of _basti_ (enema) may be understood through the absorption mechanism, concept of systems biology, neural stimulation mechanism, and excretory mechanism. As it is a homogenous emulsion mixture of honey, _saindhava_ (salt), _sneha dravya_ (oil/unctuous material), _kalka_ (paste of drugs), and decoction of crude drugs which is given through rectum. Through rectal route large quantity of drugs can be delivered for systemic circulation. The concept of systems biology is that a change at cellular level can bring changes in tissues, organs and consequently in the whole body. As per recent advancements in medicine, the intestine not only is a highly vascular organ, but is also a highly innervated organ that forms an "enteric nervous system" (ENS). ENS may work synergistically with the central nervous system of body. The cleansing action of _basti_ (enema) is related to the facilitation of excretion of morbid substances responsible for the disease process into the colon, from where it is evacuated.[5] [verse 11-14] 
+
+#### Panchakarma therapy
+
+The Sanskrit term Panchakarma denotes five therapeutic procedures. _Pancha_(five), and _karma_ (work) refer to the therapy that brings about homeostasis. _Vamana_ (emesis), _virechana_ (purgation), _asthapanabasti_ (enema), _anuvasanabasti_ (purgation) and _nasya_ (nasal therapy) are the five procedures comprising Panchakarma. Sushruta enumerates _vamana_ (emesis), _virechana_ (purgation), _basti_ (enema), _nasya_ (nasal therapy) and _raktamokshana_ (blood-letting) under five purificatory procedure. 
+
+Besides these five purificatory procedures, there are several other therapies like _ashchotana_ , a method of administering medicine in to the eye that are capable of bringing about evacuation of the morbid vitiated factors from the body. However, only five major procedures are referred as Panchakarma procedures. Ability of evacuation, superiority of efficacy, and enormity of the procedure, target _dosha_ (vitiated factor) eradication and various other actions are characteristics of Panchakarma. Though specific procedures like _anjana_ and _ashchotana_ (application of medicine to eye) are capable of evacuating morbid vitiated factors, their efficacy is minimum and restricted to one organ. That is why these procedures are not enlisted in the class of Panchakarma treatment. 

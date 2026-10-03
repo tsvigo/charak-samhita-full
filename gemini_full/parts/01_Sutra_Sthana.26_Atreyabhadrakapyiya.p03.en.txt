@@ -1,0 +1,52 @@
+ 1. Assessment of panchamahabhuta in a substance can be carried out by taking into consideration, the most conspicuous characteristic of each mahabhuta. For example, gandha guna, rasa guna, rupaguna, sparsh guna and shabda guna are chief characteristics of Prithvi, jala, agni, vayu and akasha mahabhuta respectively. By these organ-specific methods, it becomes easy to assess the _panchbhutika_ constitution of the substance. Rest of the guna given for each mahabhuta should be clinically evaluated.
+ 2. The gustatory effect of the initial, as well as final contact of the drug either in the dry or wet state with the tongue, is known as _rasa_ or taste. _Rasa_ is the only principle of drug action which can be directly perceived (_pratyaksha gamya_). This is to be assessed in human volunteers by a single blind method with a performa consisting of chief characteristics of each _rasa_. As mentioned in Charak Samhita [Cha.Sa.Sutra Sthana 26/73-79] sugarcane, milk, and sugar candy are all said to be sweet, but there is an obvious difference in the taste of these substances. So, the intensity of each _rasa_ can be assessed by taste threshold method. Electronic tongue if developed may help to validate the information about the intensity of _rasa_.
+ 3. _Veerya_ and _vipaka_ are inferred through the activities or final effects (_karma_) produced by intake of drug/diet.
+ 4. _Vipaka_ is a pharmacokinetic principle, and its activities are referred at the level of _koshtha_ (mutra and purisha), dhatu(shukra) and dosha. _Rasa_ and _veerya_ are pharmacodynamic principles. Assessment of _veerya_ and _vipaka_ are to be evaluated clinically.
+ 5. The concept of _viruddhaahara_ indicates the concepts of incompatibility and allergic reactions. For example, neither honey nor ghee is toxic to the body but if they both taken in equal quantity becomes unwholesome. A combination of it must be subjected to chemical analysis and pharmacological evaluation to assess the adverse effects.
+ 6. Treatment of disease induced by _viruddhaahara_ includes vamana, virechana, administration of antagonistic drugs and adaptation of prophylactic measures.
+ 7. The concept of _prabhava_ clearly indicates the principle which contributes to the specific activity of the drug and is inexplicable in nature. _Danti_ root which acts as a purgative loses its effectiveness when soaked in water and administered. Observations indicate that _danti_ has water soluble qualities that contribute to its ability to work as a purgative ref. Once the causative principle is identified, the activity of _danti_ can be explained in a rational way, and it cannot be quoted as an example of _prabhava_. In the light of photochemical research, the explanation of drug action becomes rational and the _prabhava_ , a specific principle can be deleted from the list of principles of drug action.
+
+### Practical application of rasa, veerya, vipaka and prabhava
+
+Let us examine the principles of Ayurvedic pharmacology in the light of modern science: 
+
+#### Rasa
+
+#### Guna
+
+In recent years, some effort has been made to refine the objective parameters used for assessing _snigdha-ruksha_ and _sheeta-ushnaguna by employing animal experimentation. Absolute evaluation of one guna is not possible in a living body since there are infinite factors related to each and every biological event. Metabolic study (_dipana pachana _experiment), intestinal secretion and motility test, and swimming stress test (swimming induced hypothermia) have been employed to assess the effects of various drugs having_ snigdha-ruksha _and sheeta- ushnaguna. _Sheeta _and snigdhaguna drugs have shown an increase in body weight in metabolic experiments compared to _ushna _and rukshaguna drugs. Snigdha guna drugs alleviated stress-induced hypothermia whereas ruksha guna drugs aggravated it[2] [3]_
+
+#### Veerya
+
+An attempt has been made to assess the effects of _sheeta_ and _ushna veerya_ drugs (_samana pratyayarabdha dravyas_) on basal metabolic rate (BMR). Two _sheeta veerya_ drugs, namely, _yashtimadhu_ (Glycyrrhiza glabra) and _shatavari_ (Asparagus racemosus) and two _ushna veerya_ drugs, namely, _chitraka_ (Plumbago zeylanica) and _jatiphala_ (Myristica fragrans) were considered for this study. In healthy volunteers, initial BMR was recorded with McKesson metabolizer. Then the drug was administered three times a day (_chitraka_ and _jatiphala_ 2gm each and _yashtimadhu_ and _shatavari_ 5gm each). A significant increase (p<0.05) was observed with _yashti_ , while the increase in BMR with _shatavari_ was not very significant. _Chitraka_ and _jatiphala_ brought about a significant decrease in BMR(p<0.05). Therefore, _sheetaveerya_ and _ushnaveerya_ drugs which represent the _saumyatva_ and _agneyatva_ of a drug or food may be responsible for synthesizing or metabolizing the dhatu due to their _santarpaka_ or _apatarpaka_ actions[4]. 
+
+#### Vipaka
+
+An attempt has been made to assess vipaka of certain drugs by their effect on mala (feces and urine) and dosha (vata, pitta, and kapha). Drugs, namely _bala_ and _shatavari_ (_madhura vipaka_), _vrikshamla_ and _amalaki_ (_amla vipaka_ and _madhura vipaka_), _maricha_ and _pippali_ (_katu vipaka_ and _madhura vipaka_), _kushtha_ and _nimba_ (katu vipaka), and lodhra and ashoka (katu vipaka) were taken up for the study. The study was done for six days. For the first two days, kapardika bhasma (250 mg., thrice a day) as placebo was administered and from the third day onwards the trial drug, in decoction form, (96 ml, twice a day) was given to healthy volunteers for two days. The remaining two days were used for following up. The influence of these drugs on dosha and mala were assessed using a structured proforma. Madhura and Amla vipaka drugs increased the quantity of urine and stool. Madhura vipaka drugs increased kapha dosha while Amla vipaka drugs increased pitta dosha. Katu vipaka drugs decreased the urine and stool output and increased vata dosha[5]. 
+
+#### Prabhava
+
+It is quite apparent that the _acharyas_ formulated the hypothesis that explained the workings of drugs after observing various activities. In the context of the failure of the hypothetical principles to explain the drug action in a rational way, the concept of _prabhava_ was formulated which may be interpreted as an empirical principle. Drugs with similar chemical structure should have similar actions. But it is not possible to predict the activity of a drug entirely by its chemical structure. Drugs with similar structures but having entirely different effects are known as isomers, for example, Antazoline and Tolazoline appear chemically similar but former is an antihistamine and the latter is an adrenergic blocking agent. Conversely, many dissimilar chemical agents have similar action, for example, phenobarbitone, chloralhydrate, and paraldehyde are all depressants of the central nervous system. The concept of _prabhava_ may be interpreted using the concept of isomerism[6]. 
+
+### Current researches
+
+#### Adverse effects of viruddha ahara (incompatible diet)
+
+Regular consumption of incompatible diet can induce inflammation at a molecular level, disturbing the eicosanoid pathway. It can create more arachidonic acid leading to increased prostaglandin-2 and thromboxane. This inflammatory effect is an important effect as these are all the basic pathologies that create Agni Mandya, Ama, and a number of metabolic disorders. Moreover, it can lead to epigenetic modifications. It includes food:food interactions, food processing interactions. [7]
+
+Betel quid, which is a mixture of areca nut, betel leaf, slaked lime and tobacco is a perfect example of Samyoga Viruddha, It has been observed to produce carcinogenic effects.[8]
+
+**Send us your suggestions and feedback on this page.**
+
+## References
+
+ 1. ↑ K. Nishteswar, Basic concepts of ayurvedic pharmacology, Chaukhamba Sanskrit series office, Varanasi,2008,pp:xii 
+ 2. ↑ Supriya. S. Balerao A comprehensive study of guna and evolution of some ojective parameters in the context of snigdha and ruksha guna Thesis, IPGT&RA, Gujarat Ayurved University, Jamnagar,1998 
+ 3. ↑ Santosh Mane Evolution and evaluation of some objective parameters for ushna and sita guna based on panchabhoutik theory and experiments. Thesis,IPGT&RA, Gujarat Ayurved University, Jamnagar,2008. 
+ 4. ↑ K Nishteswar, Basic concepts of ayurvedic pharmacology, Chaukhambha Sanskrit Series office, Varanasi,2009 pp-109-114 
+ 5. ↑ Naveen H. Dave, Vipaka karmanishtaya Thesis, IPGT&RA, Gujarat Ayurved University, Jamnagar,1998 
+ 6. ↑ Dwarkanath C., The Fundamental Principles of Ayurveda, Chaukhambha Sanskrit Series, Varanasi; 2009: pp-180 
+ 7. ↑ Sabnis M. Viruddha Ahara: A critical view. Ayu. 2012;33(3):332‐336. doi:10.4103/0974-8520.108817
+ 8. ↑ Sirdeshpande MK, Kashikar VA. Critical review on Samyoga Viruddha (combination incompatibility) with special emphasis on carcinogenic effect of combination of betel quid, areca nut and tobacco. Ayu. 2017;38(3-4):97‐101. doi:10.4103/ayu.AYU_71_16
+
+Back to the Top

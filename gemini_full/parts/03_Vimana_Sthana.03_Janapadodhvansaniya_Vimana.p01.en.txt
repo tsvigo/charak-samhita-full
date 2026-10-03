@@ -1,0 +1,157 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Location of the discussion
+ * 2.2 Importance of timely drug collection
+ * 2.3 Agnivesha’s question
+ * 2.4 Atreya’s explanation
+ * 2.5 Characteristics of polluted air
+ * 2.6 Characteristics of polluted water
+ * 2.7 Characteristics of polluted land
+ * 2.8 Characteristics of polluted time/season
+ * 2.9 General measures for the management
+ * 2.10 General treatment in epidemics
+ * 2.11 Causes for the vitiation of janapadodhwansa factors
+ * 2.12 Sinful acts- the cause of war and destruction
+ * 2.13 Sinful acts leading to affliction by demons and curse of sages
+ * 2.14 The decrease of virtue and life span by a quarter in each _Yuga_ (time period)
+ * 2.15 Factors determining the life span
+ * 2.16 The proof of the indeterminateness of the life span
+ * 2.17 Timely and untimely death
+ * 2.18 The role of hot water in _jwara_
+ * 2.19 _Apatarpana Chikitsa_ (depletion measures)
+ * 2.19.1 Individuals naturally unfit for treatment
+ * 2.20 Types of land
+ * 2.21 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 5 References
+
+## Introduction
+
+_Janapadodhvansa_ literally means destruction or annihilation of communities or settlements. Epidemics and outbreaks of highly communicable diseases have blighted mankind since time immemorial. Ayurvedic scholars and exponents of antiquity like Sushruta and Charaka recorded these in their works on _aupasargika roga_ and _janapadodhvansa_ respectively, according special importance to the topic. 
+
+An astute observation of practitioners such as Charaka was that vitiated vayu (air), jala or _udaka_(water), _desha_ (land) and _kala_ (season) were key factors responsible for causing epidemics. Sushruta refers to the concept of _janapadodhvansa_ while discussing _ritucharya_ (seasonal regimen) under the title _Maraka_.[Su.Sa.Sutra Sthana 6/17][1] In Ashtangasangraha, the concept of _janapadodhvansa_ was described under the chapter entitled Viruddhanna Vijnaniyam.[2] The therapeutic modalities are incorporated in the disease prevention protocol in Ashtanga hridayam.[3]
+
+The causative factors of _janapadodhvansa_ (epidemics), characteristics of vitiated factors and remedial measures to treat the conditions are described. It is strongly recommended collecting and stocking drugs potent in all attributes (like rasa, guna, veerya, and vipaka) necessary to tackle the catastrophic conditions associated with any epidemic. Agnivesha was inquisitive to know about common morbidity among the individuals with dissimilar constitution, dietetic habits, physical strength, suitability, mental faculties , etc. 
+
+Atreya began his discourse with a discussion on the environmental factors that are common to all inhabitants of a region, i.e., vayu, jala, desha, and _kala_. These four factors, when not polluted or contaminated, are vital not only for our survival, but for the survival of all life-forms. By nature, air, water, land and seasons are indispensable factors in their progressive order. 
+
+Seasons are the most indispensable ones of all factors, since its vitiation leads to diseases becoming highly virulent, taking epidemic proportions. With regard to communicable diseases in general, an interplay of agents, hosts and the environmental factors lead to a dynamic state of health and disease. 
+
+_Adharma karma_ (sinful act) committed during an individual’s present life and the previous life, is responsible for the vitiation of these factors. Intellectual errors (prajnaparadha) is the cause for both these types of sins (i.e., sins in the present life as well as in the past). 
+
+Per _vedic_ scriptures, large periods of time witness a slow degradation of _dharma_ (spiritual duties) and guna (qualities) in the conducts and attributes of living beings. The scriptures divided these periods into four distinct phases, or _yugas_ , with each _yuga_ witnessing a significant degradation in _dharma_ and guna than the preceding one. One such guna, longevity or life-span of individuals, depends upon the strength of both _daiva_ (predetermined) and _purushakara_ (human effort of present life). If the individuals of a specific locality might have collectively committed sinful acts like burning villages or other sinful acts etc., in their previous birth, they are likely to die at a time during epidemics. Similarly, persons who committed sinful acts separately in their previous lives gathered in a specific region may also die collectively of a common cause. Atreya opines that the individuals who do not share similarities in death (_mrityu samanyata_) or previous deeds (_karma samanyata_) could be treated with Panchakarma procedures (five evacuative therapies) and administration of rasayana measures (rejuvenative procedures) with previously collected drugs, along with _sadvritta_ (observance of noble conducts) etc. He further recommended administering cold measures to cure diseases caused by hot things and vice versa. The principle of treatment should be administration of antagonistic therapies to their causes (vitiated dosha). 
+
+Remedial measures for treating pollution or vitiation of the four environmental factors separately is not suggested, but emphasis is given on the management of individuals affected in an epidemic. Sushruta suggested certain treatment modalities for eliminating the poison from the atmosphere as well as from the patient’s body. [Su.Sa.Kalpa Sthana 6][1] The drums, banners and gateways of the houses should be smeared with the medicament, or _ksharaagada_ (formulation), that may be beneficial in the management of air pollution. 
+
+The analysis of the characteristics of the vitiated environmental factors, such as howling wind, water with altered smell-color-taste-touch, and land over-flooded or associated with frequent occurrence of meteorites, thunderbolts and earthquakes are some of the various calamitous acts of nature that result in significant death toll the world over. So the concept of _janapadodhvansa_ cannot be totally interpreted as a study of epidemics or diseases. Environmental changes caused by man’s interference with the bio-ecology in which he lives, as well as pollution due to depletion of natural resources may be the cause for the destruction of communities, and could justify the attribution to _karma_ given here as a cause of vitiation. 
+
+In this chapter Agnivesha asked Atreya the following five questions with regards to _janapadodhvansa_ : 
+
+ * How do all individuals having different physical constitution etc., suffer from the same diseases, due to the same set of causative factors?
+
+ * What is the factor underlying the vitiation of air etc., which destroys entire communities?
+
+ * Is the span of life of all individuals predetermined or not?
+
+ * If the life span of all human beings is not predetermined then how is it said that some people die in the predetermined time and the rest otherwise?
+
+ * Why do physicians advise hot water to patients suffering from fever in preference to cold water when the _dosha_ involved in the pathogenesis of this disease (_jwara_) is amenable to cooling therapies?
+
+And lord Atreya answered all the questions patiently. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Janapadodhvansaniya Vimana" (Determination of specific characteristics of destruction of communities). Thus said Lord Atreya. [1-2] 
+
+Note: The term _janapadodhvansa_ is a generic term for natural and man-made calamities, also implying epidemics. 
+
+### Location of the discussion
+
+Lord Atreya, while taking a stroll in the latter month of a summer, surrounded by his disciples, in the forest area near the banks of Ganga at Kampilya, capital city of Panchala region, which was the residence of the _dwija_ (elite of the twice born communities like brahmins who adopt wearing of sacred thread on their body), thus turned to his disciple Agnivesha and said. [3] 
+
+### Importance of timely drug collection
+
+Gentle one (Agnivesha), the abnormal conditions of the stars, the planets, the Moon, the Sun, the wind, the fire and the directions seem to give us the ominous sign that there is going to be a derangement of seasons. As a result of this abnormality, the earth will fail to produce herbs possessing good qualities of _rasa_ (taste), _veerya_ (potency), _vipaka_ (metabolism of diet and drugs), and _prabhava_ (specific attribute). In consequence of these properties, spread of diseases is certain. Therefore, well before any calamities occur and well before the earth has lost its fertility, collect the medicinal herbs before they lose their _rasa, veerya, vipaka_ and _prabhava_. We shall thus, when the occasion arises, make use of the drugs having optimum qualities for the benefit of those who seek us and also those whom we seek to help. There will not be any difficulty in counteracting any _janapadodhvansa vyadhi_ (disease due to natural calamities or epidemics), if the drugs are properly collected well in advance, processed and administered. [4] 
+
+### Agnivesha’s question
+
+Agnivesha humbly submitted to Lord Atreya that such medicinal herbs have already been properly collected, processed and administered according to his instructions. He then asked Lord Atreya, “How does the simultaneous destruction of communities take place by the incidence of one single disease, in spite of individuals who differ from one another in their constitution, diet, physique, vitality, habits, psychic make up, and age?” [5] 
+
+### Atreya’s explanation
+
+Lord Atreya replied “Agnivesha! Though a community may be dissimilar with respect to the constitution and other characteristics of its individuals, there are other common factors which often get adversely affected, resulting in simultaneous outbreak of diseases having similar symptoms that destroy communities. The common factors which affect mass population are vayu (air), jala (water), _desha_ (land) and _kala_ (season). [6] 
+
+### Characteristics of polluted air
+
+The characteristic features of air that is known to cause widespread diseases include air that is not in conformity with the season, totally calm or violently blowing, exceedingly rough, intensely cold, intensely hot, excessively dry, excessively humid, terribly clamorous, blowing from contrary directions and clashing with each other (winds blowing in opposite direction), violently spinning (whirlwind) and associated with unwholesome odour, moisture, sand, dust and smoke. [6.1] 
+
+### Characteristics of polluted water
+
+Water that does not seem normal in smell, colour, taste and touch, has excessive stickiness, is from a source devoid of aquatic animals and birds or from a drying up water reservoir without pleasantness and is basically devoid of normal attributes indicates polluted water. [6.2] 
+
+### Characteristics of polluted land
+
+Any land having abnormal colour, odour, taste and touch, that which is excessively damp and has an abundance of serpents, beasts, mosquitoes, locusts, flies, mice, owls, birds and animals such as jackal, and jungles of _ulupa_ grass and weeds, is abounding in creepers, where crops have fallen, withered or have been destroyed in an unprecedented manner, where the wind is smoky, where (unusual) cries of birds and dogs are heard, where herds of animals and flocks of birds of various kinds are always in a state of panic and pain, where the people’s virtues like religion, truth, modesty, custom, character have either declined or been given up, where the water reservoirs always alter and are over-flowing, where there is frequent exposure to meteorites, thunderbolts and earthquakes, where nature is full of menacing sound and sights, where the sun, the moon and the stars are frequently covered by dry, coppery, ruddy and grey clouds and the general atmosphere is of constant confusion, excitement and lamentation, crying, fright and darkness as if seized by _guhyaka_ (ghosts and ghouls). [6.3] 
+
+### Characteristics of polluted time/season
+
+A time is said to be unwholesome if it exhibits characteristics that are opposite to normal or exhibit excessive or deficient characteristics (e.g. early rains, too little rain, excessively hot summers or cold winters, etc) These four environmental factors, affected in the aforesaid way, can be considered the type that cause epidemics, and those having features contrary to these could be considered wholesome. [7] 
+
+### General measures for the management
+
+In spite of these inauspicious factors, there is no fear of diseases to those persons who possess medicines that have been obtained well in advance. 
+
+We shall now indicate, with a proper reasoning, the relative significance of each of the four factors of air, water, place and time that have deranged. These four are important in progressive order because of the degree of their indispensability. 
+
+The wise man knows that water is more important than air, and land is more important than water and season is yet more important than land by virtue of their degree of indispensability. 
+
+Out of aforesaid derangements among the four factors, one should know that it is easier to correct the vitiation of vayu, jala and _desha_ , than of _udaka, desha_ and _kala_.[10-11] 
+
+### General treatment in epidemics
+
+In spite of vitiation of the four factors ending with vitiation of time (season), one need not suffer from diseases provided they are assured of proper medicaments which are already collected and processed. 
+
+Those who did not engage in identical acts in their prior lives and those who are not destined to die during calamities, for their cure, five elimination therapies (viz., emesis, purgation, enema- _niruha_ and _anuvasana_ types and errhines) are considered the best. For them, the proper use of rasayana chikitsa _(rejuvenation treatment) is recommended and maintenance of the body by means of medicinal herbs collected before the onset of epidemics is recommended._
+
+Truthfulness, compassion for living beings, charity, sacrifices, worship of god, observance of right conduct, tranquility, prophylactic protection of oneself and seeking one’s own good, residing in a wholesome country, service to those observing _brahmacharya_ (celibacy) and following it, discussion of religious scriptures, constant association with the righteous, the well disposed and those who are approved by the elders- all this with a view to protecting life has been termed ‘medicine’ to those who are not destined to die in that critical time. [12-18] 
+
+### Causes for the vitiation of janapadodhwansa factors
+
+After listening to Lord Atreya, Agnivesha asked once again, ‘Now tell us, Lord! What makes the air etc. vitiated which tends to destroy whole people?’ Lord Atreya replied that the root cause of vitiation of these factors is adharma (unrighteousness). Sins of the present life or the misdeeds of the past life also are at the root of vitiation of all these factors and the source of this is intellectual error (prajnaparadha). Thus when the reigning heads of countries, cities, trade guilds etc. govern the people irresponsibly by transgressing the virtuous path, then their officers, sub-ordinates and under- subordinates, people of the city and community and traders deviate from their duties as well and propagate such unrighteous acts further. Their sinful acts perforce causes the righteous acts to disappear. Because of the disappearance of righteous acts, even the Gods desert the people living in such places. This causes seasons to get impaired in these places. There is no rain in time, or never at all, or abnormal rain occurs; the air does not blow properly; the land is afflicted, the water reservoirs dry up, and herbs lose their true properties and suffer deterioration. As a consequence, the people perish as the result of infectious contact or ingestion of polluted food and water.[19-20] 
+
+### Sinful acts- the cause of war and destruction
+
+In the same manner, it is unrighteous act alone that is the cause of the destruction of peoples by weapons. Those who suffer from excessive _lobha_ (greed), _krodha_ (anger), _moha_ (attachment), and disregard the weak may start fighting among themselves with weapons and attack either the enemies or get attacked by enemies. [21] 
+
+### Sinful acts leading to affliction by demons and curse of sages
+
+People also get destroyed by _rakshasa_ (demons) or other creatures due to unrighteous or other deviant acts. _Adharma_ (unrighteousness) is also the cause of diseases caused as a result of curses. Those who get by without performing religious duties or who shirk from their religious duties tend to behave irresponsibly or are disrespectful to the preceptors, elders, the wise, sages and the nobility. Consequently, such people often get cursed by preceptors etc. Such wraths could destroy individuals or communities immediately or at a pre-determined time. [23] 
+
+### The decrease of virtue and life span by a quarter in each _Yuga_ (time period)
+
+Even in the earliest of times, calamities never resulted from any factor other than _adharma_ (unrighteousness). 
+
+In the first _yuga_ (_kritayuga_ or _satyayuga_), people were gifted with vitality equal to those of the sons of Aditi (i.e., devas or Gods) – they were exceedingly pure and unhampered in their powers to perceive the Supreme, the God-like sages, the Divine Law, the religious sacrifices, and the sacrificial rituals. Their bodies were firm like the essence of mountains - compact and stable; they had clear senses and complexions. They had movement, strength and valor like those of the wind; they were with well-formed buttocks, endowed with handsomeness, body-size, cheerfulness and corpulence. They were devoted to truth, honest behavior, compassion, charity, self-restraint, moral discipline, spiritual endeavor, fasting, continence, and religious vows. They were free from fear, desire, aversion, infatuation, greed, anger, despondency, pride, disease, sleep, indolence, fatigue, languor, sloth and spirit of acquisition; and lastly they were bestowed with longevity. For the benefit of these people of noble minds, qualities and deeds, the crops grew with inconceivable _rasa, veerya, vipaka,_ and _prabhava_ , and the virtue of the earth during the dawn of this golden age was charged fully with all excellent qualities. 
+
+At the end of the _satyayuga_ , however, some affluent people started gaining heaviness in their bodies due to over-indulgence in food. They started suffering from fatigue in lieu of this. Fatigue gave rise to laziness, and laziness made them to accumulate things; accumulation led to the attachment for these things and attachment resulted in greed. 
+
+With the onset of the _tretayuga_ , greed gave rise to malice in its wake, malice led to falsehood, and falsehood led to passion, anger, vanity, hatred, cruelty, aggression, fear, grief, anxiety, distress and the like. Symbolically, during _tretayuga_ , one-fourth of _dharma_ (religious duties) disappeared, resulting in reduction of the life-span of human beings by a quarter. Similarly, there was reduction in the attributes of earth etc., by a quarter. Because of the reduction of these attributes there was diminution by one quarter of the unctuousness, purity, tastes (_rasa_), potency (_veerya_), post digestive effects (_vipaka_), prabhava and qualities of grains. In effect, this degradation impacted all aspects of living beings that were described to have existed in the _satyayuga_. There was an unusual change in the maintenance of equilibrium of tissue elements and there was vitiation of agni (pitta) and _maruta_ (vata) by which, first of all, bodies of living beings got afflicted with diseases viz. jwara (fever) etc. Therefore the life-span of living beings underwent gradual diminution. 
+
+The concluding verse: 
+
+With the passage of each _yuga_ , righteousness or dharma gets reduced by a quarter, with similar reduction in the qualities of living beings, finally leading to dissolution of the universe. After completion of one hundred years in each _yuga_ there is loss of one year in life span of living beings in respective age. Thus the initial origin of disorders is described. 
+
+After lord Atreya’s talk, Agnivesha raised a query- Lord! Is the life span of all individuals predetermined or is it not? [24-28] 
+
+### Factors determining the life span
+
+Lord Atreya replied, “Agnivesha! The life span of all living beings depends on the proper coordination of two factors, namely, _daiva_ (divine/pre-determined) and _purushakara_ (human effort). _Daiva_ means one’s own deeds in the previous life while _purushakara_ stands for one’s actions (deeds) in this life”. 
+
+These two factors are gauged by means of various degrees of strength and weakness, which can be further classified into three kinds- inferior, medium, superior. When both types of action (destiny and efforts) are of the best characters then they make for long, happy and determined life, and if they are of the inferior type, the result is just the opposite (short, unhappy and undetermined life span). When these are medium, then the life-span and its quality are also said to be mediocre (though not entirely unhappy). 
+
+Now listen to the other cause of the pre-determination, or of the life-span. A weak _daiva_ gets subdued by a strong _purushakara_. Similarly a strong daiva overshadows one’s _purushakara_ and because of this, some scholars hold the view that the span of life is invariably predetermined. There are some powerful actions whose implementation takes place at a predetermined time, but there is another kind of action whose implementation is not predetermined and gets manifested in an appropriate atmosphere. [29-35] 
+
+### The proof of the indeterminateness of the life span

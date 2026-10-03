@@ -1,0 +1,320 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Queries asked by Agnivesha
+ * 2.2 Duration of oleation therapy
+ * 2.3 Effect of oleation therapy
+ * 2.4 Effect of fomentation therapy
+ * 2.5 Measures to be adopted before _vamana_ and _virechana_
+ * 2.6 Reasons for _vamana_ and _virechana_ working in opposite ways
+ * 2.7 Order of administration of emesis and purgation
+ * 2.8 Post purificatory regimen (_samsarjana krama_)
+ * 2.9 Characteristics of three types of emesis and purgation
+ * 2.10 Features of proper emesis
+ * 2.11 Features of insufficient emesis
+ * 2.12 Features of excess emesis
+ * 2.13 Features of proper purgation
+ * 2.14 Features of inadequate purgation
+ * 2.15 Features of excess purgation
+ * 2.16 Follow up after purification
+ * 2.17 Time of _anuvasana_ (unctuous enema)
+ * 2.18 Number of _basti_ as per _dosha_ dominance
+ * 2.19 Sequence of _niruha_ (decoction enema) and purgation
+ * 2.20 Beneficial effects of _basti_
+ * 2.21 Benefits of unctuous enema
+ * 2.22 Specific indications and benefits of enema
+ * 2.23 Selection of type of enema
+ * 2.24 Contra-indications of unctuous enema
+ * 2.25 Contra-indications of decoction type of enema
+ * 2.26 Importance of _basti_ therapy
+ * 2.27 Mode of action of _basti_
+ * 2.28 Signs of properly administered _niruha basti_
+ * 2.29 Signs of inadequately administered _niruha basti_
+ * 2.30 Signs of excessively administered _niruha basti_
+ * 2.31 Signs of proper administration of unctuous enema
+ * 2.32 Signs of inadequate administration of unctuous enema
+ * 2.33 Signs of excess administration of unctuous enema
+ * 2.34 Duration of retaining unctuous enema
+ * 2.35 Duration and schedule of _karma, kala_ and _yoga basti_
+ * 2.36 Proper, inadequate and excess administration of _shirovirechana_
+ * 2.37 Factors to be avoided during Panchakarma
+ * 2.38 Reason for failure of _basti_ to cure curable diseases
+ * 2.39 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Queries asked by Agnivesha
+ * 4.2 Duration of oleation therapy
+ * 4.3 Effect of oleation and fomentation therapy
+ * 4.4 Diet before _shodhana_ and reasons for _vamana_ and _virechana_ working in opposite ways
+ * 4.5 Post therapeutic measures (_samsarjana krama_)
+ * 4.6 Characteristics of three types of emesis and purgation
+ * 4.6.1 Symptomatic evaluation of cleansing processes
+ * 4.7 Time to _anuvasana_ (unctuous enema) or oleation after cleansing process
+ * 4.8 Number and sequence of unctuous and _niruha_ type of enema
+ * 4.9 Benefits of _niruha_ type of medicated enema
+ * 4.10 Benefits of unctuous type of medicated enema
+ * 4.11 Effects of unctuous and evacuating type of medicated enema in general
+ * 4.12 Selection of type of enema
+ * 4.13 Importance of _basti_ therapy
+ * 4.14 Mode of action of _basti_
+ * 4.15 Sign and symptoms of proper, improper and excess use of evacuating type of medicated enema
+ * 4.16 Sign and symptoms of proper, improper and excess use of unctuous type of medicated enema
+ * 4.17 _Karma, kala_ and _yoga basti_
+ * 4.18 _Shirovirechana_
+ * 4.19 Do’s and don’ts in Panchakarma procedures
+ * 4.20 Reason for failure of _basti_ to cure curable diseases and importance of dose in cleansing therapies
+ * 4.21 Practical guidelines for _vamana_ and _virechana_ procedures
+ * 4.22 Practical guideline for therapeutic enema procedure
+ * 4.23 Practical guideline for _shirovirechana_ procedure
+ * 4.24 Advanced researches
+ * 4.25 Scope for further research
+ * 4.26 Summary
+ * 5 References
+
+## Introduction
+
+Kalpana Siddhi can be described as a guideline index for all cleansing processes described in various chapters. Kalpa Sthana deals with the formulations useful especially for vamana (therapeutic emesis) and virechana (therapeutic purgation). Thus, after meticulous knowledge of drugs useful for cleansing processes the clinical applicability is described. Hence Charaka named the chapter as Kalpana Siddhi meaning the excellence or successful application of the formulations described earlier. The chapter is formulated in a manner of answers given to the queries asked by Agnivesha which are actually meant for a brief and sequential description of the subject. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter Kalpana Siddhi (Standard administration of purification procedures). Thus said Lord Atreya. [1-2] 
+
+### Queries asked by Agnivesha
+
+Agnivesha, the foremost among the students of Punarvasu Atreya put forward some queries regarding Panchakarma therapies as follows: 
+
+ * What are the procedures of Panchakarma therapies?
+ * What is the order of their administration?
+ * What are the signs of proper, improper and excess administration of these therapies?
+ * What is the number of _basti_ (medicated enemas) to be given?
+ * What are the properties of _basti_?
+ * Which _basti_ is to be given and in whom?
+ * What are the restrictions during the course of treatment?
+ * What should be the interval between the administrations of different therapies?
+ * Why during _basti_ administration it does not enter rectum?
+ * Why administered _basti_ comes out earlier than the scheduled time?
+ * What is the cause of delay in evacuation of the administered _basti_?
+ * Why some diseases though curable do not get cured with its proper medication? Thus, in the view of welfare of society, Punarvasu who is the foremost among the physicians and who is knowledgeable in his subject replied as follows. [3-5½]
+
+### Duration of oleation therapy
+
+Minimum for three days and maximum for seven days the oleation therapy can be employed as after seven days _sneha_ becomes _satmya_ i.e. habituated. [6-6½] 
+
+### Effect of oleation therapy
+
+_Sneha_ attenuates _vata_ , makes body soft and disintegrates the morbid material. [7] 
+
+### Effect of fomentation therapy
+
+In the person who has undergone oleation therapy, fomentation liquefies the adhered morbid material in the fine channels of his body. [7½] 
+
+### Measures to be adopted before _vamana_ and _virechana_
+
+The persons who is about to undergo _vamana_ should take milk and meat as well as meat-soup of domesticated aquatic and wet-land inhabiting animals as food for the excitation of _kapha_. 
+
+Those who are about to undergo _[virechana]]_ should be given the soup of meat of animals inhabiting in arid area and vegetables-soup added with fat which do not cause aggravation of _kapha_. [8-8½] 
+
+### Reasons for _vamana_ and _virechana_ working in opposite ways
+
+Person with aggravated _kapha_ vomits without any difficulty and the person having less aggravated _kapha_ purges well. If there is less _kapha_ , then emetic drug causes purgation and in aggravation of _kapha_ purgative drug leads to emesis. [9-9½] 
+
+### Order of administration of emesis and purgation
+
+Oleated person should be given emesis as per given protocol and after emesis systematic dietary regimen with _peya_ (thin gruel) etc. has to be followed. Thereafter, the person who has undergone oleation and fomentation therapies should be administered the best suited purgation therapy appropriately. [10-10½] 
+
+### Post purificatory regimen (_samsarjana krama_)
+
+After the body is cleansed of the morbidities, the patient should be given as food _peya_ (thin gruel), _vilepi_ (thick gruel), _akrita_ as well as _krita yusha_ (plain and seasoned with fat vegetable juice) and _akrita_ as well as _krita rasa_ (plain meat soup seasoned with fat). Each of these dietary items should be given for three, two or one meal times to the persons whose body is cleansed in accordance with either _pradhana_ (maximum), _madhya_ (moderate) and _avara_ (minimum) cleansing. [11-11½] 
+
+As a small spark of fire gets kindled into a big and stable flame when gradually provided with dry grass, cow dung etc. similarly _agni_ i.e. digestive strength in a purified person becomes strong and stable, capable of digesting all types of food by sequential administration of _peya_ (thin gruel) etc.[12-12½] 
+
+### Characteristics of three types of emesis and purgation
+
+Regarding _vamana_ and _virechana_ , as per type of cleansing person gets vomiting or purgation as follows (while counting number of purges initial 2-3 purges having feces should be excluded) [13-14½] 
+
+### Features of proper emesis
+
+In case of a person that gets _kapha, pitta_ and _vata_ in succession, who experiences clarity in epigastrium side of chest, head, sense organs and lightness in the body is considered to have undergone proper emesis. [15-15½] 
+
+### Features of insufficient emesis
+
+If inappropriate emesis is administered then it gives rise to _sphotaka_ (Vescicular eruptions), _kotha_ (urticaria), _kandu_ (itching), discomfort in epigastrium as well as in sense organs and heaviness of the body. [16] 
+
+### Features of excess emesis
+
+If excess emesis is administered then it gives rise to thirst, unconsciousness, fainting, aggravation of _vata_ , insomnia, debility etc. [16½] 
+
+### Features of proper purgation
+
+In case of proper purgation, a person experiences clarity in all channels of body, freshness in sense organs, lightness in the body, improvement in digestive strength and attains disease free status. Feces, _pitta, kapha_ and _vata_ are expelled in succession. [17-17½] 
+
+### Features of inadequate purgation
+
+When purgation is given improperly and inadequate then it causes vitiation of _kapha, pitta, vata,_ suppression of digestive strength, heaviness in the body, coryza, drowsiness, vomiting, anorexia and absence of _vatanulomana_ (reverse movement of _vata_). [18-18½] 
+
+### Features of excess purgation
+
+Excess purgation leads to _vata_ aggravation due to diminution of _kapha_ and _pitta_ that causes, numbness, body aches mental fatigue, tremor, insomnia, debility, black outs, insanity and hiccup. [19-19½] 
+
+### Follow up after purification
+
+After finishing diet regulations on ninth day (of emesis) the person should be given ghee (if subsequently purgation is intended). Similarly, on ninth day of purgation therapy unctuous enema should be given (if medicated enema is intended to be given subsequently). For three days thereafter, the body should be massaged with medicated oil and then _niruha_ i.e. medicated decoction enema should be given when person is not much hungry. After evacuation of enema person should be given meat soup of animals inhabiting arid forest zone or any other appropriate diet depending upon the nature of _dosha_ and the strength of digestion. Then the person should be given unctuous enema if he has not taken heavy meal, the night before and if he is fit for the same. [20-21½] 
+
+### Time of _anuvasana_ (unctuous enema)
+
+In the winter and spring seasons, unctuous enema should be given during the day time. In autumn, summer and rainy seasons, it should be administered during the night time. Care should be taken to avoid mistakes as described earlier [Cha.Sa.Sutra Sthana 13/19-21] in respect of administration of oleation therapy. [22-22½] 
+
+After evacuation of unctuous enema, the person should not take any food in the night. On the next day, food should be given to him during the day time and in the evening. Thereafter, on the second, third or fifth day unctuous enema should be given followed by _niruha_. Thus on every third or fifth day unctuous enema should be given while giving _niruha_ type of medicated enema. [23-24] 
+
+### Number of _basti_ as per _dosha_ dominance
+
+Unctuous enema should be given in odd set of numbers in following manner: 
+
+Note: This number is related to _anuvasana_ (unctuous enema). 
+
+### Sequence of _niruha_ (decoction enema) and purgation
+
+A person who has undergone purgation should avoid _niruha_ type of medicated enema for seven days and person who has taken _niruha_ type of medicated enema should avoid purgation therapy for seven days because it will have deleterious effects on body which is evacuated (of _dosha_ and nourishing material) by earlier cleansing process. [26] 
+
+### Beneficial effects of _basti_
+
+_Niruha_ type of medicated enema has following benefits: 
+
+ * Prevents ageing
+ * Promotes happiness, longevity, strength, power of digestion, intellect, voice and complexion
+ * It accomplishes all objects.
+ * It is harmless for children, old persons and youth.
+ * Cures all diseases
+ * Evacuates feces, _kapha, pitta, vata_ and urine
+ * Promotes sturdiness of the body
+ * Enriches semen and promotes strength
+ * It cures all the diseases by removing accumulated _dosha_ from entire body. [27-28]
+
+### Benefits of unctuous enema
+
+Unctuous enema promotes complexion and strength in persons of whom all the channels of the body are cleansed by _niruha_ type of medicated enema. There is no therapy better than the administration of oil (unctuous enema) which is specifically useful for the patients afflicted with diseases caused by _vata_. The oil by its unctuousness, heaviness and warm properties counteracts the dryness, lightness and coldness properties of _vata_ respectively. Administration of oil instantaneously improves complexion and digestive strength. Just as a tree irrigated with water at the root changes old blue leaves into beautiful with tender leaves and during the course of time grows to produce flowers and fruits, similarly a person changes by the administration of unctuous type of medicated enema. [29-31] 
+
+### Specific indications and benefits of enema
+
+Medicated enema in general is indicated in following cases, 
+
+ * Whose limbs have become stiff with contractures
+ * Who suffer from lameness
+ * Who are afflicted with fractures and dislocations
+ * Whole limbs are afflicted by the movement of different types of aggravated _vata_
+ * It is also effective in distension of abdomen by _vata_ , hard stool, colic in abdomen, other such ailments affecting pelvic region.
+ * _Basti_ is an excellent therapy for women who are affected with complications of _vata_ and who are unable to conceive despite their mating with male partner.
+ * It is also extremely useful for men having seminal debility and emaciation of the body. [32-34]
+
+### Selection of type of enema
+
+In those patients suffering from diseases caused due to hotness, the cooling type of enema (i.e. prepared with drugs of cold nature and not much warm) should be given and in those affected with diseases caused due to increased coldness the warm enema (i.e. prepared with drugs of hot nature and slightly warm temperature) should be given. In all cases, different types of enema containing ingredients having attributes opposite to that of etiological factors of the disease should be administered. [35] 
+
+### Contra-indications of unctuous enema
+
+In diseases that are indicated for purification, _kushtha_ (obstinate skin diseases), _prameha_ (obstinate urinary diseases), _sthaulya_ (obesity) etc. nourishing type of enema should not be given. [36] 
+
+### Contra-indications of decoction type of enema
+
+Evacuating type of enema should not be given to the patients suffering from weakness, severely wounded, emaciation, extreme debility, fainting, to those who have already undergone the process of purification, and to those whose life is dependent upon the holding up of _dosha_ (morbid matter). [37] 
+
+### Importance of _basti_ therapy
+
+None other than _vata_ is responsible for all diseases origination in _shakha_ (peripheral tissues), _koshtha_ (visceral organs), _marma_ (vital points of the body), _urdhva_ (upper part of body), _sarvavaya_ (covering entire body) and _anga_ (individual parts of the body). _Vata_ is responsible for separation and combination of stool, urine, _pitta_ etc. including other excreta and tissue elements. When it gets highly aggravated there is no remedy other than _basti_ for its alleviation. Therefore, _basti_ is considered by physicians to be the half of entire therapeutics. Some physicians even consider it as whole of the therapeutics. [38-39½] 
+
+### Mode of action of _basti_
+
+The therapy that while moving in umbilical region, lumbar region, sides of the chest and pelvic regions churns up stool including all the other morbid matter located there and appropriately eliminates them with ease after oleating the body is called _basti_. [40-40½] 
+
+### Signs of properly administered _niruhabasti_
+
+When _niruha_ i.e. evacuating type of enema is administered properly then it causes proper elimination of stool, urine and flatus; promotes appetite and power of digestion; gives lightness to the _ashaya_ ; attenuates disease and restores natural health and strength. [41-41½] 
+
+### Signs of inadequately administered _niruhabasti_
+
+When _niruha_ i.e. evacuating type of enema is not administered properly then it causes pain in head, cardiac region, anal region, urinary bladder and genital organs; edema, coryza, griping pain and nausea; retention of flatus and urine and dyspnea. 
+
+### Signs of excessively administered _niruhabasti_
+
+Symptoms of excessive outcome of evacuative enema are similar to the symptoms to that of excessive administration of purgation therapy (as mentioned earlier). [43] 
+
+### Signs of proper administration of unctuous enema
+
+Proper administration of _anuvasanabasti_ i.e. unctuous enema gives following symptoms, 
+
+ * Return of administered enema with fecal matter without any obstruction.
+ * Purifies body elements such as blood etc.
+ * Clarifies intellect and senses
+ * Imparts sound sleep
+ * Causes lightness and strength in the body
+ * Proper manifestation of natural urges without any obstruction. [44]
+
+### Signs of inadequate administration of unctuous enema
+
+Improperly administered unctuous enema causes pain in lower part of the body, abdomen, arms, back and sides of the chest; gives rise to dryness and roughness of the body and obstruction in the passage of stool, urine and flatus.[45] 
+
+### Signs of excess administration of unctuous enema
+
+Whereas excessively administered unctuous enema causes nausea, unconsciousness, mental fatigue, exhaustion, fainting and griping pain. [45½] 
+
+### Duration of retaining unctuous enema
+
+If unctuous enema is retained for three _yama_ (nine hours) then the body of the person gets cleansed of morbid matter. If it comes out quickly then another unctuous enema should be administered as the previous one did not produce unctuous effect in the body. [46-46½] 
+
+### Duration and schedule of _karma, kala_ and _yogabasti_
+
+In _karmabasti_, thirty enemas are to be administered. In _kalabasti_ the number of enema should be half of the former. In the _yogabasti_ the number of enema should be half of the _kalabasti_. 
+
+In _karmabasti_ twelve unctuous enemas and twelve evacuating enemas should be given alternately. Before this one unctuous enema in the beginning and at the end five unctuous enemas should be administered. 
+
+In _kalabasti_ six unctuous enemas and six evacuating enemas should be given alternately. Before this one unctuous enema in the beginning and at the end three unctuous enemas should be administered. 
+
+In _yogabasti_ three evacuating enemas should be given. In the beginning, in the middle and at the end, total of five unctuous enemas should be administered. [46-48½] 
+
+Physician should administer three, five, four or six unctuous enemas in patients suffering from disorders caused by _vata_ (_pitta_ and _kapha_) etc. and then for the cleansing of micro channels should administer evacuating type of enema. [49-49½] 
+
+### Proper, inadequate and excess administration of _shirovirechana_
+
+After proper body cleansing/purification his head should be consecutively anointed and fomented with the help of the palm. After ascertaining the strength of the three types of _dosha_ he should be given _shirovirechana_ (errhine) therapy, once, twice or thrice. Appropriately administered _shirovirechana_ gives rise to lightening of the chest and head, clarity of the senses and cleansing of the micro channels of the body. Inappropriate administration leads to adhesion of sticky material in the throat, heaviness of the head and ptyalism. 
+
+Excessive administration of _shirovirechana_ causes cutting and aching pain in head, eyes, temples, ears and leads to fainting. Excessive administration hazards should be treated with demulcent drinks and medications which are soft and liquid in nature. For the management of conditions arising out of inappropriate administration of _shirovirechana_ the patient should be given oleation therapy and thereafter strong _shirovirechana_ should be administered. [50-52½] 
+
+In this manner the Panchakarma therapies are described to ensure happiness in both patient and healthy persons by promoting their strength and longevity and also curing the diseases. [53] 
+
+The interval between two courses of any _basti_ etc. (cleansing therapy) should be double the period required for administration of that therapy. [53½] 
+
+### Factors to be avoided during Panchakarma
+
+During cleansing therapies one should avoid excessive sitting, standing, speaking and riding, sleep during day time, sexual intercourse, suppression of natural urges, cooling regimens, exposure to sun, grief, anger and intake of untimely and unwholesome food.[54-54½] 
+
+Factors responsible for inhibiting enema to enter smoothly: 
+
+ * If nozzle is clogged or inserted obliquely
+ * If rectal passage is blocked by piles, mucus or hard stool
+
+Factors responsible for inappropriate evacuation enema: 
+
+ * If the path is obstructed by _dosha_
+ * If enema is administered in less amount
+ * If the enema is of low potency [55-55½]
+
+Factors responsible for immediate evacuation of enema: 
+
+ * If there is sudden urge for voiding feces, flatus or urine
+ * If there is excessive aggravation of _vata_
+ * If there is lack of strength in anal muscles to retain the enema
+ * If the enema contains ingredients which are excessively hot and strong
+ * If the person has laxed bowel. [56-56½]
+
+### Reason for failure of _basti_ to cure curable diseases
+
+If the _vata_ gets occluded by _meda_ (fats) and _kapha_ then it gives rise to colic pain, numbness of the body and edema. When an ignorant physician administers _sneha_ then they actually get aggravated. Similarly, other _dosha_ overlap each other in their pathway and get afflicted with tissue elements of different nature. If not differentially diagnosed, these ailments do not get alleviated even though specific remedies are administered. [57-58½] 
+
+When correct treatment is given but in low or excess doses, in inappropriate time or in wrong manner then it fails to cure diseases. [59-59½] 
+
+### Summary
+
+To sum up, 
+
+Lord Atreya the foremost among the sages described the successful administration of Panchakarma for the well being of the people in the form of answer to the twelve queries. [60-61½] 

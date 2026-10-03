@@ -1,0 +1,123 @@
+The extrinsic and intrinsic factors influencing quantity of food are shown in fig.1 and fig.2 respectively. 
+
+#### Assessment of food ingestion capacity (ahara shakti)
+
+The food ingestion capacity (aahara shakti) of a person is assessed on two parameters: 
+
+ 1. Food ingestion capacity (abhyavaharana shakti) and
+ 2. Digestion capacity (jarana shakti) [Cha.Sa.Vimana Sthana 8/120]
+
+#### Role of satiety and three parts of ingestion capacity
+
+Satiety is one of the subjective parameters to assess the ingestion capacity of a person. The maximum ingestion capacity of a person should be divided into three parts. One-third part of food intake should be consumed in solid form and one third part as liquid diet, remaining one third part of total capacity should be kept empty for movement of vata, pitta and kapha. This is the indicator of satiety. This means once the two third part of stomach will be filled, a person will have the feeling of satisfaction [Cha.Sa.Sutra Sthana25/40]. At this point the person should stop eating. If this limit is crossed, the excess food stuff will occupy the third part of stomach which interrupts the process of digestion, causing extra burden on agni (digestive power) and may cause indigestion. The divisions of stomach (amashaya) are not in equal proportion, but it is in accordance with user’s suitability and the adaptive pattern of food consumption [Chakrapani on Cha.Sa.Vimana Sthana2/3]. Power of ingestion (abhyavaharana shakti) is different for every individual and it depends upon the strength of digestive capacity (jatharagni). The proper quantity of food (ahara matra) to be consumed subject to power of ingestion and consistency of food articles i.e. solid and liquid. 
+
+Some Ayurveda scholars have divided ingestion capacity of amashaya in four parts and advised to take two parts with solid food, one part with liquids and rest one fourth part to be left empty for dosha (as a normal physiology of digestion). [A.Hr.Sutra Sthana8/46-47][6] Arundatta, commentator of Vagbhata has considered this capacity of amashaya as the measurement of satiety. 
+
+#### Physiological mechanism of satiation and proper quantity of food (sauhitya matra)
+
+Satiation is a process that leads to the termination of eating, which may be accompanied by a feeling of satisfaction. Proper quantity of food (sauhitya matra) means eat till the feeling of satiety. This satiety term is further differentiated into two functionally different terminologies namely satiation and satiety. Benelam B defines Satiation as the process that leads to termination of eating, accompanied by feeling of satisfaction. This is also called as within meal satiety. Further he defines Satiety as the feeling of fullness that persists after eating, potentially suppressing further energy intake until hunger returns .[7]Sorensen LB termed it as between-meal satiety. It is the state where eating is inhibited till next eating episode.[8]
+
+Complex network of signals has been involved in development of satiation and satiety. Satiation and satiety involves mechanism which exert their effect through physiological and/or psychological processes. Satiation can modulate the size of meals consumed, controls how much to consume. The physiological mechanism, as outlined by Benelam B. has been referred along with current knowledge which will help to explicit the concept and support to develop objective parameters to asses proper quantity of food (Ahara Matra). 
+
+##### 1\. Sensory and cognitive factors
+
+Sensory and cognitive factors affect intake of food predominantly. Foods sensory properties like taste, smell, texture, appearance, and food type to be consumed affect satiation in the initial period. These sensory specific properties of food are linked with the sensory specific satiety. Sorensen LB et al have reviewed the multiple aspects related to sensory perception of food and their role in appetite regulation. Sensory-specific satiety has an important influence on the amount of food eaten. Palatability of food greatly influences appetite and food intake. Increase in food variety observed rise in quantity of food and energy intake. This study also reviewed standard procedure to test sensory-specific satiety and identified flavor, texture and appearance-specific satieties. 
+
+Variety in food and pleasantness of food to sensory organs increase the intake of food. De Graaf C et al concluded that pleasantness of food affect satiation but do not have significant effect on satiety. [9] [10]
+
+The sensory-specific satiety phenomenon has been explained by Rolls et al with reference to sight and test of food.[11] [12]. Study of Spetter M S et al shows that oral food ingestion evokes greater neural activation of brain signaling pathways specifically in the midbrain, amygdala, hypothalamus, and hippocampus area neural activity related to sensory-specific satiety.[13]
+
+##### 2\. Gastric mechanism of satiation
+
+**a)Gastric distention** : Stomach functions as key component in digestion. It acts as a reservoir of food. The reservoir capacity of the stomach allows it to increase its volume significantly. Its capacity limits the amount of food to be ingested. Stomach distention significantly controls the food intake and satiety.[14],[15] Geliebter A and team while assessing the changes in gastric capacity of obese patients determined the gastric capacity by oral insertion of a latex gastric balloon method.[16]In other works also this is used as a tool to assess the gastric capacity.[17]
+
+**b)Gastric and Intestinal Signals** : In response to the food many gut peptides are secreted from enteroendocrine cells, which play essential role in regulating food. Steinert RE et al reveals that along with gastric distention, Gastric and intestinal signals (increased GLP-1 and PYY secretions and reduction in plasma ghrelin secretions) synergies to support satiation.[18]
+
+Gut hormones such as cholecystokinin (CCK) and GLP-1, Oxyntomodulin (OXM), Peptide YY, Pancreatic polypeptide (PP) these are the important gut hormones involved in the mechanism of satiation, plays significant role in termination of meal. CCK is considered as potential biomarker for satiation.[19][20] Oxyntomodulin (OXM) delays gastric emptying and reduces gastric acid secretion, decrease food intake.[21]
+
+Leptin, insulin, and ghrelin act as long term regulators of appetite. These are long-acting adiposity hormones. While studying the role of leptin in prandial patterns, researchers observed that plasma leptin concentrations increase during a spontaneous inter-meal interval and decline before the onset of a meal. Leptin works through regulation of hypothalamic feeding circuits. Through negative feedback mechanism leptin reduces food intake and regulates body weight homeostasis. Thus, decreased leptin levels observed to stimulate appetite behavior. Leptin has an influential role in meal frequency and observed less responsible to control meal size.[22]
+
+Ghrelin potentially enhances appetite. It is the first hormone which shows stimulating effect on food intake.[23][24] Ghrelin secreted mainly from the gastric mucosa, its level are at their peak just before a meal, and decreased slowly when food nutrients have travelled to intestine. It acts on hippocampal neurons involved in spatial learning and memory, thus empty stomach passes signal to brain for asking to engage in appetite behavior, feeling of hunger. Ghrelin as orexigenic factor promoted food intake and weight gain. Various cognitive components participate in the initiation of eating and in the selection of food. Schmid DA et al research findings suggest that along with stimulation of appetite, ghrelin affects cognitive functions. They have noted vivid visualization of preferred meal by study subjects after administration of ghrelin.[25] Peptide YY has a suppressive effect on food intake.[26]PPY rise is observed in post prandial phase and are lowest in fasting state. Peripheral administration of PYY3e36 reduces food intake. PPY have shown effect on intestinal motility, delays gastric emptying.[27]
+
+##### 3\. Signaling pathways involved in the mechanism of satiation
+
+Food is considered the basic necessity for sustenance of life and attain physical stoutness [Cha.Sa.Sutra Sthana 25/40(1)]. Energy homeostasis depends on food we consume. Hypothalamus and brainstem are mainly involved to maintain the energy levels. The arcuate nucleus (ARC) of hypothalamus plays important role to control intake of food. ARC has orexigenic neurons (appetite stimulating) and anorexigenic neurons (appetite inhibiting). During digestion, food nutrients stimulate G-protein coupled receptor present on enteroendocrine cell, which stimulates release of gut hormone. Gut hormones influences the vagus nerve, hypothalamus and brainstem. Stimulatory and inhibitory neurons present in hypothalamus interact with peripheral signals which results in alteration of eating drive. Vagal afferents stimulated by the gut hormone and sensitive to the stomach's mechanical stretch further connect with the nucleus of the brainstem. Brainstem passes neural signals to hypothalamus. Numerous hormonal and neural signals influence ARC nucleus, which projects to a number of regions including hypothalamic paraventricular nucleus where some essential energy regulating pathways arise. 
+
+Gastrointestinal tract releases various peptide hormones. Stomach has its hormonal and neural control mechanism. Presence of food nutrients along with distention of stomach release gut hormones such as PPY, GLP-1, and oxyntomodulin (OXM).These are mainly responsible for phenomenon of satiation. These peptides decrease hypothalamic orexigenic signaling and increase anorexigenic signaling. Negative feedback mechanism results due to these peptides also contribute to increase satiety between meals. Effect of these gut hormones in union with CNS effect results in satiation and satiety. The enteroendocrine cells released hormones interact at different brain levels through circulation and or through primary afferent neurons. Along with induction of satiation and meal termination, gut hormones also produce a positive feeling of reward and satisfaction. Nutrient sensors and their signaling to brain are vital to give feeling of satisfaction.[28] [29] [30]
+
+D Chapelot has described subjective and objective tools for measuring meal size, microstructure of the meal, meal request and inter-meal intervals. A multidimensional approach for assessing satiety is proposed with intensity, duration and intake as main variables.[31] Commings DE et.al have reviewed the interaction of gastric, intestinal, and pancreatic signals in food regulation. They have also discussed the important role of short acting GI factors and long-acting adiposity hormones in food intake regulation. Gerry Smith survey indicates that gastric signals are volumetric in nature and intestinal signals are nutritive in nature.[32]
+
+**Satiety Cascade:** Blundell JE and team developed a satiety cascade, referred as fundamental structure to examine the impact of food on satiation and satiety in future research.[34] [35]
+
+**The satiety quotient (SQ):** GREEN SM et al developed a satiety quotient (SQ) to assess an eating episode's satiating effect. This is considered as a remarkable contribution in the field in quantifying satiating effects of foods. This quotient relates food intake with the rate of return of motivation to eat post ingestion, which is predictive of energy intake. Thus, for a person, the satiety quotient will vary based on weight, macronutrient composition, and energy density of food.[36]
+
+**Low satiety phenotype:** ‘Low satiety phenotype’ is associated with specific behavioral and metabolic profiles that could explain their susceptibility to overeating. These individuals do not recognize their appetite sensation before and after meal. This is considered as an important step in individualized obesity treatment.[37]
+
+### Effects of deficient or inadequate quantity of food
+
+A deficient and excessive quantity of food both are detrimental to human health. The deficient quantity of food reduces strength, complexion, and nourishment of body tissues and makes the person a home for various disorders of vata dosha. The quantity of food is one of the major factors which decide the wholesome and unwholesome effect of food on body tissues. [Cha.Sa.Sutra Sthana 25/32] 
+
+Under eating or intake of food in reduced quantity (pramitashanam) is mentioned as the principal cause of emaciation (karshaniyanam) [Cha.Sa.Sutra Sthana25/40]. Fasting or over-eating does not kindle digestive fire, as like fire in environment is extinguished if there is no fuel supply or if excessive fuel covers the fire. [Cha.Sa.Chikitsa Sthana 15/211] Taking wholesome food in appropriate quantity after complete digestion of previously eaten food helps to continue good health for long duration.[Cha.Sa.Chikitsa Sthana 15/214] It is observed that deficient quantity of food deteriorate the digestive capacity of agni and in absence of sufficient nutrients leads to malnourishment disorders and poor health status. 
+
+There are two ways to measure the quantity of food: 
+
+ 1. Total quantity of food to be consumed in a meal (sarvagraha)
+ 2. Quantity of each food article in a meal (parigraha).
+
+The inclusion of different food articles in a meal is to ascertain all the six rasa (tastes) in the required proportion. The nutritional requirement of various body tissues is different. Proportionate quantity of six rasa will ensure the tissue requirement.[Fig.3] The balanced diet concept of Ayurveda is essentially based on this principle. Imbalanced diet concerning six rasa leads to improper nourishment of body tissues, which further leads to depletion of body tissues (dhatu) [Chakrapani on Cha. Sa.Sutra Sthana 5/4]. Long-term exposure of imbalanced diet triggers wear and tear mechanism of tissues and may result in early senility. Biomedical fundamentals of nutrition, macronutrients and micronutrients need to be studied in correlation with six rasa principle to offer better nutritional solutions to the society. 
+
+**Fig.3: Deficiency of food**
+
+#### Effects of undernutrition and malnutrition
+
+Malnutrition generally implies undernutrition but also includes other deviations like energy undernutrition and over-nutrition. Malnutrition starts due to deficiencies of specific nutrients or from diets based on inadequate and or inappropriate combinations or proportions of foods. Undernutrition is caused primarily due to an inadequate intake of dietary energy. The impact of a deficient diet on an individual is mainly depending on age factor. Age reflects the condition of body tissues. Body tissues (dhatu) attain different stages form immature growing state of childhood, to the attainment of all the qualities and strength of body tissues in young age, which further slowly enters the state of depletion in old age. Nutritional requirement of body tissues differs according to age. Considering the age of a person, consequences arise due to inadequate diet is discussed under two categories- a) Childhood age b) Adult age. 
+
+World health organization explains the malnutrition phenomenon of childhood age under four categories: Stunting, Wasting and overweight and underweight.[38] [39]
+
+**1.Stunting** (height-for-age below –2 SD) refers to a child who is too short for his or her age. It is the devastating result of poor nutrition during early childhood. These children fail to attain complete possible height. It also hampers cognitive development. 
+
+**2.Wasting** (weight-for-height below –2SD) refers to a too thin child for his or her height. It results due to poor nutrient intake. Children suffering from wasting have weakened immunity, suffer long term developmental delay. 
+
+**3.Childhood overweight** (weight-for-height above +2SD )and obesity are considered an emerging face of malnutrition, resulting in unhealthy, processed food. In later life this increases the risk for diet related non communicable diseases. 
+
+**4.Underweight** (refers weight-for-age below –2SD) 
+
+##### Determinants of under nutrition
+
+Faustin Habyarimana found key determinants of malnutrition of children below five years of age: age, gender, birth weights, mother’s knowledge of nutrition, birth order, incidence of recent fever, multiple pregnancies, education level of the mother, age of the mother at childbirth, body mass index, prevalence of anemia, province, source of drinking water and wealth quintiles. A positive correlation between stunting and underweight and wasting and underweight was also found.[40]
+
+**Consequences of under-nutrition:** The consequences of poor nutrition include impaired growth, poor cognitive and social development, poor school performance, increased risk of morbidity and mortality and reduced productivity later in life.[41] Malnutrition in children affects by impacting cognitive functions, further impends individuals’ ability to lead productive life and thus contribute to poverty. 
+
+**Under-nutrition in adults:** Under-nutrition in adults can be correlated with the etiopathogenesis of Karshya described in Ayurveda classics. Undernourishment may be caused by the lack of one or more nutrients (under‐nutrition), or an excess of nutrients (over‐nutrition). Physiological changes associated with the process of ageing may further support malnutrition.[42] [43]
+
+**Determinants** : Hickson M has Categorized the causes of malnutrition under three category as medical factors (like poor appetite, physical disability, endocrine disorders etc), lifestyle and social factors (lack of knowledge of nutrition, loneliness, povery etc.) and psychological factors.[44]
+
+Morley JE has enumerated the major causes of malnutrition as lack of food, paranoia, emotional factors (like depression), inappropriate dieting, anorexia, problem with feeding (tremors, dementia, functional impairment, and dysphagia), Enteral problems (e.g., gluten enteropathy), Wandering and other dementia related factors and malabsorption.[45]
+
+Older people are at high risk of developing protein-energy malnutrition. It affects health, cognitive and physical functions as well as quality of life. Study concludes that increasing age, unmarried/separated/divorced status, difficulties walking 100 m, climbing stairs and hospitalization, cognitive impairment or receiving social support are the major predictors of malnutrition.[46]
+
+Shetty P has validated scoring systems such as MUST, which indicates patients at risk of malnutrition. BMI less than 18.5 kg/m2 is a sign of undernutrition. Laboratory investigations like hemoglobin or packed cell volume (indicators of anemia, hydration), blood urea (indicating hydration and protein intake), C-reactive protein and ESR (inflammatory pathology), total lymphocyte count (for immune function) are also suggested to aid early diagnosis.[47]Donini LM et al developed and validated a screening tool for the easy detection and reporting of both undernutrition and over-nutrition, two types of malnutrition.[48] A systematic review to evaluate malnutrition biomarkers among older adults, concluded that BMI, hemoglobin, and total cholesterol are useful biomarkers of malnutrition in older adults.[49]
+
+**Consequences** : Malnutrition in adults is greatly associated with risk of sarcopenia, frailty, falls, dependence in activities, respiratory muscle wasting, effects musculoskeletal system, experience metabolic changes in cellular electrolytes including calcium accumulation, reduced resistance to infection, poor functioning of excretory systems, longer hospital stay, poor response to other medical conditions. Sarcopenia is a syndrome characterized by progressive and generalized loss of skeletal muscle mass and strength and it is strictly correlated with physical disability, poor quality of life and death.[50]Cachexia is a multifactorial syndrome with involuntary progressive weight loss as a result of reduction of skeletal muscle mass with or without depletion of adipose tissue.[51]Frailty is a common clinical syndrome in older adults and is associated with poor health outcomes including falls, disability, hospitalization, decline in functions of various physiological systems and mortality.[52]
+
+##### Treatment strategies of undernutrition
+
+ * Provide dietary solutions considering Guts changes of the elderly.[53]
+ * Manipulation in energy / nutritive density of food.[54]
+ * Changes in hedonic pattern (taste, flavor, appearance) of foods.
+ * Provide healthy environment to support emotional quotient.
+ * Provide feeding assistance.
+ * Give motivation for physical activities.[55]
+ * Adopt interdisciplinary approach like inclusion of Yoga techniques to improve mental health.[56]
+
+### Effects of excessive quantity of food
+
+Excessive food triggers all three dosha vitiation as there is no space left for functions of dosha. Dosha govern the physiology of digestion. Samana vayu functions nearby the abode of digestive factors (jatharagni), kindles agni. Prana vayu and apana vayu supports the functions of agni. Pachaka pitta when devoid of its liquid property, is responsible for digestion. [A. Hr. Sutra Sthana 12/10-11][6] Kledaka kapha is responsible to moisten the ingested food. Thus the process of digestion is driven by dosha. Factors responsible for complete transformation and absorption of food (ahara parinamakara bhava) explain this phenomenon in-depth. [Cha.Sa.Sharira Sthana6/14],[Cha.Sa.Chikitsa Sthana 15/6-8]. The normal functions of digestion and metabolism are not carried out due to the vitiated dosha. This leads to the formation of ama. 
+
+Excessive eating is one of the etiological factors for non-communicable diseases like obesity and diabetes mellitus which are more prevalent in society. Excess intake of calorie food which is not processed properly by digestive power (jatharagni) and further utilized by dhatvagni (type of agni present at tissue level) leads to obesity and related disorders. 
+
+### Influence of mental health on gut microbiota
+
+The microbiome is the collective genome of all the microorganisms (bacteria, fungi, protozoa and viruses) living in a particular environment, especially living on and inside the human body. Microbiota is the community of microorganisms. Collective genome of various microorganisms of gastrointestinal (GI) tract, termed as gut microbiome.[57]
+
+Gut microbiome plays a significant role in intestinal physiology and regulation. Gut microbiota produces microbial metabolites like short-chain fatty acids (SCFAs) mainly acetate, propionate, and butyrate; promotes local intestinal immunizations and systemic immunity .[58] [59]Gut microbiome has a regulatory role in behavior and cognition and it is exercised through gut-brain axis.[60]

@@ -1,0 +1,268 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Benefits of following seasonal regimen
+ * 2.2 Six seasons according to (the position of the) Sun
+ * 2.2.1 Adana kala (the period with lesser strength) and visarga kala (the period with good strength)
+ * 2.2.2 Effect of adana kala
+ * 2.2.3 Effect of visarga kala
+ * 2.2.4 Seasonal variation in strength
+ * 2.3 Diet and lifestyle guidelines in Hemanta ritu (Winter season)
+ * 2.3.1 Status of agni
+ * 2.3.2 Diet and beverages in winter season
+ * 2.3.3 Lifestyle in winter season
+ * 2.3.4 Guidelines for sexual health
+ * 2.3.5 Contra-indications in winter season
+ * 2.4 Diet and lifestyle guidelines in shishira ritu (late winter)
+ * 2.4.1 Characteristics of shishira ritu
+ * 2.4.2 Additional care in late winter season
+ * 2.4.3 Contra-indication in late winter
+ * 2.5 Diet and lifestyle guidelines in vasanta ritu (spring season)
+ * 2.5.1 Status of agni in spring
+ * 2.5.2 Indications and contra-indications in spring
+ * 2.6 Diet and lifestyle guidelines in grishma ritu (summer season)
+ * 2.6.1 Effect of excess Sun-heat in summer
+ * 2.6.2 Diet and beverages in summer
+ * 2.6.3 Contra-indications in summer
+ * 2.6.4 Lifestyle in summer
+ * 2.7 Diet and lifestyle guidelines in Varsha ritu (rainy season)
+ * 2.7.1 Status of agni in rainy season
+ * 2.7.2 Indications and contra-indications in rainy season
+ * 2.7.3 Specific diet in rainy season
+ * 2.7.4 Lifestyle in rainy season
+ * 2.8 Diet and lifestyle guidelines in sharada ritu (autumn season)
+ * 2.8.1 Status of pitta dosha in autumn season
+ * 2.8.2 Specific diet for pacification of pitta dosha
+ * 2.8.3 Contra-indications in autumn season
+ * 2.8.4 Hamsodaka (pure water)
+ * 2.8.5 Lifestyle during autumn season
+ * 2.9 Okasatmya(acquired adaptation or habituation)
+ * 2.10 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi vimarsha (Applied Inferences)
+ * 4.1 Division of samvatsara (year) and ritu
+ * 4.1.1 Division of year, ayana, months, rashi
+ * 4.1.2 Formation of Seasons
+ * 4.1.3 Qualities of seasons
+ * 4.2 Importance of ritucharya(seasonal regimen)
+ * 4.2.1 Basic principles of ritucharya
+ * 4.2.2 Concept of ritusandhi
+ * 4.2.3 Yamadamshtra (period of increased mortality)
+ * 4.3 Concept of satmya and okasatmya
+ * 4.4 Seasonal Regimens
+ * 4.4.1 Hemanta ritucharya (Regimen for Early winter)
+ * 4.4.2 Shishira ritucharya (Regimen for Late winter)
+ * 4.4.3 Vasanta ritucharya (Regimen for Spring)
+ * 4.4.4 Grishma ritucharya (Regimen for Summer)
+ * 4.4.5 Varsha ritucharya (Regimen for Rainy season)
+ * 4.4.6 Sharada ritucharya (Regimen for Autumn)
+ * 4.5 Common diseases due to non-observance of ritucharya
+ * 4.6 Effect of seasonal changes on health
+ * 5 Research on Hamsoadaka
+ * 6 References
+
+## Introduction
+
+The primary objective of Ayurveda is to maintain good health. Ahara (diet) is the main basis of life, which should be taken in proper quantity and quality to maintain equilibrium and to promote strength, lustre and healthy long life. It has been observed that a person taking food even in proper quantity may suffer from diseases in different seasons. This implies that apart from the quantity of ahara (diet), the knowledge of regimen for different seasons also plays a significant role in the maintenance of health and prevention of diseases. 
+
+A person who has the knowledge of appropriate food articles and activities applicable to specific seasons and also the discipline and inclination to practice them (in accordance with those seasons) stays healthy. Whereas a person without knowledge (or with limited knowledge) of wholesome regimen for different seasons or without the discipline or temperament of following these seasonal practices is likely to suffer from various diseases. Seeking this objective, the chapter describes ahara (diet) and vihara (lifestyle) to be followed in different seasons. The way we eat, exercise, rest, sleep, think, plan, carry out our routine work, and behave with others - are collectively termed 'Lifestyle'. In Indian subcontinent, there are six seasons in the year on the basis of the position of the Sun with respect to the Earth. The qualities of different seasons need to be understood in three aspects viz. masa (month), rashi (stellar constellations) and characteristic features pertaining to the season. While prescribing regimen for different seasons, importance should be given first to the appearance of characteristic features in the prevailing season, then to the rashi and finally to the masa. 
+
+Health is a state of dynamic equilibrium between man and his environment (Loka-Purusha Samya). The moment this equilibrium gets disturbed, dosha get imbalanced to cause diseases. The basic concept of prevention and cure of diseases is based on the tridosha (collective term for vata, pitta, and kapha dosha) theory. A particular rhythmic pattern of the three dosha i.e. accumulation (sanchaya), aggravation (prakopa) and alleviation (prashama) occur in relation to six seasons, when the Sun changes from one rashi to the other. Six different tasterasa present in our food have direct effect on three dosha. Seasonal adaptation (Ritusatmya) is described under seasonal regimen (ritucharya), which is the variation in diet (ahara) and lifestyle (vihara) to balance rhythmic seasonal variations of dosha, bala, agni, and rasa etc. through the concept of samanya and vishesha. Knowledge and regular observance of suitable ritucharya (ahara and vihara for different seasons) is mainly for the maintenance of health and prevention of diseases. For diseased persons ritucharya need to be modified accordingly. 
+
+Northward movement of the Sun (Adana kala or uttarayana) includes, late winter (shishira), spring (vasanta) and summer (grishma) seasons . Southward movement of the Sun (visarga kala or dakshinayana) includes rainy (varsha), autumn (sharad) and early winter (hemanta) seasons. In these seasons, there are specific changes in atmospheric conditions which influence changes in dosha, bala (strength) and agni (digestive power). These atmospheric changes affect all living beings in the universe. Due to changes in the external environment, the tridosha pass through three different phases i.e. sanchaya (accumulation), prakopa (aggravation) and prashama (alleviation). The period of change in season is termed as ritusandhi. In this period, gradual decrease in diet and lifestyle of earlier season and gradual adaptation of the diet and lifestyle regimen of next season is advised to prevent the disorders due to change in season. 
+
+The concepts of satmya and okasatmya have been explained with respect to the adaptability. Any naturally suitable food or behavior beneficial to the self is considered as satmya. Okasatmya is anything unnatural, unacceptable and acquired habituation to food and lifestyle. Even though, it has become a habit, it should be stopped gradually. 
+
+In this fast moving era of science and technology, lifestyle change in the form of non-observance of ritucharya (seasonal regimen) is a major risk factor for increasing prevalence of various diseases. The concept of ritucharya (seasonal regimen), in terms of self-management of lifestyle should be promoted universally for health and prevention of diseases in all individuals. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Tasyashiteeya" (Seasonal regimen of diet and lifestyle). Thus said Lord Atreya. [1-2] 
+
+#### Benefits of following seasonal regimen
+
+The vigor and complexion is promoted in a man who knows and follows seasonal dietary and lifestyle regimen. The dietary includes various types of food articles which are eatable(ashita), chewable (khadita), drinkable (pita) and lickable (lidha).[3] 
+
+### Six seasons according to (the position of the) Sun
+
+A year (samvatsara) is divided into six parts by seasons. Among them, when the Sun is in northward position to the Earth, that part of the year is called adana kala and includes three ritu starting from shishira, vasanta and grishma. When the Sun is in a position of southwards of the Earth, the period is called visarga kala and includes three ritu starting from varsha, sharad and hemanta. This segmentation of the year (by seasons) is for the purpose of swasthavritta (healthy regimen) in different seasons.[4] 
+
+#### Adana kala (the period with lesser strength) and visarga kala (the period with good strength)
+
+In visarga kala (period of emission) the wind is not as dry as it is in adana kala. In this visarga kala the power of moon is dominant (as it is nearer to the earth), and it continuously replenishes/delights the world with its cooling rays. Hence, visarga kala is inherently soothing (saumya). 
+
+Contrary to this, adana kala is inherently hot (agneya). The Sun, wind and the Moon all are governed by time, and the path they follow in a year is responsible for different variations of kala (time), ritu (seasons), rasa (tastes), dosha and deha bala (body strength).[5] 
+
+#### Effect of adana kala
+
+In adana kala the Sun with its hot rays absorbs moisture from the environment. The excessively dry wind by virtue of its absorbing quality further causes dryness in shishira, vasanta, and grishma seasons progressively, leading to the predominance of tikta, kashaya, and katu rasa respectively and gradual increase of weakness in human beings during these three seasons. [6] 
+
+#### Effect of visarga kala
+
+In varsha, sharad and hemanta ritu, the Sun is situated in southwards position and its heat slackens due to the effect of time, its position with respect to the Earth, clouds, wind and rain. The power of the Moon is predominant. Rainwater diminishes the heating effect of nature. All of these lead to the predominance of non-dry, amla (sour), lavana (salty), and madhura (sweet) rasa respectively and gradual increase of body strength in human beings during these three seasons. [7] 
+
+#### Seasonal variation in strength
+
+In the beginning of visarga kala and at the end of adana kala, human beings on the Earth experience weakness. In the middle of these two periods, humans possess medium strength. At the end of the visarga kala and at the beginning of adana kala the strength in human beings is maximum. [8] 
+
+### Diet and lifestyle guidelines in Hemanta ritu (Winter season)
+
+#### Status of agni
+
+During sheeta kala (hemanta) due to the contact of cold wind, the agni (digestive power) of strong/healthy individuals gets trapped in the body (like in a closed chamber) and becomes strong or powerful enough to digest food that is inherently heavy and excess in quantity. [9] 
+
+If adequate food is not made available to the body, then this increased agni consumes/absorbs the rasa(the intrinsic fluids of the body). Vata having sheeta (cold) property gets vitiated in this cold season.[10] 
+
+#### Diet and beverages in winter season
+
+In the period of snowfall, unctuous, sour and salty food items should be consumed predominantly. Meat of fatty, aquatic and marshy animals should be taken. Meat of burrowing animals and roasted meat of animals that eat by snatching the prey should be consumed and after that drinking of madira and sidhu type of wines and honey is advised. [11-12] 
+
+A person who is habituated to consuming milk products, cane sugar products, fats and oils, new rice and warm water during hemanta ritu, never sees his lifespan decrease ( i.e. these help in prevention from early aging and diseases). [13] 
+
+#### Lifestyle in winter season
+
+In hemanta ritu,abhyanga (massage), utsadana (anointing), murdhni taila (applying oil on the head), fomentation by jentaka (a type of fomentation/sudation) method, sunbath, spending time in hot underground houses and warmer, inner rooms of the house is indicated. [14] 
+
+In winter season, vehicles, beds and seats should be well covered and spread over with thick quilts, deer or tiger skins, silken sheets, gunny-cloth sheets or blankets. [15] 
+
+#### Guidelines for sexual health
+
+In the winter season, one should always wear thick and warm clothes and the body should be anointed with thick paste of aguru (Aquilaria agallocha Roxb) (eagle-wood). A man who has strong passion should sleep in the bed at night embracing a healthy woman having well developed, plump breasts and herself anointed with the paste of aguru. One may indeed indulge in sexual intercourse up to full satisfaction. [16-17] 
+
+#### Contra-indications in winter season
+
+At the advent of winter season intake of food and drinks that cause vata vitiation and inherently light to digest in property, (getting exposed to) strong winds, inadequate quantities of food, and intake of diluted gruel are contraindicated. [18] 
+
+### Diet and lifestyle guidelines in shishira ritu (late winter)
+
+#### Characteristics of shishira ritu
+
+Hemanta and shishira seasons are almost similar in characteristics with some specific features in shishira ritu. In this season, due to the onset of adana kala, dryness increases and due to clouds, winds and rain, cold prevails. [19] 
+
+#### Additional care in late winter season
+
+Therefore, the whole regimen advised for hemanta should also be followed in shishira ritu. In addition to that, one should specially stay in less windy and warm shelters (homes). [20] 
+
+#### Contra-indication in late winter
+
+In the shishira season, food and drinks that are predominantly pungent, bitter and astringent in taste, vata vitiating, and inherently light to digest and cold in properties should be avoided. [21] 
+
+### Diet and lifestyle guidelines in vasanta ritu (spring season)
+
+#### Status of agni in spring
+
+Shleshma accumulated in hemanta ritu gets liquefied by hot rays of the Sun in vasanta ritu, which in turn disturbs/decreases the digestive power and ultimately causes many diseases. [22] 
+
+#### Indications and contra-indications in spring
+
+Therefore in vasanta season the purification procedures like vamana ( therapeutic emesis) and others should be done. One should avoid heavy to digest, sour, unctuous and sweet food items and should not sleep during the daytime. [23] 
+
+In kusumagama kala (at the advent of spring) when flowers blossom (vasanta) one should regularly resort to physical exercise, dry massage, medicated smoking, gargling, and collyrium. Bathing and cleaning of excretory orifices should be done with lukewarm water. [24] 
+
+A person should apply the paste of chandana (Santalum album Linn) and aguru (Aquilaria agallocha Roxb) (eagle-wood) on the body. One should take food made up of barley and wheat, meat of sharabha (wapiti), shasha (rabbit), ena (antelope), lava (common quail) and kapinjala (grey partridge). [25] 
+
+One should drink clean alcoholic drinks like sidhu and madhvika (types of wine preparations) in vasanta and enjoy the youthfulness of women and of gardens. [26] 
+
+### Diet and lifestyle guidelines in grishma ritu (summer season)
+
+#### Effect of excess Sun-heat in summer
+
+In grishma ritu (summer season), the Sun , by its rays, excessively dries up the environment. So, in this season, food and drinks having sweet, cold, liquid and unctuous qualities are considered wholesome. [27] 
+
+#### Diet and beverages in summer
+
+In summer season, any individual taking cold and sweet mantha (a type of liquid diet), meat of wild animals and birds, ghee and milk with shali rice (Oryza sativa Linn) does not become weak (i.e., does not suffer from diseases). [28] 
+
+#### Contra-indications in summer
+
+Alcoholic beverages should be consumed in little quantities or should not be consumed at all, or if taken, should be diluted with plenty of water. One should not consume salty, sour, pungent and hot food, and physical exercise should be avoided. [29] 
+
+#### Lifestyle in summer
+
+During daytime, one should sleep in a cool shelter and during night after applying the paste of chandana (Santalum album Linn) on the body sleep in the airy roof/terrace of the house which is cooled by the Moon-rays. [30] 
+
+One should be seated on a surface decorated with pearl and gems and make use of a fan and touching by soft hands, both cooled with sandal water. [31] 
+
+In Summer, one should enjoy the coolness of gardens, cold water and flowers, and should abstain from sexual intercourse. [32] 
+
+### Diet and lifestyle guidelines in Varsha ritu (rainy season)
+
+#### Status of agni in rainy season
+
+In a weak body, during the period of dehydration, agni is also weak, and deteriorates further due to vitiated vata and other dosha during rainy season. [33] 
+
+In this season, due to evaporating vapors from the Earth, rainfall and acidic transformation of water, the agni is weakened, thus leading to the further vitiation of vata and other dosha. [34] 
+
+#### Indications and contra-indications in rainy season
+
+Hence, in rainy season all basic rules regarding diet and lifestyle are advised to balance all three dosha. One should avoid diluted mantha(excess liquid diet) , sleeping during the day, exposure to dew, river water, physical exercise, sun rays and sexual intercourse in this season. One should use food and drinks mostly added with honey in small quantity to pacify the kleda (moisture) of rainy season. [35-36] 
+
+#### Specific diet in rainy season
+
+In the rainy season when the days are cooler due to wind and rain, one should predominantly take sour, salty and unctuous food to alleviate vata. [37] 
+
+A person taking care of his agni should consume old barley; wheat and shali rice (Oryza sativa Linn) along with meat of wild animals and processed soup. [38] 
+
+Whenever madhvika or other fermented liquors and water are consumed, they should be mixed with a little amount of honey. Rain water or water from wells or ponds should be properly boiled and cooled. [39] 
+
+#### Lifestyle in rainy season
+
+In the rainy season, one should practice pragharsha (friction massage), udwartana (dry massage), snana (bath), use of fragrance, garlands, wearing light and clean clothes and should reside in the place which is free from humidity. [40] 
+
+### Diet and lifestyle guidelines in sharada ritu (autumn season)
+
+#### Status of pitta dosha in autumn season
+
+When a body habituated to cold and rain is suddenly subjected to the heat of sun-rays in the sharada (autumn) season, the accumulated pitta dosha in the body often gets aggravated. [41] 
+
+#### Specific diet for pacification of pitta dosha
+
+In this season food and drinks predominantly of sweet, light, cold and slightly bitter qualities and having pitta alleviating properties should be taken in proper quantity, only when there is good appetite. [42] 
+
+In ghanatyaya (sharada ritu), the meat of lava (common quail), kapinjala (grey partridge), ena (antelope), urabhra (sheep), sharabha (wapiti) and shasha (rabbit), shali rice (Oryza sativa Linn), barley and wheat should be taken. [43] 
+
+In sharada, whenever the rain clouds disappear, the intake of tikta ghee (ghee medicated with bitter items), use of purgatives, and blood-letting are indicated. [44] 
+
+#### Contra-indications in autumn season
+
+In this season exposure to Sun, intake of muscle fats and oils, exposure to dew, meat of aquatic and marshy animals, alkaline preparations, and curd are contraindicated. One should not sleep during daytime and restrict exposure to easterly wind. [45] 
+
+#### Hamsodaka (pure water)
+
+Water naturally heated with sunrays during daytime and cooled with moon rays during night, well purified by the course of time and detoxified by the effects of Agastya (the star Canopus) is called Hamsodaka.This is available during sharada and is clean and clear. This water is beneficial as nectar when used for the purpose of bathing and drinking. [46-47] 
+
+#### Lifestyle during autumn season
+
+In sharada ritu, garlands of seasonal flowers, clean clothes (apparels), and exposure to moon-rays in early nights are very beneficial. [48] 
+
+### Okasatmya(acquired adaptation or habituation)
+
+In this way, we discussed about seasonal adaptations with respect to activities and diet. 
+
+If any diet and lifestyle become suitable to the body by its regular/habitual use then it is called okasatmya (acquired adaptation or habituation). [49] 
+
+Experts of the principles of satmya (adaptation) consider that diet and lifestyle opposite to the qualities of the habitat of the individual and of the causative factors of the diseases prevalent in the location, can be adapted to (preserve health). [50] 
+
+### Summary
+
+There is the verse: In this chapter of seasonal regimen of diet and lifestyle, general principles with respect to dietary habits and activities suitable to specific seasons, along with the principles of satmya (adaptation) have been described. [51] 
+
+Thus the sixth chapter entitled Tasyashiteeya (Seasonal regimen of diet and lifestyle) of Sutra Sthana is completed, in the treatise compiled by Agnivesha and revised by Charak. 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * The strength of a person varies according to seasonal changes. The dosha undergo physiological variations as per change in season and surroundings. In order to maintain equilibrium and sustain health, a person should change his diet and lifestyle according to the season.
+ * Human beings function like a microcosm of the universe and the physiological changes are predominantly affected by the changes in macrocosm e.g, geothermal changes due to the Sun or the effects of the Moon and other celestial bodies. The rotation of the Earth around the Sun and rotation of Moon around the Earth result in changes in season. The Sun is responsible for temperature variations on Earth and this leads to changes in the physical and mental strength of microcosm.
+
+The effect of seasonal variations on an individual’s physiological strength are as follows: 
+
+These effects of seasonal variations on bala should be factored in while planning any dietary or preventive healthcare program for any individual. 
+
+ * The states of dosha as per seasonal changes are as follows:
+
+ * One should follow the diet and lifestyle with opposite properties of the place of residence and seasons in order to preserve health and prevent diseases.
+
+## Vidhi vimarsha (Applied Inferences)
+
+### Division of samvatsara (year) and ritu

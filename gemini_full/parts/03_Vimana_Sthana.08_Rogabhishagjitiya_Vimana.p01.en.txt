@@ -1,0 +1,280 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Aspects of medical education
+ * 2.1.1 Selection of medical treatise
+ * 2.1.2 Search of ideal preceptor
+ * 2.1.3 Means of learning in medical science
+ * 2.1.4 Method of study
+ * 2.1.5 Characteristics of ideal student and method of teaching
+ * 2.1.6 Commencement of academic session/teaching
+ * 2.1.7 Code of conduct for medical student and professional
+ * 2.2 Organization of discussion meetings
+ * 2.2.1 Method of conducting discussion in seminars and symposia of experts
+ * 2.2.2 Two types of discussions
+ * 2.2.3 Friendly discussion
+ * 2.2.4 Hostile discussion
+ * 2.2.5 Three categories of opponent
+ * 2.2.6 Types of assembly
+ * 2.2.7 Summary of discussion technique
+ * 2.2.8 Guidelines for preparation before initiation and recording the debate
+ * 2.3 Terms for debate
+ * 2.3.1 1\. _Vada_ (debate)
+ * 2.3.2 2-7: _Dravya_ to _Samavaya_
+ * 2.3.3 8\. _Pratijna_ (proposition)
+ * 2.3.4 9\. _Sthapana_ (establishment)
+ * 2.3.5 10\. _Pratishthapana_ (counter-assertion)
+ * 2.3.6 11\. Hetu (cause)
+ * 2.3.7 12\. _Drishtanta_ (instance)
+ * 2.3.8 13-14. _Upanaya_ (correlation) and _Nigamana_(conclusion)
+ * 2.3.9 15\. _Uttara_ (rejoinder)
+ * 2.3.10 16\. _Siddhanta_ (theory/doctrine)
+ * 2.3.11 17\. _Shabda_ (word/correct expression)
+ * 2.3.12 18\. _Pratyaksha_ (direct perception)
+ * 2.3.13 19\. _Anumana_ (inference)
+ * 2.3.14 20\. _Aitihya_ (traditional instruction)
+ * 2.3.15 21._Aupamya_ (analogy)
+ * 2.3.16 22\. _Samshayah_ (uncertainity)
+ * 2.3.17 23\. _Prayojana_ (purpose or intention)
+ * 2.3.18 24\. _Savyabhichara_ (incompatible argument)
+ * 2.3.19 25\. _Jijnasa_ (examination)
+ * 2.3.20 26\. _Vyavasaya_ (resolution)
+ * 2.3.21 27\. _Arthaprapti_ ( attainment of meaning)
+ * 2.3.22 28\. _Sambhava_ (source)
+ * 2.3.23 29\. _Anuyojya_ (censurable)
+ * 2.3.24 30\. _Ananuyojya_ (incensurable)
+ * 2.3.25 31\. _Anuyoga_ (query with example)
+ * 2.3.26 32\. _Pratyanuyoga_(counter-question)
+ * 2.3.27 33\. _Vakyadosha_ (syntactical defects)
+ * 2.3.28 34._Vakyaprashamsa_ (syntactical excellence)
+ * 2.3.29 35\. _Chhala_ (knavery)
+ * 2.3.30 36\. _Ahetu_ (fallacious reason)
+ * 2.3.31 37\. _Atitakala_ (delayed performance)
+ * 2.3.32 38\. _Upalambha_ (pointing defects in causality)
+ * 2.3.33 39\. _Parihara_ (refuting defects)
+ * 2.3.34 40\. _Pratijnahani_ (change of proposition)
+ * 2.3.35 41\. _Abhyanujna_ (acceptance)
+ * 2.3.36 42\. _Hetvantara_ (change in statement of cause)
+ * 2.3.37 43\. _Arthantara_ (statement of irrelevant meaning)
+ * 2.3.38 44._Nigrahasthana_ (stage of defeat and its reasons)
+ * 2.4 Importance of debate
+ * 2.5 Ten means of knowledge for physician
+ * 2.5.1 _Karana_ (cause or doer)
+ * 2.5.2 _Karana_ (means or equipments)
+ * 2.5.3 _Karyayoni_ (source)
+ * 2.5.4 _Karya_ (action)
+ * 2.5.5 _Karyaphala_ (expected outcome)
+ * 2.5.6 _Anubandha_(consequence)
+ * 2.5.7 _Desha_(place)
+ * 2.5.8 _Kala_ (time required for transformation)
+ * 2.5.9 _Pravritti_ (consistent efforts)
+ * 2.5.10 _Upaya_ (means of successful management)
+ * 2.6 Importance of ten fold examinations
+ * 2.6.1 Questions for discussion
+ * 2.6.2 Types of examinations
+ * 2.7 Ten factors for examination in therapeutics
+ * 2.7.1 Assessment of physician and qualities of good physician
+ * 2.7.2 Assessment of medicine and categories
+ * 2.7.3 Assessment of disequilibrium of dhatu
+ * 2.7.4 Assessment of equilibrium of dhatu
+ * 2.7.5 Outcome of therapeutic management
+ * 2.7.6 Consequence of therapeutic management
+ * 2.7.7 Field of action and its assessment
+ * 2.7.8 Examination of patient
+ * 2.7.9 _Prakriti pariksha_ (Assessment of basic constitution of patient)
+ * 2.7.9.1 Characteristics of _kapha prakriti_
+ * 2.7.9.2 Characteristics of _pitta prakriti_
+ * 2.7.9.3 Characteristics of vata prakriti
+ * 2.7.10 Assessment of _vikriti_ (disorder)
+ * 2.7.11 Assessment of _sara_ (best qualities of body tissues)
+ * 2.7.11.1 Characteristics of _twak sara_ (best quality of skin)
+ * 2.7.11.2 Characteristics of rakta dhatu sara (best quality of blood tissue)
+ * 2.7.11.3 Characteristics of mamsa dhatu sara (best quality of muscular tissue)
+ * 2.7.11.4 Characteristics of meda dhatu sara (best quality of lipid tissues)
+ * 2.7.11.5 Characteristics of asthi dhatu sara(best quality of bone)
+ * 2.7.11.6 Characteristics of majja dhatu sara(best quality of bone marrow tissue)
+ * 2.7.11.7 Characteristics of shukra dhatu sara(best quality of reproductive tissues)
+ * 2.7.11.8 Characteristics of _sattva sara_ (best quality of mind)
+ * 2.7.11.9 Characteristics of _sarva sara_ (best quality of all tissues)
+ * 2.7.11.10 Characteristics of _Asara_ (no/low quality of tissues)
+ * 2.7.11.11 Characteristics of _madhya sara_(moderate quality of tissues)
+ * 2.7.12 Assessment of _samhanana_ (compactness)
+ * 2.7.13 Assessment of _pramana_ (proportion and measurements)
+ * 2.7.14 Assessment of satmya (suitability)
+ * 2.7.15 Assessment of _Sattva_ (psyche/mental strength)
+ * 2.7.16 Assessment of _aharashakti_ (power of assimilation)
+ * 2.7.17 Assessment of _vyayamashakti_ (exercise capacity)
+ * 2.7.18 Assessment of _vaya_ (age)
+ * 2.7.18.1 Knowledge of lifespan
+ * 2.7.19 Assessment of _Kala_ (time or stage or season)
+ * 2.7.20 Appropriate season for purification therapies
+ * 2.7.21 Stage of disease
+ * 2.7.22 _Pravritti_ (inclination or action)
+ * 2.7.23 _Upaya_ (management)
+ * 2.7.24 Objective of examination
+ * 2.7.25 List of medicines used in therapeutic emesis
+ * 2.7.26 List of medicines used in therapeutic purgation
+ * 2.7.27 List of medicines used in therapeutic non-unctuous enema
+ * 2.7.28 _Madhura skandha_ (group of sweet drugs)
+ * 2.7.29 _Amla skandha_ (group of sour drugs)
+ * 2.7.30 _Lavana skandha_ (group of salty drugs)
+ * 2.7.31 _Katu skandha_ (group of pungent drugs)
+ * 2.7.32 _Tikta skandha_ (group of bitter drugs)
+ * 2.7.33 _Kashaya skandha_ (group of astringent drugs)
+ * 2.7.34 Guidelines for inclusion or exclusion of drugs
+ * 2.7.35 List of drugs for unctuous enema
+ * 2.7.36 List of drugs for nasal errhines
+ * 2.8 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Selection of medical treatise (Shastra)
+ * 4.2 Ideal presentation of text
+ * 4.3 Qualities of a teacher
+ * 4.4 Qualities of an ideal student
+ * 4.5 Medical ethics and social behaviors of a doctor
+ * 4.6 Conferences (acquiring cumulative wisdom)
+ * 4.7 Examination of patient
+ * 4.8 Prakriti examination
+ * 4.9 Sara examination
+ * 4.10 Satmya (suitability)
+ * 4.11 The ideal time for purification procedures
+ * 4.12 Examination of stage of disease
+ * 4.13 Examination of psyche of patient
+ * 4.14 Assessment of ahara shakti (intake capacity)
+ * 4.15 Assessment of vyayama shakti (exercise endurance capacity)
+ * 5 Related articles
+ * 5.1 Reference books for further reading
+
+## Introduction
+
+The preceding chapter Vyadhita Rupiya Vimana the seventh chapter dealt with knowledge of diseased person. The present chapter guides an aspiring student who wishes to be a successful physician. It is important to know the scope, depth and reputation of the branch of health science to be studied which is obtained by _shastra pariksha_ (review of literature). Secondly, the examination of the preceptor (_acharya_) who teaches the science of Ayurveda is important because it is he, who enlightens the students with the knowledge of the health science. The chapter further deals with means of learning of health sciences (_shastra upaya_), methodology of study (_adhyayana vidhi_) and teaching (_adhyapana_) along with when and how to begin academic session and Do’s and Dont’s by the student have been explained so that a student attains the depth of knowledge about the health science. It also details about medical ethics while in practice and guidelines for behaviour of doctor at a patient’s house. 
+
+Along with study (_adhyayana_) and teaching (_adhyapana_) it is the seminar and symposia of experts (_tadvidya sambhasha_) which is essential to improve the quality of knowledge. Types of seminar/symposium, possible types of attendees, how to deal with them for most benefit and rules are mentioned. The description addresses essential information about discussion at a symposium. Those are: when to discuss? where to discuss? what to discuss? how to discuss? and what will be the final conclusion? 
+
+The methodology of discussion to be done with the types of assembly. During unfriendly discussion (_vigrihya_) 44 terms such as _vada_ etc. are worth knowing for the course of discussion among physician. These _vada marga_ not only help in winning discussion but improves knowledge and enhances the thinking. 
+
+Similarly, for the physician to improve his medical knowledge _karana_ , (reasoning/doer) _karana_ (knowledge of means), _karyayoni_ (objective), _karya_ (action), _karyaphala_ (attainment of objective and happiness), _anubandha_ (after effect), _desha_ (habitat/patient), _kala_ (year and phase of disease), _pravritti_ (initiation of therapy) and _upaya_ (proper management) are necessary. 
+
+Complete knowledge of patient’s condition is required before starting the treatment, which is done by tenfold examination. The specific investigations to be considered are _desha_ (place-habitat and patient’s body), prakriti and _vikriti_ according to dosha, _sara_ (essence of body tissues), compactness, structure and body mass, measurement of body parts, specific suitability of a person, _sattva_ (mental status), power of digestion and assimilation, exercise endurance and age. 
+
+Seven types of Prakriti and their features are explained to understand normal state of body, whereas the pathological condition is termed as _vikriti_. These factors help the physician to classify the strength of the patient into three categories viz. superior (_pravar_), medium (_madhya_) and inferior (_avar_). It is on this basis that physician decides to give strong (_tikshna_), mild (_mridu_) and moderate (_madhya_) medicaments. The appropriate time for purification therapies is explained with reasoning. Similarly, medicine should be given at appropriate time to the patient (_kala_) and when not to be given (_akala_). Lastly initiation of therapy (_pravritti_) and excellance of physician etc. _chatuspada_ (_upaya_) have been explained. 
+
+All the above ten examinations help in deciding the actual and specific treatment like vamana, virechana, asthapana, anuvasana and _shirovirechana_. Therefore, in the concluding part of the chapter drugs useful for vamana and virechana have been enlisted. In case of _asthapana_ as per the condition of patient and disease the drug classification can be innumerable therefore to prevent the _ativistara_ (prolonged deliberation/expansion). Drugs are classified on the basis of _rasa_ into six groups for example _madhura rasa_ drugs having _madhura vipaka_ and _madhur prabhava_ are classified into _madhur skanda_ so is the case with other five _rasa_. The physician has been given freedom to permutate and combine drugs as per requirement in patient and its availability. 
+
+The same _asthapana gana_ (group of drugs for non-unctuous enema) can be fortified with specific _sneha_ as per dosha and be administered as _anuvasana_. _Taila_ for vata, vasa and majja for kapha and _ghrita_ for pitta. Lastly drugs useful in _shirovirechana_ have been explained along with the part of the plant (flower, fruit, bark etc.) to be used. 
+
+For the purpose of accurate diagnosis and treatment one must have complete knowledge for which this chapter is designed. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Rogabhishagjitiya Vimana" (Methods of conquering debate and disease). Thus said Lord Atreya. [1-2] 
+
+### Aspects of medical education
+
+#### Selection of medical treatise
+
+The shrewd who wishes to be a physician, first of all, should analyze his own strength and weakness in profession, the after-impacts of his profession, his inclination, habitat and favourable time (age of learning) and thenafter wisely search for a medical treatise. Different medical treatises (and traditions) are available in society, from which one might select that has following characters: 
+
+ * which is comprehensive providing all information
+ * successful, followed by prominent and wise men(successful practitioners),
+ * with detailed meanings
+ * regarded by authorities,
+ * useful to all three types of learners ( with good, moderate and poor intellect),
+ * free from the deformity of reiteration,
+ * descending from the sages (which is written by experienced, intuitive person),
+ * with well- formed presentation, discussion and conclusion,
+ * having informative title and firm base free from weak and difficult words,
+ * having comprehensive knowledge of subject
+ * with proper sequencing of its contents
+ * committed principally to arriving at the essence of thoughts, which reveals clear meanings and concrete conclusion
+ * focused on the particular subject without wavering ideas and irrelevant content,
+ * quickly understandable with separated topics, effectively comprehensible, and having definitions showed with examples.
+
+Such treatise with pure knowledge is similar to sun which enlightens the whole subject while warding off the darkness. [3] 
+
+#### Search of ideal preceptor
+
+Thereafter one should search a preceptor to guide who 
+
+ * have clear knowledge of the subject and practical experience,
+ * be diligent, dexterous, virtuous, with skilled hand,
+ * well equipped, possessing all the senses in normal condition,
+ * acquainted with constitutions, well- versed in courses of emergency management and quick actions,
+ * having his knowledge uncensured,
+ * free from ego, envy, anger, forbearing,
+ * paternal to disciples,
+ * having characteristics of a good teacher and fit for imbue understanding.
+
+The teacher holding such qualities quickly inculcates physician’s qualities in his disciple as the seasonal cloud furnishes good crop in a suitable land. [4] 
+
+#### Means of learning in medical science
+
+The student desirous of learning from such an ideal preceptor, should sincerely follow him as like worshipping fire, god, king, father and guardian. Subsequently after satisfactorily gaining knowledge of whole medical treatise, the student should always continually attempt to improve further depth of knowledge, understand the (hidden) precise meanings, gain more scientific knowledge, express it impressively with comprehension of ideas and power of speaking. [5] 
+
+The means for enhancing depth of knowledge are- study, teaching and discussion with authorities. [6] 
+
+#### Method of study
+
+One desirous of study with a calm mind and at a proper time, should get up early in the morning. After passing the natural urges and cleaning body (as per daily schedule), should do the spiritual rituals like sprinkling water, worshiping gods, sages, cow, _brahmana_ , preceptors, elders, accomplished persons and the teacher. Then sitting comfortably on even and clean ground should present the aphorisms in order as learnt from teacher with clear voice attentively repeating it over and over. At the same time, he should think about the meaning and principle to get rid off his own defects and to know others' defects. In this way, he should proceed the study without squandering time in midday, afternoon, and night. This is the method of study. [7] 
+
+#### Characteristics of ideal student and method of teaching
+
+Now following is the method of teaching: The teacher, having decided to teach should, first of all examine the ideal disciple with following characteristics: 
+
+ * should be very calm, with superior qualities,
+ * not involved in mean acts,
+ * with straight eyes, mouth and nasal edge (without any defect in eyes, nose and mouth);
+ * having thin, red and clear tongue; with no abnormality in teeth and lips, not talking with nasal utterance,
+ * having forebearance, without vanity, intelligent, endowed with logical reasoning and memory,
+ * broad minded,
+ * born in a family of physicians or aware with the conduct and behavior of physicians
+ * desirous of gaining scientific knowledge
+ * without any physical deformity or disability of senses,
+ * humble, keeping the knowledge safely, un-haughty,
+ * having capacity to comprehend essence of the ideas,
+ * without anger and addictions,
+ * endowed with modesty, purity, good conduct, affection, dexterity and sincerity, interested in study,
+ * dedicated to comprehension of ideas and practical knowledge without any distraction,
+ * having no greed or idleness, empathetic to all creatures,
+ * following all the instructions of the teacher and being attached to his teacher.[8]
+
+#### Commencement of academic session/teaching
+
+When such a disciple with desire of study and feeling of commitment approaches the teacher, then teacher should address the student as- “when the sun is in the northernly course and during the full moon phase, on propitious day the benevolent lord moon having conjunction with one of the _tishya_ (_pushya_), _hasta, shravana_ and _ashvayuja_ constellations in _kalyanekarana_ and _maitramuhurta_ come with shaved head, after following fast, had bath, wearing ochre-colored clothes and sacred thread and with fragrance sacred fire wood, fire, ghee, means of besmearing (cow-dung etc.), water jars, garland, rope, lamp, vessels of gold, silver, jewels, pearls, corals, silken cloth and sticks for edge of the sacrificial ground, holy grass, fried paddy, mustard seeds, barley grains, white-flowers, with or without strung, eatables increasing memory power and paste of fragrant wood.”[9] 
+
+The student should follow instructions of preceptor. [10] 
+
+Knowing that the student has come, the preceptor should make rectangular platform measuring four cubits and sloping eastward or northward, in an even and pure place. This ought to be spread with cow-dung, covered with sacred grass and bound on borders with _paridhi_. Further it ought to be equipped with the said articles, for example sandal, water jar, silken garment, gold, golden vessel, silver, jewel, pearl and coral and beautified with eatables increasing memory power, aromas, white flowers, fried paddy, mustard and barley grains. Then attending to the fire with the fuel-sticks made of _palash, ingudi, udumbara, madhuka_ while in pure condition and facing eastward, as recommended under the method of study, he should offer oblations of honey and ghee to the fire reciting benedictory mantras first invoking Brahma, Agni, Dhanwantari, Prajapati, Ashvinis, Indra and various sages, the authors of the aphorism and ending with _svaaha_ three times each.[11] 
+
+The disciple should follow him. After offering oblations he should go round the fire keeping it to the right side, than _brahmanas_ should recite _svasti_. At the end, he should pay regards to the physicians in the society. [12] 
+
+#### Code of conduct for medical student and professional
+
+Now the teacher should instruct the student in presence of sacred fire, brahmanas and physicians, 
+
+ * “You shall follow abstinence, keep beard and mustaches,
+ * speak truth only,
+ * shall not eat meat,
+ * follow pure and intellectual functions,
+ * do things without jealousy and weapons.
+ * You should always follow my (teacher’s) instructions except in case they lead to king’s wrath, end of life, great unrighteousness and other such calamity.
+ * You should always entrust me, see me as head, be submissive to me and follow the course which is liked by and advantageous to me. You should live with me behaving as son, servant and suppliant.
+ * You should live with modesty, alertness, with focused mind, humbleness and constant vigilance about work, without seeing defect in other’s qualities, and not leave without my permission.
+ * When permitted to move out, you should first make effort as far as possible to furnish things told by the teacher.
+ * When you join the medical profession and wish success in work(treating patients), in purposes of life (_purushartha_ like _dharma, artha,_ _kama_ and _moksha_), fame and heaven after death then you should always pray for the welfare of cow, _brahmana_ and all the living creatures.
+ * You should try to furnish health to the patients and all creatures by all means.
+ * You should not hate the patients even at your daily expenses (even if the poor patient is not able to pay your fees).
+ * You should not think bad about other women and any other’s property even in imagination.
+ * Your dress and accessories should be modest.
+ * You should not be addicted to alcohol, indulged in sins and accompanied by sinners;
+ * You should be soft spoken, talking flawless, righteous, blissful, thankful, truthful, useful and measured statements keeping in mind place and season or time. with good remembrance, striving constantly for knowledge, progress and excellence of equipment (medicines etc.).
+ * You should not treat the persons disliked by the king (thieves etc.) or disliking the king (rebellions), disliked by good persons or disliking them and all those who are excessively diseased, wicked; having troublesome conduct, behavior and management, have never counteracted their censors and one nearing death;
+ * You should not treat the women in absence of their husbands or guardians, you should not accept meat provided by the women without permission of their husband or guardian.
+ * At the time of entering into the patient's house you should take along a known individual whose entrance is allowed; should be well-dressed, with head lowered, having good memory, with stability, thinking deliberately and moving as needs be; having entered there, you should never engage your speech, mind and sense organs any place except the patient, his well-being and other entities of the patient's body respectively. The matters of the patient's house should never be revealed outside, in spite of the fact that you know the diminution in life-span of the patient, you should not specify it where it is liable to cause harm to the patient or others. Even though you are learned enough you should not boast too much for your knowledge because mostly the people become anxious for the excessive boasting even it comes from an authority. [13]
+
+There is no limit for knowing the science of life i.e. Ayurveda. Therefore, one should dedicate himself to it (i.e., study Ayurveda) continuously and without any carelessness. This is worth-doing and to be followed. 
+
+Further one should keep good behavior with everyone, without pointing the defect in other’s qualities. Because for the wise the whole world is a teacher, while for the unwise it is enemy. Consequently, the wise, after due consideration, should follow the advice which is prosperous, promoting fame, life-span, strength and useful to the society even if it comes from an enemy. 
+
+After that he (the teacher) should speak this, “You should always behave properly (worship) to gods, fire, _brahmanas_ , preceptors, elders, accomplished ones and teacher, thus this fire along with all the perfumes, eatables, gem, grins and aforesaid gods would bless you with prosperity, and if you behave in opposite manner they would curse you. When the teacher has said like this, the disciple should say ‘Yes’ (will behave similarly). 

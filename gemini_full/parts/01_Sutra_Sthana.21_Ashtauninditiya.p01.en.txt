@@ -1,0 +1,170 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, transliteration and english translation
+ * 2.1 Eight undesirable physical appearances
+ * 2.2 Obesity and leanness
+ * 2.2.1 Eight inherent sequelae of obesity
+ * 2.2.2 Pathophysiology of Obesity
+ * 2.2.3 Features of an excessively lean person
+ * 2.2.4 The importance of ideal body proportion
+ * 2.2.5 The best diet for obese and lean persons
+ * 2.2.6 Management of obesity
+ * 2.2.7 Management of leanness
+ * 2.3 Concept of Nidra (sleep)
+ * 2.3.1 Physiological mechanism of sleep
+ * 2.3.2 Benefits of sleep
+ * 2.3.3 Indications of daytime sleep
+ * 2.3.4 Consequences of improper daytime sleep
+ * 2.3.5 Qualities of day and night sleep
+ * 2.3.6 The importance of diet and sleep among the obese and the (excessively) lean
+ * 2.3.7 Sleep-promoting measures
+ * 2.3.8 Causes of insomnia
+ * 2.3.9 Origins and types of sleep
+ * 2.4 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha(Applied Inferences)
+ * 4.1 Morbid obesity
+ * 4.2 Increased desire to eat among the obese
+ * 4.3 Consequences of obesity
+ * 4.4 Etiology, features, and consequences of atikrisha (emaciation)
+ * 4.5 Management of the Morbidly Obese
+ * 4.6 Management of the emaciated/too lean
+ * 4.7 Concept of Sleep
+ * 4.7.1 Sleep regulation
+ * 4.7.2 Effects of sleep
+ * 4.7.3 Sleep about atisthula and atikrisha
+ * 4.7.4 Insomnia or sleeplessness
+ * 4.8 Conclusion
+ * 5 References
+
+## Introduction
+
+Charak has laid down the foundation of genetic/hereditary and endocrinal disorders in relation to four pairs of opposing (and undesirable) physical characteristics- height (too tall, too short), body hair (too hairy, hairless), complexion (too dark, too light), and body mass (too obese, too lean). Among these, atisthula (morbid obesity) is the most undesirable characteristic because it is associated with several life-threatening complications including diabetes, hypertension, coronary artery diseases, joint disorders, skin disorders, anorectal problems, etc. This chapter focuses on the features of a healthy physical constitution of a person, definitions of sleep, as well as key concepts associated with disease management such as etiopathogenesis, clinical presentation, prognosis, and management of atisthula. Some key etiological factors of atisthula include dietary and lifestyle indicators (e.g., sedentary habit and high-calorie diet), and genetic and hereditary factors. This chapter also describes the pathogenesis of atisthula in detail, involving rasa dhatu (plasma) and meda dhatu(adipose tissue) as important _dushyas_ (affected tissues). Modern medicine has acknowledged the role of meda dhatu (adipose tissue) as a principal _dushya_ , with obesity and dyslipidemia regarded as the main components of the basic matrix of this disease and its related disorders.[1] [2][3] The recent concept of “metabolic syndrome” was already recognized in Ayurveda. Biomedical science points that overweight individuals experience greatly elevated morbidity and mortality from various ailments including cardiovascular diseases.[4] [5]
+
+Obesity research is focused on preventive measures and management of complications like prediabetes, diabetes, metabolic syndrome, hypertension, stroke, coronary artery disease, congestive heart failure, cardiomyopathy, and arrhythmia/sudden death.[6]. In the modern world, obesity has emerged as a serious health issue in both developed and developing nations and is recognized as one of the most serious public health problems of the 21st century. In 2008 the WHO estimated that globally, at least 500 million adults (or approximately 1 in 10 adults) are obese, with higher rates among women than men. Obesity is the reason for about 80% of type 2 diabetes, about 70% of cardiovascular diseases, and 42% of breast and colon cancers today. In the past two decades, the number of overweight children and adolescents has doubled. [7] The rate of obesity also increases with age at least up to 50 or 60 years old. Once considered a problem specific to only high-income countries, obesity has acquired pandemic proportions and is affecting people globally.[8] [9]
+
+Any course of treatment for obesity suggested by modern medical practitioners primarily includes dietary changes and physical exercise followed by anti-obesity drugs that help reduce appetite or inhibit fat absorption. In severe cases, various invasive and non-invasive surgical procedures could be prescribed - such as partial gastrectomy, gastric bypass, banding, gastric balloons, etc.[10] However, Ayurveda’s approach to weight management is very different. Instead, Ayurveda advocates dietary restrictions according to the prakriti (basic constitution), moderate exercise, practice of yoga postures (yogasanas) and breathing exercises( pranayama), besides certain ayurvedic medications and bio-purificatory measures for its management.[11]
+
+The etiology, pathogenesis, clinical features and consequences of extreme leanness (atikrisha), as an outcome of decrease of rasa dhatu), meda dhatu, and mamsa dhatu have also been described in this chapter. The two basic approaches for management of atikrisha and atisthula are augmentation (brimhana) and depletion (karshana) of body tissues respectively. Various drug and non-drug modalities have been suggested for the replenishment of dhatu and their nourishment to attain good health. In this regard, Rasayana drugs help balance hormones, promote essential nutrition and enhance immunity to atisthula and atikrisha respectively. As mentioned earlier, this chapter also emphasizes the role of good nidra (sleep) in maintaining a healthy life. In fact, as per Ayurveda, after ahara (diet), nidra is one of the three sub-pillars of life (_trayopastambha_) and has a significant place in preventive medicine because normal sleep helps prevent diseases and unwholesome sleep may lead to fatal diseases. In Ayurveda, nidra is considered a brimhana (nourishing) agent that promotes physical and mental health and enhances immunity. [Cha.Sa.Sutra Sthana11/35] 
+
+## Sanskrit text, transliteration and english translation
+
+Now we shall expound the chapter "Ashtauninditiya" (Eight undesirable physical appearances). Thus said Lord Atreya [1-2] 
+
+### Eight undesirable physical appearances
+
+In the context of the body (structure and appearance), the following eight types of persons are considered undesirable - too tall, too short, too hairy, hairless, too dark, too light (complexioned), too obese and too lean [3] 
+
+### Obesity and leanness
+
+#### Eight inherent sequelae of obesity
+
+Amongst these, the too obese and too lean physical appearances are considered the most undesirable ones. The excessively obese have eight inherent defects in them: reduced lifespan, constricted or limited movement (hampered due to loose, tender and heavy fats), reduced sexual activities or impotence (due to small quantity of semen produced and obstruction of the channel of semen by meda dhatu), debility (due to dhatu imbalance), emit bad smell (due to the inherent nature of fatty tissues as well as excessive sweating), profuse sweating (since meda dhatu and kapha are vitiated), and excessive hunger and thirst (due to excessive digestive _agni_ and vayu in the body). Excessive obesity is caused due to over-nourishment as a consequence of the intake of a heavy, sweet, cold and fatty diet, lack of physical exercise, abstinence from sexual intercourse, sleeping during the day, uninterrupted cheerfulness, lack of mental activities, and hereditary/genetic defects. These consequences may lead to an excess of fat (with further accumulation of only fat) and consequent depletion of dhatu. [4] 
+
+#### Pathophysiology of Obesity
+
+Due to the obstruction of body channels by meda dhatu, the movement of vata is specially confined to _koshtha_ (abdominal viscera) resulting in the stimulation of digestive power and absorption of food. Hence,the person digests food quickly and becomes a voracious eater. By not following rules of taking meals at specific times during the day, he is afflicted by dreadful diseases. _Agni_ (pitta component responsible for digestion) and vata are the two most troublesome factors from the standpoint of obesity. These factors blight an obese person as wildfire destroys a forest. As the body gains excessive fat, vitiated dosha suddenly cause severe diseases resulting in rapid deterioration of life. The person is considered too obese when there is an excessive increase in fat and muscle tissue in the regions of buttocks, abdomen, and breasts, which become pendulous and suffer from deficient metabolism and energy. These are the causes, signs, and symptoms of an obese person [5-10] 
+
+#### Features of an excessively lean person
+
+Hereafter, the features of an excessively lean person will be explained by etiology, signs, symptoms and defects. Indulgence in the intake of dry (non-unctuous) diets and drinks, fasting, intake of food in inadequate quantity, overuse of therapeutic purificatory measures, grief, suppression of natural urges, inadequate sleep or sleep deprivation, dry powder massage, indulgence in baths, heredity, old age, continued illness and anger make a person too lean. 
+
+The excessively lean person does not tolerate physical exercise, intake of food in large quantities, hunger, thirst, diseases, and drugs. They also cannot tolerate too much cold, heat and sexual intercourse. Such a person is often associated with splenic diseases, cough, wasting, dyspnoea, gulma (abdominal tumor), piles, abdominal disorders and disorders of grahanі. The excessively lean person has dried up buttocks, abdomen and neck, the prominent vascular network is mostly “skin and bones” with thickened nodes [10-15] 
+
+Both these undesirable types of people (too obese and too lean) always suffer from some disease or the other and need to be constantly managed by bulk-reducing and bulk-promoting therapies respectively. Of the two, lean is less harmful than obese, and the physical and mental sufferings in the case of an obese person are far greater in comparison to a lean person [16-17] 
+
+#### The importance of ideal body proportion
+
+A person with a balanced proportion of muscles and compactness of the body and firmness in sense organs is not overcome by the onslaught of disorders. Such people can tolerate hunger, thirst, the heat of the sun, cold and physical exercise. Their digestion, assimilation of food and muscle metabolism is in a state of equilibrium. [18-19] 
+
+#### The best diet for obese and lean persons
+
+Heavy and non-nourishing (diet) therapy are prescribed for slimming in the case of the too obese, while for promoting the bulk of the too lean light and nourishing therapy is prescribed [20] 
+
+#### Management of obesity
+
+Food and drinks that alleviate vata and reduce kapha and meda dhatu (fat), enema with sharp, ununctuous and hot drugs, therapeutic powder massage, use of _guduchi_ (Tinospora cordifolia Miers), _musta_ (Cyperus rotundus Linn), _triphala_ (haritaki-Terminalia chebula Linn, _bibhitaka_(Terminalia belerica Roxb) and _amalaka_ (Emblica officinalis Gaertn), _takrarishta_ (a fermented medicinal preparation of buttermilk) and honey are recommended for the management of obesity. A formulation prepared from _vidanga_ (Embelia ribes Burm f.), _nagara_ (Zingiber officinale Rose), _yavakshara_ (alkali preparation of barley), ash powder of black iron along with honey, powder of _yava_ (Hordeum vulgarae Linn) and _amalaka_ (Emblica officinalis Gaertn) is also an excellent weight-loss drug. Similarly, _Bilvadi panchamula_ (five major roots) mixed with honey and shilajatu along with the juice of _agnimantha_ (Clerodendrum phlomidis Linn.f.) are also very effective preparations for weight-loss. 
+
+A diet consisting of _prashatika_ (Setaria italic Beauv.), _priyangu_ (Aglaia roxburghiana Mig.), _shyamaka_ (Echinochloa frumentaea Linn.), _yavaka_ (small variety of Hordeum vulgarae Linn), _yava_ (Hordeum vulgarae Linn), _jurnahva_ (Sorghum vulgare Linn), _kodrava_ (papalum scrobiculatum Linn.), _mudga_ (Phaseolus mungo Linn.), _kulattha_ (Dolichos biflorus Linn.), _chakramudgaka_ , _adhaki_ (Cajanus cajan Millsp.) along with _patola_ (Trichosanthes cucumerina Linn) and _amalaka_ (Emblica officinalis Gaertn) is very effective in tackling obesity and maintaining good health. Honey water and alcoholic preparations may be taken as postprandial drinks that help in reducing excessive fat and muscle tissues, while also alleviating kapha dosha. 
+
+One desirous of reducing obesity should indulge more and more in vigil, sexual activities, as well as physical and mental exercises [21-28] 
+
+#### Management of leanness
+
+Sleep, exhilaration, comfortable bed, contentment, relaxed mind, abstinence from anxiety, sexual act and physical exercise, cheerfulness, newly harvested cereals, fresh wine, meat soup of animals residing in domestic, marshy and aquatic areas, well-cooked and prepared meat, curd, ghee, milk, sugarcane, _shali_ rice, _masha_ (Phaseolus radiates Linn.), wheat and its products, jaggery and its products, enema consisting of unctuous and sweet drugs, regular oil massage, unctuous bath, use of fragrance and garlands, use of white dress, elimination of _doshas_ in due time and regular use of rejuvenating and aphrodisiac formulations to reduce excessive leanness and nourish the body. Besides, freedom from anxiety about any work, intake of nourishing diet and adequate sleep makes the man too obese like a pig [29-34] 
+
+### Concept of Nidra (sleep)
+
+#### Physiological mechanism of sleep
+
+An individual falls asleep when his mind including the sensory and motor organs get exhausted, and they dissociate themselves from their objects. [35] 
+
+#### Benefits of sleep
+
+In human beings, happiness and misery, nourishment and emaciation, strength and weakness, fertility and infertility, knowledge and ignorance, and longevity and death depend upon proper (and improper sleep). Untimely, excessive sleep and sleep deprivation take away both happiness and longevity from a person. Similarly, proper sleep brings about happiness and longevity in human beings just as real knowledge brings about spiritual power in yogis [36-38] 
+
+#### Indications of daytime sleep
+
+Sleeping during the day is advocated for those who are exhausted on account of singing, reading, alcoholic drinking, sexual intercourse, elimination therapy, carrying heavy weight, walking long distances, suffering from phthisis, wasting, thirst, diarrhea, colic pain, dyspnea, hiccup, insanity, or are too old, too young, weak and emaciated. It is also recommended for those who are injured by fall and assault or exhausted by travel-related stress, vigil, anger, grief, and fear. By this, equilibrium of dhatu and strength is maintained, and kapha nourishes the body parts and ensures longevity. In the summer season, nights become shorter, and vata gets provoked in the body in adana kala (seasons of low body strength, such as summer and rains) due to absorption of fluid. Therefore, during this period daytime sleeping is advocated for all. [39-43] 
+
+#### Consequences of improper daytime sleep
+
+Sleeping during daytime is contraindicated in the seasons other than summer because it causes vitiation of kapha and pitta. Persons having excessive fat, those who are addicted to fatty substances, having plenty of kapha, suffering from vitiated kapha related disorders, and those afflicted by latent poisons should never sleep during daytime. If one violated the given advice of sleeping during the day, he would subject himself to _halimaka_ (advance stage of jaundice), headache, cold, heaviness of body parts, malaise, loss of digestive power, _hridyopalepa_ (a feeling as if phlegm adhered to the heart), edema, anorexia, nausea, rhinitis, hemicranias, urticarial patches, pustules, boils, itching, drowsiness, coughing, disorders of the throat, impairment of memory and intelligence, obstruction of the body channels, fever, incapability of sensory and motor systems and enhancement of the toxic effects of poisons. So, one should keep in view the merits and demerits of sleep in various seasons and situations to stay happy and live long [44-49] 
+
+#### Qualities of day and night sleep
+
+Insomnia or staying up late at night causes roughness in the body and sleeping during the day causes _snigdhata_ (unctuousness). However, napping in sitting posture does not cause either roughness nor unctuousness [50] 
+
+#### The importance of diet and sleep among the obese and the (excessively) lean
+
+As wholesome diet is essential for the maintenance of the body, sleep is essential for happiness. Therefore, obesity and leanness are specifically caused by improper sleep and diet. [51] 
+
+#### Sleep-promoting measures
+
+If for some reason one suffers from sleeplessness, he can be cured by applying measures such as- body massages, unction, bath, (intake of) soup made up of meat of domestic, marshy and/or aquatic animals, _shali_ rice with curd, milk, fat, wine, mental pleasure, pleasant smell and sound, application of soothing ointment to eyes, head and face, comfortable bed and home, and getting habituated to sleeping at a particular time. [52-54] 
+
+#### Causes of insomnia
+
+Elimination of dosha from the body and the head through purgation and emesis, predominance of _sattva_ and suppression of _tamas_ , emotions such as fear, anxiety, and anger, habits and activities such as smoking, physical exercise, bloodletting, fasting, and environmental settings such as uncomfortable bed go a long way in overcoming excessive sleepiness/hypersomnolence. The above-mentioned factors, along with overwork, old age, _vatika_ diseases, _vatika_ constitution and aggravation of vata itself, are known to cause sleeplessness even in a normal individual. Some are insomniac even by nature. [55-57] 
+
+#### Origins and types of sleep
+
+Sleep is of seven types, categorized by its cause: _Tamas_ , vitiated kapha, mental exertion, physical exertion, exogenous factors, diseases, and normal (nighttime). [58] 
+
+Natural sleep (sleeping at night) is the best form of sleep. This is also known as _Bhutadhatri_ , or “that which nurses all the living beings." The form of sleep that is caused by _tamas_ is the cause of all sinful acts while the remaining types are observed in specific situations and ailments [59] 
+
+### Summary
+
+Now, the summing up verses – Acharya Punarvasu (Lord Atreya), the son of Atri, has explained the contents in the chapter on “eight types of undesirable constitutions” as given below: 
+
+ * Enumeration of undesirable constitutions.
+ * Two most undesirable types of persons.
+ * The causes of undesirability.
+ * Demerits of undesirable persons.
+ * Treatment of undesirable persons.
+ * Indications and contra-indications of sleep depend upon the nature of the individual and time.
+ * Causes and treatment of over-sleep and sleeplessness.
+ * Factors those are responsible for inducing good sleep.
+ * Types and effects of sleep [60-62]
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Eight types of the undesirable appearance of humans are: too tall, too short, too hairy, hairless, too dark, too light (complexioned), too obese and too lean. Too obese and too lean are the most undesirable of human appearances that are also more prone to various diseases. [3]
+ * Excessive obesity has eight inherent defects viz. decrease in longevity, hampered mobility, difficulty in sexual intercourse, debility, bad body odor, profuse sweating, excessive hunger, and excessive thirst. [4]
+ * Excessive obesity is caused by over-nourishment due to the intake of heavy, sweet, cold and fatty diet, lack of physical exercise, abstinence from sexual intercourse, indulgence in the day sleeping, uninterrupted cheerfulness, lack of mental activities and hereditary/genetic defects. [4]
+ * Obesity is a result of obstruction of channels by excess accumulated meda dhatu (fat). This deranges the movement of vata is specially confined to _koshtha_ (abdominal viscera) resulting in the stimulation and hastening of the digestive process through abnormally increased _agni_ (pitta). This leads to excessive hunger and thirst and the person eats more food to gain weight. An excessive increase in adipose tissue and vitiation of tridosha causes severe diseases in obese people. [5-8]
+ * Disproportionate increase of fat occurs mainly around buttocks, abdomen, and breasts, which become pendulous and the person suffers from improper metabolism and energy. [9]
+ * Indulgence in dry (non-unctuous) diets and drinks, fasting, inadequate diet, overuse of therapeutic purificatory measures, grief, suppression of natural urges, sleep deprivation, dry powder massage, indulgence in baths, heredity, old age, continued illness and anger make a person too lean. [11-12]
+ * Too lean and too obese persons are prone to suffering from various diseases and need constant treatment. [16]
+ * Being lean is better than being obese because the lean person responds well to nourishing treatment and balancing of the causative dosha (vata and pitta). On the contrary, reducing therapy and drugs used in the treatment of obesity can cause an increase in _agni_ , which may cause increased appetite and thirst.Hence, the obese suffer more than the lean. [17]
+ * A person possessing a balanced constitution of muscles and compactness of the body, and stable sense organs does not fall prey to diseases. He can tolerate hunger, thirst, heat and cold, and physical strain better. His digestion, assimilation of food and muscle metabolism are in a state of equilibrium. [18-19]
+ * The food that is heavy to digest but not having any fattening (such as high fiber diet) is prescribed for the obese. In lean persons, food that is light to digest and has high nourishing value is prescribed. [20]
+ * Food and drinks that alleviate vata and reduce kapha and meda dhatu, as well as therapies such as enema (administered with drugs of sharply acting, dry and hot properties) and therapeutic powder massages are important treatments for obesity. [21-22]
+ * To enhance body mass of the excessively lean, an easy-to-digest and nourishing diet therapy, proper sleep, mind relaxing activities, _rasayanas_ and aphrodisiacs, a diet with unctuous food and newly harvested food, and measures that eliminate vitiated dosha are prescribed. [29-34]
+ * Tiredness, inactivity of mind, and detachment from sense organs are certain situations and conditions that help in falling asleep. [35]
+ * Normal sleep is necessary for the normal functioning of human body and excessive or inadequate sleep results in many diseases. Happiness and misery, nourishment and emaciation, strength and weakness, fertility and infertility, knowledge and ignorance and life and death depend on proper and improper sleep. [36]
+ * Sleeping during the day is indicated for restoring any damage to the physical constitution or depletion of body tissues. In a normal person, sleeping during the day is contraindicated in seasons other than summer because it causes vitiation of kapha and pitta. Daytime sleep causes serious health problems. While insomnia causes roughness in the body, daytime sleep causes _snigdhata_ (unctuousness) in the body. [39-50]
+ * Obesity and leanness are caused by improper diet and sleep. [51]
+
+## Vidhi Vimarsha(Applied Inferences)

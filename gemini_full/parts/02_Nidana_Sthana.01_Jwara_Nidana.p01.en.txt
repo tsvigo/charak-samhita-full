@@ -1,0 +1,272 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Principles of knowledge of disease
+ * 2.1.1 Synonyms of Nidana (causative factors) and its types
+ * 2.1.2 Types of diseases
+ * 2.1.3 Synonyms of disease
+ * 2.1.4 Means for knowledge of disease
+ * 2.1.5 Definition of Nidana
+ * 2.1.6 Definition of Poorvarupa (premonitory signs)
+ * 2.1.7 Definition of Linga (sign) and its synonyms
+ * 2.1.8 Definition of Upashaya (pacifying factors)
+ * 2.1.9 Samprapti (pathogenesis)
+ * 2.1.9.1 Definition
+ * 2.1.9.2 Types of samprapti (pathogenesis)
+ * 2.1.9.2.1 Samkhya samprapti (numerical classification)
+ * 2.1.9.2.2 Pradhanya samprapti (Classification on dominance)
+ * 2.1.9.2.3 Vidhi samprapti (Classification on prognosis)
+ * 2.1.9.2.4 Vikalpa samprapti (pathogenesis on fraction of dosha)
+ * 2.1.9.2.5 Bala Kala (time of aggravation) samprapti
+ * 3 Knowledge of Jwara (fever)
+ * 3.1 Origin
+ * 3.2 Types
+ * 3.3 Vata dominant jwara
+ * 3.3.1 Causes
+ * 3.3.2 Pathogenesis
+ * 3.3.3 Clinical features
+ * 3.4 Pitta dominant jwara
+ * 3.4.1 Causes
+ * 3.4.2 Pathogeneis
+ * 3.4.3 Clinical features
+ * 3.5 Kapha dominant jwara
+ * 3.5.1 Causes
+ * 3.5.2 Pathogenesis
+ * 3.5.3 Clinical features
+ * 3.6 Sannipatika jwara
+ * 3.6.1 Causes
+ * 3.6.1.1 Clinical features
+ * 3.7 Agantu jwara (Exogenous fever)
+ * 3.8 Specification of each type of jwara
+ * 3.9 Specific feature and classification of jwara
+ * 3.10 General premonitory features of all jwara
+ * 3.11 Consequences of jwara
+ * 3.12 Principles of management of jwara
+ * 3.13 Management principles of jeerna jwara (chronic fever)
+ * 3.14 Rule of exception for repetition of text
+ * 3.15 Summary
+ * 4 Tattva Vimarsha (Fundamental principles)
+ * 5 Vidhi Vimarsha (Applied Inferences)
+ * 5.1 A.First Classification
+ * 5.2 B.Second classification
+ * 5.3 C.Third classification
+ * 5.4 D. Fourth classification
+ * 5.5 E.Fifth Classification
+ * 5.6 F.Sixth Classification
+ * 5.7 _Poorvarupa_ (premonitory signs)
+ * 5.8 _Rupa_ (clinical signs and symptoms)
+ * 5.9 _Upashaya_ (pacification):
+ * 5.9.1 Various examples of _upashaya_ :
+ * 5.9.2 _Samprapti_ (pathogenesis)
+ * 5.9.3 Significance of knowledge of _nidana_
+ * 5.9.4 Significance of knowledge of _poorvarupa_
+ * 5.9.5 Significance of knowledge of _rupa_
+ * 5.9.6 Significance of knowledge of _upashaya_
+ * 5.9.7 Significance of knowledge of _samprapti_
+ * 5.9.8 _Nidanapanchaka_ and _shat kriyakala_
+ * 5.9.9 Interrelation between _nidanapanchaka_ and _shatkriyakala_
+ * 5.9.10 Shatkriyakala of _Jwara_ as compared with pathogenesis of fever
+ * 5.10 Related Chapters
+ * 5.11 References
+
+## Introduction
+
+A physician cannot treat a patient if he does not possess a complete understanding of a disease. [Cha.Sa.Vimana Sthana 4/12] Accurate diagnosis of a disease is important before initiating any treatment, and any understanding of a disease’s manifestation is incomplete without understanding its nidana (etiology), poorvarupa (premonitory symptoms), linga (actual sign and symptoms), upashaya (pacifying factors) and samprapti (pathogenesis) – or the _Nidana Panchaka_ (literally, the five components of nidana). [Cha.Sa.Nidana Sthana 1/6] A disease’s lifecycle starts with certain premonitory symptoms and ends with its complete manifestation, or samprapti. Between these two stages of the disease, the body shows various signs and symptoms that could be observed by any knowledgeable physician, using _Nidana Panchaka_ . Naturally, any disease, if diagnosed very early, could be prevented from manifesting itself through a variety of interventions. [Cha.Sa.Sutra Sthana 10/7] A proper understanding of the _Nidana Panchaka_ helps the physician using various therapies, to establish an equilibrium among the patient’s dosha, dhatu, and mala – since it is the vitiation of these body features that cause a disease. A therapy is considered pure or correct (_vishuddha_) when it cures the disease without giving rise to another disease. [Cha.Sa.Nidana Sthana 8/23] Curable diseases can progress to incurable if they are not properly treated. [Cha.Sa.Nidana Sthana 8/35] 
+
+_Nidana Panchaka_ described here can be supplemented with diagnostic tests and medical investigations to study a condition. Access to complete knowledge of dietary and lifestyle activities of a person, specific disease provoking factors, clinical history or health records of past diseases or conditions, and a thorough clinical examination of all bodily systems would help provide a complete view of a patient’s condition. 
+
+Thus, the first part of the chapter deals with the _Nidana Panchaka_. The second part, then, takes this important concept and applies it on the most generic of conditions afflicting patients – _jwara_. This also reveals how the Nidana Sthana section of the Charak Samhita is structured – it starts with the generic or the foundational condition (that, in many cases, acts as a causative factor itself), and then moves on to discussing the vitiation of the dhatu that are causes of all somatic diseases – by the order of their importance (i.e., starting with rasa dhatu) – and ends with a study of vitiation of Rajas and Tamas (i.e., causes of mental diseases). 
+
+It is important to note here that _jwara_ is an independent ailment, per Ayurveda, but also a secondary condition of other diseases, and also an etiology responsible for various diseases. For example, _jwara_ gives rise to _raktapitta_ (haemorrhagic disease), which in turn causes _jwara_ , and both cause _shotha_ (phthisis). Thus, _jwara_ is an etiology in this context, or a _nidanarthakara_. Sushruta describes _jwara_ at first as a complication of a wound in an afflicted person because it is the chief among diseases and has emerged “from the fiery wrath of Lord Rudra”, per Vedic mythology. Explaining its nature, he says that it influences an individual particularly at the time of his birth and death. But in this chapter, _jwara_ is described as an independent disease which acts upon _vata, pitta,_ and _kapha_ as an immediate etiological factor to cause fever. Besides this (as a cause), various indirect causes have also been described to explain the vitiation of each dosha, along with their pathogenesis and symptoms separately. However, it is important to note that while there could be any number or types of causes, _amashaya_ (stomach) is common to all types of _jwara_. Pathogenetic dosha combined with heat located in _amashaya_ and accompanying the first dhatu created with the digestion of food (also known as _rasa_) obstructs the passage of _rasa_ and _sweda_ , causing them to spread all over the body in various ways raising the body temperature of a person. This rising temperature is the manifestation of fever. 
+
+Depending upon the etiological factors, Ayurveda prescribes one of two types of therapies – spiritual and rational. A specific rational treatment of _jwara_ could involve the use of processed ghee (clarified butter) with suitable drugs in a chronic fever is to alleviate all the three dosha. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Jwara Nidana"(Fundamental Principles of Diagnosis and Fever). Thus said Lord Atreya. [1-2] 
+
+### Principles of knowledge of disease
+
+#### Synonyms of Nidana (causative factors) and its types
+
+ * Hetu, nimitta, ayatana, karta, karana, pratyaya and samutthana are synonyms of nidana (causative factors).
+
+Nidana is of three types: 
+
+ 1. Asatmyendriyarthasamyoga (unsuitable contact of sense organs with their objects)
+ 2. Prajnaparadha (intellectual errors or knowingly engaging in harmful activities), and
+ 3. Kala (time, seasonal, temporal factors). [3]
+
+#### Types of diseases
+
+The (Somatic) diseases manifest in three types, viz. 
+
+ 1. Agneya (pitta dosha dominant diseases)
+ 2. Saumya (kapha dosha dominant diseases)
+ 3. Vayavya (vata dosha dominant diseases).
+
+Others (psychic) are of two types viz. 
+
+ 1. Rajas(Rajas dosha dominant diseases)
+ 2. Tamas (Tamas dosha dominant diseases). [4]
+
+#### Synonyms of disease
+
+Vyadhi, amaya, gada, atanka, yakshma, jwara, vikara and roga are synonyms of disease. [5] 
+
+#### Means for knowledge of disease
+
+Diseases could be diagnosed by studying their nidana (etiology), poorvarupa (premonitory symptoms), linga (sign and symptoms), upashaya (pacifying factors) and samprapti (pathogenesis).[6] 
+
+#### Definition of Nidana
+
+Nidana is the cause or etiological factor as described earlier. [7] 
+
+#### Definition of Poorvarupa (premonitory signs)
+
+Symptoms that manifest themselves before the appearance of the disease are known as poorvarupa. [8] 
+
+#### Definition of Linga (sign) and its synonyms
+
+Sign and symptoms when fully manifested are called as linga. _Linga, akruti, lakshana, chihna, samsthana, vyanjana_ and _rupa_ are synonyms of linga. [9] 
+
+#### Definition of Upashaya (pacifying factors)
+
+Medicines, diets and regimens that bring about relief either by acting directly on the cause of a disease or the disease itself or by producing such effects indirectly are termed upashaya (pacifying factors).[10] 
+
+#### Samprapti (pathogenesis)
+
+##### Definition
+
+_Jati_ and _agati_ are synonyms of Samprapti (pathogenesis) of the disease. Like nidana and rupa, samprapti has been described here with its synonyms which are indicative of its definition. [11] 
+
+##### Types of samprapti (pathogenesis)
+
+Samprapti can be further classified, depending upon certain specific characteristics, by _sankhya_ (numerical classification), _pradhanya_ (dominance of dosha), _vidhi_ (types of diseases), _vikalpa_ (dominance of one or the other attributes of dosha), and _bala-kala vishesha_ (the time of manifestation or aggravation of the disease). [12] 
+
+###### Samkhya samprapti (numerical classification)
+
+_Sankhya_ type of classification of _samprapti_ numerically groups diseases by their pathogenesis, such as, eight types of _jwara_(fever), five types of _gulma_ (abdominal lump), seven types of _kushtha_ (skin diseases), etc. [12.1]. 
+
+###### Pradhanya samprapti (Classification on dominance)
+
+_Pradhanya_ (dominance) indicates the dominance or primacy of one particular dosha above other dosha. If two dosha get vitiated, the comparative term _tara_ is used to indicate the predominant one. If, all the three dosha get vitiated then the superlative term _tama_ is used to indicate the most predominant one. [12.2] 
+
+###### Vidhi samprapti (Classification on prognosis)
+
+Diseases are of two varieties - _nija_ (endogenous) or _agantu_ (exogenous). On the basis of vitiation of the _doshas_ , diseases could be of three types; they could also be of four varieties, viz. _sadhya_ (curable), _asadhya_ (incurable), _mrudu_ (mild), and _daruna_ (severe). [12.3] 
+
+###### Vikalpa samprapti (pathogenesis on fraction of dosha)
+
+Predominance of one or the other attribute of the three dosha (in the manifestation of the disease) is known as _vikalpa_ here. [12.4] 
+
+###### Bala Kala (time of aggravation) samprapti
+
+Specific time of aggravation and manifestation of diseases is determined on the basis of the variations in seasons, time of the day (or night), and intake of food. [12.5] 
+
+On the basis of these factors, physicians should properly diagnose a disease without any affliction in mind and intellect (i.e., without any prejudice or preconceived ideas). [13] 
+
+In brief, the above topics are the objectives of this section ‘Diagnosis of diseases’ (Nidana Sthana). They will again be discussed in detail later in this chapter. [14] 
+
+## Knowledge of Jwara (fever)
+
+#### Origin
+
+First described here are the diagnostic features of eight diseases caused due to greed, malice and anger. These would be described along with brief methods of their treatment (a detailed description of their management would be provided in Chikitsa Sthana (of this treatise)). [15] 
+
+_Jwara_ (fever) is described first among disorders because temperature (or body heat) is a life-sustaining force, and is the first condition (afflicting patients of somatic conditions). [16] 
+
+#### Types
+
+_Jwara_ occurs in humans due to eight causative factors, - _vata, pitta, kapha, vata-pitta, vata-kapha, pitta-kapha, vata-pitta-kapha,_ and _agantu_ (exogenous causes). [17] 
+
+Now I shall expound the specific _nidana_ (etiology), _poorvarupa_ (prodromal symptoms), _rupa_ (symptoms) and _upashaya_ (pacifying factors) of _jwara_. [18] 
+
+#### Vata dominant jwara
+
+##### Causes
+
+Excess use of rough, light to digest, and cold (food), over administration of therapeutic emesis and therapeutic purgation, _asthapana_ (non-unctuous enema), _shirovirechana_ (head evacuation), overexertion, suppression of urges, _anashana_ (fasting), injury, copulation, agitation, lamentation, excessive blood-letting, night vigils and improper/odd posture of body – cause vitiation of _vayu_ [19] 
+
+##### Pathogenesis
+
+This vitiated _vayu_ , when it gets into the _amashaya_ (stomach), afflicts _agni_ and vitiates the first _dhatu_ (_rasa_) created through this vitiated digestion process. This (vitiated admixture of _vayu_ and _rasa_) blocks the channels associated with _rasa_ and _sweda_ (sweat), adversely affecting the digestive processes and moving that heat out of its locus into other parts of the body. This excess heat leads to _jwara_. [20] 
+
+##### Clinical features
+
+The patient would experience abrupt onset and remission (of fever), with variations in temperature and severity. _Jwara_ would be particularly severe at the end of digestion and there would be temporal variations as well (i.e., day, night and in summer). The patient’s skin would appear rough, and there would be reddish discoloration of nails, eyes, face, urine, stool and skin. The patient would experience excessively reduced tendency to pass urine, feces, excessive tearing of nails, etc. Debilitating pain radiating from the toe up, with various sensations felt at various parts as the pain travels – numbness in feet, cramps in the calves, looseness in knee joints (and also in all other joints), weakness in thighs, excruciating pain in the waist region, aching in the sides, pressure sensation in back, churning in shoulder, cutting in arms, extracting in scapular region and constricting feeling in chest, inability to move the jaws, tinnitus, and piercing pain (pricking pain) in the temple region. (Other symptoms include) astringent taste or lack of taste in the mouth (distaste), dryness of mouth, palate and throat, thirst, catching pain (grabbing pain) in the heart, dry vomiting, dry cough, loss of sneezing and eructation, aversion to the taste, salivation, anorexia, diminished digestive power, malaise, increased yawning, bending, shivering, exhaustion, giddiness, delirium, insomnia, horripilation, sensitivity in teeth, and the desire for hot. Factors mentioned in the etiology are alleviating and contrary to them are aggravating. [21] 
+
+#### Pitta dominant jwara
+
+##### Causes
+
+Excess use of hot, sour, salty, alkali, pungent and bitter food and intake of meals before the digestion of the previous meal, contact with intense heat, fire, exhaustion due to excessive exercise, anger, untimely meals – vitiate _pitta_.[22] 
+
+##### Pathogeneis
+
+The vitiated _pitta_ enters the _amashaya_ and gets mixed with the initial _dhatu_ formed in the process, _rasa_ , along with the digested food. This improperly formed _rasa_ causes sluggish circulation and further block the micro channels of _rasa_ and _sweda_. The core digestive _agni_ gets displaced out of its original site (_pakti sthana_), spreading out through the body. Due to blocked channels of sweat, heat dissipation is adversely affected, causing the temperature to rise all over the body and manifest as _paittika jwara_.[23] 
+
+##### Clinical features
+
+The symptoms of this type of _jwara_ include simultaneous high fever in the whole body, specially at the time during digestion of meals, midday, middle of the night or in the Autumn season. This type of fever leaves a pungent taste in the mouth, _paka_ (ulceration or inflammation) of the nose, mouth, throat, lips and palate, unquenchable thirst, narcosis, giddiness, fainting, vomiting of _pitta_ (bile), _atisara_ (diarrhea), aversion to food, malaise, dejection, delirium, appearance of reddish patches in the body, green or yellow coloration in nails, eyes, mouth, urine, feces and skin, excessive migraine and burning sensation, desire for cold things, unsuitability of included factors in etiology and suitability of opposite ones – these symptoms are of _pitta_ (or _paittika_) _jwara_. [22-24] 
+
+#### Kapha dominant jwara
+
+##### Causes
+
+Excessive use of unctuous, heavy, sweet, slimy, cold, sour, salty substances, day sleep, joy and a sedentary lifestyle –vitiate _sleshma_ or _kapha_. [25] 
+
+##### Pathogenesis
+
+The vitiated _kapha_ enters the _amashaya_ and gets mixed with the initial _dhatu_ formed in the process, _rasa_ , along with the digested food. This improperly formed _rasa_ cause sluggish circulation and further block the micro channels of _rasa_ and _sweda_. The core digestive _agni_ gets displaced out of its original site (_pakti sthana_), spreading out through the body. As channels of sweat are blocked and are unable to dissipate the heat, temperature rises all over the body, causing _jwara_. [26] 
+
+##### Clinical features
+
+The symptoms of _shleshmaja_ (_kaphaja_) _jwara_ include the simultaneous onset of mild fever in the whole body, specially just after meals, forenoon, early night or spring season. This type of fever causes heaviness in the body, less desire to eat, excess secretion of _shleshma_ (phlegm), sweet taste in the mouth, nausea, coating in the heart (causing wheezing), vomiting, mild appetite, excessive sleep or narcolepsy, stiffness, drowsiness, cough, dyspnea, coryza, coldness, whiteness in nails, eyes, face, urine and skin, urticarial patches in the body, desire to be subjected to heat, unsuitability of the described etiological factors and suitability of opposite to them. [27] 
+
+#### Sannipatika jwara
+
+##### Causes
+
+Irregular diet, fasting, change in regular meals, seasonal derangement, unsuitable odors, use of hilly water full of poisonous sediments, improper medication by ghee, oils and fats, medical fomentations, emesis, purgation, oily or decoction enema, nasal instillations, faulty diets after purification therapies, women undergoing abnormal delivery and inappropriate post-partum management - these are some of the etiological factors that have already been mentioned as causes of vitiation of _doshas_ , that cause fever. [28] 
+
+###### Clinical features
+
+When the symptoms exhibit the dominance of two _doshas_ , it is called _sansrishta_ (_dwandaja_) _jwara_ and in case all three _doshas_ are vitiated, it is called _sannipatika jwara_ (tridoshic fever). [29] 
+
+#### Agantu jwara (Exogenous fever)
+
+_Agantuja jwara_ (_jwara_ caused due to exogenous factors) is the eighth type of fever. This fever is accompanied with pain and is often caused by trauma, association with evil, fascination, and wrath (of the wise and the elders). These causes directly manifest as fever without any prodromal symptoms for a transitional duration. Slowly, with the passage of time, _doshas_ get vitiated and their effects manifest as above. Fevers caused due to trauma influence blood pathology, while association with evil afflicts _vata_ and _pitta_ , and fascination and wrath causes _sannipata_ (and therefore, leads to an incurable condition). [30] 
+
+#### Specification of each type of jwara
+
+All the seven doshic _jwara_ have their own doshic specifications with respect to the onset, symptomatology, and treatment principles. The exception is the _agantuja jwara_ (exogenous), which should be treated with appropriate consideration to the _jwara_ ’s specific etiology. [31] 
+
+#### Specific feature and classification of jwara
+
+Per doshic classification of _jwara, santapa_ (excessively hot sensation) is of only one type common to all _jwara_. But according to other classifications it is of two types - _nija_ (endogenous) and _agantuja_ (exogenous). _Nija_ again could be classified into two types (_saumya_ or mild) and _agneya_ (high grade fever)), three types (_vatika, paitika, shleshmika_), four types (_vatika, paittika_ , _sleshmika_ and _agantuja_), or seven types (_vatika, paittika, shleshmika, vata-paittika, vata-shleshmika, pitta-shleshmika_). [32] 
+
+#### General premonitory features of all jwara
+
+Premonitory features of _jwara_ include abnormal taste in the mouth, heaviness in the body, aversion to food, restless eyes, lacrymation, excessive sleep, restlessness body, yawning, bending, shivering, exhaustion (without exercise), giddiness, delirium, sometimes sleeplessness, horripilation, oversensitive teeth, tolerance and intolerance to sound, cold, wind and heat, anorexia, indigestion, weakness, body-ache, malaise, reduced vitality, mental agitations, lethargic, idleness, lack of natural activities, apathy to daily regimen, disrespect to the words of elders, agitation with children, aversion to doing work, uncomfortable with flowers and perfumes, aversion to sweet edibles, and desirous for sour, salty and pungent things. These premonitory symptoms rise before the onset of _jwara_ and may continue through the course of the fever. [33] 
+
+Thus the symptoms of separate single doshic _jwara_ are described in details and double and triple doshic _jwara_ are described in brief [34]. 
+
+#### Consequences of jwara
+
+_Jwara_ occurs due to the wrath of Maheshwara. It could take away the life of all creatures, causes _santapa_ (grief) in body, sense organs and mind. It reduces intellect, strength, complexion, feeling of happiness and enthusiasm and produces tiredness, fatigue, confusion, aversion to food. In fact, it is called _jwara_ because it produces unhealthy effect in the body. No other disease is as frightful, complicated and difficult in treatment as this. That is why it is considered the king of all diseases. It is considered a life-giving force, since all living beings are born with fever (body temperature) and die with fever. It causes delirium. Afflicted living beings lose their memory of any event of their previous lives. In the end fever takes away the life of all creatures. [35] 
+
+#### Principles of management of jwara
+
+When premonitory symptoms manifest or at the onset of the fever, dieting or fasting is useful because the disease originates from the _amashaya_. In such a case, intake of kashaya (decoctions), massage, oleation (snehana), fomentation (swedana), thick ointment (pradeha), sprinkling (parisheka), anulepana (anointing with pastes), emesis, purgation, decoction and oily enema, pacification measures, nasal errhines, fumigation, medicated smoking, collyrium, medicated milk and a specific dietetic regimen should be indicated as per the condition. [36] 
+
+#### Management principles of jeerna jwara (chronic fever)
+
+In all types of _jirna jwara_ (chronic fever), internal use of medicated ghee prepared is recommended. Medicated ghee pacifies _vata_ by its unctuousness, _kapha_ by (ghee infused with) _kapha_ pacifying drugs, and _pitta_ by its coldness. Therefore, ghee is useful in all forms of _jirna jwara_ like fire subsides with water. [37] 
+
+Here are (the verses) – 
+
+As water is sprinkled on burning houses to douse (the fire), ghee is administered to manage chronic fever. No other _sneha_ (oil etc.) brings the refinement properties of _sanskara_ (processing with drugs) as ghee and therefore it is said the best one of all the _snehas_. [38-40] 
+
+#### Rule of exception for repetition of text

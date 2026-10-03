@@ -1,0 +1,293 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Queries of Agnivesha
+ * 2.2 Synonyms of _jwara_
+ * 2.3 _Prakriti_ or nature of _jwara_
+ * 2.4 _Pravritti_ (origin of the disease)
+ * 2.5 _Prabhava_ , the sequels of the disease
+ * 2.6 Premonitory symptoms of _jwara_
+ * 2.7 Sites of _jwara_
+ * 2.8 Cardinal feature
+ * 2.9 Classification
+ * 2.10 Clinical features of somatic and psychic _jwara_
+ * 2.11 Desires of patient to diagnose _dosha_ dominance
+ * 2.12 Attenuating nature of _vata dosha_
+ * 2.13 Features of internal and external _jwara_
+ * 2.14 _Prakrita jwara_(seasonal _jwara_)
+ * 2.14.1 _Vaikrita jwara_
+ * 2.15 Prognosis of _jwara_
+ * 2.15.1 _Sadhya_ (curable) _jwara_
+ * 2.15.2 _Asadhya_ (incurable) _jwara_
+ * 2.16 Five types of _jwara_ as per frequency
+ * 2.16.1 _Santata jwara_
+ * 2.16.2 _Satata jwara_
+ * 2.16.3 _Anyedyushka jwara_
+ * 2.16.4 _Tritiyaka_ and _chaturthaka jwara_
+ * 2.17 Cause of alterations in _jwara_ episodes
+ * 2.18 _Dhatugata jwara_
+ * 2.19 Clinical features of _jwara_ due to combination of two _dosha_
+ * 2.20 _Sannipataja jwara_
+ * 2.21 Prognosis of _sannipata jwara_
+ * 2.22 Classification of _agantuja jwara_
+ * 2.23 _Abhighataja jwara_ (due to injury or trauma)
+ * 2.24 _Abhishangaja, abhishapaja_ and _abhicharaja jwara_
+ * 2.25 General patho-physiology of _jwara_
+ * 2.26 Cause of lack of sweating
+ * 2.27 Clinical features of _Ama Jwara_ (first stage of _jwara_)
+ * 2.28 Clinical features of _pachyamana jwara_ (second stage of _jwara_)
+ * 2.29 Clinical features of _nirama jwara_ (third stage of _jwara_)
+ * 2.30 Precaution at initial stage of _jwara_
+ * 2.31 Contra-indications of _langhana_ (fasting)
+ * 2.32 Benefits of _langhana_ (fasting) in _jwara_
+ * 2.33 Management principle of _jwara_
+ * 2.34 Various drinks for management of thirst
+ * 2.35 _Shadanga paniya_
+ * 2.36 Indication of _vamana_ (therapeutic emesis)
+ * 2.37 Hazards of improper _vamana_ (therapeutic emesis)
+ * 2.38 Post _vamana_ protocol
+ * 2.39 Contra-indications of _yavagu_
+ * 2.40 Guidelines for diet, mouth cleansing and tooth brush
+ * 2.41 Contra-indications of _kashaya_ (astringents)
+ * 2.42 _Yusha_ (soup) indications
+ * 2.43 Indications and contra-indications of _ghrita_
+ * 2.44 Indication of milk
+ * 2.45 Indication of _virechana_
+ * 2.46 Indications of _niruha_ (enema with decoction)
+ * 2.47 Indication of _anuvasana_ (unctuous enema)
+ * 2.48 Indications of _murdha-virechana_ (nasal errhines)
+ * 2.49 Various external procedures
+ * 2.50 Various dietary articles used in treatment
+ * 2.51 Ten types of _yavagu_ (gruel) in _jwara_
+ * 2.52 Indications of soup
+ * 2.53 Indications of vegetables
+ * 2.54 Indication of animal meat soups
+ * 2.55 _Anupana_(beverages)
+ * 2.56 Contra-indications in _jwara_
+ * 2.57 Decoctions indicated in _jwara_
+ * 2.58 _Kashaya_ in _vishama jwara_
+ * 2.59 Formulations used in _sannipata jwara_
+ * 2.60 Advantage of ghee
+ * 2.61 Various medicated ghee formulations
+ * 2.62 Formulations used in purification therapies
+ * 2.63 Formulations with medicated milk
+ * 2.64 Medicated enemas
+ * 2.65 Indications of _shiro-virechana_ (nasal errhines)
+ * 2.66 External applications
+ * 2.67 _Chandanadya taila_
+ * 2.68 Guidelines for a patient with burning sensation
+ * 2.69 _Agurvadya tailam_
+ * 2.70 Indications of fomentation for alleviating cold
+ * 2.71 Contra-indications of _langhana_
+ * 2.72 Guidelines for improving _agni_ (digestive strength)
+ * 2.73 Guidelines for management in _sannipata_ conditions
+ * 2.74 Management of _karnamulika shotha_ (inflammatoion near the root of the ears)
+ * 2.75 Indications of blood letting
+ * 2.76 Indication of consumption of ghee
+ * 2.77 Management of _jeerna jwara_ (chronic stage)
+ * 2.78 Management of _dosha_ dominance in _vishamajwara_
+ * 2.79 Guidelines and various formulations in _vishama jwara_
+ * 2.80 Spiritual therapy
+ * 2.81 Management of _jwara_ located in various _dhatu_
+ * 2.82 Management of _abhicharaja_ and _abhishangaja jwara_
+ * 2.83 Management of _abhighataja jwara_
+ * 2.84 Management of _agantuja jwara_ due to mental factors
+ * 2.85 Signs of remission of _jwara_
+ * 2.86 Signs of completely cured _jwara_ patient
+ * 2.87 Precautions after being cured from _jwara_
+ * 2.88 _Punaravarti jwara_ (recurrent _jwara_)
+ * 2.89 Guidelines for management
+ * 2.90 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Related Chapters
+
+## Introduction
+
+The first two chapters of Chikitsa Sthana describe _rasayana_ and _vajikarana_ to serve the first purpose of preservation, promotion, and rejuvenation of health. The second purpose – the treatment of disease - is dealt in subsequent chapters of this _sthana_. Jwara Chikitsa has been dealt first because Ayurveda holds that _jwara_ is not merely the increase in body temperature (fever) but also a feeling of malaise, unease and discomfort, and involves the _deha,indriya_,and _mana_ (physical body, sensory organs, and mind). While the balanced state of _vata, pitta,_ and _kapha_ manifest health by rhythmic circulation of fluids, digestion, metabolism, and nutrition respectively, their imbalance manifest as pain, increase in body heat, and inflammations. _Jwara_ is an imbalanced state of _pitta_ , which damages the physiology of digestion and metabolism. Inappropriately digested food transforms into a substance called _amavisha_ which is a predisposing cause of many diseases. The initial manifestation of stagnated _amavisha_ in _rasa dhatu_ (plasma) is _jwara_. Thus, _jwara_ is an important indication for the circulating _amavisha_ and requires early treatment before its progression. 
+
+This chapter of Jwara Chikitsa establishes many guiding principles for treatment of various diseases described later in this section. These are classification, types, association with body tissues, and identification of progression, precautions and specific order of treatment. Causes and symptoms of recurrence and their remedies are widely described in this chapter. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Jwara Chikitsa" (Management of different types of fever). Thus said lord Atreya.[1-2] 
+
+### Queries of Agnivesha
+
+Punarvasu, who was free from all types of diseases (_jwara_) and was having complete peace of mind, was sitting in a lonely place; where Agnivesha approached him and asked his queries about _jwara_ with a modest _namaskar_ (greeting, with hands folded). 
+
+Oh lord! You have already stated earlier that (in Nidana Sthana) “ _jwara_ afflicts the body, senses and the mind, is the first disease to be manifested, and is the principal and the most powerful disease.” This enemy of human beings is invariably associated with the birth and death of creatures. Therefore, kindly elucidate the following points for the benefit of the humanity – 
+
+ * _Prakriti_ or the nature of the disease
+ * Pravritti or origin of the disease
+ * _Prabhava_ , the sequels of the disease
+ * _Karana_ or the causative factors
+ * _Purvarupa_ or the premonitory signs and symptoms
+ * _Adhisthana_ or place of manifestation
+ * _Bala kala_ or its severity and the time of manifestation
+ * _Atma lakshana_ or cardinal features which are invariably associated with this disease
+ * Details of classification (_vidhi bheda_)
+ * Signs and symptoms of each type of the disease
+ * Sign and symptoms of _ama jwara_ i.e. primary stage of the disease
+ * Sign and symptoms of _jirna jwara_ a i.e. chronic stage
+ * Drugs for the treatment of the disease
+ * Various therapeutic procedures
+ * Signs and symptoms that are manifested when the fever is getting cured, or when it is alleviated – both separately
+ * The duration for which the patient who has become free from a disease has to avoid certain regimens and the reasons for that
+ * The reasons for the reattack of the fever after it has subsided
+ * The therapies which should be administered in order to alleviate this reattack of this fever;
+
+After hearing this statement of Agnivesha, the preceptor (Atreya) replied: “all these will be explained in this chapter on the description of fever. Oh benevolent one, listen to the details.”[3-10] 
+
+### Synonyms of _jwara_
+
+_Jwara, vikara, roga, vyadhi_ and _atanka_ – these terms are synonymous and used to indicate this condition. [11] 
+
+### _Prakriti_ or nature of _jwara_
+
+The three physical _doshas_ and the two _manasikadoshas_ are the natural factors responsible for _jwara_ (_prakriti_) as _jwara_ cannot originate in a person having the balance of these three _dosha_ (_nirdosha_ – in the state of homeostasis). Therefore, these _sharirika_ and _manasikadoshas_ are the prakriti of _jwara_. 
+
+_Kshaya_ (emaciation), _tama_ (feeling of entering into darkness), _jwara, papma_ (manifestations of the sinful acts) and _mrityu_ (death) are all the various presentations of Yamaraja (lord of deaths). These are the causes of death (_panchatva_) in individuals suffering from various grievances, due to their own deeds and hence have been accepted as equivalent to Yama (lord of death). In this way the _prakriti_ (basic nature) of _jwara_ has been described. [12-13] 
+
+### _Pravritti_ (origin of the disease)
+
+The origin of _jwara_ is because of the tendency for greed or attachment (_parigraha_). It has been described earlier in the Nidana Sthana that the origin of _jwara_ resulted from the ferocious wrath of Rudra (Lord Shiva). 
+
+During the _Treta Yuga_ (second age) Lord Shiva took a vow of not manifesting anger or wrath for one thousand celestial years. During this time the _asuras_ (the demons) indulged in the creating obstruction, playing mischiefs and destroying the sacrament and the meditation of the _rishis_ (sages). Daksha Prajapati was capable of combating these demons but he ignored his duties of opposing those demons and further organized a _yajna_ (ritual of sacrifice) in which he did not offer any share to Lord Shiva in spite of being told to do so by the other lords. He even did not chant the hymns (_richa_) described in the _veda_ of lord Shiva which provide fulfilment to the desired objective of _yajna_ and even did not offer _ahuti_ (pouring of ghee in the sacrificial fire) to Lord Shiva. Lord Shiva perceived whole of this situation regarding Daksha Prajapati’s non observance of rules and became angry. He then brought forward his _Raudra_ (wrathful) _bhava_ (nature) and opened his third eye, destroying all those demons by burning them and further gave rise to a child like form named _Virabhadra_ to his wrath, who was stuffed with his anger and was capable of destroying the _yajna_ of Daksha. That child demolished the _yajna_ of Daksha Prajapati as a result of which the gods got afflicted with burning sensation and pain and started running in different directions and became afflicted. Then the gods along with the seven rishis offered those substantial hymns to Lord Shiva till he became pleased and switched over to his Shiva (the compassionate or benevolent and auspicious) form. When it was known that Lord Shiva is returned to his auspicious disposition, then Virabhadra who was produced from the wrathful fire of Lord Shiva, who had three heads and nine eyes, used ash as his weapon, had the flame of his fire as his garland, was wrathful, had frightful and small thighs and stomach approached lord Shiva with folded hands and enquired about his future work. Lord Shiva replied to him that “you will become _jwara_ in this world and afflict people in the beginning of life – at birth and at the time of death and will also afflict those who will resort to erratic regimen.”[14-25] 
+
+### _Prabhava_ , the sequels of the disease
+
+_Santapa_ (feeling of heat or raised temperature), _aruchi_ (anorexia), _trishna_ (morbid thirst), _angamarda_ (body ache), _hrid vyatha_ (pain in the cardiac region) – these are the invariable manifestations of _jwara_. At the time of birth and death, _jwara_ is manifested in the form of tamas (_moha_ \- altered state of consciousness). In this way the _prakriti_ (nature), _pravritti_ (origin) and the _prabhava_ (invariable manifestations) of _jwara_ are described. [26-27] 
+
+Earlier in the Nidana Sthana the etiological factors for each of the eight varieties of _jwara_ have been described separately. [27] 
+
+### Premonitory symptoms of _jwara_
+
+Laziness, lacrimation, yawning, heaviness, mental fatigue, uncertainty and intolerance about the liking and disliking for the heat, sun, wind and water; indigestion, anorexia, depletion in strength, complexion, and slight change in conduct, are the premonitory signs and symptoms of _jwara_.[28-29] 
+
+### Sites of _jwara_
+
+The whole body and the mind are the sites of manifestation of _jwara_. The severity and the time of manifestation of _jwara_ have been described in Nidana Sthana.[30] 
+
+### Cardinal feature
+
+The clinical features invariably associated with _jwara_ are the feeling of heat or increased body temperature and discomfort in body and mind. _Jwara_ afflicts the whole body including mind and sensory organs in all living beings. [31] 
+
+### Classification
+
+_Jwara_ is classified into two types each on the basis of the following criteria – 
+
+ * _Sharira_ (physical) and _manasa_ (mental)
+ * _Saumya_ (predominated by cold) and _agneya_ (predominated by heat)
+ * _Antarvega_ (internal) and _bahirvega_ (external)
+ * _prakrita_ (according to seasons) and _vaikrita_ (unseasonal)
+ * _sadhya_ (curable) and _asadhya_ (incurable)
+
+_Jwara_ is again classified into five categories depending upon the strength and weakness of dosha and the time. These are intermittent in nature: 
+
+ 1. _Santata_
+ 2. _Satata_
+ 3. _Anyedushka_
+ 4. _Tritiyaka_
+ 5. _Chaturthaka_.
+
+Depending upon the _ashraya_ (site of manifestation in the body) among the seven _dhatus_ (body tissues) _jwara_ is again classified into seven categories. 
+
+_Jwara_ is classified into eight types on the basis of eight causes of _jwara_ (_dosha_ predominance). [32-35] 
+
+### Clinical features of somatic and psychic _jwara_
+
+The _sharira_ type of _jwara_ first appears in the body and the _manasa_ type, first appears in the mind. _Vaichitya_ (mental instability), _arati_ (disliking for everything) and _glani_ (feeling of weakness in the body) are the signs and symptoms of the _manas tapa_ (mental affliction of _jwara_). The loss of ease in sensing the objects is the feature of the _santapa_ of the _indriya_. [36-37] 
+
+### Desires of patient to diagnose _dosha_ dominance
+
+A patient suffering from _vatapittaja_ variety of _jwara_ desires for cold things, while, a patient suffering from _jwara_ caused by _vata_ and _kapha dosha_ longs for hot things. However, when both of these types of _doshas_ get mixed then such patient manifests both the kinds of symptoms. [37-38] 
+
+### Attenuating nature of _vata dosha_
+
+_Vata dosha_ is exceedingly _yogavahi_ (which accentuates the properties of others) in nature. It produces both type of effects on combination with the two _doshas_. On combining with _tejas_ it produces burning sensation while in combination with _soma_ it produces cooling effect. [38-39] 
+
+### Features of internal and external _jwara_
+
+Excessive burning sensation inside the body, morbid thirst, delirium, dyspnea, giddiness, pain in bones and joints, absence of sweating, non-excretion of _doshas_ and the feces – are the clinical features of _antarvegi jwara_ (internal manifestation of _jwara_). 
+
+Excessive rise in the body temperature and above features in mild form are the features of _bahirvegi_ (external type of _jwara_) and this type of _jwara_ is easily curable. [39-41] 
+
+### _Prakrita jwara_(seasonal _jwara_)
+
+_Jwara_ manifesting in the _vasanta_ or spring season and _sharada_ or autumn season is called _prakrita_ (seasonal) _jwara_ and is easily curable. 
+
+_Pitta_ gets aggravated during autumn season because of its inherent hot properties and hot environment. _Kapha_ gets accumulated in winters and gets aggravated during spring season. 
+
+The water and drugs (including the eatables) become sour in _vipaka_ (taste that emerges after digestion) during the rainy season, which results in the accumulation of _pitta_. This accumulated _pitta_ gets aggravated or excited (by the hot sunrays) during the autumn season. This can immediately produce _jwara_ in which _kapha dosha_ is secondarily associated. As _vasanta_ is the part of _visarga kala_ (the time of year when, body has good strength imparted by nature), no problem is created by fasting. 
+
+During _hemanta_ (early winter) the water and drugs (including eatables) become sweet in taste, which helps in accumulation of _kapha_. This _kapha_ gets aggravated during the subsequent spring season due to the strong sunrays (which melt this _kapha_). Therefore, _jwara_ caused by _kapha_ is manifested during the spring season. The spring is the part of the _adana kala_ (the time when the strength of the creatures is the least as the nature withdraws the strength) and in the _jwara_ caused in this period _vata_ and _pitta dosha_ constitute the secondary associates. 
+
+A patient of _jwara_ should be treated keeping in view the strength of the _doshas_ in the beginning, middle and the end of the spring and autumn seasons. This way, depending upon the nature of the seasons, the seasonal types of _jwara_ are described. 
+
+#### _Vaikrita jwara_
+
+Generally, the _jwara_ caused by _vata dosha_ is difficult to treat in every season. The other types of _jwara_ , get their initial strength from the predominant season, those are (_Vaikrita jwara_) difficult to treat are: 
+
+ * _vatika jwara_ irrespective of its season of occurrence
+ * _paitika jwara_ occurring in seasons other than autumn and
+ * _kaphaja jwara_ occurring in seasons other than spring.
+
+The causative factors of the different types of _jwara_ have been described in Nidana Sthana (in _jwara_). [42-49] 
+
+### Prognosis of _jwara_
+
+#### _Sadhya_ (curable) _jwara_
+
+_Jwara_ is easily curable if it occurs in a person with strong physique, or if it is caused by the vitiation of lesser amount of _dosha_ and if there are no complications. 
+
+#### _Asadhya_ (incurable) _jwara_
+
+_Jwara_ having the following characteristics are incurable and lead to death – 
+
+ * Which is caused by either greater amount of / strong etiological factors
+ * Which manifests with many clinical features
+ * Which destroys the sense organs immediately.
+
+**Bad prognosis:**
+
+_Tikshna jwara_ (severe, associated with delirium, giddiness and breathlessness causes death of the patient either on the seventh, tenth or twelfth day. 
+
+_Jwara_ occurring in a weak and emaciated person (_kshina_), associated with edema (_shunasya_), seated in deeper body tissues (_gambhira_), severe (_balvan_) and that occurring for very long durations (_dirgha ratrika_) are incurable ones. The _jwara_ in which, the mid hair part of scalp becomes visible, is also considered incurable (_kesha simanta krita_).[49-53] 
+
+### Five types of _jwara_ as per frequency
+
+#### _Santata jwara_
+
+The aggravated _dosha_ circulate through the channels carrying _rasa_ (the first nutritional dhatu equivalent to plasma) and spread all over the body and gets stagnated, causes _santata jwara_. This _santata jwara_ is extremely difficult to treat and manifests its symptoms very quickly. In this type the patient either gets cured (on the pacification of _dosha_) or killed (on the further aggravation of _dosha_) on the 10th, 12th or 7th day. 
+
+The _dosha_ involved in the manifestation of _santata jwara_ is in accordance with season (_kala_), vitiated factors (_dushya_), and the physical constitution of the patient (_prakriti_) due to which it is _nispratyanika_ (having no opponent / which cannot be inhibited). Thus, it is known to be unbearable. 
+
+Additionally, the other _dhatu_ , urine, stool and _vata_ etc. _dosha_ , also get affected simultaneously in this fever. If the involved factors like _rasa_ are purified optimally the fever gets subsided in either 7 or 10 or 12 days, otherwise, the fever kills the patient within that period. 
+
+If, some of the 12 constituents of this fever get purified, while some others remain unpurified, then the fever goes in latent stage on the 12th day and reappears on the 13th day and may persist for longer duration. In this way, a physician should understand the causes and features of this type of fever and should initiate the treatment only after a proper understanding of these factors, mostly by the methods beginning with _apatarpana_. [53-61] 
+
+#### _Satata jwara_
+
+The aggravated _dosha_ when generally lodges in the _rakta dhatu_ , then they manifest with fever twice in 24 hours (Nycthemeron) depending on the time of _dosha_ aggravation or subsidence. The _dosha_ in this type of _jwara_ can be counteracted. [61-62] 
+
+#### _Anyedyushka jwara_
+
+Vitiated _dosha_ produce _anyedushka_ type of _jwara_ with the support of any one factor amongst the _kala_ (time), _prakriti_ (physical constitution) and _dushya_ (vitiated factors) leading to obstruction in _medo vaha sira_ (the channel of circulation of _medasa_ (fat)). It can be counteracted. This _jwara_ occurs only once during day and night. [63-64] 
+
+#### _Tritiyaka_ and _chaturthaka jwara_
+
+When the _dosha_ afflict the _asthi dhatu_ (bone tissue) and _majja dhatu_ (bone marrow), they cause the _tritiyaka_ and _chaturthaka jwara_ respectively. 
+
+Some scholars opine that the different types of _jwara_ viz the _anyedushaka, tritiyaka_ and _chaturthaka jwara_ manifest because of the affliction of the some alternate _dhatu_ by the _dosha_. _Anyedushyaka jwara_ is caused by the affliction of _rakta dhatu_ (blood) also. _Tritiyaka jwara_ manifests when the _dosha_ afflict the _mamsa dhatu_ (muscular tissues). _Dosha_ lodging in the channels of circulation of _medo dhatu_ cause _chaturthaka jwara_. 
+
+_Anyedushka jwara_ occurs every day, while _tritiyaka jwara_ occurs after a gap of one day and _chaurthaka_ occurs after two days gap. [64-67] 
+
+### Cause of alterations in _jwara_ episodes
+
+As a seed remains dormant in the soil and germinates at a favorable time, similarly the _doshas_ remain in dormant condition in the _dhatu_ and get aggravated at a favorable time. These _dosha_ gain strength at an appropriate time and when the power of the inhibiting (disease preventing) factors has subsided, then the _tritiyaka_ and _chaturthaka jwara_ manifest. 
+
+The _dosha_ lose their strength after manifesting their signs and symptoms of aggravation and get lodged in their respective places. They again get aggravated and afflict the person with _jwara_. 
+
+The _tritiyaka jwara_ manifests in three types – 

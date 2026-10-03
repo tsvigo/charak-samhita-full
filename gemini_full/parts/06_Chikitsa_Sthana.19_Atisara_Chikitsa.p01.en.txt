@@ -1,0 +1,290 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Query by Agnivesha
+ * 2.2 Historical origins of _atisara_
+ * 2.3 Vataja atisara
+ * 2.4 Pittaja atisara
+ * 2.5 Kaphaja atisara
+ * 2.6 Sannipataja atisara
+ * 2.7 Signs and symptoms of _sannipataja atisara_
+ * 2.8 Guidelines for starting treatment
+ * 2.9 Exogenous (psychological) diarrhea
+ * 2.10 Management of exogenous (psychological) diarrhea
+ * 2.11 Principles of treatment
+ * 2.12 Recipes of _pramathya_
+ * 2.13 Diet and drinks for _atisara_ patient
+ * 2.14 Treatment of vataja atisara
+ * 2.15 Management of diarrhea associated with pain
+ * 2.16 Treatment of _pravahika_ (dysentery)
+ * 2.17 Treatment of _varcha-kshaya_ (scanty formation of stool)
+ * 2.18 Treatment of prolapse of rectum
+ * 2.19 _Changeri ghritam_
+ * 2.20 _Chavyadi ghritam_
+ * 2.21 _Anuvasana basti_ in prolapse of rectum
+ * 2.22 Management of strangulated prolapsed rectum
+ * 2.23 Use of medicated milk
+ * 2.24 Treatment of pittaja atisara
+ * 2.25 Recipes for pittaja atisara
+ * 2.26 Administration of milk
+ * 2.27 Piccha basti (slimy medicated enema)
+ * 2.28 _Raktatisara_ (bloody diarrhoea)
+ * 2.29 Treatment of _raktatisara_
+ * 2.30 Measures to alleviate bleeding in _raktatisara_
+ * 2.31 Treatment of _sannipataja atisara_
+ * 2.32 Hemostatic recipes
+ * 2.33 Treatment of anal suppuration
+ * 2.34 Pichcha-basti(mucilaginous enema) for dysentery
+ * 2.35 Medicated enema and recipes of linctus
+ * 2.36 Suppuration of anal sphincters
+ * 2.37 Treatment of kaphaja atisara
+ * 2.38 Management of complications of _atisara_
+ * 2.39 Piccha-basti and anuvasana-basti
+ * 2.40 Need for immediate control of vata
+ * 2.41 Principle of treatment of _sannipataja atisara_
+ * 2.42 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Acute (sudden onset) diarrhea
+ * 4.2 Chronic (or relapsing) diarrhea [1]
+ * 4.3 Pathophysiological factors of endogenous diarrhea
+ * 4.4 Management protocol of endogenous diarrhea
+ * 4.4.1 Assessment of strength of patient
+ * 4.4.2 Subjective and objective parameters
+ * 4.5 Prevention of _atisara_
+ * 4.5.1 _Atisara_ can be prevented by following measures
+ * 4.5.2 Current clinical management in Ayurveda practice
+ * 4.5.3 Researches on _atisara_ and medicines
+ * 4.6 Management of exogenous diarrhea/_atisara_
+ * 4.7 Important guidelines and precautions for diarrhea management
+ * 4.8 List of research on review of _atisara_
+ * 4.9 Research Areas
+ * 4.10 Further reading
+ * 5 References
+
+## Introduction
+
+_Grahani_ and _atisara_ \- both manifest due to the vitiation of agni and share common features of impairment of digestion resulting in indigestion and loose motions. Therefore, this chapter should logically precede or succeed the chapter on _grahani_. But it is described three chapters after that on _grahani_. The reason for this unusual sequencing of these topics is that since _pandu_ is a common symptom and sequelae of the malabsorption syndrome (_grahani_), the chapter on _pandu_ follows _grahani_. Now, dyspnea (_shwasa_) is a major symptom of _pandu,_ and thus, follows the chapter on _pandu_. Similarly, chapter on _kasa_ (cough) follows _shwasa_ because of their relationship. That explains the sequencing of _grahani_ and _atisara_ in Charak Samhita. 
+
+Ayurveda considers _atisara_ as a defense mechanism of the body to eject out any toxic material from it. Therefore, it is recommended that in _amaja_ (or initial) state loose motions should not be checked. After evacuation of toxins from the body, fasting and digestive drugs are prescribed as a cure for milder forms of diarrhea. However, for other types of diarrhea, various preparations, diet and basti are advised. Picchabasti (mucilegue type of medicated enema) is prescribed particularly if blood accompanies the stool. Appropriate treatments for ulcer, suppuration of anus and prolapse of anus are dealt with, since these accompany the more complex forms of diarrhea. 
+
+_Atisara_ leads to the depletion of water and beneficial salts, causing dehydration in the body. This provokes vata, and therefore requires taking special care of vata, particularly if, the _atisara_ is caused by all the three dosha. Hydration of the body by means of oral administration of milk, buttermilk and various liquid preparations is advised. Goat’s milk is very useful in bloody diarrhea.The treatment of cholera and other dehydrating diarrheal diseases was revolutionized by the promotion of oral rehydration solution (ORS), the efficacy of which depends on the fact that glucose-facilitated absorption of sodium and water in the small intestine remains intact in the presence of cholera toxin. Where indicated, appropriate antimicrobial agents can shorten the duration of illness from 3–4 days to 24–36 h, hence it should be started depending on the course of illness. Adequate prophylaxis measures should be taken to prevent the infectious diarrhoea. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Atisara chikitsa" (Management of diarrhea and associated disorders). Thus said Lord Atreya. [1-2] 
+
+### Query by Agnivesha
+
+On one occasion, when Lord Atreya was sitting on the northern slope of the Himalayas surrounded by the sages after completing his daily worship and oblations to the fire, Agnivesha approached him, offered his humble salutations to him, and requested him to expound the origin, etiology, signs and symptoms, and treatment of _atisara_ (diarrhea) for the well-being of humanity [3] 
+
+### Historical origins of _atisara_
+
+After consideration of the above submission of Agnivesha, Lord Punarvasu said, “O Agnivesha, listen to me. I shall give a detailed response to your question. 
+
+In the Vedic age/ancient times, sacrificial animals used to get released in the wild soon after the recitation of the sacrificial mantras, and these animals were not killed during the course of the sacrifice (_yajna_). However, in the subsequent periods following the reign of Daksha Prajapati, the sons of Manu named Narishyana, Nabhag, Ikshvaku, Nriga, and Sharyati, sacrifice of these animals became a part of the _yajna_ (sacrificial ritual) at their instinctive acquiescence. After that, during the sacrifice over a long course of time performed by Prushadra (name of a king), as goats were not obtainable, even the sacred cows were also offered up for sacrifice. This deviation bewildered (or disturbed) all of humanity leading to grief. When the flesh of these sanctified cows were eaten, by the heavy, hot and incompatible to human nature properties of their flesh, as well as the use of what was not prescribed by the scriptures, the people started suffering from the loss of their ability to digest and losing their mental equilibrium, resulting in _atisara_ (diarrhea). Thus, diarrhea originated from the _yajna_ performed by Prushadhra [4] 
+
+### Vataja atisara
+
+ * Vata dominant _atisara_ occurs if a person with vata dominant constitution indulges in following: Exposure to strong wind, excess sunlight, and physical exercise;
+ * Indulgence in dry and rough or less quantities of food (_pramitashana_) or irregular meals or strong alcoholic drinks or excessive sexual intercourse; and
+ * Suppression of natural urges.
+
+The above factors aggravate vata, afflicting the power of digestion (or, reducing the agni). With the depletion of agni, the aggravated vata forces urine and sweat to the colon (_purishashaya_), liquefying the stool and manifesting vataja atisara. 
+
+Vataja amaja atisara (early stages of vataja atisara): 
+
+The early signs and symptoms of vataja amaja atisara are as follows: 
+
+ * The stool is slimy and has mucus (_ama_);
+ * The stool floats on water;
+ * The stool, when placed over the earth, gets soaked;
+ * The stool is rough (i.e., not oily) and liquid;
+ * Evacuation of stool is accompanied with colic pain;
+ * The stool smells like undigested food;
+ * Evacuation of stool is associated with little or no sound;
+ * Evacuation of the stool is not accompanied with flatus and urine; and
+ * The aggravated _vata_ (flatus) moves in the _koshtha_ (gastrointestinal tract) obliquely along with gurgling sound, causing colic pain.
+
+The above mentioned signs and symptoms pertain to the _ama_ stage (primary or immature stage) of the vataja atisara. 
+
+Vataja niramaja atisara (advanced stage of vataja atisara): 
+
+In the _pakva_ stage (advanced or mature stage) of vataja atisara, the signs and symptoms manifested are as follows: 
+
+ * The patient evacuates hard stool in small quantities;
+ * The evacuation of stool is associated with sound and colic pain;
+ * The stool is frothy and slimy;
+ * The patient suffers from griping pain, horripilation, groaning, dryness of the mouth, pain in the lumbar region, thighs, sacral region, knees, back and sides of the chest, and prolapse of the rectum; and
+ * Evacuates scybalous stool frequently.
+
+According to some physicians, this type of diarrhea is also called _anugrathita-atisara_ because of evacuation the scybalous stool. [5] 
+
+### Pittaja atisara
+
+A person of pittaja constitution, by indulging in the following etiological factors, gets afflicted by pittaja atisara: 
+
+ * Excessive intake of sour, saline, pungent, alkaline (_kshara_), hot and sharp (_teekshna_) ingredients;
+ * Affliction of the body by excessive exposure to the heat of strong fire, hot rays of the sun and hot wind; and
+ * Excessive disposition to negative emotions such as anger, jealousy, etc.
+
+Due to the above mentioned factors, pitta gets aggravated, in turn suppressing the power of agni (digestion) on account of its liquidity and reaches the colon, disintegrates the stool because of its heat, liquidity and mobility leading to the manifestation of pittaja atisara. 
+
+The signs and symptoms of pittaja atisara are as follows: 
+
+ * The patient experiences frequent loose motions which are either yellow, green, blue or black in color;
+ * The stool is mixed with blood and bile, and is excessively foul smelling;
+ * The patient suffers from morbid thirst, burning sensation, excessive sweating, fainting, colic pain and hot sensation; and
+ * There is suppuration of the anus [6]
+
+### Kaphaja atisara
+
+A person of kaphaja type of constitution indulging in the following factors experiences the manifestation of kaphaja atisara: 
+
+ * Consumption of heavy, sweet, cold and unctuous ingredients in excess;
+ * Inactivity of the mind and indolence; and
+ * Habitually sleeping during the day time.
+
+Because of the above mentioned factors, kapha gets aggravated. It moves downwards due to its nature (i.e heavy, sweet, cold and unctuous) and afflicts the agni (power of digestion) on account of its natural cooling property (which is contradictory to the heating effect of agni). Thereafter, having arrived at the colon, it liquefies the stool to cause kaphaja atisara. 
+
+The signs and symptoms of kaphaja atisara (diarrhea) are as follows: 
+
+ * The stool is unctuous, white, slimy, fibrous, mixed with mucus as well as undigested food particles, heavy, foul-smelling and mixed with phlegm;
+ * The patient suffers from continuous, griping, colic pain
+ * The patient evacuates stool frequently in small quantities;
+ * The patient suffers from heaviness in the abdomen, in the region of urinary bladder and in the pelvic region;
+ * The patient feels the urge for passing stool even after having evacuated; and
+ * Suffers from horripilation, nausea, excessive sleep, indolence, prostration and dislike for food.
+
+These are the specific features of kaphaja atisara. [7] 
+
+### Sannipataja atisara
+
+The causative factors of _sannipataja atisara_ (diarrhea caused by the simultaneous vitiation of all the three dosha) are as follows: 
+
+ * Intake of excessively cold, unctuous, ununctuous, hot, heavy, coarse and hard ingredients;
+ * Intake of irregular meals, ingredients of food having mutually contradictory properties and unwholesome food;
+ * Intake of food long after the scheduled time;
+ * Intake of food without caring for its wholesomeness or otherwise;
+ * Drinking alcohol and other drinks which are “polluted”, toxic or harmful;
+ * Drinking alcohol in excess;
+ * Not resorting to elimination therapies (in appropriate seasons);
+ * Inappropriate administration or non-administration of therapeutics;
+ * Excessive exposure to fire, hot rays of the sun, strong wind and bath etc., in strong current of water;
+ * Not sleeping or sleeping in excess;
+ * Suppression of natural urges;
+ * Not resorting to appropriate regimens during different seasons,
+ * Over-courageous attitude;
+ * Excessive exposure to fear, grief and anxiety; and
+ * Excessive emaciation due to worm-infection, consumption, fever and piles (bleeding).
+
+Because of the above mentioned causative factors, agni (power of digestion) gets vitiated as a result of which all the three dosha get aggravated. These aggravated dosha in turn further afflict the agni, and having entered into _pakvashaya_ (colon) cause _sannipataja atisara_. [8] 
+
+### Signs and symptoms of _sannipataja atisara_
+
+The three aggravated dosha cause excessive vitiation of dhatu (tissue elements, e.g., rakta (blood)), resulting in the appearance of different colors (in the stool). The nature of these colors depends upon the nature of the vitiated dhatu and dosha. 
+
+If the dhatu like rakta] are excessively vitiated then the following signs and symptoms are manifested: 
+
+ * The patient passes stool having yellow (like the color of turmeric), green, blue, reddish (like the color of _manjistha_), pink (like the color of water in which meat is washed), red, black, white and yellowish (like the color of pig-fat) in color;
+ * The patient suffers from continuous pain or may be free from any pain (in the abdomen). The above mentioned signs and symptoms may be manifested in their entirety or only some of these may be manifested.
+ * Sometimes, the patient may pass scybalous stool, sometimes it may be mixed with mucus (_ama_) and sometimes, the stool may be free from mucus (_pakva_);
+ * There is depletion of the muscle tissue, blood and strength;
+ * The power of digestion (agni) of the patient is suppressed; and
+ * There is impairment of the taste in the mouth of the patient.
+
+Such a patient is difficult to cure (_krichchra-sadhya_). 
+
+The patient becomes incurable (_asadhya_), if the diarrhea is associated with the colors and complications as follows: 
+
+ * The color of stool is like dark blood (melena), piece of liver, appearance like washing of fat or flesh, curd,ghee, marrow, fat, milk and _vesavara_(minced meat); or dark blue, dark red, dark black, or clear like water.
+ * The stool is exceedingly greasy; or green, blue, saffron color;
+ * Certain patients passes the stool with turbidity, slimy, fibrous, mixed with mucus and spotted with _chandraka_ (colored patches circular in shape and shining like moon);
+ * The stool has exceedingly bad smell like that of a dead body or it is exceedingly putrid in smell or the stool bears the smell of undigested products or it is like (raw) fish;
+ * The stool attracts flies in excess;
+ * The stool contains slough and tissue elements in excess;
+ * The stool contains less or no fecal matter;
+ * The patient continuously suffers from morbid thirst, burning sensation, fever, giddiness, fainting, hiccup, asthma, excessive pain or no pain;
+ * There is prolapse and inflammation of the anal canal or the anal sphincters come out of their sites or the whole of the rectum comes out (_mukta-nala_);
+ * There is excessive loss of strength, muscle tissue and blood;
+ * There is pain in all the joints and bones; and
+ * There is sudden cessation of the signs and symptoms of the disease.
+
+Such a patient should be rejected for the treatment (as it is incurable). [9] 
+
+### Guidelines for starting treatment
+
+The patient who has not yet reached the stage of absolute incurability should be properly treated after the examination of causative factors, _upashaya_ (pacifying factors) and nature of the aggravation of specific dosha. In this condition, the most aggravated dosha should be treated in the beginning followed by the treatment of the other less aggravated dosha. [10] 
+
+### Exogenous (psychological) diarrhea
+
+The exogenous type of _atisara_ (diarrhea) is of mental origin and is of two types. One of these is caused by fear and the other is caused by grief. Their signs and symptoms are similar to those of the _vatika_ type of _atisara_. Thus _atisara_ or diarrhea is of two types, viz., _nija_ or endogenous (like vataja, pittaja, kaphaja and _sannipataja atisara_ and _agantuja/manasa_ or exogenous [11] 
+
+### Management of exogenous (psychological) diarrhea
+
+The following therapies help to cure _agantuja/manasa_ or exogenous: 
+
+Both fear and grief causes aggravation of vata instantaneously. Vata alleviating drugs and therapies should be administered for the treatment of exogenous _atisara_. The patient suffering from diarrhea caused by fear (_bhayaja_) should be exhilarated. The patient suffering from diarrhea caused by _shoka_ (grief) should be consoled [12-13] 
+
+### Principles of treatment
+
+The following principles of treatment are used in management of _atisara_ : 
+
+ * When the diarrhea is caused by the accumulated (aggravated) dosha impelled by _vidagdha_ (fermentation of undigested) food, the patient should be given laxative to eliminate the dosha.
+ * In the initial state i.e. _ama_ (primary or immature) of diarrhea, stopping or binding therapies are never indicated.
+ * Administration of such bowel-binding therapies in the initial stage obstructs the movement and elimination of the already aggravated dosha leading to complications like _dandakalasaka_ (obstruction to intestinal peristalsis), _adhmana_ (flatulence), _grahani roga_ (digestive disorders like sprue syndrome), piles, fistula-in-ano, edema, anemia, splenic disorders, _kushtha_ (obstinate skin diseases including leprosy), _gulma_ (abdominal lumps), _udara roga_ (obstinate abdominal diseases including ascites) and fever.
+ * Hence, the physician should ignore the downward movement of the detached (_utklishta_) morbid matter, which is moving downwards on its own.
+ * Diarrhea should be allowed to continue and should not be stopped by constipating medicines.
+ * If the diarrhea is associated with griping pain (difficulty in evacuating), then _haritaki_ should be given as a mild laxative.
+ * Once the morbid matter is eliminated through downward movement then this abdominal disease (diarrhea) gets cured, the body becomes light and the power of agni becomes strong.
+ * Moderately aggravated dosha should be managed by _pramathya_ (a type of decoction of drugs) which stimulates the power of digestion (dipana) and which is carminative (pachana) should be administered. Slightly aggravated dosha should be managed by langhana (fasting therapy) [14-19].
+
+### Recipes of _pramathya_
+
+Three recipes of _pramathya_ which are useful in the treatment of diarrhea are as follow: 
+
+ * Decoction of _pippali, nagara, dhanyaka, bhutika, abhaya_ and _vacha_ for vataja atisara __
+ * Decoction of _hrivera, bhadra-musta, bilva, nagara_ and _dhanyaka_ for pittaja atisara _)_
+ * Decoction of _prashniparni, svadamstra, samanga_ and _kantakarika_ for kaphaja atisara __
+ * Decoction of _vacha_ and _prativisha_ for vataja atisara __
+ * Decoction of _musta_ and _parpataka_ for pittaja atisara __
+ * Decoction of _hrivera_ and _sringavera_ for kaphaja atisara __
+
+[Note: Decoction should be prepared as per the procedure described for _sandanga-paniya_ in C.S.Ci.3-145.] [20-22] 
+
+### Diet and drinks for _atisara_ patient
+
+ * At appropriate meal time, if the patient feels hungry, light food should be given to eat. It enhances the appetite and stimulates agni and as a result the strength is promoted immediately.
+ * Depending upon the wholesomeness (satmya) of the patient, light food along with buttermilk or _kanji_ (a sour drink), _yavagu_ (thick gruel), _tarpana_ (roasted flour of serials mixed with water), or alcoholic drink or honey should be given. Then gradually _yavagu_ (thick gruel), _vilepi_ (a sticky gruel), _khanda_ (a sour appetiser), _yusha_ (vegetable soup) and boiled rice mixed with meat soup which are prepared by adding digestive, stimulants and astringent (constipative) drugs should be given.
+
+Ingredients which are dipana (digestive stimulant) and _grahi_ (constipating) are described in [Cha. Sa. Sutra Sthana 4/9 ] should be administered [23-25] 
+
+### Treatment of vataja atisara
+
+The following drugs are useful for the cure of vataja atisara(diarrhea): 
+
+ * _Shalaparni, prashniparni, brhati, kantakarika, bala, svadamstra, bilva, patha, nagara, dhanyaka, shati, palasha, hapusha, vacha, jiraka, pippali, yavani, pippali-mula, chitraka, hastipippali, vrikshamla, sour pomegranate, hingu, vida_ and _saindhava_ -these ingredients should be appropriately used in processing food preparations.
+ * Drugs belonging to the vata and kapha' alleviative group and those drugs which are dipana (digestive stimulant), pachana (carminative), _grahi_ (constipating), _balya_ (promoter of strength) and _rochana_ (appetizer) should be prescribed. [26-29]
+
+### Management of diarrhea associated with pain
+
+### Treatment of _pravahika_ (dysentery)
+
+The following _khada_ (a sour appetizer) cures _pravahika_ (dysentery): 
+
+ * It is prepared by adding the paste of tender fruits of _bilva_ , equal quantities of the paste of sesame, cream of sour curd and copious quantities of ghee [34].
+
+### Treatment of _varcha-kshaya_ (scanty formation of stool)
+
+If there is _varcha-kshaya_ (scanty stool), then the patient should be given the following recipes: 
+
+ * Cream of curd sizzled with ghee and oil, and mixed with jaggery and _shunthi_ , alcohol sizzled with ghee and oil, sour fruits sizzled with ghee and oil, soup of _granjanaka_ , meat soup of _lopaka_ added with sour ingredients, meat soup of _kachchapa_ added with ghee and sour ingredients, or the soup of the meat of _barhi, tittiri, daksha_ or _vartaka_. These soups should be used as _vyanjana_ (side-dish).
+ * The red variety of _shali_ rice boiled by adding ghee and sour ingredients.
+ * The meat soup of the trunk of sheep should be added with its blood and sizzled by adding the extract of _dadima, dhanya_ , ghee and _nagara_. This soup should be used for boiling red variety of _shali_ rice. Intake of this cooked rice and drinking this soup make the patient free from the ailments caused by _varcha-kshaya_ (scanty stool) [35-41]
+
+### Treatment of prolapse of rectum
+
+If there is prolapse of rectum and colic pain, and if the diarrhea is free from _ama_ , then the patient should be given medicated ghee prepared with sour drugs or _anuvasana_ (unctuous enema). [42] 
+
+### _Changeri ghritam_

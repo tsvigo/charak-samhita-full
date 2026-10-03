@@ -1,0 +1,260 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Agnivesha's query
+ * 2.2 Etiological factors
+ * 2.3 Sites of affliction
+ * 2.4 Premonitory symptoms
+ * 2.5 Types of _vatarakta_
+ * 2.6 Clinical features of _uttana vatarakta_ (superficial type)
+ * 2.7 Clinical features of _gambhira vatarakta_ (deep type)
+ * 2.8 Differential features as per dosha dominance
+ * 2.9 Prognosis
+ * 2.10 Complications
+ * 2.11 Treatment principles
+ * 2.12 Modes of _raktamokshana_
+ * 2.13 Complications of blood letting in vata dominant condition
+ * 2.14 General principles of management
+ * 2.15 Specific treatment
+ * 2.16 Contra-indications for _vatarakta_
+ * 2.17 Dietary regimen
+ * 2.18 Various formulations
+ * 2.19 _Parushaka_ ghee
+ * 2.20 _Jivaniya_ ghee
+ * 2.21 _Anulomana_ treatment
+ * 2.22 Purgative formulations
+ * 2.23 Importance of basti
+ * 2.24 _Madhuparnyadi tailam_
+ * 2.25 _Sukumaraka tailam_
+ * 2.26 _Amritadya tailam_
+ * 2.27 _Mahapadma tailam_
+ * 2.28 _Khuddaka padmaka tailam_
+ * 2.29 _Shatapaki madhuka tailam_
+ * 2.30 _Shatapaki_ or _sahastrapaki bala tailam_
+ * 2.31 _Pinda tailam_
+ * 2.32 _Dashamula_ processed milk
+ * 2.33 Various external applications
+ * 2.34 Treatment of obstruction by excess meda dhatu and kapha
+ * 2.35 Treatment of severe vitiation of rakta
+ * 2.36 Treatment of complications
+ * 2.37 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Etiological factors
+ * 4.1.1 Diet
+ * 4.1.2 Psychological factors
+ * 4.1.3 Lifestyle habits
+ * 4.2 Pathogenesis
+ * 4.3 Clinical features
+ * 4.3.1 Types
+ * 4.4 Differential diagnosis
+ * 4.5 Constituent conditions of _vatarakta_
+ * 4.6 Investigations
+ * 4.7 Complications
+ * 4.8 Prognosis considering present developments in medicine
+ * 4.9 Management of diseases (Treatment protocols)
+ * 4.9.1 Principles of management
+ * 4.9.2 Evidence based clinical practices
+ * 4.10 Potential areas /scope for further research
+ * 5 References
+
+## Introduction
+
+After describing the chapter on various presentations of vata dominant disorders, the chapter on vata being afflicted by vitiated rakta is narrated. _Vatashonita_ is caused by vitiated vata doshaand rakta which impede the _gati_ (movement) of each other. It is also called as _adhyaroga_ because it affects mainly affluent people who are not habitual to physical activity and indulged in factors responsible for vitiation of rakta. People of pitta Prakriti (pitta constitution) are prone to develop _vatashonita_ , because _sukumaratva_ (youthful personality) is the characteristic feature of pitta Prakriti. 
+
+In _vatashonita_ , there is abnormality in movements of vata dosha due to abnormality of rakta. It is a group of inflammatory rheumatic disorders covering gouty arthritis, rheumatoid arthritis, connective tissue disorders, inflammatory polyarthritis, vasculitis depending upon the site of vitiation. 
+
+The vitiated factors impair agni (digestion and metabolism) at _jatharagni_ and _dhatvagni_ level. In _vatarakta_ , the vitiated vata dosha affects _jatharagni_ to cause _vishamagni_ and rakta dhatvagni. This impairment leads to increase in blood and serological parameters like uric acid, C-reactive protein etc. These can be used as biomarkers for assessment of efficacy of therapy. 
+
+In process of rakta-dhatvagni, sira (vessels) and kandara (tendons) are byproducts. Therefore, impairment of rakta-dhatvagni leads to involvement of deep vessels and connective tissues. This indicates _vatarakta_ also covers diseases like vasculitis along with thrombosis and embolism, Thromboangiitis obliterans (Burger’s disease), and Raynaud’s disease. 
+
+The chapter explains various conditions of involvement of dosha, dushya and the site of vitiation. Treatment depends upon the assessment and correction of these factors causing the conditions. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Vatashonita (or vatarakta) Chikitsa" (Management of diseases involving vata and rakta). Thus said Lord Atreya. [1–2] 
+
+### Agnivesha's query
+
+After finishing his daily worship and _yagna_ (religious sacrifice), Punarvasu was sitting admidst the sages. 
+
+Then with concentrated mind, looking like a flame of fire, Agnivesha asked him, “Sir, please explain the etiology, symptomatology and treatment of disease (_vatashonita_) which is a combination of vata and rakta, and is like that of fire and wind. The teacher (Punarvasu) explained. [3–4] 
+
+### Etiological factors
+
+Excess intake of salty, sour, pungent, alkalies and fatty substances, hot food, consumption of rotten and dried flesh, fleshes of aquatic animals like fish, animals living in the area where there are dense forest and heavy rainfall, cake of oil seeds after extraction of oil (_pindyaka_), radish (Raphanus sativus), red gram, black gram, green vegetables, _palala_ (grated flesh), sugarcane, curd, sour gruel, _sauvira_ and _shukta_ (vinegar), butter milk, _sura_ and _asava_ (alcohol and medicinal preparations having high concentration of alcohol), intake of food inspite of indigestion (_ajirna_), incompatible food (_viruddhahara_), eating food before proper digestion of previous one (_adhyashana_), anger, sleeping in daytime and vigil during the night; in general the delicate persons who are indulged in sweet and delicious food substances and are not in habit of physical activities, the vata and _shonita_ vitiates. 
+
+Due to injuries, not purifying the body (by _shodhana karma_) and indulged in consuming astringent, pungent, bitter, _ruksha_ food items (grains of low nutritional content), starvation, traveling by horses, camels and carts, sporting in water, jumping, leaping, excessive walking in hot season, excessive sexual intercourse and suppression of natural urges are responsible for vitiation of vata. 
+
+Due to etiological factors described earlier and obstruction in passage by vitiated rakta the vata aggravates, which again vitiates the rakta and known as _vatashonita_ , having synonyms as _khuda, vatabalasa_ and _adhyavata_. [5-11] 
+
+### Sites of affliction
+
+_
+
+Its sites are hands, feet, fingers and all other joints. At first it settles its root (initial involvement) in hands and feet and then spread all over the body. [12] 
+
+Due to subtleness and pervasiveness of vata, and liquidity and flowing property of rakta, they travel all over the body through blood vessels. 
+
+Near the _parva sandhis_ (small joints of fingers), as blood vessels are in slanting pattern, the vitiated blood is stagnated there and thereafter the vitiated vata and rakta along with pitta etc. produce different types of _vedana_ (unpleasant sensation like pain etc.) so that there are _dukha_ (pain and other abnormal sensation) in the joints. The _vedana_ (pain) is so severe, which is difficult to tolerate. [13–15] 
+
+### Premonitory symptoms
+
+There is excessive or absence of perspiration, blackishness of the body, poor or lack of tactile sensation, high intensity of pain on trauma, laxity of joints, lassitude, malaise, appearance of boils, feeling of heaviness, numbness and itching in knee, thigh, waist, shoulder, hands, legs and other joints of the body, appearance of pain in the joints and abatement (without treatment), discoloration of body, appearance of mandala (circular skin lesions) are the premonitory symptoms of _vatashonita_. [16–18] 
+
+### Types of _vatarakta_
+
+As this is said there are two types of _vatashonita_ \- _uttana_ (superficial) and _gambhira_ (deep). The _uttana_ is located in twaka(skin) and mamsa dhatu (muscles) while the _gambhira_ is located in the deep tissues. [19] 
+
+### Clinical features of _uttana vatarakta_ (superficial type)
+
+Symptoms of _uttana vatashonita_ are itching, burning sensation, pain, stretching sensation, piercing pain, fasciculation, feeling of constricting and the color of skin becomes blackish, red or coppery. [20] 
+
+### Clinical features of _gambhira vatarakta_ (deep type)
+
+Symptoms of _gambhira vatashonita_ are – edema in the involved parts of the body, stiffness of joints, hardness of the part, severe pain inside, the color of the part involved becomes either blackish or coppery. There is burning sensation, pricking pain, fasciculation and finally the part become inflamed and ulcerated. When vata reaches sandhi, asthi dhatu and majja dhatu (joints, bones and bone marrow) it causes severe pain and burning sensation. The forcefully moving vayu having reached the joints causes cutting nature of pain whereby making them crooked, produces limping or lameness while moving all over the body. When the symptoms of both types – _uttana_ and _gambhira_ are present in a patient, it should be considered as _ubhayashrita_ (superficial and deep both). [21–23] 
+
+### Differential features as per dosha dominance
+
+Now listen the clinical features found in predominance of vata, rakta, pitta, kapha or in combination of two or all three dosha. If vata is predominant, there is sirayama (stretching sensation in sira or veins), pain, fasciculation, pricking pain, swollen part becomes blackish , dry , increasing and decreasing grayish hue, constrictions of dhamani (arteries, ligaments) of fingers, stiffness of body parts and intense pain, constriction, stiffness and hatred to cold by the patient. These are the symptoms of vata predominance. 
+
+If rakta is predominant, there is swelling, severe pain of pricking nature, tingling sensation, colour of part of skin becomes coppery, not diminished by application of either unctuous or dry substances associated with itching and moistening over the part. If pitta is predominant, there is burning sensation over the part, pain, fainting, perspiration, thirst, narcosis, giddiness, redness of the part affected, pain of tearing nature, inflammation and atrophy of the part. 
+
+If kapha is predominant there is feeling of wetness of the skin, heaviness, unctuousness, numbness and mild pain. When there is predominance of two dosha or all three dosha there will be combination of symptoms and etiological factors as well. [24–29] 
+
+### Prognosis
+
+When there is recent onset and predominance of single dosha, vatashonita is sadhya (curable). The disease arising from predominance of two dosha is yapya (palliable). The disease arising from predominance of all three dosha and has developed upadrava (complications) as well, is asadhya (incurable). [30] 
+
+### Complications
+
+Insomnia, anorexia, dyspnea, gangrene, stiffness in the head, fainting, narcosis, pain, thirst, fever, mental confusion, shivering, hiccup, lameness, eryseplas, inflammation and ulceration, pricking pain, giddiness, exhaustion, crook like deformity of fingers, appearance of blisters, burning sensation, stiffness in _marma_ (vital part of the body), appearance of tumors, if these symptoms have appeared the disease is incurable. Even if there is mental confusion alone, then also the disease is incurable. The patient should not be treated if there is profuse discharge from the ulcer, discoloration, stiffness, the lesion has become like tumor, constriction of the part and damage to the senses. 
+
+If all the above complications are not present, then the disease is _yapya_ (palliable). If the complications are not present, then it is curable. [31–34] 
+
+Vitiated vata having reached the joints of extremities obstruct the way of the rakta and vitiated rakta obstructs the way of vata, thus causes the unbearable pain and leads to death. [35] 
+
+### Treatment principles
+
+In this condition, the blood should let out with _shringa_ (horn), _jalauka_ (leech application), _suchi_ (needle), _alabu_ (hollow bitter gourd), _pracchana_ (scratching) or _siravyadha_ (venesection) depending on morbidity and strength of the patient. [36] 
+
+### Modes of _raktamokshana_
+
+Bloodletting should be done by applying the leech if one is suffering from discomfort, burning sensation, pain and pricking sensation. If the patient is suffering from tactile dysfunction, itching and tingling, his blood should let out with either _shringa_ (animal horn) or _alabu_ (hollow gourd). [37] 
+
+If the symptoms and complications in _vatashonita_ are not localised to a specific part rather are of fleeting nature, the blood should be let out with _siravyadha_ (venesection) or by _pracchana_. In case if there are _angaglani_ (_anga shosha_ i.e.atrophy), dryness, and other symptoms of vata dominance, the bloodletting should not be done. [38] 
+
+### Complications of blood letting in vata dominant condition
+
+### General principles of management
+
+After proper oleation, _vatarakta_ patient shall be treated with mild therapeutic purgation with unctuous substances or with dry substances (in case of excess oleated patient). After purgation, the patient should be given frequent basti (enema of medicated substances) including anuvasana basti (unctuous enema) and niruha basti (enema made from decoction of medicinal herbs). Besides fomentation, massage, ointments, food and _sneha_ (unctuous substances) be given to the patient which do not cause burning sensation. Now listen; specific remedies. [41–42] 
+
+### Specific treatment
+
+In case of _uttana vatashonita_ affecting superficial tissues only, the patient should be treated with _alepana_ (affected part is covered with medicinal paste), _abhyanga_ (massage), _parisheka_ (bathing in warm decoction or unctuous substances) and _upanaha_ (application of poultice). 
+
+In the case of _gambhira vatarakta_ the patient should be treated with purgation, asthapana basti (enema with decoction of medicinal plants) and snehapana(drinking medicated oil/ghee). 
+
+In the disease where the vata is predominant, one should over come the disease with medicated ghee, taila, vasa, majja (ghee, oil, fat, and bone marrow of animals) either by intake or massage or enema and the diseased part should be treated with warm _upanaha_ (warm poultice). 
+
+Where the rakta and pitta both are predominant, patient should be treated by mild purgation, after _ghrita pana_ (intake of medicated ghee), intake of milk, bathing in decoction made from medicinal plants and basti (enema). The rakta-pitta dominance should be treated with cold and refrigerant _alepa_ (paste of herbs). 
+
+Where the kapha is predominant, in patient of _vatarakta_ he should be treated with mild emesis and avoid excessive oleation, sudation and fasting. Lukewarm _lepa_ (pastes of herbs) are useful. [43–46] 
+
+_
+
+In the patients of _vatarakta_ with vata-kapha predominance, if cold pralepa is applied then there will be complications like burning sensation, swelling of the part, pain and itching due to stasis of the dosha, like wise in the patients suffering from _vatarakta_ with rakta and pitta predominance, if are applied with _ushna dravya_ will cause _daha_ (burning sensation), _kleda_ (moistening) and tearing of the skin. Therefore, in cases of _vatarakta_ , the physician should apply the treatment measures after well considering the _bala_ (strength) of the dosha. [47–48] 
+
+### Contra-indications for _vatarakta_
+
+The patient of _vatarakta_ should abstain from day sleep, exposure to heat, excessive physical exertion, coitus, eating of pungent, salty, sour, _ushna, guru_ (difficult to digest) and _abhishyandi_ food (food articles which after consumption are responsible for the excessive secretions in the body) substances. [49] 
+
+### Dietary regimen
+
+Old barley, wheat, _nevara, shali_ and _shashtika dhanya_ (special qualities of red rice) are good to eat and soup of flesh of _vishkira_ (birds which scratch the ground) and _pratuda_ (birds which pick the food and eat like pigeon) or soup of pulses, pea, bengal gram, lentils and _makushtha_ (_motha_) can be taken by adding plenty of ghee, by the patients of _vatarakta_. [50–51] 
+
+Green vegetables like _sunishnaka_ (Marsilia minula), _vetagra_ (new buddings of Salix caprea), _kakmachi_ (Solanaum nigrum) buddings of _shatavari_ (new buddings of Asparagus racesmosa), _vastuka_ (Chemopodium album), _upodika_ and _sauvarchala_ (Gynandropis pentaphylla), cooked with either ghee or _mamsa rasa_ (soup of fleshes) can be given to the patients who are suited for these and followed by intake of milk of cow, buffaloes, or goats is beneficial. Thus, the treatment of _vatarakta_ is said to be in brief, the same will be said again in details. [52–54] 
+
+### Various formulations
+
+_Sravani_ (Gorakha mundi), _kshirakakoli, jeevaka, rishabhaka_ and _madhuka_ are to be taken in equal quantity, after crushing these all, the _kalka_ (paste) to be cooked with cow’s milk and ghee, this _sravani ghrita_ alleviates _vatarakta_. [55] 
+
+_Bala, atibala, meda, shatavari, atmagupta, kakoli, kshirakakoli, rasna, riddhima_ is to be taken in equal quantity and crushed then take one part _kalka_ , four times ghee and milk and mix it and carryout _snehasiddhi_. This _baladi ghrita_ alleviates _vatarakta, hridroga_ (Cardiac disorders), _pandu_ (anemia), _visarpa_ (erysepales), _kamala_ (jaundice) and _jwara_ (fever). [56–57] 
+
+### _Parushaka_ ghee
+
+### _Jivaniya_ ghee
+
+Patient of _vatarakta_ should take ghee cooked with decoction of _draksha_ (vitis vinifera) and _madhuka_ (Bassia latifolia), along with sugar candy or be given with milk, which is well boiled with juice of _guduchi_ (Tinospora cordifolia). [71] 
+
+Oil and ghee should be cooked separately with decoction of _sthira_ (Desmodium gangeticum), _shvadamishtra_ (Tribulus terrestris), _brihati_ (Solanum indicum), _sariva, shatavari, kashmarya, kapikachhu, vrischira_ (Boerhavia diffusa), _bala_ and _atibala_ with four times milk and paste of _meda, shatavari, madhuyashti, jivanti, jivaka_ and _rishabhaka_. Prepared _yamaka_ (combination of two sneha) is kept. One part of _yamaka_ (about 12 ml), three times milk and one and half times sugar mixed together and churned with the churning stick. This mixture should be given to the patient suffering from tridoshaja vatarakta. [76-78] 
+
+Oil, sugar and milk mixed together and churned should be given to the patient or ghee, _taila_ , sugar and honey mixed with milk should be given to the patients of _vatarakta_ (_tridoshaja_). [79] 
+
+Milk (640 ml) boiled in decoction of _shalaparni_ and added with 80 gm sugar is recommended for drink. Like wise milk boiled with _pippali_ and _shunthi_ is useful in _vatarakta_. [80] 
+
+Milk boiled with _bala, shatavari, rasna, dashamula, peelu_ (Salva dorapersica), _shyama, eranda_ and _shalaparni_ , alleviates _vatika_ disorders (and _vatarakta_) [81] 
+
+### _Anulomana_ treatment
+
+For the _anulomana_ of the dosha (downward movement of the mala dosha), _dharoshana dugdha_ (fresh warm milk) mixed with mutra (cow’s urine) should be given to drink, if the vata is _avrita_ by the pitta and rakta, the patient should be given fresh warm milk mixed with _trivrita churna_ to drink. [82] 
+
+### Purgative formulations
+
+In the patient whom dosha are excessively aggravated should be given _eranda taila_ (castor oil) with milk for purgation. After digestion, the patient should be given rice with milk. 
+
+One should be given decoction of _abhaya_ (Terminalia chebula) fried with ghee of _trivrita churna_ (powder of Operculina turpethum) either with milk or grape juice. [83–84] 
+
+For purgation, decoction of _kashmarya, trivrita, draksha_ and _parushaka_ (Grewia asiatica) added with salt and honey should be given. 
+
+One should take decoction of _triphala_ added with honey or decoction of _amalaki, haridra_ and _musta_ added with honey to the patients of kapha predominant _vatarakta_. [85–86] 
+
+In case when vata is _avrita_ with mala (waste products of the body) the patient should be given mridu virechana (mild purgatives) mentioned in Kalpa Sthana along with _sneha_ (unctuous substances). [87] 
+
+### Importance of basti
+
+Mala (excrements) of the patients of _vatarakta_ should be eliminated by administrating basti (enema) of _ksheera_ (milk) mixed with _ghrita_. There is no treatment of _vatarakta_ efficient as basti. [88] 
+
+If the patient is suffering from pain in pelvis, groin, flanks, thighs, small joints, bones, upper abdomen and if there is udavarta, niruha basti (enema of decoction made from medicinal herbs) along with anuvasna basti(unctuous enema) are recommended. [89] 
+
+The wise physician should administer the following oils as basti (enema) or nasya (nasal medication), abhyanga (massage) and parisheka to alleviate daha (burning sensation) and pain. [90] 
+
+### _Madhuparnyadi tailam_
+
+### _Sukumaraka tailam_
+
+This ends explanation of _sukumarakam tailam_. 
+
+### _Amritadya tailam_
+
+_Guduchi, madhuka, laghu panchamula_ (_shalparni, prishnaparni, choti kateri, badi kateri, gokshura_), _punarnava, rasna, eranda moola,_ herbs of _jeevaniya gana_ (each 4 kg), _bala_ (20 kg), _kola_ (Zizyphus jujuba), _bilwa, yava, masha_ (black gram) and _kulattha_ (horse shoe gram ) each 2.56 kg, dried fruit of _kashmarya_ , all substances well crushed and then boiled in 1024 liters water and reduced to about 40.96 liters and filtered, now 10.24 liters oil and five times (about 56.20 liters ) milk is added with decoction and cooked alongwith the paste of _chandana, usheera_ (Andropogon muricatus), _keshara, tejapatra, aguru, kustha, tagara, madhuyashti_ and _manjishtha_ each 120 gm be added with. After well cooked as per _sneha siddhi lakshana_ the oil is separated. This oil known as _amritadya taila_ is very effective in _vatarakta, kshatakshina_ (wasting caused by injury), affliction by carrying heavy load, _ksheena sukra_ (weakness/ dyskinesia of semen), _vepana_ (tremors), convulsions, fractures and generalized or localized diseases. It also alleviates _yonidosha_ (diseases of female reproductive system), _apasmara_ (epilepsy), _unmada_ (insanity), _khanjapangutam_ (limping and lameness) and makes possible easy delivery of foetus. [103–109] 
+
+This explains _amritadyam tailam_. 
+
+### _Mahapadma tailam_
+
+This ends explanation of _mahapadma tailam_. 
+
+### _Khuddaka padmaka tailam_
+
+Oil fortified with the decoction of _padmaka, ushira, madhuyashti,_ and _haridra_ along with the paste of _sarja_ (Shorea robusta) _manjishtha, veera, kakoli,_ and _chandana_. This _khuddakapadmaka taila_ alleviates _vatarakta_ and _daha_ (burning sensation) [114–115] 
+
+This ends explanation of _khuddakapadmaka tailam_. 
+
+### _Shatapaki madhuka tailam_
+
+Paste of _madhuparni_ 40 gm, oil 640 gm should be cooked with the paste of _madhuparni_ 40 gm and 2.56 liter milk and _taila_ is obtained. This should be repeated hundred times, adding paste of _madhuka_ 40 gms each times. It should be used in _tridoshaja vatarakta_ and is also beneficial in dyspnea, cough, cardiac disorders, anemia, erysepales, jaundice and burning sensation. [115–118] 
+
+This ends explanation of _shatapakam madhuka tailam_. 
+
+### _Shatapaki_ or _sahastrapaki bala tailam_
+
+Take decoction of _bala_ , paste of _bala_ , milk and oil and cook till _siddha lakshana_ is observed. The process should be repeated either hundred or thousand times. This _bala taila_ alleviates _vatarakta_ and vata disorders. It is an excellent rasayana, which is very good promoter of sensual well being, vitaliser, promote body build, very well for voice, and alleviates shukra dhatu elated as well as menstrual disorders. [119–120] 
+
+Oil cooked with the juice of the _guduchi_ and milk or with grape juice or with the juice of _madhuka_ and _kashmarya_ alleviates _vatarakta_. 
+
+Oil 650 ml cooked in l2.56 liters of sour gruel with one fourth _sarja rasa_ (resin of Shorea robusta) and then churned in plenty of water and separated. This oil is an excellent alleviator of discomfort of _jwara_ and _daha_ (fever and burning sensation). [121–122] 
+
+### _Pinda tailam_

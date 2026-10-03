@@ -1,0 +1,230 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Part- I: _Abhayamalakiya Rasayana Pada_
+ * 2.1.1 Synonyms of _Bheshaja_
+ * 2.1.2 Types of _Bheshaja_
+ * 2.1.3 Types of _Abheshaja_
+ * 2.1.4 Objective of Rasayana and _Vajikarana_
+ * 2.1.5 Benefits of Rasayana
+ * 2.1.6 Benefits of _Vajikarana_
+ * 2.1.7 Two types of _Aushadha_ (medicine)
+ * 2.1.8 _Abheshaja_ (non-therapeutics)
+ * 2.1.9 Modes of Administration of _Kutipraveshika_ and _Vatatapika Rasayana_
+ * 2.1.10 Body purification before Rasayana treatment
+ * 2.1.11 Properties of _Haritaki_ and _Amalaki_
+ * 2.1.12 Qualities of ideal drugs for therapeutic use
+ * 2.1.13 _Brahma Rasayanam_
+ * 2.1.14 _Chyavanaprasha_
+ * 2.1.15 _Amalaka Rasayana_
+ * 2.1.16 _Haritaki_ formulation
+ * 2.1.17 Summary
+ * 2.2 Part II- _Pranakamiyam Rasayana pada_
+ * 2.2.1 Benefits of Rasayana and effects of domestic food and lifestyle
+ * 2.2.2 _Amalaki_ ghee
+ * 2.2.3 _Amalaki Avaleha_
+ * 2.2.4 _Amalaki_ powder
+ * 2.2.5 _Vidanga Avaleha_
+ * 2.2.6 _Amalaka Avaleha_
+ * 2.2.7 _Nagabala Rasayana_
+ * 2.2.8 Rasayana herbs
+ * 2.2.9 Various preparations of Bhallataka
+ * 2.2.9.1 _Bhallataka Ksheeram_
+ * 2.2.9.2 _Bhallataka Kshaudram_
+ * 2.2.9.3 _Bhallataka Tailam_
+ * 2.2.9.4 Other preparations of _bhallataka_
+ * 2.2.9.5 Benefits of _Bhallataka_
+ * 2.2.10 Summary
+ * 2.3 Part III-_Karaprachitiyam Rasayana Pada_
+ * 2.3.1 _Amalakayasa Brahma Rasayana_
+ * 2.3.2 _Kevala Amalaka Rasayanam_
+ * 2.3.3 _Lauhadi Rasayana_
+ * 2.3.4 _Aindra Rasayana_
+ * 2.3.5 _Medhya Rasayana_
+ * 2.3.6 _Pippali Rasayana_
+ * 2.3.7 _Pippali Vardhamana Rasayana_
+ * 2.3.8 _Triphala Rasayana_
+ * 2.3.9 _Triphala Rasayana_
+ * 2.3.10 _Triphala Rasayana_
+ * 2.3.11 _Triphala Rasayana_
+ * 2.3.12 Properties of _Shilajatu rasayana_
+ * 2.4 Part IV: _Ayurvedasamutthaniyam Rasayana Pada_
+ * 2.4.1 _Indrokta Rasayana_
+ * 2.4.2 Achara Rasayana
+ * 2.4.3 Importance of purification before rasayana
+ * 2.4.4 Historical examples
+ * 2.4.5 Vaidya and medical ethics
+ * 2.4.6 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 The order of sections
+ * 4.2 Different levels of treatment
+ * 4.3 Various aspects of _Chikitsa_ (treatment)
+ * 4.4 Benefits of Rasayana
+ * 4.5 Benefits of _Vajikarana_ (verse 9-12)
+ * 4.6 Two modes of administration of Rasayana (verse 1.1.16)
+ * 4.7 Construction of a _Kuti_ (hut) (verse 1.1.16-20)
+ * 4.7.1 The place
+ * 4.7.2 Structure and design
+ * 4.8 Entering the _Kuti_
+ * 4.9 Quality control in selection of medicines (verse 1.1. 38-40)
+ * 4.10 _Abhayamalakeeya Pada_
+ * 4.11 _Haritaki Rasayana_ (verse 1.1.29-32)
+ * 4.12 _Amalaki Rasayana_ (verse 1.1.36-37)
+ * 4.13 Rasayana in the first _Pada_
+ * 4.13.1 _Brahma Rasayana_
+ * 4.13.2 _Chyavanaprasha Rasayana_
+ * 4.14 Diseases from changing lifestyle and importance of Rasayana
+ * 4.15 Rasayana in the second _pada_
+ * 4.15.1 _Nagabala Rasayana_
+ * 4.15.2 _Bhallataka Rasayana_
+ * 4.16 Rasayana in the third _pada_
+ * 4.16.1 _Medhya Rasayana_
+ * 4.16.2 _Triphala Rasayana_
+ * 4.16.3 _Shilajatu_
+ * 4.17 _Achara Rasayana_ (rasayana effects of good conduct)
+ * 4.18 _Vaidya_
+ * 4.19 Contemporary researches
+ * 4.20 Potential areas for future research
+ * 4.21 Acknowledgement
+ * 4.22 List of researches
+ * 5 References
+
+## Introduction
+
+The Ayurvedic classics, including Charak Samhita, describe eight specialties of Ayurveda which were in vogue and practiced during the vedic period denoting that Ayurveda was already a highly evolved system of medicine with professional specialization. This is why Ayurveda is also called _AshtangaAyurveda_ and its eight _angas_ (or arms) are as mentioned below: 
+
+ 1. _Kayachikitsa_ \- Internal medicine
+ 2. _Shalya tantra_ \- Surgery
+ 3. _Shalakya tantra_ \- Ophthalmology, Ear Nose Throat
+ 4. _Kaumarabhritya_ \- Gynecology. obstetrics and Pediatrics
+ 5. _Agada tantra_ \- Toxicology
+ 6. Rasayana \- Nutrition, Rejuvenation, Immunology and Geriatrics
+ 7. _Vajikarana_ \- Sexology, Aphrodisiac and Reproduction
+ 8. _Bhuta Vidya_ \- Psychiatry and Demonology
+
+The present chapter deals with _Rasayana tantra_ of _AshtangaAyurveda_ which has assumed a very high consideration in contemporary times in view of the potential role it could play today with increasing incidence of nutritional disorders, lifestyle related health issues and above all the rapid population aging world over, warranting newer strategies for geriatric health care and healthy aging where modern medicine has not much to offer. 
+
+Rasayana is the means of obtaining the best qualities of body cells and tissues and is able to defeat aging and disease. All _rasayanas_ are _ojovardhaka_ i.e. promoter of _ojas_ or immune strength in the body, imparting _vyadhikshamatva_ i.e. immunity in the body. The mode of action of Rasayana remedies has been deliberated for long. Many scholars consider Rasayana effect as the _prabhava_ (specific therapeutic effect) of these remedies without really giving rational interpretation. However, Professor RH Singh et al (1972) have suggested that the Rasayana remedies and measures act at three levels and produce subtle molecular nutrient and immune-enhancing effect with a range of secondary impacts such as improved nutritional status, immune-enhancing, longevity, healthy aging, promotion of health and prevention of disease. The three levels of action are: 
+
+ 1. At the level of _rasa_ acting as a direct nutrient enriching the nutrient value of plasma.
+ 2. At the level of _agni_ acting as digestive and metabolic booster.
+ 3. At the level of _srotas_ acting as _srotoprasadana_ promoting the microcirculation and tissue perfusion. The net effect of all the three levels of action is an improved nutrition.
+
+The division of this chapter into four _padas_ (parts) reflects an interesting style of classic writing simulating the style of the _Yoga Sutras_ of Patanjali aiming to emphasize the continuum of the deliberations which could be fragmented in the chapterization style. The tendency of _pada_ style can also be visualized in the Sutra Sthana of Charak Samhita where all the thirty chapters have been systematically clubbed in seven _chatushkas_ i.e. four chapters clubbed in one _chatuska_ containing allied subject matter. Thus, _Rasayanadhyaya_ (this chapter) is of great significance both from literary as well as from the subject matter point of view. 
+
+The first part , _Abhayamalakiya Rasayana Pada_ , begins with the path breaking statement about _bheshaja-abheshaja_ i.e. good medicine vs bad medicine. The bad medicines are poisons while the good medicines are of two categories: 
+
+ 1. _Ojovardhaka_ i.e. heath promoting,
+ 2. _Roganut_ or disease curing.
+
+The _ojovardhaka_ remedies again are of two categories namely Rasayana and _vajikarana_. The chapter further describes the qualities of Rasayana and the methods of its use. It specially dwells upon the best Rasayana drugs like _Amalaki, Abhaya, Chyavanaprasha, Brahma Rasayana, Amalaka Rasayana, Haritaki Yoga_ etc. 
+
+The second part, _Pranakamiya Rasayana Pada_ , deliberates on _rasayana prabhava_ with examples of certain special _aushadhi rasayanas_ like _Amalaki Ghrita, Amalakyavaleha, Amalaka Churna, Vidangavaleha, Nagabala Rasayana, Baladi Rasayana, Bhallataka Kshira_ etc. 
+
+The third part, _Karaprachitiya Rasayana Pada_ describes the role of _brahmacharyadi karma_ (following code of conduct) in _rasayana karma, kevalamalaka rasayana, lauhadi rasayana, aindri rasayana, medhya rasayana, pippali rasayana, shilajatu rasayan_ etc. 
+
+The fourth part, _Ayurveda Samutthaniya Rasayana Pada_ deliberates on Ayurveda tradition, _Indrokta rasayana, Dronipraveshika rasayana, Kutipraveshika rasayana, Achara rasayana_ besides the basic issues like _DharmarthaAyurveda prayoga_ (use of Ayurveda for performing eternal duties) and _Bhishak prashansa_ (praise of physician). 
+
+## Sanskrit text, Transliteration and English Translation
+
+### Part- I: _Abhayamalakiya Rasayana Pada_
+
+Now we shall expound the first quarter of the chapter "Abhayamalakiya Rasayana Pada". Thus said Lord Atreya.[1-2] 
+
+#### Synonyms of _Bheshaja_
+
+_Chikitsa_ (measures which alleviate disorders), _vyadhihara_ (destroyer of diseases), _pathya_ (beneficial for the bodily channels), _sadhana_ (instrument for therapeutic action), _aushadha_ (that which is prepared of herbes), _prayashchitta_ (expiation), _prashamana_ (pacification), _prakritisthapana_ (that which helps recovery to normalcy), _hita_ (wholesome) – these are the synonyms of _bheshaja_ (therapeutics).[3-4] 
+
+#### Types of _Bheshaja_
+
+Therapeutics is of two categories: 
+
+ 1. that which promotes strength and immunity in the healthy,
+ 2. that which alleviates disorders. [4]
+
+#### Types of _Abheshaja_
+
+_Abheshaja_ (non-therapeutics) is also of two types – (1) _badhana_ (acute), (2) _sanubadhana_ (chronic).[5] 
+
+#### Objective of Rasayana and _Vajikarana_
+
+Therapeutics which promotes strength and immunity is categorized in _vrishya_ (aphrodisiac) and Rasayana (promotives), while the therapy of the second category is mostly applied for alleviation of disorders. The word _prayah_ specially denotes only particularity because both the groups perform both the above functions namely, promotion of strength including immunity and alleviation of diseases. [5-6] 
+
+#### Benefits of Rasayana
+
+By promotive treatment, one attains longevity, memory, intelligence, freedom from illness, youthfulness, excellence of lustre, complexion and voice, optimum strength of physique and sense organs, perfection in deliberation, respectability and brilliance. Rasayana is the means of attaining excellent qualities of _rasa_ etc. _dhatus_ i.e. body cells and tissues. [7-8] 
+
+#### Benefits of _Vajikarana_
+
+_Vajikarana_ (aphrodisiac treatment) is that which produces lineage of progeny, quick sexual stimulation, enables one to perform sexual act with the women uninterruptedly and vigorously like a horse, makes one charming for the women, promotes corpulence and infallible and indestructible semen even in the old persons, renders one great having a number of off-springs like a sacred tree branched profusely and commanding respect and popularity in the society. By this one attains eternality based on filial tradition here and hereafter along with fame, fortune, strength and corpulence. [9-12] 
+
+#### Two types of _Aushadha_ (medicine)
+
+Thus, the twofold promotive treatment for the healthy is described here. As regard the measures for alleviating diseases, those will be described in the concerned chapters on therapeutics. The sole purpose of therapeutics is to alleviate diseases. The method of Rasayana has been described first and thereafter the aphrodisiac measures have been described. [13-14] 
+
+#### _Abheshaja_ (non-therapeutics)
+
+_Abheshaja_ is that which is contrary to the _bheshaja_ i.e. therapy. This is to be avoided whereas the _bheshaja_ therapeutic measures are to be described further to be adopted. [15] 
+
+#### Modes of Administration of _Kutipraveshika_ and _Vatatapika Rasayana_
+
+The propounders have described two methods of the administration of Rasayana therapy, namely: 
+
+ 1. _kutipraveshika_ (indoor) and
+ 2. _vatatapika_ (outdoor).
+
+Firstly, the procedure of indoor treatment will be described. For this a cottage should be built in an auspicious ground, facing eastward or northward and in a locality inhabited by king, physicians and _brahmanas_ , holy saints, is free from dangers, is auspicious and has easy availability of necessary materials. The cottage should have sufficient space and height, three interior chambers one after the other, a small opening, and thick walls and should be comfortable for the seasons, neatly clean and favorable for the treatment. It should be impermeable for undesirable sound etc. (sense objects), free from women, equipped with necessary accessories and attended by physicians with medicines and _brahmanas_. 
+
+Now, in northerly course of the sun, bright fortnight and auspicious date, star, hour and _karana_ , one having clean- shaved, with strong restraint and memory, faith and focused mind, and stress-free state, feeling companionship with all the creatures, having worshipped the gods and _brahmanas_ first and keeping the gods, cow and _brahmanas_ to the right side, one should enter the cottage and be cleansed and thereafter when he feels happy and strong, he should use Rasayana treatment. Further I shall talk about the cleansing procedures. [16-24] 
+
+#### Body purification before Rasayana treatment
+
+The individual scheduled to undergo Rasayana treatment, adequately oleated and fomented, should take formulations with hot water consisting of the powders of _haritaki_ , rock salt, _amalaka_ , jaggery, _vacha_ , _vidanga_ , _haridra_ , long pepper and dry ginger. When he is evacuated properly by this procedure and has resumed the routine dietetic regimen, he should be given barley preparation added with ghee for three, five or seven days (according to measure of evacuation) till the accumulated feces are eliminated. Thus, when he is considered as having cleansed properly, the physician should administer the appropriately chosen Rasayana (drug) in consideration of his age, constitution and suitability. [25-28] 
+
+#### Properties of _Haritaki_ and _Amalaki_
+
+_Haritaki_ has five tastes devoid of saline taste, is hot, wholesome, carminative, light, appetizer, digestive, life promoting, tonic, excellent sustainer of youthfulness, relieves all diseases and affords strength to all sense organs. It alleviates skin disorders including leprosy, _gulma, udavarta,_ phthisis, anemia, degeneration, piles, disorders of _grahani_ , chronic intermittent fever, heart disease, head disease, diarrhea, anorexia, cough, urinary diseases and diabetes, flatulence, splenomegaly, acute abdominal disorders, excessive secretion of mucus, hoarseness of voice, disorders of complexion, jaundice,worms oedema, bronchial asthma, vomiting, impotency, lassitude in organs, micro-obstructive disorders, feeling of slugged heart and chest, sudden impairment of memory and intellect. 
+
+(The individuals having indigestion, consumption of rough food, emaciated by indulgence in women, wine and poisonous substances and afflicted with hunger, thirst and heat should avoid prolong use of _haritaki_.) 
+
+_Amlaki_ has the same properties and actions as _haritaki_ , only the bio-potency is different (_haritaki_ being hot while _amalaki_ is cold.) 
+
+Thus, looking to these actions, one should regard the fruits of _haritaki_ as well as _amlaki_ like nectar. [29-37] 
+
+#### Qualities of ideal drugs for therapeutic use
+
+Himalaya is excellent among the mountains, which is the best habitat of medicinal plants. Hence one should obtain the fruits grown there in proper time, mature with taste and potency, replenished with the sun, air, shade and water in respective seasons according to need, and which are uneaten, un-purified, uninjured and non toxic. The excellent actions and uses of these fruits will be described now. [38-40] 
+
+#### _Brahma Rasayanam_
+
+The five sets (or pentads) of _panchamula_ are taken in quantities of 400gm (each of the pentad), along with the fresh fruits of _haritaki_ and _amlaki_ in number of one thousand and three thousand respectively. (The five pentads are as follows): _shalaparni_ , _brihati_ , _prishiparni_ , kanthakari, and _gokshura_ constitute the _vidarigandhadi_ group of five roots. 
+
+Similarly, _bilwa, agnimantha,_ _shyonaka, kashmarya_ and _patala_ constitute the _bilwadi_ pentad of roots. _punarnava, mudagparni, mashaparni, bala_ and _eranda_ constitute _punarnavadi_ pentad. _jivaka rishabhaka, meda, jivanti_ and _shatavari_ constitute _jivakadi_ pentad. Roots of _shara_ , _ikshu, darbha, kasha_ and _shali_ constitute the _sharadi_ pentad of roots. These five pentads are taken together and boiled in ten times quantity of water. When water is reduced to one tenth, it is brought down and filtered. On the other hand, the fruit of _haritaki_ and _amlaki_ are picked out, their seeds are removed and pounded well on stone slabs or in mortar. This is mixed in the above decoction and powder of the following drugs and substances are added to it- _mandukaparni, pippali, shankhapushpi, plava, musta_ , _vidanga, chandana, aguru, manduka, haridra, vacha, nagakeshara, sukshma ela_ and _twak_ each in quantity of 160 gm and sugar candy 44 kg, _tila_ oil 5 kg 120 gm, ghee 7kg 680 gm are added to it. All this is cooked in copper utensil on mild fire. When it is converted in to linctus and is not burnt it is brought down. Honey is added to it in quantity of 3 kg 840gm, when it is cooked down. Now the preparation is kept in a vessel laced with ghee. 
+
+This preparation should be used in proper time and dose. The proper dose is that which does not disturb the digestion of the food. When the drug is digested the patient should take _shashtika_ rice with milk. 
+
+By taking this Rasayana drug the sages of _vaikhanasa_ and _balakhilya_ groups and other ones attained immeasurable life span; acquired excellent youth shedding off the rotten physique, became free from dullness, exhausation, dyspnoea and diseases; and endowed with full concentration, intellect and strength practised celibacy and spiritual penance with full devotion. An individual desirous of longevity should use this _Brahma rasayana_ by which he attains long life, excellent (youthful) age and wellness. [41-57] 
+
+The _amalaki_ fruits having the above qualities are taken in the number of thousands and are steamed on the vapor of milk like the flour paste. When they are well steamed, they are taken out, dried in shade and are powdered after removing the seeds. This is impregnated with the juice of one thousand fresh fruits of _amalaki_ and added with the powder of _shalaparņi, punarnava, jivanti, nagabala,_ _brahmasuvarchala, mandukaparni, shatavari, shankhapushpi, pippali, vacha, vidanga, kapikacchu, guduchi, chandana,_ _aguru_ , _madhuka_ , flowers of _madhuka, utpala, kamala, jati, taruņi,_ and _yuthika_ in the quantity one eight of _amlaki_ powder. This is again impregnated with the juice of _nagabala_ in the quantity of 40 kg. and dried in shade. Then in double quantity ghee or ghee-honey mixed are added to it and is made in the shape of small boluses. This is kept in a clean and strong vessel oiled with ghee and is stored underground within the heap of ashes for a fortnight after having performed the spiritual rites through those who know Atharvaveda. After the fortnight is over, this should be taken out and added with the powder (_bhasma_) of gold, silver, copper, coral and iron in one eighth quantity.[58] 
+
+This Rasayana preparation should be taken regularly in the dose of 5 gms gradually increasing with the same by the said method in every morning in consideration of the digestive capacity, after the consumed medication is digested, _shashtika_ rice along with milk added with ghee should be taken. This treatment affords one to achieve the therapeutic results mentioned above. 
+
+Here are the summarizing verses- 
+
+On using this _brahma rasayana_ , already used by great sages, the user becomes disease free, long lived and with great strength. He becomes charming to the world, with all mission fulfilled, having splendor like that of the moon and the sun, acquires and retains the knowledge. He is endowed with divine psyche, firmness like that of mountain, valor like that of wind. Even poison is reduced to non poison on coming in contact with his body. [59-61] 
+
+#### _Chyavanaprasha_
+
+40 Gms of each of _bilwa, agnimantha, shyonaka, kashmarya, patala, bala,_ four leaved herbs (_shalaparni, prishniparni, mudgaparni, mashaparni_), _pippali, shvadamshtra, brihati, kantakari, karkatshringi, tamalaki, draksha, jivanti, pushkaramula, aguru, abhaya, amrita, riddhi, jivaka, rishabhaka, shati, musta, punarnava, meda, ela, chandana, utpala, vidari, vasa (roots), kakoli_ and _kakanasa_ and 500 fruits of _amalaki_ – all these put together should be boiled in water measuring 100 litres 240 ml. when the drugs are extracted completely the decoction should be brought down. The fruits of _amalaki_ also should be taken out and their seeds are removed. Then the fruit pulp should be fried in _tila_ oil and ghee (mixed) in quantity of 480 gms. Now it should be cooked in the above decoction adding to it 2 kg of clean sugar candy and prepared into a linctus. When it is self cooked, 240 gms of honey should be added to it. At the end, 160 gms _twak, ela, patra_ and _nagakeshara_ (combined together) should be added. This is the famous _chyavanaprasha_ , an excellent Rasayana. Particularly it alleviates cough and dyspnea, is useful for the wasted, injured and old people and promotes development of children. It alleviates hoarseness of voice, chest disease, heart disease, _vatarakta_ , thirst and disorders of urine and semen. It should be taken in the dose which does not interfere with the food intake and digestion. By consuming this Rasayana preparation, the extremely old sage Chyavana regained youthful age. If this Rasayana is used by the indoor method, even the old attains intellect, memory, luster, freedom from disease, longevity, strength of senses, sexual vigor, adequate _agni_ function (digestion and metabolism), fairness of complexion and appropriate discharge of flatus. The consumer of this Rasayana gets rid of senility and enjoys youthfulness. [62-74] 
+
+#### _Amalaka Rasayana_
+
+The fruits of _haritaki_ and _amalaka_ or _amalaka_ and _bibhitaka_ or _haritaki_ and _bibhitaka_ or _haritaki_ , _amalaka_ and _bibhitaka_ should be wrapped with the bark of _palasha_ tree and after having been pasted with mud should be cooked on charcoal. (when they are well cooked) their seeds be removed and 40 kg of this material should be pounded in a mortar and added with curd, ghee, honey, sesame paste, _tila_ oil and sugar. This should be consumed on empty stomach by the above method. After the course of treatment, one should be brought back to its normal state by intake of gruel etc. he should also be massaged and anointed with ghee and barley powder. This is the limit of the use of the Rasayana. Keeping in view the power of digestion, he should be given diet consisting of _shashtika_ rice added with ghee along with soup or milk for the period double of the same for treatment. Thereafter he may move and eat according to pleasure. By this treatment, the sages regained youthfulness and attained disease free life of many hundreds of years, and endowed with the strength of physique, intellect and sense practiced penance with utmost devotion. (75) 
+
+#### _Haritaki_ formulation
+
+The decoction of _haritaki, amalaka, bibhitaka,_ and five root pentads added with the paste of _pippali, madhuka, kakoli, ksheerakakoli,_ _atmagupta, jeevaka, rshabhaka and ksheeravidari,_ then juice of _vidari_ and eight times milk is added to ghee in quantity of 20 kg 480 gms and cooked properly. One should use it in proper dose according to his digestive capacity. After the drug is digested, he should take the diet consisting of _shali_ and _shashtika_ rice along with milk and ghee with the after drink of warm water. 
+
+By this one becomes free from the fear of old age, diseases, afflictions and spells and attaining amazing bodily strength. His senses and intellect become unobstructed in all his activities and he enjoys full life span.[76] 

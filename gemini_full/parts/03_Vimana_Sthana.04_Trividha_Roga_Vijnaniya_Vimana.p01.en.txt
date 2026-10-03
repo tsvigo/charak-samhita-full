@@ -1,0 +1,270 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Three methods for knowledge of disease
+ * 2.2 Criteria of knowledge of disease
+ * 2.3 Knowledge by direct perception
+ * 2.3.1 The following should be examined by auscultation
+ * 2.3.2 The following are perceived by auditory measures
+ * 2.3.3 By tactile perceptions
+ * 2.3.4 By visual examination
+ * 2.3.5 Gustatory examinations can be inferred by following observations
+ * 2.3.6 By olfactory examinations
+ * 2.3.7 Knowledge by inference
+ * 2.4 Importance of three fold examination
+ * 2.5 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Methods of clinical examination
+ * 4.1.1 Authoritative instructions (Aptopadesha)
+ * 4.1.2 Direct perception (Pratyaksha)
+ * 4.1.3 Inference
+ * 4.2 Updates from Ayurveda texts
+ * 4.3 Contemporary methods
+ * 4.4 Principles of knowledge of new diseases (anukta vyadhi)
+ * 4.5 Fundamental principles of clinical research
+ * 4.6 Scope of further research
+ * 4.7 Related chapters
+ * 5 Further reading
+
+## Introduction
+
+Ayurveda has emphasized the importance, need and application of examination, and has stressed that even truth should be examined first and only then should be accepted. In Sutra Sthana, Chapter 11, four methods of examination of all existing and non-existing subjects of knowledge to be examined have been given.[Cha.Sa. Sutra Sthana 11/17] These four specific methods of examination are aptopadesha (knowledge from authoritative person and scriptures), Pratyaksha (direct observation), Anumana (inference) and yukti (logic based interpretation). For clinical examination of a patient, yukti pramana is included in Anumana because inference should be included in _tarka_ (logic) and yukti [Cha.Sa. Vimana Sthana 4/3-4]. The author did not feel the need for yukti to be done separately in clinical experiment, therefore three-fold (_trividha_) method of examination has been described. 
+
+There are, however, limitations to these tools because all the three examinations should be applied, though sequentially (described later in the chapter), since one cannot rely completely on any one of these examinations. A wise physician should use all three tools together for a thorough assessment of the disease and then reach the final diagnosis. A physician who understands and exercises such practice does not commit any mistake in the treatment of the patients. [Cha.Sa. Vimana Sthana 4/11] 
+
+It is also interesting to know that these three methods of examination have been defined (with little difference) in Sutra Sthana 11th chapter Tistraishaniya too. On the basis of critical analysis of the subject, it could be opined that the description of three examination methods in Vimana Sthana is much more scientific and applicable in clinical methods while the description of Sutra Sthana chapter Tistraishaniya is applicable in other fields. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Trividha Roga Vishesha Vijnaniya Vimana" (Three methods for knowledge of disease). Thus said Lord Atreya. [1-2] 
+
+### Three methods for knowledge of disease
+
+Specific features of diseases can be determined in three ways – by means of aptopadesha (authoritative instruction), Pratyaksha (direct observation), and Anumana (inference). [3] 
+
+Authoritative instructions are the teachings of apta (persons who are the most reliable). Apta are free from doubts, their memory is unimpaired, they know things in their entirety by determinate experience. They see things without any attachment or affection (_nishpriti_ and _nirupatapa_). Because of these qualities, what they say is authentic. On the other hand, statements- true or false- made by intoxicated, mad, illiterate people and people with attachments are not to be considered as authoritative. 
+
+Pratyaksha or direct observation is that which is comprehensible by an individual through his own senses and mind. 
+
+Anumana or inference is the indirect knowledge based on Yukti i.e. reasoning, logic and experiments. [4] 
+
+First of all, one should examine the various aspects of diseases by employing all the three _pramanas_ (i.e., the three methods of examination). Observations made on the nature of the disease thereafter are infallible. One cannot acquire authoritative knowledge about anything in all its aspects simply by examining it through a part of these “sources of knowledge”. Of all the sources of knowledge one should acquire knowledge in the beginning through authoritative instructions and, thereafter proceed to examine a thing through Pratyaksha (direct observations), and Anumana (inference). What is to be examined by “direct observations” and inference unless something can be studied prima facie. Hence, all the three methods of examination are always to be used in the sequence viz. aptopadesha, Pratyaksha _and_ Anumana _._ In other words, it could be said that if a physician possesses the textual knowledge (Aptopadesha ) then, for him, there are only two methods of examinations._[5]_
+
+### Criteria of knowledge of disease
+
+Using the aptopadesha method of examination, one acquires knowledge as described here using the following terms that wise men, or _apta_ , use to understand a disease: 
+
+ * _Prakopanam_ : provoking factors, viz. process of the vitiation of the doshas
+
+ * _Yoni_ : Source of doshas
+
+ * _Uthanam_ : onset of a disease
+
+ * _Atmanam_ : The cardinal sign and symptoms.
+
+ * _Adhishthanam_ : Site, which could be the body or the mind or both
+
+ * _Vedanam_ : signs and symptoms
+
+ * _Sansthanam_ (location): _amashaya, pakwashaya, avayava vishesha,_ or in micro channels
+
+ * _Shabda, sparsha, rupa, rasa, gandham_(five senses): Altered sensorium.
+
+ * _Updravam_ : Complications
+
+ * _Vriddhi sthana kshayam_ (Increased, decreased, balanced): Whether dosha _,_ dhatu and mala are increased, decreased, or in balance
+
+ * _Udarakam_ : Prognosis
+
+ * _Namanam_ : Nomenclature
+
+ * _Pravritti_ : Indicated treatment
+
+ * _Nivritti_ : Contraindication
+
+Using the above framework, one could gather all the knowledge necessary of a disease. [6] 
+
+### Knowledge by direct perception
+
+A physician who wants to examine the patient and diagnose the disease through Pratyaksha (direct observations) method of examination should examine with his own senses (all senses except the one relating to the gustatory organ, i.e., taste), in the body of the patient. 
+
+#### The following should be examined by auscultation
+
+ * _Antrakoojanam_ : Gurgling sound in the intestine indicating sound of movement;
+
+ * _Sandhisphutanam_ : Crackling sound in the joints including those in the fingers;
+
+#### The following are perceived by auditory measures
+
+ * _Swara visheshana_ : Voice patterns of the patient; and
+
+ * _Shabda_ : Such other sounds in the body of the patient which are normally found in the human body like respiratory and cardiovascular sounds and also the sounds which are produced through percussion and auscultation etc.
+
+#### By tactile perceptions
+
+The physician should touch various body parts of the patients, and examine signs of abnormality in terms of the body temperature, skin texture (rough- unctuous), presence of moisture (dry-wet), eruptions, pitting, tenderness, etc. 
+
+#### By visual examination
+
+ * Colour, shape, measurement and complexion;
+
+ * Natural and unnatural features of the body found in normal and abnormal states; and
+
+ * Others which can be examined visually like signs of the disease, lustre and appearance of the body and other organs (inspection method of examination from top to bottom of the person)
+
+#### Gustatory examinations can be inferred by following observations
+
+Taste of the various tissues in the body of the patient are undoubtedly the objects of the gustatory sense organ and can be ascertained by inference and not by direct observation. Therefore, the taste in the mouth of the patient should be ascertained by interrogation. For example, sweet taste of the body can be inferred when flies are attracted towards the body. In the case of bleeding from the body, if there is a doubt about the nature of the blood, it should be resolved by giving the blood to dogs and crow to taste. Intake of the blood by dogs and crows is indicative of its purity and rejection by these animals indicates that the blood is vitiated by pitta, i.e. the patient is suffering from _raktapitta_. Similarly, other tastes in the patient’s body can be inferred. 
+
+#### By olfactory examinations
+
+Normal and abnormal smells of the entire body of the patient should be examined by the olfactory sense organ. [7] 
+
+#### Knowledge by inference
+
+Charak observed that the objects known by direct perceptions are very limited, whereas the range of inference is fairly vast in areas that are not known by our means of perception, i.e., sense organs. Here, reasoning and logic already stated in scriptures need to be used. The following subjects could be understood through Anumana (inference): 
+
+ * _Agnim jaran shaktya_ \- Digestion by quality and quantity of food taken and digested or not digested.
+
+ * _Balam vyayam shaktya_ \- Physical strength of the person to be examined with the performance of the exercise or the physical work.
+
+ * _Shrotradeeni- shabdadi artha grahanena_ -The sensory ability with clarity and accuracy of perception of their respective objects.
+
+ * _Mano- avyabhicharnena_ \- Inappropriate mental perceptions, even in the presence of all other senses along with their respective objects. Absence or altered perception indicates dissociation of mind with senses.
+
+ * _Vigyanam vyavsayena_ \- skills can be judged by one’s occupation.
+
+ * _Rajah sangena_ \- attachments by involvement
+
+ * _Moham avigyanena_ \- confused state by lack of proper knowledge
+
+ * _Krodham abhidrohena_ \- anger by choosing measures for revenge
+
+ * _Shokam dainyena_ \- grief by pity appearance
+
+ * _Harsham aamoden_ \- pleasure by way of celebrations.
+
+ * _Preetim Toshena_ \- affection by satisfaction.
+
+ * _Bhayam vishadena_ \- fear by duration and severity of anxiety.
+
+ * _Dhairyam avishadena_ \- patience by facing adversities without fear and anxiety
+
+ * _Veeryam utthanena_ \- bravery by way of initiation of difficult task
+
+ * _Avasthanam avibhramena_ \- stability by absence of doubts and confusions
+
+ * _Shriddha abhiprayena_ \- faith by purposiveness
+
+ * _Medha grahnena_ \- wisdom by retaining threshold
+
+ * _Sangya namgrahanena_ \- mental awakening instantaneous identification
+
+ * Smriti smarnena- memory by recalling ability
+
+ * _Hriyam apatrapnena_ \- shy by drooping of eyelids.
+
+ * _Sheelam anusheelnena_ \- obedience by constant following
+
+ * _Dvesham pratishedhena_ \- hatred by duration of staying away
+
+ * _Upadhi anubandhena_ \- fraudulent attitude.
+
+ * _Dhriti alaulyena_ \- tolerance by long standing and non shifting attitude
+
+ * _Vashyata vidheyataya_ \- controllability by following of righteous conduct
+
+ * _Vaya kalen_ \- age by chronological time
+
+ * _Bhakti deshen_ \- liking a place, person and surroundings with opportunistic intentions.
+
+ * Satmya upshayena- habituation by suitability
+
+ * _Vyadhi vedanaya_ \- diseases by symptomatology
+
+ * _Goodha linga vyadhi_ \- mysterious diseases by therapeutic measures
+
+ * Dosha pramana- quantity of morbidity by potential causative factors
+
+ * _Aysha kshaya_ \- near death signs of imminent death (_Arishta_)
+
+ * _Shreyatwam_ : signs of regaining health, when the patient thinks welfare of all.
+
+ * _Amalam Satwam_ \- purity of mind by freedom from illusionary attachments.
+
+ * _Granyastu mridu darunatwam_ \- abdominal comforts and discomforts by sleep quality and by interrogations. [8]
+
+### Importance of three fold examination
+
+To sum up this chapter, it can be said that the wise should properly understand a disease by means of three methods, i.e., the words documented by the wise, direct observation and inference. [9] 
+
+As far as possible, all factors should be discussed in their entirety. After examining the disease by aptopadesha, the physician should obtain knowledge regarding the nature of disease and the therapies required therefore. [10] 
+
+One who is well versed in the specific nature of the disease as well as the therapies required therefore seldom fails to act properly. It is only he who acts properly that reaps the results of proper action (i.e. achieves success). [11] 
+
+When a physician who, even if well versed in knowledge of the disease and its treatment does not try to enter into the heart of the patient by virtue of the light of his knowledge, he will not be able to treat the disease. [12] 
+
+### Summary
+
+To sum up again, 
+
+Three methods for the determination of all types of diseases are - factors understood by the instructions of _apta_ (sages), by direct observation and inference, along with the methods prescribed in respective chapters for specific subject.[13-14] 
+
+Thus ends the fourth chapter of Vimana Sthana on “The determination of the three factors for understanding the specific characteristics of diseases” of Agnivesha’s work as redacted by Charak. 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Diagnosis of a disease should be done thoroughly using the _trividha pariksha_ consisting of aptopadesha (authoritative knowledge), Pratyaksha (physical examination by direct observation) and Anumana (interpretation, evaluation and assessment).
+
+## Vidhi Vimarsha (Applied Inferences)
+
+### Methods of clinical examination
+
+This chapter solely deals with the methods of clinical examination of the patient. Various types of examinations viz. examination of disease (roga pariksha), patient (rogi pariksha), three types of examination (trividha pariksha), six types (shadvidha pariksha), eight types (ashtavidha pariksha), and ten types (dashavidha pariksha) are described in Ayurveda for the examination of the patient and the diagnosis of the disease. All these examinations can be included under umbrella of three types (trividha pariksha) described in this chapter. 
+
+#### Authoritative instructions (Aptopadesha)
+
+The experience based knowledge by authorities (aptopadesha) gives all the details of the disease i.e. its causative factors, pathogenesis and treatment and thus, provides all the theoretical knowledge of the disease which is helpful during clinical examination. 
+
+#### Direct perception (Pratyaksha)
+
+Knowledge by direct perception (Pratyaksha) deals with direct examination of the patient by the physician. The physician has to use all his senses during the examination, in which he has to look for various signs and symptoms, changes in the color etc. Any information collected through inference (anumana) and direct perception (Pratyaksha) provide only limited details of existing pathologies in the body. Now the physician has to use his own intellect and tries to establish the relation between the signs and symptoms and the likely pathologies in the body. He has to use his logic and reasoning and apply it properly in finalizing the vitiated dosha in the body. 
+
+#### Inference
+
+Inference (anumana) helps the physician to deduce and draw inferences, where it is not possible to visualize or see, in order to draw certain conclusions or understand causation of an ailment. 
+
+The methods of clinical examination are comprehensively described in this chapter. In Ayurveda, emphasis is given to the use of the five senses in examining a patient. First hand information gathered through the physical examination by five senses is critical to the process of diagnosis. These three types of examinations are also used to assess bad prognosis of the disease and to identify the arishta (signs and symptoms of imminent death) also. [Cha.Sa. Indriya Sthana 1/4] 
+
+### Updates from Ayurveda texts
+
+In other texts of Ayurveda, various references of one type, two types, three types, four types, six types, eight types, ten types, eleven types, and twelve types of examination of the patient are described. Some important are as given below: i)In Sushruta samhita,three fold like inspection(darshana), palpation (sparshana) and interrogation (prashana) are described. Six fold examination (5 sense (indriya) and interrogation (prashana pareeksha)) is also described. ii)Yogaratnakar text describes eight fold examination viz. pulse(nadi), bowel habit/stool examination (mala), urine examination (mutra), tongue (jihwa), sound (shabda), touch (sparsha), sight (drik) and features (akriti). This is widely used in general examination of the patient. 
+
+### Contemporary methods
+
+Examinations like inspection, palpation, percussion and auscultation are part of direct perception (Pratyaksha pariksha). Nowadays, various new techniques like X-ray, USG, CT Scan, MRI etc. are in use that augment direct perception. Abnormal findings suggest the underlying pathologies in the body with the use of inference (anumana pariksha). But over-dependence on technology has made the doctors move away from the use of their sensory perception and from prima facie clinical diagnosis. Excessive use of technology makes the process of diagnosis more complicated, costly and time consuming. The most important disadvantage of using technology is that it is reducing the use of logic and reasoning (yukti) by a physician. It also has influence on the doctor patient relationship. The most important thing which has been described is to perceive in to the soul of the patient to make correct diagnosis and is somewhere missing due to excessive use of technology. Proper use of the three types (trividha pariksha) by a physician with required use of technology, will help him to reach up to the diagnosis immediately, correctly and will also be cost effective to the patient. 
+
+### Principles of knowledge of new diseases (anukta vyadhi)
+
+The disease which are not described in the Ayurveda texts or newly introduced disease can be identified by applying the principles described in this chapter. It can be applied for knowing the complete details of the newer diseases including treatment. 
+
+### Fundamental principles of clinical research
+
+This chapter also mentions fundamental principles of clinical research. The methods of diagnosis of disease and examination of patient can be applied in clinical research. 
+
+### Scope of further research
+
+There is a wide scope of research on the following topics and concepts described in this chapter: 
+
+ 1. Principle of Clinical Research in Ayurveda
+ 2. Clinical Diagnosis in Ayurveda
+ 3. Principle of development of tools for examination of the patients
+ 4. Principle of detailed description of newer/unknown diseases
+
+### Related chapters
+
+Tistraishaniya Adhyaya , Rogabhishagjitiya Vimana
+
+## Further reading

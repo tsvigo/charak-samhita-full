@@ -1,0 +1,286 @@
+ * Thorny feeling in mouth and throat
+ * Itching in throat
+ * Obstruction in deglutition [Cha.Sa.Chikitsa Sthana 18/4]
+ * Coating of mucous or sticky secretions in throat and palate
+ * Low raspy voice
+ * Anorexia
+ * Low digestive capacity [Su.Sa.Uttara Sthana 52/7][2]
+
+### Clinical features
+
+#### General clinical features
+
+The voice of patient resembles the sound that comes out of a broken bronze vessel. [Su.Sa.Uttara Sthana 52/5][2]
+
+#### Dosha specific clinical features
+
+###### Vata dominant kasa
+
+ * Excruciating pain in the epigastric region, flanks, chest, and head
+ * Excessive hoarseness of the voice
+ * Dryness in the chest, throat and mouth
+ * Horripilation and fainting
+ * Resonant sound during coughing, looks hopeless, hollow sound during coughing
+ * Weakness, agitated, illusive perceptions
+ * Dry cough
+ * Painful coughing with scanty expectoration
+ * Cough gets alleviated by the food and drinks that are unctuous, hot, salty and sour
+ * Increases after digestion of food [Cha.Sa.Chikitsa Sthana 18/10-13]
+
+###### Pitta dominant kasa
+
+ * Yellowish sputum and eyes
+ * Bitter taste in mouth
+ * Abnormal voice or inflammation of vocal apparatus as in pharyngitis, laryngitis
+ * A feeling of smoke is being vomited out of the chest
+ * Morbid thirst, burning, illusive, anorexia and giddiness
+ * Appearance of twinkling stars in front of the eyes while coughing continuously
+ * Expectoration of sputum mixed with pitta [Cha.Sa.Chikitsa Sthana 15-16]
+
+###### Kapha dominant kasa
+
+ * Poor digestion
+ * Anorexia, vomiting, nausea
+ * Nasal discharge
+ * Heaviness
+ * Horripilation, stickiness, and sweetness of the mouth
+ * Expectoration of thick, sweet, slimy phlegm in large quantity
+ * Painless coughing and smooth release of sputum is differentiating feature of kapha dominance
+ * Feeling of fullness in the chest [Cha.Sa.Chikitsa Sthana 18/18-19]
+
+In a study, kaphakasa is compared with chronic bronchitis.[3]
+
+###### Kasa as a result of trauma (kshataja)
+
+ * Initial dry cough followed by blood-tinged sputum
+ * Excessive pain in the throat
+ * Cracking pain in the chest
+ * Sharp pricking pain
+ * Excruciating pain and discomfort on touching the chest
+ * Miserable appearance.
+ * Pain in joints and fingers, fever, labored breath, thirst, and altered voice
+ * While coughing, sounds humming like a pigeon. [Cha.Sa.Chikitsa Sthana 18/20-23]
+
+###### Kasa due to depletion of body tissues (kshayaja)
+
+ * Expectoration of greenish, reddish sputum, associated with pus and bad odor.
+ * While coughing, the person feels as if the heart is displaced.
+ * Feels suddenly afflicted with both hot and cold sensations
+ * Weakness and emaciation even after taking food in excessive quantity
+ * The clean and unctuous complexion of the face, associated with the gracious appearance of face and eyes.
+ * The soft silky touch of hands and foot
+ * The person always finds fault with others and develops an immensely hateful disposition
+ * The person suffers from diseases like jwara (having signs and symptoms of all dosha), nasal congestion, anorexia, painful flanks, and altered voice
+ * Frequent hard or loose stools without apparent cause [Cha.Sa.Chikitsa Sthana 18/25-28]
+
+### Pathogenesis
+
+**Image 1: Samprapti of Kasa**
+
+ * Dosha: Vata, Kapha
+ * Dushya: Rasa
+ * Srotasa: pranavaha, rasavaha
+ * Site of origin: amashaya (stomach)
+ * Site of manifestation/clinical presentation: Throat (kantha) and chest (uras)
+ * Type of pathogenesis: Obstruction (sanga), Movement of dosha in the wrong direction (vimargagamana)[Cha.Sa.Chikitsa Sthana 18/6-8]
+
+### Clinical examination
+
+ * Respiratory rate
+ * Pulse examination
+ * Chest examination by auscultation, palpation and percussion
+
+### Investigations
+
+**Radiological examinations:**
+
+ * Chest X-Ray
+ * C.T.Scan of chest and thoracic region
+
+**Laboratory investigations:**
+
+ * Sputum examination
+ * Absolute Eosinophil count
+
+### Prognosis
+
+ * Vata, pitta and kapha dominant kasa are curable.
+ * Cough due to trauma (kshataja) and cough due to depletion of body tissues (kshayaja) are curable initially and in strong individuals. In the chronic stage, they can be controlled and palliated with appropriate drugs and diet. [Cha.Sa.Chikitsa Sthana 18/29-31]
+
+**Poor prognostic features:**
+
+If the patient is weak, cough due to depletion of body tissues (kshayaja kasa) may cause death. All types are palliable in old patients.[Cha.Sa.Chikitsa Sthana 18/29-30] 
+
+### Management
+
+#### Principles of management
+
+ * Avoidance of etiological factors
+ * Purification therapy (shodhana) as per dominance of dosha
+ * Pacification therapy (shamana) as per dominance of dosha
+ * Disease-specific rejuvenation treatment (vyadhiahara rasayana)
+
+#### Dosha specific treatment principles
+
+###### Vata predominance
+
+ * Unctuous therapies (snehana)
+ * Dietary supplements like gruels, milk, meat etc. processed with vata alleviating medicines can be used. [Cha.Sa.Chikitsa Sthana 18/32-33]
+ * Therapeutic enema (basti) [Cha.Sa.Chikitsa Sthana 18/32]
+ * In association kapha or pitta, dosha-specific measures shall be used. [Cha.Sa.Chikitsa Sthana 18/132] When vata dominant kasa is associated with pitta, medicated ghee and milk after food is indicated. [A.Hr.Chikitsa Sthana 3/2][4]
+
+###### Pitta predominance
+
+ * Therapeutic purgation (virechana) [Cha.Sa.Chikitsa Sthana 18/85]
+ * Other purification therapies as per quantity of dosha
+ * Unctuous electuaries [Cha.Sa.Chikitsa Sthana 18/86]
+
+###### Kapha predominance
+
+ * Therapeutic emesis (vamana) [Cha.Sa.Chikitsa Sthana 18/108]
+ * Dry and light to digest foods
+ * The oil exuding out from burning log of Cedrus deodara (devadaru) is used in treatment. It is mixed with powders of Piper longum, Piper nigrum and Zingiber officinale (trikatu), and ash of Hordeum vulgare (yavakshara) as a first line of treatment. [A.Hr.Chikitsa Sthana 3/41][4]
+
+#### Disease-specific treatment principles
+
+##### Cough due to traumatic injury
+
+ * This acute condition should be treated immediately with drugs promoting strength and improving muscle tissues (mamsa dhatu). Sweet and life-promoting (jivaniya) drugs shall be used. [Cha.Sa.Chikitsa Sthana 18/134]
+ * Kerria lacca (laksha) mixed with honey with milk is advised. [A.Hr.Chikitsa Sthana 3/73][4]
+ * Medicines used for pitta dominant kasa are indicated.
+ * Milk, ghee, and honey are given in such patients. [Cha.Sa.Chikitsa Sthana 18/138]
+ * All therapies which alleviate vatadosha, and do not aggravate pitta and rakta should be followed in such persons.
+ * Ghee prepared with life-promoting (jivaniya) medicines.
+ * Meat, meat soup prepared out of common quail (lava)
+ * Goat’s milk processed with trinapanchamoola (combination of Desmostachyabipinnata, Saccharum spontaneum, Phragmites karka, Imperata cylindrical, Saccharum officinarum etc.) in case of morbid thirst (trushna)
+ * Ghee in the form of nasal administration (nasya) or as a drink in case of bleeding.
+ * In case of stiffness of body, ghee in larger quantity should be given.[Cha.Sa.Chikitsa Sthana 18/139-143]
+
+##### Cough due to depletion of body tissues or degenerative conditions
+
+In the initial stage, nourishing therapy (brimhana) with deepana (therapies that increase digestive capacity) should be given. [Cha.Sa.Chikitsa Sthana 18/150] These therapies and purification therapies (srotoshodana) shall be done alternatively. As all three doshas are vitiated in this type of kasa, the therapies aim to pacify and balance all three doshas. [Cha.Sa.Chikitsa Sthana 18/187-88] 
+
+If the amount of pitta and kapha are less, and associated with emaciation, then ghee processed with Pistacia chinensis (karkatakasringi), Sida cordifolia (bala), Sidarhombifolia (atibala) and milk should be given. 
+
+If kasa is associated with discoloration or difficulty in urination, then milk processed with Pueraria tuberose (vidari), Neolamarckia cadamba (kadamba) or with tender fruits of Flacourita jangomas (tall) should be given. [Cha.Sa.Chikitsa Sthana 18/153-54] 
+
+#### Panchakarma procedures with safety precautions
+
+ * Internal administration of unctuous substances (snehapana): In vatakasa [Cha.Sa.Chikitsa Sthana 18/32-33]
+ * Oil massage (abhyanga): It is indicated in vata dominant kasa [Cha.Sa.Chikitsa Sthana 18/32-33] and cough due to chest injury associated with vata and pitta. [Cha.Sa.Chikitsa Sthana 18/139]
+ * Fomentation: Unctuous fomentation is indicated in vata dominant kasa [Cha.Sa.Chikitsa Sthana 18/32-33]
+ * Therapeutic enema (basti): It is indicated in vata dominant kasa associated with constipation and flatulence [Cha.Sa.Chikitsa Sthana 18/32-33]
+ * Therapeutic purgation (virechana): Purgation with unctuous substance (like castor oil) shall be given in case of dryness and aggravation of kapha. [ [Cha.Sa.Chikitsa Sthana 18/34] In case of thin phlegm, then Operculina turpethum (trivrit) mixed with sweet substances is advised for purgation. In case of thick phlegm, Operculina turpethum (trivrit) mixed with bitter substances is advised for purgation. [Cha.Sa.Chikitsa Sthana 18/85] Mild purgation is advised to reduce aggravated dosha in kasa due to depletion of body tissues. [Cha.Sa.Chikitsa Sthana 18/150]
+ * Medicated smoke/fumigation (dhuma): It is indicated in case of headache and coryza associated with vata and kaphadosha. [Cha.Sa.Chikitsa Sthana 18/65-68]
+ * Therapeutic emesis (vamana): In pitta dominant kasa associated with kaphadosha, therapeutic emesis (vamana) is advised with decoction (kashaya) prepared out of Catunaregam spinosa (madana), Gmelina arborea (kashmari), Glycyrrhiza glabra (madhuka) etc. [Cha.Sa.Chikitsa Sthana 18/83] In kapha dominant kasa and strong person, therapeutic emesis shall be done first. [Cha.Sa.Chikitsa Sthana 18/108]
+ * Intra nasal drug administration (nasya): If bleeding is present in kasa (as a result of trauma), trinapanchamula ghee is used for nasya. It is prepared from milk processed with herbs of trinapanchamoola (combination of Desmostachyabi pinnata, Saccharum spontaneum, Phragmites karka, Imperata cylindrical, Saccharum officinarum etc.). [Cha.Sa.Chikitsa Sthana 18/142] In kapha dominant kasa, nasal instillation with medicines having purificatory properties (shirovirechana nasya) is advised. [Su.Sa.Uttara Sthana 52/28][2]
+ * Decoction enema (niruha basti): Therapeutic enema with decoction is indicated [Su.Sa.Uttara Sthana 52/27][2] in vata dominant kasa with constipation and flatulence. [A.Hr. Chikitsa Sthana 3/2][4]
+ * Medicated unctuous enema (anuvasana basti): Medicated unctuous enema (anuvasana) is advised if pain and swelling in loin, groin, anus or penile region are present in kasa (due to depletion of body tissue) patient. [Cha.Sa.Chikitsa Sthana 18/155]. It is indicated in vata dominant kasa. [Su.Sa.Uttara Sthana 52/27][2]
+
+#### Medicines used in current practice
+
+##### Herbs
+
+Piper longam (pippali), Piper nigrum (maricha), Flacourtia jangomas (talisapatra), Solanum virginianum (kantakari), Inula racemosa (pushkaramula).[5]
+
+##### Herbal formulations
+
+Agastya Haritaki [Cha.Sa.Chikitsa Sthana 18/ 57-62], Kushmandarasayana [A.Hr.Chikitsa Sthana 3/114-117][4], Vyaghriharitaki [B.R.15/169-172][6], Talisadichurna [B.R 15/36-40][6], Vasa arishta[3], Vasa avaleha [B.R.15/179-181][6], Sitopaladi churna[3], Lavangadivati [B.R.15/35][6], Khadiradi vati[5], Kanakasava.[5]
+
+##### Herbo-mineral formulations
+
+Laxmivilasa rasa [B.R 15/130-37][6], Kasakuthara rasa, Svachandabhairava rasa[3], Hema garbha potalirasa[3], Rudraparpati, Bhutankusha rasa[5], Amritarnava rasa[B.R 15/60-61][6]
+
+#### Wholesome diet
+
+Meat soup along with wheat, barley, rice etc. and sweet, sour and salty foods are wholesome in kasa with vata predominance.[Cha.Sa.Chikitsa Sthana 18/76-82] 
+
+Dysphania ambrosioides (vastuka), Solanum americanum (vayasi), Senna occidentalis (kasaghna), fruits and leaves of Solanum virginianum (kantakari), dried tender Raphanus raphanistrum (mulaka), Sesamum indicum (tila) oil, edibles prepared from milk, sugarcane juice and jaggery, whey of curds, juice prepared from sour fruits and fermented beverages are wholesome in vatakasa. [A.Hr.Chikitsa Sthana 3/23-24][4]
+
+In kasa with pitta predominance, sweet and cold things are advised. Shyamaka, Hordeum vulgare (yava), Paspalum scrobiculatum (kodrava), bitter vegetables etc. are wholesome. [B.R 15/8][6] [Cha.Sa.Chikitsa Sthana 18/98] 
+
+Hot and spicy food materials are wholesome in kasa with kapha predominance. [Cha.Sa.Chikitsa Sthana 18/108] 
+
+Drinks such as honey (madhu), warm water, buttermilk etc. are preferred in kasa with kapha predominance. [Cha.Sa.Chikitsa Sthana 18/110] 
+
+Piper longum, Piper nigrum and Zingiber officinale (trikatu)[Su.Sa.Uttara Sthana 52/29][2], barley, green gram, horse gram etc. are wholesome in kaphakasa.[A.Hr.Chikitsa Sthana 3/43][4]
+
+Goat’s milk is good in all types of kasa.[3]
+
+### Complications
+
+If kasa is not appropriately treated, it leads to consumption (rajayakshma) due to aggravation of all three dosha and depletion of body tissues.[Su.Sa.Uttara Sthana 52/6][2]
+
+### Contemporary views
+
+#### Case reports
+
+##### Solanum xanthocarpum
+
+The whole plant (panchanga) of Solanum xanthocarpum showed significant anti-tussive activity when compared to its roots. Administration of 10 gms of powder of drug for 10 days in 30 patients reported better action over kapha dominant kasa. The drug might be suppressing the central cough center by stimulating opioid receptors in the brain. It may be acting through protective ciliary activity in the respiratory tract. The action as demulcent can relieve cough.[7]
+
+##### Tribulus terrestris
+
+An experimental study reported anti-tussive activity of root powder of Tribulus terrestris (laghu gokshura) in sulphur dioxide induced cough models. The number of cough episodes was significantly less in Tribulus terrestris (laghu gokshura) root administered group. While root of Pedalium murex (brihat gokshura) showed insignificant decrease in number of cough episodes. In a clinical study, administration of powder of Tribulus terrestris (laghu gokshura) root and root of Pedalium murex (brihat gokshura), 3gm twice a day in 28 patients of kasa is observed. It reported better effect in group administered with Tribulus terrestris. The effect was better in reducing vatakasa. This study also suggested effect of drug on central nervous system and its anti-inflammatory activity.[8]
+
+##### Combination of terminalia chebula and rock salt
+
+In a study conducted on 19 patients, Terminalia chebula (haritaki) with Rock salt (saindava lavana) was found effective in reducing the symptoms of kaphakasa. There was 92.3% relief in cough with sputum and itching in throat. The action of haritaki on vata and kaphadosha due to its hot potency is observed as reason behind efficacy.[9]
+
+##### Kantakari-maricha leha
+
+In a study, kantakari-marichaleha (ayurvedic formulation) was administered for 7 days in 30 children with symptoms of kaphakasa. It was found effective in reducing the signs and symptoms.[10]
+
+##### Samasharkara powder formulation
+
+In another study on 60 patients with kaphakasa, 10gms of Samasarkarachurna for 15 days is found effective in reducing the signs and symptoms.[11]
+
+##### Bhrigarajasava as adjunct to anti tubercular treatment
+
+In another study conducted on 60 patients with pulmonary tuberculosis (TB), administration of Bhrigarajasava along with the standard treatment was found effective in reducing the cough. The cough progressively diminished and became occasional and non-productive within 15 days of treatment.[12]
+
+##### Vyaghri-haritaki avaleha in chronic bronchitis
+
+A study on 66 patients with chronic bronchitis reported that Vyaghri-haritaki avaleha effectively reduced the productive cough, which is the cardinal feature of chronic bronchitis.[13]
+
+In another study conducted on 25 patients of kasa, administration of vyaghri-haritaki avaleha for four weeks showed highly significant results signs and symptoms.[14]
+
+##### Unctuous enema in pertussis
+
+Administration of unctuous enema (snehabasti) in pertussis patients of pediatric age group ( n=2) was studied. It was found very effective in reducing dry cough. Sesame oil in a dose of 10 - 20ml is used in basti for 14 days along with antimicrobial therapy. Initially, the intensity of cough was reduced, followed by a reduction in the frequency of cough episodes. Unctuous enema acts directly over the colon to restore normal functions of vatadosha.[15]
+
+##### Kasahara dashemani tablets
+
+In 40 children with kasa, administration of Kasahara Dashemani vati for 60 days showed relief in all symptoms of kasa. Reduction in acute eosinophil count (AEC) and erythrocyte sedimentation rate (ESR) levels are noted. The decrease in IgE levels indicates the drug’s action against allergy. It is found effective in vata and pitta predominant kasa.[16]
+
+### List of research works done
+
+ 1. Mansukh S Parmar (2012): A comparative pharmacognostical, physicochemical and pharmacological study of moola and panchanga of Kantakari (Solanum xanthocarpum Schrad. & Wendl.) w.s.r. to its kasahara karma, Department of Dravyaguna Vigyan, IPGT&RA, Jamnagar
+ 2. Chandrika N Methekar (2012): A comparative pharmacognostical and phyto pharmacological assessment of moola, panchanga of laghugokshura (Tribulus terrestris Linn.) and Brihatgokshura (Pedalium murex Linn.) w.s.r to its kasahara karma, Department of Dravyaguna Vigyan, IPGT&RA, Jamanagar
+
+### Abbreviations
+
+Cha. = Charak, Su. = Sushruta, A. = Ashtanga, Hr. = Hridayam, Sa. = Samhita, B.R = Bhaishajya ratnavali 
+
+**Send us your suggestions and feedback on this page.**
+
+## References
+
+Back to the Top 
+
+ 1. ↑ Avaialable from http://namstp.ayush.gov.in/#/Ayurveda accessed on 10/06/2021
+ 2. ↑ 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.
+ 3. ↑ 3.0 3.1 3.2 3.3 3.4 3.5 Shilpa L.S., Prashanth A.S. A Critical Review on the Etiopathogenesis and Treatment of Kaphaja Kasa (Chronic Bronchitis). J Ayurveda Integr Med Sci 2016;4:118-122. http://dx.doi.org/10.21760/jaims.v1i4.6928
+ 4. ↑ 4.0 4.1 4.2 4.3 4.4 4.5 4.6 Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000.
+ 5. ↑ 5.0 5.1 5.2 5.3 Ranade S. Pranavaha srotas (Respiratory sysytem). In: Kayachikitsa Vol 2. Delhi: Chaukhamba Sanskrit pratishthan; 2014: 212-24
+ 6. ↑ 6.0 6.1 6.2 6.3 6.4 6.5 6.6 Govindadas. Bhaishajyaratnavali. Translated from Sanskrit by Kanjiv Lochan. Reprint. Varanasi: Chaukhambha Sanskrit sansthan;2008.
+ 7. ↑ Mansukh S Parmar (2012): A comparative pharmacognostical, physicochemical and pharmacological study of moola and panchanga of Kantakari (Solanum xanthocarpum Schrad. & Wendl.) w.s.r. to its kasahara karma, Department of Dravyaguna Vigyan, IPGT&RA, Jamnagar
+ 8. ↑ Chandrika N Methekar (2012): A comparative pharmacognostical and phyto pharmacological assessment of moola, panchanga of laghu gokshura (Tribulus terrestris Linn.) and Brihat gokshura (Pedalium murex Linn.) w.s.r to its kasahara karma, Department of Dravyaguna Vigyan, IPGT&RA, Jamanagar
+ 9. ↑ Rout AK, Dwivedi RR. A clinical study of Haritaki and Saindhava Lavana in Kaphaja Kasa with special reference to Samyoga Guna. Ayu. 2011 Jul;32(3):357-60. doi: 10.4103/0974-8520.93914. PMID: 22736910; PMCID: PMC3326882.
+ 10. ↑ Sawant S, Nandgaonkar J A, Gujarathi R H. Efficacy of kantakari maricha leha on kaphaja kasa in children of age group 1 to 5 years. WJPR. 2018 Mar;7(7):1250-55. doi: 10.20959/wjpr20187-11693
+ 11. ↑ Dighe P M. Efficacy of Samsharkara Churna in Kaphaj Kasa. Ijam. 2013, 4(1), 36-42
+ 12. ↑ Dornala SN, Dornala SS. Clinical efficacy of Bhringarajasava as Naimittika Rasayana in Rajayakshma with special reference to pulmonary tuberculosis. Ayu. 2012 Oct;33(4):523-9. doi: 10.4103/0974-8520.110536. PMID: 23723670; PMCID: PMC3665204.
+ 13. ↑ Ram J, Baghel MS. Clinical efficacy of Vyaghriharitaki Avaleha in the management of chronic bronchitis. Ayu. 2015 Jan-Mar;36(1):50-5. doi: 10.4103/0974-8520.169009. PMID: 26730139; PMCID: PMC4687240.
+ 14. ↑ Suhas A. Chaudhary, Patel KS, Kori VK , Rajagopala S. Management of doshika kasa in subacute and chronic stage with Vyaghri haritaki avaleha in children. Ayurpharm Int J Ayur Alli Sci. 2014;3(4):97-111.
+ 15. ↑ Gujarathi RH, Gokhale VM, Tongaonkar JN. Effect of Basti (oil enema) therapy for the management of cough in pertussis. Ayu. 2013 Oct;34(4):397-400. doi: 10.4103/0974-8520.127722. PMID: 24696577; PMCID: PMC3968703.
+ 16. ↑ Subrahmanya NK, Patel KS, Kori VK, Shrikrishna R. Role of Kasahara Dashemani Vati in Kasa and Vyadhikshamatva in children with special reference to recurrent respiratory tract infections. Ayu. 2013 Jul;34(3):281-7. doi: 10.4103/0974-8520.123124. PMID: 24501524; PMCID: PMC3902595.

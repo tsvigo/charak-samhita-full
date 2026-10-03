@@ -1,0 +1,202 @@
+ * Classification of diseases, including abdominal ones, have been discussed in this chapter. Since diseases are innumerable, the classification is only restricted to diseases prevalent at that time. [Verse no. 1-2]
+ * In this chapter, diseases have been classified according to _sankhya samprapti_ (by the number of variants of the disease), _vidhi samprapti_ (i.e., by features or symptoms of the disease). [Verse 3, 4(1)]
+ * The common thing among these three diseases with seven varieties is that their manifestation site is skin but they vary in clinical features, severity, chronicity etc. Nomenclature of _kushtha_ and _pidaka_ is based mainly on clinical manifestation and _visarpa_ subtypes have been mentioned according to dosha involved. [Verse no. 4(2)]
+ * Diseases are classified into six types on the basis of their etiological factors involved. During classifying _atisara_ both physical and mental factors are considered while classification of _udavarta_ is based on suppression of six important natural urges. [Verse no. 4(3)]
+ * In this verse 12 diseases have been mentioned which have 5 subtypes. If we analyze five subtypes of each disease we will find that in most of the cases four sub-types are vataja, pittaja,kaphaja and sannipataja. Fifth type varies in many of above mentioned diseases like in _gulma_ and _pliha dosha - raktaja_ , in _chhardi- dwistarthsangyogaja_ , in _bhaktasyanasana - dweshaja,_ in _shiroroga_ and _hridroga - krimija_ , in _pandu – mridbhakshanaja_ and in _unmada – agantuja_. Any cause other than dosha remarkably changes pathogenesis of disease so keeping this fact in mind, last subtypes have been separately mentioned and named. For the same reason in _kasa_ , in place of _sannipataja, kshataja_ and _kshayaja kasa_ and in _trishna_ in place of _kaphaja - aamaja, trishna_ have been mentioned. In _shvasa_ division has been done on the basis of prominent symptoms and in _hikka_ it is based on both symptoms and causative factors. [Verse no. 4(4)]
+ * In eight out of set of ten diseases mentioned, classification into subtypes has been based on involvement of _soshas_. _Sosha and klaibya_ pathogenesis and treatment varies with cause of the disease so they are classified on the basis of causative agent involved. [Verse no. 4(5)]
+ * The basis of classification is different in all the three above mentioned diseases. The _shotha_ subtypes are classified on the basis of _dosha_ , in _kilasa_ it is based on clinical features and in _lohitapitta_ it is classified on the basis of site of manifestation. [Verse no. 4(6)]
+ * Diseases are classified into two types based on etiology, clinical features, severity etc. mainly aimed to properly understand pathogenesis as well as to plan treatment. [Verse no. 4(7)]
+ * Diseases with no subtypes have been mentioned. The above set includes possible variation of physical and mental causes. _Urustambha_ occurs due to three [dosha]] and _ama, sanyasa_ is psycho-somatic in nature and in _mahagada_ there is involvement of mental entities only. [Verse no. 4(8)]
+ * While describing diseases with large number of subtypes separate way of classification was used. All the mentioned diseases are first broadly classified in a group and then sub-types are mentioned. _Krimi_ are first classified into _bahya, raktaja, shleshmaja_ and _purishaja_ and then among these four groups twenty types of _krimi_ have been mentioned.[Cha.Sa.Vimana Sthana7] Twenty types of _prameha_ are broadly classified in three groups on basis of dosha and then subtypes are mentioned, Similarly, _yoni vyapada_ are broadly classified as diseases due to dosha and diseases due to amalgamation of dosha and _dushyas_ and under second category 16 types of diseases have been mentioned. [Verse no. 4(9)]
+ * Importance of dosha in disease production has been mentioned. Equilibrium of dosha is important aspect of _swasthya_ or health and if doshas are vitiated they will lead to disease formation. Three important factors by which one can diagnose disease have been mentioned in the above verse. [Verse no. 5]
+ * It has been emphasized that there is separate category of disease (_agantuja vyadhi_) in which involvement of doshas may not be necessary. [Verse no. 6]
+ * It has been clarified that exogenous and endogenous diseases can coexist and at times endogenous diseases are followed by the exogenous ones and even the exogenous ones are followed by the endogenous one. So, while treating such type of conditions secondary development and the primary nature of the disease should be properly analyzed. [Verse no.7]
+ * With the advancement of scientific knowledge and technology mode of disease classification has changed a lot but the basic principles remain the same. At present, disease classification is based upon etiology, pathogenesis, clinical features etc. So, basis remains the same but due to enhancement in knowledge nomenclature has changed. [Verse no.3]
+
+### _Udara roga_
+
+Cardinal feature of _udara roga_ is swelling in abdomen so all diseases having presentation with abdominal swelling/distension can be taken under common term _udara roga_. In general diseases of stomach and bowel can be included in it. [1][Madhukosh on M.Ni.35/1] [Cha.Sa.[[Sutra Sthana 18/31] So, _udara rogas_ described in Ayurveda can be correlated with different intra-abdominal conditions in which abdominal swelling/distension is the prime feature eg. abdominal tumours, hepato/splenomegaly, intestinal obstruction, perforation, ascites etc. Subtypes of _udara roga_ are named and described on the cause of swelling/distension. First four types are named after dosha involved. Description of _pleehodara_ in Chikitsa Sthana closely resembles with spleen enlargement. _Pliha_ refers to spleen so all conditions with predominant splenomegaly which cause visible abdominal swelling/distension can be taken by the term _pleehodara_. _Baddha_ means obstruction, and so obstructive conditions leading to abdominal swelling/distension can be clubbed as _baddhodara_. Cause and symptoms closely resembles with that of intestinal obstruction so intestinal obstruction could be the possible modern correlate. _Chhidra_ refers to cavity or hole. In description of _chhidrodara_ it is clearly mentioned that intestine is injured which leads to exudation of material from intestine to abdominal cavity from the injured site. This condition closely resembles intestinal perforation. _Udaka_ literally refers to water. _Udakodara_ or _jalodara_ is a condition in which fluid is accumulated in intestine. Based on resemblance in clinical features it can be correlated with ascites. 
+
+### _Mutraghata_
+
+In _mutraghata_ main symptom is either oliguria or enuria due to suppression of urine formation and obstructive uropathy._Vijayarakshita_ has mentioned difference between _mutrakrichra_ and _mutraghata_. In _mutrakrichra_ there is painful and frequent micturition [2] so it can be correlated with dysuria as in urinary tract infection. All conditions in which urinary output is low or absent can be interpreted as _mutraghata_.[ Ma.Ni.31/1] [Dalhana on Su.Sa.Uttara Tantra 58/1][3], [Chakrapani on Cha.Sa.Chikitsa Sthana 26/43-44] 
+
+Four types of _mutraghata_ are classified according to dosha [4]: 
+
+ * _Ashmarija mutraghata_ (_Ashmari_ means stone) can be taken as obstruction of urine due to urolithiasis.
+ * In the same way based on the nomenclature _sharkaraja mutraghata_ can be taken as condition with gravels in urinary tract,
+ * _shukraja mutraghata_ as obstruction due to spermolith and
+ * _shonitaja_ refers to blood clot and so it can be taken as hematuria due to tuberculosis, tumor, thrombosis, stone and trauma.
+
+### _Ksheera dosha_
+
+_Ksheera_ literally means milk, and _ksheera dosha_ means disorders in which breast milk is vitiated. Eight types of _ksheera dosha_ (pathological lactation) are mentioned according to change in physical characteristics of breast milk like color, smell, consistency etc. 
+
+### _Reto dosha_
+
+_Retas_ refers to sperm [5] so various clinical conditions in which sperm is vitiated can be denoted as common term _reto dosha_ (Sperm disorders) such as oligospermia, azoospermia and sperm dyskynesia. Sub classification of _reto dosha_ has been done on any alteration in physical characteristic of _retas_ with impaired spermatogenesis and impaired sperm emission. [Verse no. 4(1)] 
+
+### _Kushtha_
+
+The disease in which discoloration or disfigurement of skin occurs comes under _kushtha_. Various dermatological disorders including leprosy are included under _kushtha_.[A.H.Nidana Sthana 14/34][6]
+
+### _Pidaka_
+
+_Pidaka_ refers to conditions like boil and abscess. [7] These are the inflammatory swelling affecting diabetic or non diabetic immune compromised persons. 
+
+### _Visarpa_
+
+_Visarpa_ word literally refers to spreading, moving or gliding property. [8] It is acute disease which spreads quickly, so all acute inflammatory conditions like erysipelas, herpes, erythema multiforme and acute lymphadenitis can be called _visarpa_.[Cha.Sa.Chikitsa Sthana 21/11], [Chakrapani on Cha.Sa.Chikitsa Sthana 21/11], [Dalhana on Su.Sa.Nidana Sthana 10/3][3], [Madhukosha Teeka on M.Ni.52/1] 
+
+It can be said that _kushtha_ covers almost all dermatological disorders whereas _pidakas_ are inflammatory swelling which occurs as complications of prameha but can occur in other conditions also. _Visarpa_ is relatively serious condition and can be taken as acute spreading inflammatory skin conditions. [Verse no. 4(2)] 
+
+### _Atisara_
+
+All diarrheal diseases including acute, chronic, psychogenic, drug and diet induced, inflammatory and non-inflammatory diseases. 
+
+### _Udavarta_
+
+_Udavarta_ word refers to excretion [9] and is caused by suppression of natural urges due to which path of vata is obstructed resulting in hampering of normal functioning and movement of vata. [Madhukosha Teeka on M.Ni. 27/1] Conditions characterized by retention of feces, urine and flatus, associated with pain and leading to or caused by anti-peristaltic movements in the body. 
+
+### _Gulma_
+
+_Gulma_ is a condition in which there is palpable mobile or immobile lump in abdomen, in shape and constantly increasing and decreasing in size. So, _gulma_ can be taken as any abdominal lump which can be palpated. [ Cha.Sa.Nidana Sthana 3/7], [Cha.Sa.Chikitsa Sthana 5/7] 
+
+### _Kasa_
+
+_Kasa_ refers to a condition in which air is expelled from the lungs with a sudden explosive sound of cough. [10] _Kasa_ includes all pathological conditions in which coughing is cardinal feature. [Cha.Sa.Chikitsa Sthana 18/8], [Su.Sa.Uttara Tantra.52/5][3]
+
+### _Shvasa_
+
+_Shvasa_ word implies respiration. _Shvasa vyadhi_ refers to pathological conditions in which there is difficulty in breathing. [11] _Shvasa_ is a condition in which person breathes rapidly like a leather bag which inflates and deflates with speed. _Shvasa_ refers to impaired cardiorespiratory function including systemic causes. [Madhukosha Teeka on M. Ni. 12.15] 
+
+### _Hikka_
+
+_Hikka_ is a disease in which _hik hik_ sound is produced. It can be correlated with hiccup [12] and its pathological variation mentioned in Ayurvedic texts ranges from mild to severe life threatening conditions. [Su.Sa.Uttara tantra 50/6][3], [Madhukosha on Ma.Ni. 12/3] 
+
+### _Trishna_
+
+_Trishna_ literally means thirst, a clinical entity in which patient suffers from excessive thirst not satisfied even after excessive water intake. [A.H.Uttara Sthana 48/3][6]
+
+### _Chhardi_
+
+In _chhardi_ (vomiting), food and dosha are forcefully expelled out through mouth. 
+
+### _Arochaka_
+
+_Arochaka_ refers to a clinical condition in which person has loss of taste, appetite and aversion to food. [13]
+
+### _Shiroroga_ and _Hridroga_
+
+_Shira_ is head and _hridaya_ is heart.Thus, _Shiroroga_ are diseases of head and related structures [14] while _hridroga_ are cardiovascular diseases [15]
+
+### _Pandu_
+
+_Pandu_ is pallor of skin[16] and mucosa and is consistent with anemia. 
+
+### _Unmada_
+
+_Unmada_ is a syndrome with multiple manifestations and heterogeneous causes, including psychosis and mood disorders. It is characterized by perturbation / confusion (_vibhrama_) of mind (manas), intellect (buddhi), consciousness (_sangyaa_), knowledge (_jnana_), memory (smriti), desire (_bhakti_), manner (_sheela_), behaviour (_cheshta_), conduct (_aachaara_). This is cardinal sign of _unmada_. 
+
+### _Apasmara_
+
+_Apasmara_ is a clinical condition with impaired memory, intellect and cognition, characterized by seizures and impaired consciousness, resembling epilepsy. 
+
+### _Akshi roga, karna roga_ and _mukha roga_
+
+_Akshi Roga_ refers to ophthalmic disorders, _karna roga_ to diseases of ear [17] and _mukha roga_ as disorders of mouth. 
+
+### _Grahani_
+
+_Grahani_ is a group of diseases involving small intestine as in irritable bowel syndrome, inflammatory bowel diseases and all types of disorders of digestion and absorption. 
+
+### _Mada/Murchha_
+
+_Mada_ is acute state of confusion and delirium and _murchcha_ is deep loss of consciousness (syncope). 
+
+### _Shosha_
+
+_Shosha_ refers to phthisis, a progressive wasting or consumptive condition such as tuberculosis. It generally refers to depletion of _dhatu_ and hence strength. 
+
+### _Klaibya_
+
+_Klaibya_ denotes impotence.[18]
+
+### _Shotha_
+
+_Shotha_ is a condition with swelling/distension. [19]
+
+### _Kilasa_
+
+_Kilasa_ refers to depigmentation of skin as in leukoderma, vitiligo. 
+
+### _Raktapitta_
+
+_Raktapitta_ stand for a group of disorders of bleeding[20]/coagulopathies. 
+
+### _Jwara_
+
+Jwara refers to fever.[21]
+
+### _Vrana_
+
+_Vrana_ (wound) is defined as any lesion in the body causing damage or destruction of the tissue which on healing may leave behind a scar permanently. 
+
+### _Aayama_
+
+_Aayama_ refers to abnormal posture of body due to severe muscular spasm or dysotnia. 
+
+### _Gridhrasi_
+
+_Gridhrasi_ refers to sciatica lumbosacral radiculopathy and lumbosacral plexopathy. 
+
+### Miscellaneous diseases
+
+_**Kamala**_ : Jaundice 
+
+_**Vatarakta**_ : Gout, vasculitis 
+
+_**Arsha**_ : _Arsha_ refers to hemorrhoids and benign and malignant growth in ano-rectal region. 
+
+_**Urustambha**_ : _Urustambha_ , pelvic girdle myopathy and flaccid paraplegia is seen. 
+
+_**Sanyasa**_ : _Sanyasa_ is a state of unconsciousness in which a person lies in vegetative state and correlates with coma. [Cha.Sa.Sutra Sthana 24/44-45] 
+
+_**Mahagada**_ : _Atattvabhinivesha_ is said to be _Mahagada_. It is a psychological disorder such as hypochondriasis and paranoia. [ Cha.Sa.Chikitsa Sthana 10/60] [Verse no. 4(8)] 
+
+_**Krimi Roga**_ : _Krimi_ refers to various parasitic infestation. 
+
+_**Prameha**_ : _Prameha_ is passage of excessive and turbid urine from many causes. 
+
+_**Yoni Vyapada**_ : _Yoni Vyapada_ refers to different conditions afflicting female genitals. [22] Broadly it refers to various gynecological disorders. [Verse no. 4(9)] 
+
+Exogenous causes are important cause of morbidity and mortality and so they are included in international classification of diseases. In separate chapter injury, poisoning and certain other consequences of external causes & external causes of morbidity and mortality have been mentioned in ICD-10. Exogenous causes were given importance in ancient times also and so their role in disease diagnosis and treatment has been emphasized in above verse. [Verse no. 7] 
+
+**Send us your suggestions and feedback on this page.**
+
+## References
+
+ 1. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 184 
+ 2. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 825 
+ 3. ↑ 3.0 3.1 3.2 3.3 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.
+ 4. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 114 
+ 5. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 887 
+ 6. ↑ 6.0 6.1 Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000.
+ 7. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 625 
+ 8. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1001 
+ 9. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 185 
+ 10. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 281 
+ 11. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1106 
+ 12. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1298 
+ 13. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 88 
+ 14. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1073 
+ 15. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1302 
+ 16. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 616 
+ 17. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 257 
+ 18. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 324 
+ 19. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 1091 
+ 20. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 861 
+ 21. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 428 
+ 22. ↑ Monier Williams , Sanskrit – English Dictionary, Motilal Varanasi Publications, Reprint- 1997, Page no 858 
+
+Back to the Top

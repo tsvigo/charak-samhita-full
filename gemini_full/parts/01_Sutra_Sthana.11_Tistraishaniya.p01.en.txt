@@ -1,0 +1,191 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Three Desires
+ * 2.1.1 Desire for Life
+ * 2.1.2 Desire for Wealth
+ * 2.1.3 Desire of other world after death
+ * 2.2 _Pratyaksha_ (Direct perception) and _Apratyaksha_(Unknown)
+ * 2.2.1 Hindrances in direct perception
+ * 2.3 Views regarding _Paranirmana_ (soul as the Creator of the Universe)
+ * 2.4 _Yadrichha_ or free will (power which is responsible for sudden occurrence of events in universe)
+ * 2.5 Four-fold examination
+ * 2.5.1 Authoritative sages
+ * 2.5.2 Knowledge by Direct Perception
+ * 2.5.3 Anumana (inference)
+ * 2.5.4 Yukti pramana (reasoning)
+ * 2.5.5 Importance and applications of four-fold Examination
+ * 2.6 Important Triads
+ * 2.6.1 Three Supporting Pillars of Life
+ * 2.6.2 Three Types of _Bala_ (strength)
+ * 2.6.3 Three _Ayatana_ (causes of diseases)
+ * 2.6.4 Three Causes of Diseases
+ * 2.6.4.1 Asatmyendriyarthasamyoga
+ * 2.6.4.2 Prajnaparadha (intellectual defects)
+ * 2.6.4.3 Kala or Parinama (time)
+ * 2.6.5 Three Types of Diseases
+ * 2.6.5.1 Preventive measures
+ * 2.6.6 Three disease Pathways
+ * 2.6.7 Three Types of Physicians
+ * 2.6.8 Three Kinds of Treatment Modalities
+ * 2.6.9 Three Types of Therapies
+ * 2.7 Process of identification of diseased state
+ * 2.8 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Importance of Three
+ * 4.2 Categories of three mentioned in _Vedanta_[1]
+ * 4.3 Why is _kamaeshana_ not included as a desire to be pursued?
+ * 4.4 The Cause of Birth
+ * 4.5 Four _Pariksha_ and their clinical significance
+ * 4.6 _Aptopdesha_ : Clinical Significance [Cha.Sa.Vimana Sthana 4/6]
+ * 4.7 _Pratyaksha_
+ * 4.8 Clinical application
+ * 4.8.1 _Shrota Pratyaksha_ (auscultation / percussion)
+ * 4.8.2 _Darshan pratyaksha_ (visual inspection)
+ * 4.8.3 _Rasapariksha_ (gustation-by inference)
+ * 4.8.4 _Gandha Pariksha_
+ * 4.8.5 _Sparshana Pariksha_ (palpation)
+ * 4.9 _Anumana_ (estimation, or analysis)
+ * 4.10 Clinical Application
+ * 4.11 _Yukti_
+ * 4.12 Three _Upasthambhas_
+ * 4.13 Three types of _bala_ (strength, immunity)
+ * 4.14 Three _ayatanas_ (causes of diseases)
+ * 4.14.1 _Pragnaparadha_ (intellectual defects)
+ * 4.14.2 _Kalaja Vyadhi_
+ * 4.14.3 _Atiyoga_ or _mithyayoga_
+ * 4.15 Three classes of _roga_ (diseases)
+ * 4.16 Three rogamarga (pathways of disease manifestation)
+ * 4.17 Three bhishaga (physicians)
+ * 4.18 Three aushadha (therapies)
+ * 4.18.1 _Daivavyapasharaya_ [8]
+ * 4.18.2 _Yuktivyapasharaya_ [14]
+ * 4.18.3 _Sattvavajaya_
+ * 4.18.4 Dimensions of _Sattvavajaya_ [17]
+ * 5 References
+
+## Introduction
+
+Longevity is the desire of most human beings - to lead a healthy and long life. There is also desire for wealth - to enjoy all the worldly pleasures and also spend on spiritual rituals. The process of birth and rebirth is a _karmic_ cycle and the quality of an individual’s afterlife and the remaining part of his present life depends upon the good and bad deeds done in the life. As a result of good deeds, we can enjoy material (or heavenly) pleasures and lead healthy lives. 
+
+Prior chapters dealt with maintainence of health and cure for diseases. The aim of a healthy life is for attainment of happiness/ bliss in this world and the world after death. The chapter begins with a description about three basic desires of human life, which should be fulfilled during one’s lifetime - longevity, material comforts, and a blissful after-life. Charak has stated about the methods and means to fulfill these _eshanas_ , or desires: The desire for longevity _Pranaeshana_ can be achieved by following a healthy lifestyle. The desire for earning _Dhanaeshana_ may be fulfilled by adopting appropriate and ethical means of livelihood. A wealthy person is respected by the society, therefore earning is essential for maintaining health as well as to perform various spiritual rituals to fulfill the third desire, i.e. _Parlokeshaeshana_ , to get happiness in the next world after death. The third desire is vague, since there are no means to perceive life after death for an individual. On this subject, there are two schools of thoughts - _astik_ , or theism (belief in a supernatural power responsible for creation of the world), and atheism (belief that there is no God or believing only objects or experiences that can be perceived). Different opinions about creation are explained according to different schools of thought. It is concluded that there is existence of many things in this universe even though they are not directly perceptible, so their existence cannot be denied, and therefore the theory of reincarnation cannot be denied unless proven otherwise. 
+
+The four _pariksha_ or fourfold methods for getting correct knowledge are explained viz. _aptopadesha_ (authoritative/scriptural testimony), _pratyaksha_(direct observation by senses), _anumana_(inference) by guessing, and _yukti_(reasoning) by applying intelligence. These four methods are defined vividly and their importance in establishing the theory of reincarnation is explained. Afterwards, the factors in maintenance of good health are described. Three supporting pillars of life or _upastambhas_ are food (_ahara_), sleep (_swapna_) and celibacy (bramhacharya). By following these well regulated lifestyle factors, the body is bestowed with strength, increasing the three forms of strength, immunity (_bala_) – constitutional strength, immunity (_sahaja_), seasonal strength, immunity (_kalaja_) and acquired immunity (_yuktikrita_). Various diseases may arise if there is stress, unhealthy lifestyle, or through the effects of unhealthy season over the mind and the body. Further this chapter briefly describes three basic causes of diseases, three disease pathways, three types of treatments and therapies, three categories of physicians based on their qualities. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Tistraishaniya" (Three Desires of Life and important triads). Thus said Lord Atreya. [1-2] 
+
+### Three Desires
+
+A person having sound mind, intellect, physical strength, energy and psychological strength, one who is desirous of attaining benefits in this world and the other world (after death), should try to fulfill three desires. These desires are- desire for (long and healthy) life, desire for wealth (livelihood), and desire for a blissful life in the other world (after death). [3] 
+
+#### Desire for Life
+
+Of these three desires, the most important one is the desire for life. Why? Because with the end of life, everything comes to an end. To fulfill this desire, a healthy person should follow a healthy regimen or lifestyle and a diseased person should try to get relief from the diseased state. The methods of health management and modes of treatment of diseases have been described in the preceding chapters and will be discussed further in the coming chapters. Thus, the first desire for life is explained. [4] 
+
+#### Desire for Wealth
+
+The second desire is for wealth because during life one has to try to earn wealth or seek a livelihood. There is no sin greater than a person living life without (ethically or using fair means) seeking a livelihood. That is why one should try to earn livelihood by fair methods. The means for earning a virtuous livelihood are agriculture, dairy farming, business or trade, and services (government jobs), etc. Besides these, any other mode that is not sinful should be employed to earn a livelihood. By choosing such (respectable) occupations one can live a long life and earn respect and goodwill in the society. Thus, the second desire for wealth is explained. [5] 
+
+#### Desire of other world after death
+
+The third desire is the aspiration for a virtuous life in the other world (life after death. There is some skepticism regarding this desire). What happens after death? Does rebirth occur? Why are there doubts regarding reincarnation? Lord Atreya says that there are people who believe in perceptible things and do not believe in imperceptible things. _Acharyas_ (teachers) who have faith in the _shastras_ believe in the theory of reincarnation even when they have not perceived or experienced it. But there is skepticism because of differences in opinion. Among the “believing” _acharyas_ , some attribute the role of ‘parents or ancestors’, some on _swabhava_(personality or nature of the individual), some on the role of the _paranirman_ (impersonal soul), while some on _yadruchha_ ( free will or external powers responsible for sudden occurrences of events in the universe) in the process of reincarnation. Because of so many opinions and schools of thought, there is skepticism with regards to the theory of reincarnation, whether it exists or not. [6] 
+
+### _Pratyaksha_ (Direct perception) and _Apratyaksha_(Unknown)
+
+It is for intellectuals to discard the heterodox view pertaining reincarnation, and quell any doubts associated with it. Knowledge regarding this theory can only be acquired through the scriptures, inference and reasoning, because the scope of perception is very limited (and our sense organs have limited powers to perceive) and there is a vast, uncharted area of knowledge. [7] 
+
+#### Hindrances in direct perception
+
+Various types of objects are not visible to the naked eye if they are too close or too far, or there is any hindrance, or the sense organs are not functioning properly, or there is a lack of concentration of mind, or similar objects are placed near it, or if it has been over-shadowed, or if the items are microscopic. In all these cases, direct knowledge cannot be obtained by the sense organs. That is why it is not fair to assume that an object does not exist just because our sense organs are unable to perceive it. [8] 
+
+_Shrutis_ (scriptures) are not very clear about the idea of reincarnation since there are various differences in opinion regarding it. For instance, there is a view that if the soul of either the mother or the father is transferred into the child, then does the child embodies the soul of the parent completely or is it only part of the parent’s soul? If the soul of the mother or the father is present in body of child then if either of them should die, partial transformation of soul is not possible. Because the soul does not have any structure and it is very subtle. [9-10] 
+
+In the same manner, if it is proven that mind and intellect are like the soul, these cannot be sole cause of birth. Those who accept the theory of mind and intellect of parents as sole factor of birth then the four categories of species (_yonis-jarayuja_ (born out of amnion), _andaja_ (born out of egg), _swedaja_ (born out of sweat) and _udabhija_ (born by breaking open the earth)) will not be possible. [11] 
+
+The natural theory of birth is that the six dhatus (five basic elements- _prithvi, apa, tejas, vayu, akasha_ and the _atman_ (soul)) possess specific qualities, and that the combination and separation of these basic elements, conditioned by the actions of the _atman_ , determines the qualities of the individual at birth. [12] 
+
+### Views regarding _Paranirmana_ (soul as the Creator of the Universe)
+
+Consciousness is without any beginning or end, and being eternal it cannot be created by any other thing. Creation by something else refers to the creation of the body by the absolute _atman_ (the supreme consciousness or the supreme soul), and is an acceptable view for the proponents of the theory of reincarnation. [13] 
+
+### _Yadrichha_ or free will (power which is responsible for sudden occurrence of events in universe)
+
+Those who are atheists or nihilists do not believe in the theory of creation. As per this view, there is no existence of soul and no examination is warranted to prove its existence. They do not believe that there is any doer or divine cause for the existence of anything. For these people, there is no existence of God, sages, _siddhas_ , and therefore, they do not believe in concepts such as _karma_ (action) and _karmaphala_ (results of the action). Thus, nihilism constitutes the worst sin in this world. [14-15] 
+
+An intelligent person should get rid of such nihilistic thoughts and should see the world through the light of the lamp of wisdom shown by wise men. [16] 
+
+### Four-fold examination
+
+All the worldly objects can be divided into two categories, truth (or existence) and false (or non-existence). There are four methods of examination- scriptures or texts (words of persons with superior intellect, or sages), direct perception (direct observance), inference and reasoning. [17] 
+
+#### Authoritative sages
+
+Those who are enlightened and knowledgeable are absolutely free from rajas and tamas (psychological _doshas_). By virtue of this, they possess knowledge of _trikala_ (past, present and future) and are known as authorities (_aptas_). They are also known as the wise and the enlightened (_vibuddha_) persons. Their words are considered absolute truth without any doubt. As they are free from rajas and tamas, how could they tell lie? [18-19] 
+
+#### Knowledge by Direct Perception
+
+Knowledge gained by the proximity of soul, sense faculties(Indriya), mind with the object of study or observation is known as perception or direct observation (pratyaksha). [20] 
+
+#### Anumana (inference)
+
+Inference is preceded by perception and is of three types- past, present and future. For example, fire is inferred from the smoke, sexual intercourse is inferred from pregnancy - these are inferences drawn from the present and the past respectively. By looking at a seed, one can infer about the species or genus of the plant or tree and the kind of fruits it would bear. This inference is drawn on the basis of repeated, empirical observation of the plant’s (or tree’s) lifecycle and is an example of inferring (or predicting) the future. [21-22] 
+
+#### Yukti pramana (reasoning)
+
+Water, ploughed piece of land, seeds and the season in which particular seeds are sown, when combined together, result in a crop. Similarly, combination of six factors (_pancha mahabhuta_ and _atman_) is responsible for formation of a fetus in the uterus. Fire is produced by lower-fire-drill, upper-fire drill and the act of drilling or churning done by a person. In a similar manner, the treatment of disease is possible by applying the fourfold therapeutics measures (The _vaidya_ , medicines, paramedical staff, and the patient). [23-24] 
+
+The intellect perceives things by combination of multiple factors, valid for past, present and future is termed as yukti (reasoning). This is helpful in fulfilling three basic objects of human life (dharma, i.e. duties, wealth, desire). [25] 
+
+#### Importance and applications of four-fold Examination
+
+This is how the four fold examination helps in establishing the existence and non-existence of things. This examination can prove the theory of rebirth. [26] 
+
+Scriptural testimony are the _Vedas_ or other scripts which agree with the _Vedas_ , other scripts do not oppose the theories of _Vedas_ rather support them. They are composed by the help of four fold examinations, enunciated by the experts, approved by the trustworthy persons and having the capability of bringing happiness to the world. These scriptural sources of knowledge are the words of the authorities. This goal of scriptures can be fulfilled by donation, penance, performing rituals (offerings to sacred fire), truthfulness, nonviolence and brahmacharya (control of senses/ celibacy) by doing these one's upliftment and liberation is possible. [27] 
+
+Persons those who have not been able to free themselves from rajas and tamas (psychological dosha), for them advice given by the learned sages in religious literatures is that they cannot attain salvation. [28] 
+
+The people who follow the path of dharma (eternal duty), they are devoid of fear, attachment, hatred, greed, confusion, vanity and all their mental defects are vanished, they have great knowledge. Their mind and intellect are functioning forever, such ancient and most ancient sages with their divine sight after careful observation has enunciated the theory of rebirth. Everyone should think over this and there should be no doubt. [29] 
+
+Observation proves theory of rebirth: To establish the theory of rebirth observation may be helpful, for example dissimilar children born to their parents, parents may be same but their children differ in various manners like complexion, voice, structure, mind, intellect and fate. Birth in high class or lower class, slavery or lordship, happy or miserable life, difference in lifespan, getting different result of the deeds done in this life, without any training actions like crying, sucking breast, laughing, fear etc. (in new born), appearance of signs over body indicating good or bad fortune, actions being the same results are different, preservation of memory sometimes memory loss, memory of previous life in some persons, appearance being the same but some have liking some have disliking for the same things, all these prove the theory of rebirth. [30] 
+
+Inference supporting rebirth theory: Inference can be drawn that the action done in previous life is unavoidable, eternal and have continuity is known as fate. The results of which are enjoyable in this life and the actions done in this life will bring its results in next life. As seed comes from fruit and fruit from seed, this process is going on forever. [31] 
+
+Reasoning supporting rebirth: the _garbha_ (embryo) is formed by the combination of six _dhatus_ (_pancha mahabhutas_ and _atman_). Doer and the instrument when do come together results in manifestation of action. The results which we get are because of the actions done, no results if no action done. The germination occurs because of seed, the result always corresponds to the action, and seed cannot bring out heterogeneous product. This is reasoning. [32] 
+
+All the four means of knowledge (scriptures, observation, inference & reasoning) help in establishing the rebirth theory, one should concentrate mind on the path of eternal duty. Paths are to give service to the preachers/teachers/elders, studies, performing spiritual acts, marriage, producing children, maintenance of servants, giving respect to the guests, giving donations, no greed for others money, penance, avoid jealousy, performing acts which do not affect physical, verbally and mind, introspection of body, sensual faculties, mind, intellect and self and meditation are included. Similar acts recommended by virtuous persons which are conducive for doing well in life, and attainment of heaven after death, means of livelihood should be done. By doing such acts one gains fame and attains heaven after death. Thus, the third basic desire is explained. [33] 
+
+### Important Triads
+
+There are three supporting pillars of life, three types of strength, three types of causes of diseases, three types of diseases, three systems for disease manifestation, three types of physicians, three types of therapies. [34] 
+
+#### Three Supporting Pillars of Life
+
+Three supporting pillars of life: Ahara (food), nidra (sleep) and observance of bramhacharya ( celibacy/control of senses). By the wisdom of well regulated support of these three pillars one can get body with strength, good complexion and proper growth and this continues throughout life, provided person does not get involved in regimens which are detrimental for health, these are discussed in this chapter. [35] 
+
+#### Three Types of _Bala_ (strength)
+
+_Sahaja_ (hereditary, since birth), _kalaja_ (seasonal or periodic), and _yuktikrita_ (acquired). 
+
+_Sahaja bala_ is present in body and mind since birth or naturally. _Kalakrita bala_ is according to the seasonal variations and age of the person. _Yukti krita bala_ or acquired strength is based on the combination of the dietetic and the other regimens followed by the person. [36] 
+
+#### Three _Ayatana_ (causes of diseases)
+
+_Atiyoga_ (excessive utilisation), _ayoga_ (non-utilisation) and _mithyayoga_ (wrong utilisation) of _artha_ (objects of senses), _karma_ (actions) and _kala_ (time) are three causes of diseases. Examples are 
+
+ * _Atiyoga_ of sense of vision is excessive gazing at highly illuminous things,
+ * _Ayoga_ of sense of vision is to not look at anything
+ * _Mithyayoga_ of the sense of vision would be looking at things which are too close or too far, looking at awful, terrifying or surprising, contemptuous, frightful or deformed and alarming things is wrong utilization. Likewise, to hear loud noise coming out of thunder bolt, kettle drum, loud cries etc. are the examples of excessive utilization of sense of hearing, not hearing anything at all is non-utilization, hearing harsh words, news about death of near and dear or about loss of wealth, assaulting, insulting and terrifying sounds is wrong utilization of sense of hearing. Smelling of sharp, acute and intoxicating odors is excessive utilization of sense of olfaction, not to smell is non-utilization. Smelling of putrid, unpleasant, dirty, putrefied and cadaverous smell and poisonous gas is wrong utilization of sense of smell.
+
+Similarly, excessive intake of various substances with different tastes is over utilization of gustatory sense, not to use the sense is its non-utilization, and intake of things not considering the factors for utility of food mentioned in Vimana Sthana except _rashi_ is the wrong utilization of gustatory senses. 
+
+Excessive cold or hot water bath, excessive massage, unction etc. constitutes overuse of tactile senses, not to use at all is non-utilization, touch of uneven places, trauma, dirty objects, _bhuta-sansparsha_ (microscopic organisms causing diseases) is the wrong utilization of tactile senses. [37] 
+
+#### Three Causes of Diseases
+
+##### Asatmyendriyarthasamyoga
+
+##### Prajnaparadha (intellectual defects)

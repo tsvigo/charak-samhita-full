@@ -1,0 +1,47 @@
+#### Significance of knowledge of _samprapti_
+
+ 1. _Samprapti_ provides the details of the diseases such as _dosha_ predominance, predominance of one or the other fraction of the three _doshas_ , specific time of aggravation, and manifestation of diseases which plays a pivotal role in the management of diseases.
+ 2. The important role of a physician in the management of diseases is _sampraptibhanga_ i.e. to break the association of vitiated _dosha_ and _dushya_ (tissue that gets vitiated). This is not possible without proper knowledge of _samprapti_.
+
+#### _Nidanapanchaka_ and _shat kriyakala_
+
+Sushruta described six stages of _dosha_ vitiation and progression of disease known as _shat kriyakala_ (periods of activity). They are as under: 
+
+ * _Sanchaya_ (accumulation): In this stage _dosha_ undergo mild increase at their own site. This accumulation produces mild symptoms. If the person recognises these instincts and acts accordingly, the _doshas_ can be brought to the normal condition without much effort. [Su.Sa.Sutra Sthana 21/18][4]
+ * _Prakopa_ (aggravation): In this stage, _doshas_ gets vitiated further at their own site and exhibit some specific symptoms. By suitable changes in daily routine one can overcome these conditions. [Su.Sa.Sutra Sthana 21/27][4]
+ * _Prasara_ (spreading): The status of _doshas_ again increases further and _doshas_ spread nearby sites and invade the sites of other _doshas_ to produce symptoms. If the person continues to indulge in unhealthy food and regimen, then the disease progresses to the next stage. [Dalhana on Su.Sa.Sutra Sthana 21/32][4]
+
+During the first three stages, the unhealthy food and activities increases the _doshas_ and produces mild abnormalities. These three stages can be co-related with _nidana_ (_hetu_) of _nidanapanchaka_. 
+
+ * _Sthanasanshraya_ (localisation): The increased _doshas_ start accumulating at certain other places and lead to their abnormalities, especially in the _srotasa_. It leads to four kinds of abnormal changes in _srotasa_. [Su.Sa.Sutra Sthana 21/36] 
+ * _Atipravritti_ – Increased functioning of channels
+ * _Sanga_ – Obstruction, blockage of channels
+ * _Sira-Granthi_ – Abnormal growths in the channels
+ * _Vimargagamana_ – Movement of fluids in wrong direction
+
+The site where these _doshas_ lodge together to progress towards disease, is the site of origin of disease. This is the stage of actual commencement of the disease. It is characterized by manifestation of some moderate symptoms which indicate the forthcoming disease. These are known as _poorvarupa_. This stage can be co-related with _poorvarupa_ of _nidanapanchaka_. [Dalhana on Su. Sa. Sutra Sthana 21/33][4]
+
+ * _Vyakti_ (manifestation): This is the stage of full manifestation of the disease with all its characteristic sign and symptoms. These sign and symptoms are known as _rupa_. This stage can be co-related with _rupa_ of _nidanapanchaka_. [Dalhana on Su. Sa. Sutra Sthana 21/34][4]
+
+ * _Bheda_ (complication): In this stage, the abnormalities become more profound and irreversible in spite of the best treatment. Sometimes _upadravas_ (complications) or _arishta lakshanas_ (bad prognostic signs) can be seen in this stage. This stage also can be co-related with _rupa_ of _nidanapanchaka_. [Dalhana on Su. Sa. Sutra Sthana 21/35][4]
+
+The abnormal changes taking place in the body after exposure to the causative factors up to the manifestation of the disease is called as _samprapti_. This includes progress of the disease from first to sixth _kriyakala_. 
+
+#### Interrelation between _nidanapanchaka_ and _shatkriyakala_
+
+#### Shatkriyakala of _Jwara_ as compared with pathogenesis of fever
+
+### Related Chapters
+
+Jwara Chikitsa, Jwara
+
+**Send us your suggestions and feedback on this page.**
+
+### References
+
+ 1. ↑ Madhavakar, Madhava Nidanam, Chap.1, Pancha Nidanalakshanam, Verse 8. In: Prof. Yadunandana Upadhyaya, Editor. Madhava Nidanam. 30th ed. Varanasi: Chaukhambha Sanskrit Sansthana; 2000.p.196. 
+ 2. ↑ Vridha Vagbhata. Nidana Sthana, Cha.1 Sarvaroganidana Adhyaya verse 11. In: D V Pandit Rao, Editor. Ashtanga Sangraha. 1st ed. New Delhi: CCRAS;1991 
+ 3. ↑ 3.0 3.1 3.2 3.3 Vagbhata. Ashtanga Hridayam. Edited by Harishastri Paradkar Vaidya. 1st ed. Varanasi: Krishnadas Academy;2000.
+ 4. ↑ 4.0 4.1 4.2 4.3 4.4 4.5 Sushruta. Sushruta Samhita. Edited by Jadavaji Trikamji Aacharya. 8th ed. Varanasi: Chaukhambha Orientalia;2005.
+
+Back to the Top

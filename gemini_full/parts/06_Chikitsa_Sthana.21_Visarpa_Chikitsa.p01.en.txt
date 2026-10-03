@@ -1,0 +1,203 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Agnivesha’s queries on _visarpa_
+ * 2.2 Definition of _visarpa_
+ * 2.3 Classification
+ * 2.4 Vitiated factors
+ * 2.5 Etiology
+ * 2.6 Pathways of spreading the disease
+ * 2.7 Causes and features of internal and external _visarpa_
+ * 2.8 Bad prognostic features
+ * 2.9 Etio-pathogeneis and clinical features of vata dominant _visarpa_
+ * 2.10 Etio-pathogeneis and clinical features of pitta dominant _visarpa_
+ * 2.11 Etio-pathogeneis and clinical features of kapha dominant _visarpa_
+ * 2.12 Etio-pathogenesis and clinical features of vata-pitta dominant _agni visarpa_
+ * 2.13 Etio-pathogenesis and clinical features of kapha-pitta dominant _kardam visarpa_
+ * 2.14 Etio-pathogenesis and clinical features of kapha vata dominant _granthi visarpa_
+ * 2.15 _Upadrava_ (complications)
+ * 2.16 Severity of _visarpa_
+ * 2.17 Prognosis of _visarpa_
+ * 2.18 Principles of treatment
+ * 2.19 Formulations used in _visarpa_
+ * 2.20 Formulations for dosha situated in koshtha, pitta dominant _visarpa_ and virechana
+ * 2.21 Formulations for dosha situated in _shakha_ and modes of blood letting
+ * 2.22 External applications
+ * 2.23 Guidelines for local application and its types
+ * 2.24 Diet recipes for treatment of _visarpa_
+ * 2.25 Contra-indications in _visarpa_
+ * 2.26 General guidelines of treatment
+ * 2.27 Treatment of _granthi visarpa_
+ * 2.28 Treatment of _galaganda_
+ * 2.29 Importance of _raktamokshana_ in _visarpa_
+ * 2.30 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Causative factors of _visarpa_ in contemporary era
+ * 4.2 Pathophysiology of _Visarpa_ [flow chart]
+ * 4.3 Common clinical conditions considered under _visarpa_
+ * 4.4 Current clinical practices in management of _visarpa_
+ * 4.4.1 Experience based
+ * 4.4.2 Evidence based studies
+ * 4.5 Researches done on _visarpa_
+ * 4.6 Further reading
+ * 5 References
+
+## Introduction
+
+The twenty first chapter is named Visarpa Chikitsa. The term _visarpa_ has two parts viz., _vi_ and _sarpa_ \- _vi_ stands for _vividha_ meaning ‘various’ (ways) and _sarpa_ stands for _sarpan_ means ‘spreading’. Erythematous, pustular, glandular etc. lesions which spread rapidly in localized or generalized pattern are known as _visarpa_ [ Cha.Sa. Chikitsa Sthana 21/11, Chakrapani]. This aliment is also called _parisarpa_. The prefix _pari_ stands for _paritah_ or _sarvatah_ meaning all over. The disease which spreads all over the body is called _visarpa_. [Cha. Sa.Chikitsa Sthana 21/11, Chakrapani]. This indicates that _visarpa_ is an umbrella term used for acute spreading disorders caused due to vitiation of rakta. 
+
+In this chapter Atreya answers the queries about _visarpa_ derivation, synonyms, classification, dosha, dushya,etiology, habitat, gradation, symptoms, complications, prognosis and treatment of curable ones. The chapter follows that of [Cha. Sa. Chhardi Chikitsa ] because suppression of chhardi (vomiting) causes rakta dushti(vitiation of blood) leading to visarpa indicating that rakta (blood) vitiating factors and vitiation of rakta is an important basic underlying phenomenon prior to the visarpa. 
+
+_Visarpa_ is acute, spreading and fatal in nature leading to death if not treated promptly. On location basis this is classified into _bahih-shrita_ (externally situated), _antah-shrita_ (internally situated) and _ubhayasam shrita_ (all over situated). _Bahih-shrita visarpa_ is fulminant, spreading skin and flesh infection with symptoms and signs of inflammatory edema, blisters, ulcers, fever, pain etc. and is curable. _Antah-shrita visarpa_ involves internal vital organs with mild septicaemia and is curable before complications. _Ubhayasamshrita visarpa_ has advanced manifestations of both types spreading all over body with severe septicaemia and is fatal. 
+
+_Visarpa_ never occurs without association of rakta and pitta, hence general treatment of _visarpa_ is described by considering rakta and pitta vitiation. Specific treatments are described by considering particular dosha involvement. Various etiological factors of _visarpa_ are diet, life style, injury, poison, toxin, burn etc. vitiates rakta as well as dosha (vata, pitta and kapha) and other dhatu (body elements) leading to fulminant disease requiring urgent medical care. 
+
+Seven components are involved in the pathogenesis of _visarpa_ viz., rakta (blood), _lasika_ (lymph), _tvak_ (skin), mamsa dhatu (flesh), vata, pittaand kapha. Same components are associated with kushtha (various skin disorders) but clinical presentation of both the diseases is different because etiological factors act different. As kushtha is chronic in nature and visarpa is acute in nature[Cha. Sa. Chikitsa Sthana 21/15,Chakrapani] therefore spreading kushtha should not be interpreted as visarpa. 
+
+It is also classified into _vatika, paittika, slaishmika, agni visarpa, kardam visarpa, granthi visarpa_ and _sannipatik_ on dosha basis. _Bahih-shrita visarpa_ involves exterior part i.e. Skin, flesh, etc. of the body having symptoms like inflammatory oedema, blisters, ulcers, fever, pain etc. and is curable. _Agni visarpa_ and _kardam visarpa_ may be cured with appropriate timely management otherwise negligence leads to death of the patient. _Granthi visarpa_ should be treated before complications otherwise it becomes incurable. _Sannipatika visarpa_ is a severe manifestation of the disease leading to death.[Cha. Sa. Chikitsa Sthana 21/42] 
+
+In _visarpa, shodhana_ therapy has given prime importance because _rakta kleda_ (putrificatory ingredient) and dosha vitiation is at higher level hence _samana_ (pacification) therapy is not very effective. _Visarpa_ never occurs without association of rakta and pitta. Hence general treatment of _visarpa_ is described by considering rakta and pitta vitiation. Specific treatments are described as per the involvement of dosha. Single _raktamokshana_ (blood letting) treatment is equal to all of other treatments described for _visarpa_. [Cha. Sa. Chikitsa Sthana 21/141-143]. 
+
+_Kshataja visarpa_ is another variety mentioned additionally in Sushruta Samhita. The later texts followed the same description with addition of some medications. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Visarpa Chikitsa" (Management of acute spreading erysepalas). Thus said Lord Atreya. [1-2] 
+
+### Agnivesha’s queries on _visarpa_
+
+In the Kailas region inhabited by _kinnaras_ , having numerous water streams and medicinal plants with ever emitting sweet pleasant (_ishat gandha_) aroma by their wealth of flowers, Atreya who had great self-control, was surrounded by great sages and engaged in welfare of all creatures. Then Agnivesha choosing the appropriate time asked politely to his enlightened teacher, “Oh Lord, I observe the acute emergency disease in the body of human being which spreads with the virulence of snake-venom. Those human who are afflicted by this acute fulminating disease succumb to death quickly, unless treated promptly. We are in great need of enlightenment concerning this disease. 
+
+By which name should it be known? Why does it derive its name? What are its varieties? Which body elements are involved in its pathogenesis? What is its etiology? Where is its location? How to understand its prognosis i.e. easy curable, difficult to cure and incurable? What are the signs and symptoms of this disease? And O worshipful one! What is the method of its treatment?” Having heard the queries of Agnivesha, Atreya Punarvasu, the foremost among the sages, explained all the relevant details of the disease _visarpa_. [3-10] 
+
+### Definition of _visarpa_
+
+It spreads in various ways hence known as _visarpa_. It is also called _parisarpa_ due to its extensive spreading.[11] 
+
+### Classification
+
+_Visarpa_ is of seven types as per dosha basis and it involves seven body elements. 
+
+Three types of _visarpa_ are due to the morbidity of individual dosha; one variety is due to the morbidity of all the three dosha and three varieties are due to the morbidity of any of the two dosha. 
+
+_Vatika, paittika, kaphaja_ and _sannipatik_ these are the four varieties of _visarpa_ and the remaining three varieties viz., vata-pittaja, kapha-vataja and pitta-kaphaja type will now be described. 
+
+The variety due to morbid vata-pitta is agnivisarpa, kapha-vata cause _granthi visarpa_ and pitta-kapha leads to serious condition known as _kardamaka visarpa_. [12-14] 
+
+### Vitiated factors
+
+Blood, lymph, skin, flesh and three dosha, these seven elements are involved in the pathogenesis of _visarpa_ of all kinds. [15] 
+
+### Etiology
+
+The following are the causative factors of the _visarpa_ : 
+
+Excessive indulgence in _lavana_ (salt), _amla_ (sour), _katu_ (pungent) and _ushna_ (hot ingredients); as also in _amla dadhi_ (sour curd), _dadhi mastu_ (whey), _shukta_ (vinegars), _sura_ (type of liquor) and _sauviraka_ (type of wine); the use of _vyapanna madya_ (contaminated wine) or excessive liquor or heat inducing _raga_ (condiments) and _sadava_ (confectionery), the use of _vidahi_ (causes burning), _shaka_ (vegetables) and _harita_ (_lashunadi harita_ group _dravya_), _kilata_ (cheese), _kurchika_ (inspissated milk) and _mandaka_ (immature curd), the use of _sandaki_ (fermented wine), as also of _paistika_ (one made up of _pistamai padarth_ or pastries) and oils made of sesame, black gram and horse gram, the use of flesh of domesticated, wet land and aquatic animals and garlic, the use of the _praklinna_ (putrified food), _asatmya_ (unwholesome) and _viruddha_ (mutually contradictory ingredients), over eating, sleeping during day time, _ajirnashana_ (eating during indigestion), _adhyashana_ (eating food immediately after the meal); _kshatat_ (traumatic injury), _kshata_ (wounds), _bandha_ (ligatures), _prapatana_ (trauma due to falls) over exposure to sun, strainful work, poisons, poisonous air,burns etc. 
+
+By combination of above mentioned etiological factors, the provoked vatadi dosha affect the susceptible body elements such as rakta, lasika etc. and spread in the body in those indulged in unwholesome diet. [16-22] 
+
+### Pathways of spreading the disease
+
+Externally situated (pathogenesis in shakha, rasa dhatuand rakta dhatu), internally situated (pathogenesis in internal organs and other dhatu) and situated in both (externally as well as internally) pathways _visarpa_ is to be known more and more serious consecutively. 
+
+Externally situated _visarpa_ is curable, internally situated _visarpa_ is very serious and difficult to cure whereas externally as well as internally situated type is incurable. 
+
+The humors provoked in internal regions spreads internally, if provoked in external regions spreads externally and if provoked in both regions spreads all over the body.[23-25] 
+
+### Causes and features of internal and external _visarpa_
+
+Affliction of vital organs, impaired consciousness, impaired circulation, morbid thirst and impaired natural urges and sudden reduction in digestive as well as immune power of body is known as _antah-visarpa_. _Bahih-visarpa_ should be understood by the external manifestations appearing on skin flesh etc. and by their own specific symptoms. [26-27] 
+
+### Bad prognostic features
+
+_Visarpa_ manifesting with all signs and symptoms, having strong etiological factors, which is associated with formidable complications and that situates as well as affects vital parts, proves fatal.[28] 
+
+### Etio-pathogeneis and clinical features of vata dominant _visarpa_
+
+Vayu aggravated by ununctuous and hot ingredients or by the obstruction due to vitiated dosha, impairs the body elements and spreads in proportion to its strength. 
+
+Its signs and symptoms are giddiness, burning sensation, excessive thirst, pricking sensation, severe pain, body ache, cramps, shivering, fever, feeling of entering in darkness, cough, breaking and splitting pains in the bones and joints, looseness in joints, trembling, anorexia, indigestion, congestion of the eyes, lacrimation and paresthesia; the region where the inflammation is spreading becomes blackish and reddish in color and edematous. The patient suffers from severe pricking, splitting or aching pain in the part affected as also extension and contractions of the parts, horripilation and quivering. If not treated it gives rise to quick bursting small blackish or reddish blisters with thin clear reddish and scanty discharge. The patient also suffers from the retention of flatus, urine and feces. Etiological factors do not suit and the contrary ones suit the patient, this is vata dominant _visarpa_. [29-30] 
+
+### Etio-pathogeneis and clinical features of pitta dominant _visarpa_
+
+The pitta aggravated by the use of hot regimen, by eating irritant and sour foods vitiates the susceptible body elements and by feeling the vessels, begins to spread. 
+
+Its signs and symptoms are fever, morbid thirst, fainting, disturbed consciousness, vomiting, anorexia, breaking body ache, excessive perspiration, burning, delirium, headache, congestion of the eyes, insomnia, restlessness, giddiness, excessive desire for cold air and water. Greenish or yellowish coloration of eyes, urine and feces, objects visualizes green and yellow. In the region where the _visarpa_ spreads, becomes coppery, greenish, yellowish, bluish, blackish, reddish color. Affected part becomes excessively edematous and full of pustules, having intense burning and tearing pain, suppurating quickly and discharging fluid of similar color. 
+
+The etiological factors do no suit and the contrary ones suit the patient. This is pitta dominant _visarpa_. [31-32] 
+
+### Etio-pathogeneis and clinical features of kapha dominant _visarpa_
+
+Kapha excessively accumulated due to intake of sweet, sour, salt, unctuous and heavy foods, and also by excessive sleep, vitiates the susceptible body elements and spreads with slow speed in the body. 
+
+Its signs and symptoms are chills, fever with chills, heaviness, excess sleep, drowsiness, adherence of sticky material in the mouth, excess spitting, vomiting, lassitude, timidity, loss of appetite and prostration. The region where the disease spreads becomes edematous, pallor or slight red, unctuous, numbness, rigidness, heaviness and slight pain. It suppurates hardly and chronic in nature. It is studded with eruptions which are covered with a thick skin and having white pale color. When burst, they discharge white, slimy, fibrinous, dense, sticky and viscid discharge from it. Thereafter it is followed by the ulcers which are heavy, deep seated, surrounded by capillary network, unctuous and covered with many skin scabs. These ulcers are chronic in nature. The nails, eyes, face, skin, urine and faces of the patient appear pale. The etiological factors do no suit and the contrary ones suit the patient. This is kaphaja visarpa _. [33-34]_
+
+### Etio-pathogenesis and clinical features of vata-pitta dominant _agni visarpa_
+
+When _vata-pitta_ vitiated severely due to their respective etiological factors and strengthened mutually, spreads producing severe burning pain in the body. 
+
+The patient affected with this type of _visarpa_ feels as if his body is sprinkled with flaming coals. He suffers from vomiting, diarrhea, fainting, burning sensation, disturbed consciousness, fever, feeling of darkness, anorexia, breaking pain in bones and joints, morbid thirst, indigestion, breaking body pain etc. The part where the disease spreads looks like extinguished charcoal or blood like red, affected region gets covered with blisters like those caused by burns. Due to its rapid progress, it soon spreads to vital regions. When the vital parts gets affected, the vata which is excessively aggravated causes extensive disintegration of the tissues and leads to disturbed consciousness, produces hiccup, dyspnea and insomnia. That sleepless patient with disturbed consciousness and miserable mind does not get relief anywhere. He becomes restless in standing, seating and desires to lie on bed, thus exceedingly exhausted due to pain soon falls into deep sleep. Being debilitated, he is aroused from this state with difficulty. One suffering from _agni-visarpa_ is to be regarded as incurable.[35-36] 
+
+### Etio-pathogenesis and clinical features of kapha-pitta dominant _kardam visarpa_
+
+Excessively aggravated kapha pitta due to their respective etiological factors, spreads in the body causing suppuration of the tissues in particular part. 
+
+Its signs and symptoms are fever with chills, heaviness of the head, burning sensation, timidity, prostration, excessive sleep, drowsiness, disturbed consciousness, food dislike, delirium, loss of appetite, weakness, breaking pain in bones, fainting, morbid thirst, adhesions of sticky material in channels, dullness of the senses, mostly seating, abnormal movements of limbs, body pain, restlessness, anxiety, often it spreads to _amashaya_. It is localized and spreads with slow speed. 
+
+The part where the disease spreads looks as if filled with reddish, yellowish, pale eruptions. The affected part becomes muddy, black, dirty, unctuous, excess hot, heavy, dull aching, edematous, with deep seated suppuration, having no discharge, rapidly become sloughy, sweated suppurated, having putrid flesh and skin, gradual little pain, when touched bursts and gives space on pressing, throws out decomposed and putrefied flesh, shows blood vessels, ligaments and has cadaverous smell and causes disturbed consciousness as well as memory. This is called _kardam visarpa_ and is incurable. [37-38] 
+
+### Etio-pathogenesis and clinical features of kapha vata dominant _granthi visarpa_
+
+Kapha and vata gets vitiated due to the use of firm, heavy, hard, sweet, cold, unctuous, and _abhishyandi_ (which increase discharges and cause obstruction) ingredients of diet, lack of physical exercise etc. not following preventive seasonal Panchakarma purification. Deranged excessively, aggravated, powerful both kapha and vata vitiates the susceptible body elements giving rise to _granthi visarpa_. Thereafter the vata being occluded by kapha in its progress and disintegrates kapha in many ways and gradually giving rise to chain of glands, hardly suppurating and difficult to cure, in the habitats of kapha. 
+
+In a person having aggravated blood, vitiated kapha-pitta provoke blood giving rise to a series of glandular enlargements which are exceedingly painful, large or small or elongated or round and of red color, located in blood vessels, ligaments, flesh and skin. Being afflicted, complications arise like fever, diarrhea, cough, hiccup, dyspnea, emaciation disturbed consciousness, abnormal complexion, anorexia, indigestion, excess salivation, vomiting, fainting, breaking pain in body , excessive sleep, restlessness, malaise, the patient associated with these complications goes beyond the reach of all remedial measures and as such is rejectable. This is _granthi visarpa_.[39] 
+
+### _Upadrava_ (complications)
+
+_Upadrava_ (complication) is disorder itself, outsized or undersized manifesting in the later period of a disease and rooted in the same (disease). _Upadrava_ is so named because it manifests after the disease. Hence the main disease is primary and complication is secondary, it is generally pacified when the main disease gets pacified. It is more troublesome than the main disease itself, because it appears in the later stages of disease when the body is already weakened. Hence, one should treat the complications very promptly.[40] 
+
+### Severity of _visarpa_
+
+The _visarpa_ which is caused by all etiological factors, manifesting with all signs and symptoms, spreads in all body elements very rapidly and great disastrous is known as _sannipataja visarpa_ and is not treatable. [41] 
+
+### Prognosis of _visarpa_
+
+Among all types of _visarpa vatik_ , _paittik_ and kaphaja these three are curable. _Agni_ and _kardam visarpa_ not spreading to vital organs and causing no suppuration of the vessels, ligaments and muscles can be pacified by the general treatment of _visarpa_. When managed with negligence both may cause death of patients like snake venom. _Granthi visarpa_ should be treated before complications has arisen, otherwise should be rejected. _Sannipataja visarpa_ should be taken as incurable because of it is spreading to all dhatu, very fulminant and refractory to treatment.[42] 
+
+### Principles of treatment
+
+Now the treatment of the curable varieties of _visarpa_ will be described. 
+
+If the _visarpa_ is caused with ama dosha(dosha in the state of incomplete transformation) and is located in kaphasthana (in thorax and upper body parts), then langhana (fasting therapy), vamana (emesis) therapy, _tikta_ (bitter) drugs internally and application of paste of drugs with dry and cold properties externally is beneficial. 
+
+The same treatment should be adopted in case of association of _ama_ and location in pitta sthana (abdomen and middle parts of body). 
+
+In addition, raktamokshana (blood letting) and virechana (purgation therapy) are specially indicated. 
+
+If _sama_ (with ama dosha) _visarpa_ is arouse from _vatashaya_ (pelvis and lower part of body) ununctuous measures are indicated in the beginning. Even in association with rakta-pitta uncting measure is not regarded as beneficial in the beginning. 
+
+In vataja visarpa and paittika visarpa of mild aggravated dosha tiktaka ghritam is beneficial. But if the pitta dosha is excessively aggravated then virechana should be given. 
+
+In the condition of excessively aggravated dosha, ghee should not be given at first which does not cause virechana. Because non purgating ghee occlude the dosha resulting in decomposed skin, flesh and blood. Hence in visarpa, virechana followed by raktamokshana is recommended because the disorder is located in blood.[43-49] 
+
+### Formulations used in _visarpa_
+
+Thus the treatment principles of _visarpa_ have been described in brief. The same is being detailed further. 
+
+In kapha pittaja visarpa, vamana should be given with the _madana_ (Randia spinosa), _madhuka_ (Glycyrrhiza glabra Linn), _nimba_ (Azadirachta indica), and fruits of _vatsaka_ (Holarrhena antidysenterica Linn). 
+
+In visarpa vamana is beneficial with _patola_ (Trichosanthes dioica Roxb), _pichumarda_ (Azadirachta indica), _pippali_ (Piper longum linn), _madana_ (Randia spinosa) and _indrayava_ (Holarrhena antidysenterica Linn). 
+
+Further, all those formulations which will be described in _kalpasthana_ in connection with the disorders of kapha pitta should be used for the patients of _visarpa_ as well because they are eliminative of morbid dosha and are beneficial.[50-53] 
+
+The skillful physician should administer the decoctions of tested efficacy for the cure of _visarpa_ made up of _musta_ (Cyperus rotundus linn), _nimba_ (Azadirachta indica) and _patola_ (Trichosanthes dioica Roxb) or _chandana_ (Santalum album linn) and utpal (Nymphaea nouchali) or _sariva_ (Hemidesmus indicus), _amalaki_ (Emblica officinalis), _ushira_ (Vetiveria zizanioidis Linn) and _musta_ (Cyperus rotundus linn). 
+
+_Kiratatikta_ (Swertia chirayita), _lodhra_ (Symplocos racemosa), _chandana_ (Santalum album linn), _duralabha_ (Fagonia cretica), _shunthi_ (Zingiber officinale), _padmakinjalka_ (Prunus cerasoides), _utpala_ (Nymphaea nouchali), _bibhitaka_ (Terminalia bellirica), _madhuka_ (Glycyrrhiza glabra Linn) and _nagapushpa_ (Mesua ferrea Linn), this formulation physician may administer for the alleviation of _visarpa_. 
+
+_Prapaundrika_ (Nelumbo nucifera), _madhuka_ (Glycyrrhiza glabra Linn), _padmakinjalka_ (Prunus cerasoides), _utpala_ (Nymphaea nouchali), _nagapuspa_ (Mesua ferrea Linn), and _lodhra_ (Symplocos racemosa), should be taken by the above method. 
+
+_Draksha_ (Vitis vinifera Linn), _parpataka_ (Carthmus tinctorius), _shunthi_ (Zingiber officinale), _guduchi_ (Tinospora cordifolia) and _dhanvayasa_ (fagonia cretica) kept for the whole night in the water (_shitakashaya_), should be administered to alleviate morbid thirst and _visarpa_. 
+
+_Patola_ (Trichosanthes dioica Roxb.), _pichumarda_ (Azadirachta indica), _darvi_ (Berberis aristata), _katuki_ (Picrorhiza kurroa), _rohini_ (Terminalia chebula), _yasti_ (Glycyrrhiza glabra Linn.), and _trayamana_ (Gentiana kurroo) should be administered to alleviate _visarpa_. 

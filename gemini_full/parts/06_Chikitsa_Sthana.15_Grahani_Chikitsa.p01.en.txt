@@ -1,0 +1,264 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Importance of _dehagni_
+ * 2.2 Process of digestion-first phase
+ * 2.3 Three states of digestion and provoking _dosha_
+ * 2.4 Second phase of digestion by _panchamahabhuta_
+ * 2.5 Third phase of digestion and metabolism at level of _dhatu_
+ * 2.6 _Upadhatu_ (metabolic products)
+ * 2.7 _Mala_ formed at tissue level metabolism
+ * 2.8 Modes of transformation
+ * 2.9 Formation of _rasa_ and _rakta_
+ * 2.10 Formation of _mamsa dhatu_
+ * 2.11 Formation of _meda dhatu_
+ * 2.12 Formation of _asthi dhatu_
+ * 2.13 Formation of _majja dhatu_
+ * 2.14 Formation of _shukra dhatu_
+ * 2.15 Continuous circulation of _rasa_ all over the body
+ * 2.16 Significance of _Kha-Vaigunya_ (abnormality in body system) in causing disease state
+ * 2.17 Significance of _jatharagni_
+ * 2.18 Initiation of _grahani dosha_
+ * 2.19 Causes of vitiation of agni
+ * 2.20 Signs and symptoms of _ajirna_(indigestion)
+ * 2.21 Associated disorders of _annavisha_
+ * 2.22 Effects of _Vishamagni_ (irregular agni)and _tikshanagni_( excessive agni)
+ * 2.23 _Samagni_
+ * 2.24 _Durbala_ (weak) agni
+ * 2.25 _Grahani gada_(diseases of _grahani_)
+ * 2.26 Premonitory symptoms of _Grahani gada_
+ * 2.27 Functions of _grahani_
+ * 2.28 Four types of _grahani_ disease
+ * 2.29 Causes of _vataja grahani_
+ * 2.30 Symptoms of _vataja grahani_
+ * 2.31 Causes of _pittaja grahani_
+ * 2.32 Symptoms of _pittaja grahani_
+ * 2.33 Causes of _kaphaja grahani_
+ * 2.34 Symptoms of _kaphaja grahani_
+ * 2.35 _Sannipataja grahani_
+ * 2.36 _Vamana_ in _grahanidosha_
+ * 2.37 Treatment of _leena dosha_
+ * 2.38 _Panchakoladi shritam and peya_
+ * 2.39 _Niruha basti_
+ * 2.40 _Virechana_
+ * 2.41 _Anuvasana basti_
+ * 2.42 _Dashamooladya ghrita_
+ * 2.43 _Tryushanadya ghrita_
+ * 2.44 _Panchamooladya ghrita_ and _choorna_
+ * 2.45 Examination of feces
+ * 2.46 _Chitrakadya gutika_
+ * 2.47 Recipes for _pachana_ of _ama_
+ * 2.48 Recipe for _pitta-kapha grahani_
+ * 2.49 _Marichadya choorna_
+ * 2.50 Five types of _yavagu_
+ * 2.51 Beverages
+ * 2.52 Qualities and benefits of buttermilk
+ * 2.53 _Takrarishtha_
+ * 2.54 Management of _pitta_ dominant _grahani_
+ * 2.55 Diet after _shodhana_
+ * 2.56 _Chandanadya ghrita_
+ * 2.57 _Nagaradya churna_
+ * 2.58 _Bhunimbadya churna_
+ * 2.59 _Kiratadya churna_
+ * 2.60 Treatment of _kaphaja grahani_
+ * 2.61 _Madhukasava_
+ * 2.62 _Duralabhasava_
+ * 2.63 _Moolasava_
+ * 2.64 _Pindasava_
+ * 2.65 _Madhvarishtha_
+ * 2.66 _Ksharaghrita_
+ * 2.67 _Kshara_ preparations
+ * 2.68 _Ksharagudika_
+ * 2.69 _Chaturtha-kshara_
+ * 2.70 _Panchamakshara_
+ * 2.71 Treatment of _tridoshaja grahani_
+ * 2.72 Treatment of various states of disease and _dosha_ aggravation
+ * 2.73 Factors affecting status of agni
+ * 2.74 _Samprapti_ of _atyagni_
+ * 2.75 Management of _atyagni_
+ * 2.76 Improper dietary habits
+ * 2.77 Variation in digestion as per day-night cycle
+ * 2.78 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Importance of agni
+ * 4.2 Role of _vata_ in digestion
+ * 4.3 Dhatvagni
+ * 4.4 Three stages of digestion
+ * 4.5 Formation of the seven _dhatus_
+ * 4.6 The process of nourishment of _dhatu_
+ * 4.7 _Ksheera-dadhi nyaya_ (milk curdling analogy)
+ * 4.8 _Khalekapota nyaya_ (analogy of pigeons picking up the choicest grains)
+ * 4.9 _Kedari-kulya nyaya_ (analogy of irrigation)
+ * 4.10 Causes of _grahani_ disorder
+ * 4.11 Effect on immunity
+ * 4.12 Equilibrium of agni
+ * 4.13 Clinical features
+ * 4.14 Current clinical practices
+ * 4.15 Areas of Further Research
+ * 5 References
+
+## Introduction
+
+Grahani Chikitsa is one of the most important chapters of this compendium because most of the diseases originate from disorders of digestion. This chapter is described after _arsha roga_ (hemorrhoids) because pathophysiology of _arsha_ influences agni and before Panduroga Chikitsa because _grahani roga_ influences _pandu roga_. The initial portion of this chapter discusses the details of the physiological process of digestion and metabolism in human body. Agni, being the fundamental factor in maintaining health and in producing diseases, has been described in detail. The chapter begins with explanation of importance of normally functioning agni and then goes on to explain the various aspects of digestion, metabolism and tissue nourishment. 
+
+Different theories of tissue nourishment as explained by the commentators play a crucial role in the entire process. The concept of upadhatu and _dhatumala_ has also been dealt with. These descriptions are followed by the pathophysiology of _grahanidosha_ syndrome and its management. This chapter underscores that the knowledge of physiology is crucial in understanding the pathophysiology and therapeutics of a disease. 
+
+Protection of agni is very essential in treatment of all diseases.[Chakrapani,Cha.Sa.Chikitsa Sthana 14/244-246 ]_Arsha, atisara_ and _grahanidosha_ are said to be _parasparahetu_ which means one disease becomes cause for another disease[Cha.Sa. Chikitsa Sthana 14/244] e.g. in patients with chronic colitis, intestinal polyps are seen, in patients suffering from diarrhea colitis is observed. Therefore, one finds interrelation between these disorders and as explained earlier, special precaution should be taken with respect to _agni bala_. 
+
+Certain drugs like _chitraka_ (Plumbago zeylanica), _pippali_ (Piper longum), _pippalimula_ (root of Piper longum), _shunthi_ (Zingiber officinale), _nagakesara, haridra, danti, duralabha, haritaki_ etc have been used in combinations with other drugs for the treatment of _arsha_ considering the concept of _agnibala vriddhi_ and _vata anulomanam_ (facilitating passage of _vata_) and the same drugs have been used in _grahani chikitsa_ with the same concept. Charak explains that all the above three diseases are caused by _agnimandya_ and if increase in agni is done then relief in the disease takes place. [Chakrapani Cha.Sa.Chikitsa Sthana 14/244-246] 
+
+Further, _vata_ is said to be _agnisakha_ i.e. _agnibala_ depends on _vata_. _Vatakshaya_ or _prakopa_ results in _agnimandya_. Therefore, _anna, pana_ and _aushadha_ which bring about _vata anulomana_ are very useful in treatment of diseases like _arsha_ and _grahani dosha_. 
+
+Therefore, the line of treatment used in _arsha_ with regard to _agni bala_ and _vata anulomanam_ is basically similar to that of _grahanidosha_ hence Charak has explained Grahani Chikitsa after Arsha Chikitsa.[Chakrapani Cha.Sa.Chikitsa Sthana15/1] Charak could have restricted the name of chapter to Grahani Chikitsa i.e. treatment of the _avayava grahani_ whereas he has increased the scope of chapter by using the word _grahanidosha_.[Chakrapani, Cha.Sa. Chikitsa Sthana 15/1]. 
+
+There is always an inter-relationship between _avayava_ (organ) and _avayavi_ (part of organ) or _ashraya_(seat) and _ashrayi_ (seated). Either of the one has an impact on the other, hence if _grahaniavayava_ is in normal state then agni the _avayavi_ functions normally and vice versa also holds true, whereas if _dusti_ of _grahani_ takes place _agni vaishamyata_ (imbalance) is seen e.g. ileitis, wherein digestion is hampered. _Grahani_ is the seat for _jatharagni_. [Cha.Sa.Chikitsa Sthana 15 /56] Agni is responsible for ayu (longevity of life), varna (complexion), bala (strength), swasthya (health), _utsaha_ (enthusiasm), _upachaya_ (proper metabolism), _prabha_ (glow) and _oja_ (core energy). _Prakritaagni_ (normal digestive power) is essential for long and healthy life while, vitiated agni is responsible for _roga avastha_(disease).[Cha. Sa. Chikitsa Sthana 15/3-4] 
+
+In this chapter, Charak describes formation of body tissues in detail with the role of ahara which is supplied continuously to maintain homeostasis. _Vyana vata_ is promoter of _rasa raktadi_ circulation.[ Cha. Sa. Chikitsa Sthana 15/36] It transports _rasa raktadi drava_ _dhatu_ throughout body continuously and as per metabolic demand. This explanation shows that closed circulation in human was known to Charak. 
+
+_Grahani_ is prime place where digestion and absorption of _ahara rasa_ takes place. _Ahara rasa_ provides nutrition for the _rasadi sapta dhatu_, along-with three _sharirikadosha_ and three _manasika dosha_. Nourishment of _sattva, raja_ and _tama_ is influenced by _sattvika, rajasika_ and _tamasika ahara_. _Tamasika_ and _rajasika ahara_ suppresses _sattva guna_ thereby causing _alpa sattva_ in individual, a common predisposing factor of psychiatric disorders for e.g. _alpa sattva_ as mentioned in _unmada_ [Cha.Sa Chikitsa Sthana 9/5] In _vataja grahanivyadhishanka_ (feeling of suffering from disease) manifests in patients with _alpa sattva_. 
+
+Homeostasis at cellular level and gross level is maintained by _vata, pitta_ and _kapha_ in which digestive and metabolic contributions are due to agni. This chapter has been dedicated to agni to understand the manner in which it gets vitiated by _dosha_ and accordingly the line of treatment for the _agni dosha_ is explained. As the functions of agni take place in _grahani_ hence disease related to _grahani_ has been given the name. 
+
+Secondly, _pandu roga_ is due to _alpata_ of _raktaposhaka sara bhaga_ [Chakrapani, Cha. Sa. Chikitsa Sthana 16/3-7] and, one of the main causes of this _alpata_ is mal-digestion and mal-absorption which takes place in _grahani_. It is well known fact, that various contributory factors for blood formation have their absorption in gastrointestinal tract such as folic acid, vitamin B12, iron, etc which if not absorbed causes anemia this is the reason why Charak has placed this chapter in between _arsha_ and _pandu roga_. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Grahani Chikitsa" (Management of diseases of digestion and metabolism). Thus said Lord Atreya. [1-2] 
+
+### Importance of _dehagni_
+
+Dehagni (all the entities in the body that are responsible for digestion and metabolism) is the fundamental causative agent for longevity, normal complexion, normal strength, good health, motivation, normal growth, normal luster, normal _ojas_ , normal body temperature and various other forms of agni. Even the existence of an individual is said to be because of dehagni. [3] 
+
+When the agni stops functioning, the individual dies; if the agni functions normally, the individual can lead a healthy and long life. Similarly, if the agni becomes abnormal, the individual suffers from various diseases; and hence, the agni is said to be the root cause of health and longevity [4] 
+
+The food one consumes becomes capable of nourishing the body tissues and of promoting the _ojas_ (vital essence), strength, complexion etc., only in the presence of normally functioning agni. In the absence of normal digestion (and metabolism), the normal body tissues such as _rasa_ cannot be formed nor nourished [5] 
+
+### Process of digestion-first phase
+
+The ingested food is carried to _koshtha_ by _prana vata_. The food disintegrates because of the liquids, and further it becomes soft because of the fatty substances. The _samana vata_ , that has an inherent ability to intensify the _agni,_ intensifies the digestive enzymes and properly digests the food that one consumes timely and in an appropriate quantity, thus leading to longevity. This process of digestion by agni in the gut which leads to the formation of _rasa_ and _mala_ is comparable to the process of cooking of the raw rice kept in an earthen vessel containing water on a fire [6-8] 
+
+### Three states of digestion and provoking _dosha_
+
+As soon as the food that has all the six tastes is consumed, it undergoes the first stage of digestion known as _madhura_ (sweet) state during which _kapha_ is produced which is like froth. Afterwards, while the food undergoing digestion is in its partially digested form, it attains _amla_ (sour) state. 
+
+When the semi-digested food leaves the stomach, the release of liquid form of pitta known as _accha-pitta_ occurs. 
+
+When the _pakva_ part (the non-absorbable remnant part after the absorption of the nutrients), reaches the _pakvashaya_ (the colon), the drying effect of agni converts it into a solid mass. There also occurs the release of _vata_ which is _katu_ (pungent) state [9-11] 
+
+### Second phase of digestion by _panchamahabhuta_
+
+The food that possesses pleasant smell (taste, appearance, consistency,) etc., nourishes the similar entities in the body such as the sensory organs of smell by _gandha_ etc (e.g. taste, vision, touch etc senses by respective _mahabhuta_) [12] 
+
+There are five types of agni namely, _bhauma, apya, agneya, vayavya_ and _nabhasa_. These five _bhutagni_ are one of each _mahabhuta_ transform/metabolize those components of the food that are homologous to them in their composition of structure of human organism. (such as _parthiva, apya_ etc) [13] 
+
+Specific categories of entities in the body having specific attributes can be nourished by only those substances that belong to the same category having those same attributes. This means that _parthiva_ entities in the body (one that is dominated by _prithvi mahabhuta_ in its composition) can be nourished only by the _parthiva_ substances in the food and so on. The same rule applies to the whole body [14] 
+
+### Third phase of digestion and metabolism at level of _dhatu_
+
+Further, the seven components that sustain the body, known as _dhatu_ (tissues), are metabolized/transformed into two kinds of products known as _sara_ (nutrition) and _kitta_ (waste). This process is the function of seven specific entities known as _dhatvagni_ ; each _dhatvagni_ is specific for its corresponding _dhatu_ [15] 
+
+_Rakta_ is produced after _rasa_ and then _mamsa_. After _mamsa_ the _medas_ is formed and then _asthi_ is produced. After _asthi_ the _majja_ is derived and then _shukra_ is produced and finally fine _shukra_ leads to _garbha_ [16] 
+
+### _Upadhatu_ (metabolic products)
+
+_Stanya_ (breast milk) and the menstrual blood are derived after rasa. _Kandara_ (tendon) and _sira_(vein) are derived after _rakta_. _Vasa_(muscle fat) and the six layers of _tvacha_ (skin) are derived after _mamsa_ (muscle) and _snayu_(ligament) are derived after _medas_ (adipose tissue) [17] 
+
+### _Mala_ formed at tissue level metabolism
+
+The feces and the urine are the _kitta_ (non-nutrient portion/waste portion/byproduct) of ingested food. The _kitta_ of _rasa_ is _mala-kapha_ (excretions). _Mala-pitta_ (bile pigment) is the _kitta_ of _rakta_. _Kha-mala_ (the wastes accumulated in the hollow structures of the body such as external ears and nostrils) are the _kitta_ of _mamsa_. _Sweda_ (sweat) is the _mala_ of _medas_. _Kesha_ (hairs on the head) and _loma_ (body hair) are the _mala_ of _asthi_. The _mala_ of _majja_ is the oily excretion of the eye and the skin (sebum). Thus, the _dhatus_ continuously undergo two kinds of transformation: _prasada_ (nutrient portion) and _kitta_ (non-nutrient portion). This entire sequence of transformation and metabolism of _dhatu_ is thus inter dependent [18-19½] 
+
+### Modes of transformation
+
+_Vrishya_ substance (the substance that promotes sexual vigor) nourishes the _shukra_ immediately due to its specific influential effect (_prabhava_) [20] 
+
+Some scholars believe that the conversion of _rasa_ up to _shukra_ occurs in a span of six days and six nights. This process of transformation of nourishing portion of the digested food is continuous similar to rotating wheel [21] 
+
+Note: Adulterated Verses: 
+
+Verses from 22 to 35 are available in the text in bracket and Chakrapani has also not offered the commentary on these verses, hence these verses are considered as adulterated. 
+
+(After listening to the above explanation by his teacher, the student asked the following doubt: 
+
+How is it that _rakta_ is formed in the body out of _rasa,_ though being different from it? _Rasa_ is in fact colorless, and how does it attain the red color of _rakta_? How is it that a solid structure such as _mamsa_ is formed out of _rakta_ which is a fluid by its nature? How is it that, again, from the _mamsa_ , which is solid, a fluid substance such as _meda_ is formed? 
+
+How is it that a rough _asthi_ is formed out of smooth structures such as _mamsa_ and _meda_? How does the soft and fatty _majja_ form out of rough structures such as _asthi_? If at all _shukra_ , which is present everywhere in the body is formed out of _majja_ that is located inside the _asthi_ , how does it come out as one cannot see pores on _asthi_? [22-26] 
+
+### Formation of _rasa_ and _rakta_
+
+After listening to the query raised by the student, the teacher replied as follows: 
+
+The nourishment fluid formed, known as _rasa_ , undergoes transformation by the _ushma_ (heat) of _pitta_ and gets converted into the red colored tissue known as _rakta_ [27-28] 
+
+### Formation of _mamsa dhatu_
+
+Due to the action of heat along with the _vata, ambu_ (water) and _tejas,_ the _rakta_ is converted into stable _mamsa,_ after being acted upon by its own agni (_mamsadhatvagni_) [29] 
+
+### Formation of _meda dhatu_
+
+### Formation of _asthi dhatu_
+
+### Formation of _majja dhatu_
+
+_Vata_ produces hollowness inside the _asthi dhatu_ , and after which, these hollow cavities get filled up by fatty tissue which is known as _majja_ [31] 
+
+### Formation of _shukra dhatu_
+
+The _sneha_ (fatty) portion of _majja_ produces shukra. The porosity in the _asthi_ is produced because of the factors such as _vata_ and _akasha._ _Shukra_ comes out of _asthi_ through these pores just as the water comes out of a new earthen vessel. Through the channels known as _shukravaha srotamsi_ , this _shukra_ spreads all over the body. This _shukra_ is discharged through the urethra (which is connected to the urinary bladder) because of several factors such as sexual excitation, reflex activities (_vega_), and mental determination (_samkalpa_). Just as the ghee moves out with ease when heated, the _shukra_ too, is discharged due to the heat liberated during the sexual activity. This process of seminal discharge is comparable with the movement of water from a place of lower altitude to a place of higher altitude) [32-35] 
+
+### Continuous circulation of _rasa_ all over the body
+
+Because of being forcefully propelled (out of the heart) by the action of _vyana vata_ , the _rasa dhatu_ spreads all over the body simultaneously, continuously and for the entire life [36] 
+
+### Significance of _Kha-Vaigunya_ (abnormality in body system) in causing disease state
+
+Wherever the _rasa_ experiences obstacle due to abnormality in _srotas,rasa_ readily produces disease in that very same location. This process is comparable with that of the clouds producing rainfall in a localized region that is favorable for rainfall [37] 
+
+This principle is applicable even in case of _dosha_ , where _ekadesha prakopa_ (abnormal increase at a local site) occurs [37½] 
+
+Thus ends the description of the physiological functions of _bhutagni, dhatvagni_ and _jatharagni_ [38] 
+
+### Significance of _jatharagni_
+
+_Jatharagni_ is known as the King among all the forms of agni. The intensification and diminution of all other forms of agni is in fact dependent on _jatharagni_ [39] 
+
+An individual should take utmost care to maintain the agni by providing fuel in the form of food and drinks which should be taken as per the rules mentioned, because life and strength of an individual depends on agni [40] 
+
+### Initiation of _grahani dosha_
+
+If an individual indulges in food without following the rules and regulation of diet intake, then he quickly suffers from diseases caused by the vitiation of _grahani_ because of his greedy habits. Such diseases are being described henceforth [41] 
+
+### Causes of vitiation of agni
+
+Excessive starvation, indulging in food intake although there is indigestion, overeating, irregular habit of eating, eating unwholesome food, indulging in food which is heavy to digest or having excessive nutritional value, food which is having cold qualities or eating chilled or frozen items, food which is dry in nature or food which brings about emaciation, contaminated food, perversion of procedures like _vamana, virechana_ and _sneha_ , emaciation of body due to disease, sudden migration to unsuitable place and of time and of season, suppression of natural urges are causes for vitiation of agni. Thus, vitiated agni is unable to digest even the light food. [42-43] 
+
+This vitiated digestive agent forms an intermediate substance called _ama_ , which turns sour (_shukta_) during fermentation and finally turns in poisonous substance (_amavisha_) [44] 
+
+### Signs and symptoms of _ajirna_(indigestion)
+
+This poisonous substance (_amavisha_) manifests clinical features like flatulence, uncomfortable physical and mental miseries, headache, altered consciousness, giddiness, stiffness of back and lumbar region, yawning, body-ache, malaise, morbid thirst, fever, vomiting, tenesmus, anorexia and indigestion and it is similar to antigenic poison. [45-46] 
+
+### Associated disorders of _annavisha_
+
+The _annavisha_ when associated with _pitta_ causes _daha_ , morbid thirst, oral diseases, _amlapitta_ (acid peptic disorders) and various other _pitta_ related disorders. 
+
+The same _annavisha_ when gets associated with _kapha_ it leads to condition like _yakshma_ (pthiasis), _peenas_ (coryza) and _prameha_ (20 types of diabetes) and various other _kaphaja_ disorders, whereas several _vatika_ disease are caused by association of _vata_ with the _annavisha_. 
+
+The _annavisha_ when enters renal system, urine related disorders occur; similarly, _kukshigata roga_ (ailments related to abdomen) have their origin when _sakrita_ (feces) is involved. _Rasadi pradoshaja vikara_ (tissue related ailments) occur when _rasadi srotas_ are involved [47-49] 
+
+### Effects of _Vishamagni_ (irregular agni)and _tikshanagni_( excessive agni)
+
+The _vishamagni_ (improper agni) causes irregularity in digestion and therefore defective formation of _dhatu_ takes place whereas, _tikshanagni_ (excessive agni) when associated with little quantity of fuel (in the form of food) causes depletion of _dhatu_ (tissue elements) [50] 
+
+### _Samagni_
+
+If agni is _sama_ i.e. in balanced condition and correct diet regimen (as explained in [Cha.Sa.Sutra Sthana 5] and [Cha.Sa.Vimana Sthana 1/21] are also followed then there is proper digestion of food which helps in maintaining proper balance within the _dhatu_ [50½] 
+
+### _Durbala_ (weak) agni
+
+_Durbala_ (weak) agni brings about partial digestion of food. These partially digested bio substances then enter in circulation, which may move either in upward or downward direction [51] 
+
+### _Grahani gada_(diseases of _grahani_)
+
+When partially digested and partially undigested bio substances moves downward in gastrointestinal tract it produces a disorder known as _grahanigada_. In this particular stage the entire food material remains in the state of _vidagdha_ state (partially transformed/sour). 

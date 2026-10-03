@@ -1,0 +1,206 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Pathogenic factors in kushtha
+ * 2.2 Possible types of kushtha
+ * 2.3 Seven types of kushtha
+ * 2.4 Common etiological factors of kushtha
+ * 2.5 Premonitory signs of kushtha
+ * 2.6 Specific features of _kapala kushtha_
+ * 2.7 _Audumbara kushtha_
+ * 2.8 _Mandala kushtha_
+ * 2.9 _Rishyajihva kushtha_
+ * 2.10 _Pundarika kushtha_
+ * 2.11 _Sidhma kushtha_
+ * 2.12 _Kakanaka kushtha_
+ * 2.13 Prognosis
+ * 2.14 Complications of kushtha
+ * 2.15 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Causes of kushtha
+ * 4.2 Classification of kushtha
+ * 4.3 Layers of skin
+ * 4.4 Dosha specific variation in kushtha
+ * 4.5 Prognosis of kushtha
+ * 4.6 Research works on kushtha
+ * 5 Related Chapters
+
+## Introduction
+
+The term 'kushtha' literally means disfigurement of skin. Thus all the dermatological manifestations have been clubbed under the term kushtha. For which Charak has devoted two full chapters, the fifth chapter in Nidana Sthana dealing with the etiopathogenesis and the seventh chapter in the Chikitsa Sthana deals with etiopathogenesis and treatment. Dermatological diseases have been classified into four groups, which include seven types of kushtha (dermatosis), seven types of _visarpa_ (a form of acute dermatitis like erysipelas), seven types of _pidaka_ (papular presentations) and three types of _kilasa_ (vitiligo) (Sutra Sthana 19/3). However, looking to the clinical importance, acuteness and progression, one full chapter has been devoted to _visarpa_ , one of the major dermatological conditions. [Cha.Sa.Chikitsa Sthana 21] Some other clinical presentations like Urticaria (_udarda, kotha_), _nilika_ (bluish discoloration of the skin), _tilalklaka_ (mole), _piplu_(port wine mark on skin), _vyanga_ etc. have also been explained briefly at other places. Detailed description and classification of _pidaka_ (papules) is given in the seventeenth chapter of Sutra Sthana. 
+
+Some scholars like William Monier and others have translated the word kushtha as leprosy which is incorrect, because skin manifestations of advanced kushtha resemble leprosy, but there is absence of Mycobacterium leprea. In advanced stages of kushtha, secondary infection with bacteria occurs (_jantudagdha_ or eaten by microorganism). Skin disorders are innumerable, and accordingly a broad pathogenesis and management has been described. Among the two broad groups, _Mahakushtha_ (major dermatosis) has seven types which include the conditions where all the seven pathological components are involved. The disease progresses beyond the skin and may lead to destruction of limbs. Whereas _kshudra-kushtha_ (minor dermatosis) has eleven types which includes the conditions where some of the seven pathological components are involved, have few symptoms, disease runs a chronic course and is usually curable. kushtha is described in such a fashion that it may explain any of the dermatological conditions of present era. Their pathological features can be ascertained and treatment protocol can be established. 
+
+The concept of micro-organism and parasitology was established by Charak and he had the knowledge that micro-organisms are responsible for the causation of dermatological manifestations [Cha.Sa. Vimana Sthana 7/11]. Their treatment is to be followed like the treatment of kushtha. In the symptomatology of kushtha presence of _krimi_ is described as one of the symptoms, which denotes visible worms usually maggots (_samsvedaja krimi_). 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Kushtha Nidana" (Diagnosis and etiopathogenesis of Skin diseases). Thus said Lord Atreya.[1-2] 
+
+### Pathogenic factors in kushtha
+
+The pathology of skin diseases origin from the deranged physiology of seven factors connected to skin. They are _vata, pitta_ and _kapha_ _doshas_ in aggravated state and _dhatus_ , namely, _tvak_ (the word _tvak_ represents skin. Since the skin is organ in which _rasa dhatu_ is present, _tvak_ word is used instead of _rasa dhatu_ ), _mamsa, shonita_ and _lasika_ that get deranged due to aggravated _dosha_. So seven type of kushtha are manifested by these seven morbid factors. Thus preliminary and manifested kushtha gradually afflicts the whole body. [3] 
+
+### Possible types of kushtha
+
+Variation in single _dosha_ cannot cause kushtha. Even in kushtha with similar presentations, the clinical features in terms of sensation in skin, colour, site of skin lesion, other symptoms, and treatment may vary depending on the variation in vitiation of (qualities of) _dosha_. Therefore there are seven or eighteen or innumerable types of kushtha. The variations in qualities of vitiated _dosha_ lead to further differentiation in types of diseases, except in incurable conditions. As there might be innumerable types of kushtha leading to expansion of text, only seven types of kushtha are described here. [4] 
+
+### Seven types of kushtha
+
+When _vata_ and other _doshas_ are aggravated and affect four vitiated _dhatus_ such as _twak_ , and there is dominance of _vata_ _dosha_ , then the disease is known as _kapala kushtha_. Similarly _dosha_ dominance with other six diseases are explained in the table below: 
+
+Table 1: The major skin diseases and its dosha dominance. 
+
+Thus, there are seven types of specific kushtha, however depending on degree of superior and inferior involvement of etiology, permutation and combinations kushtha may be innumerable. [5] 
+
+### Common etiological factors of kushtha
+
+The common etiological factors for all types of kushtha are briefly described below: 
+
+ * Continuous exposure to sudden interchange use of cold and hot without following gradual change rule (exposure to sudden change in temperature),
+ * Sudden interchange/ alternate consumption of nourishing and depleting diets (change is diet qualities);
+ * Continuous and excessive intake of following articles 
+ * _Madhu_ (honey ), _phanita_ (pendium), _matsya_ (fish), _lakucha_ (Artocarpus lakooch Roxb), _mulaka_ (radish) and _kakamach_ (Solanum nigrum Linn);
+ * Continuous over-eating
+ * Eating while in state of indigestion
+ * Eating _Chilichima_ (a type of fish) along with milk;
+ * Intake of foods mostly consisting of cereals like _hayanaka, yavaka_(barley), _chinaka, uddalaka, koradusha_ (Paspalums corbiculatum Linn.) along with _kshira_ (milk), _dadhi_(curd), _takra_( butter milk), _kola_ (Indian jujube, zyziphus jujube Lam), _kulattha_ (Dulicus biflorus Linn), _masha_ (Black gram,Phaseolus radiates Linn), _atasi_ (linseed, Linunusit atissimum Linn), _kusumbha_(Carthamustinctorius Linn ) and unctuous articles.
+ * Excessive indulgence in sexual intercourse, physical exercise and exposure to heat after consuming the above mentioned food to one’s over-satisfaction.
+ * A person suffering from fear, exhaustion or grief suddenly enters into the cold water (cold water bath).
+ * Without vomiting (expelling) out undigested food, if a person consumes food which causes burning sensation(_vidahi_),
+ * suppression of vomiting urge,
+ * indulges in excessive oleation,
+
+Above causative factors lead to simultaneous aggravation of all the _tridosha_, weakness in the skin etc. four _dushyas_. Aggravated _doshas_ lodge themselves in these weakened factors and after localization, further vitiate them and manifest kushtha. [6] 
+
+### Premonitory signs of kushtha
+
+The clinical manifestations of skin diseases are preceded by or associated with loss or excessive sweating (at the site of localization of vitiates _doshas_), excess rough or excess smooth skin, discoloration, itching, pricking sensation, numbness, severe burning sensation, tingling sensation, goose bumps, xerosis on palpation, hot flashes, heaviness, swelling, if there is tenderness it indicates the possibility of suppurated, burnt, bitten, broken, injured and dislocated parts and even smaller ulcers become chronic, non healing.[7] 
+
+### Specific features of _kapala kushtha_
+
+Thereafter (above pathogenesis), kushtha is manifested. The specific diagnosis (of types) for nomenclature is based upon sensation, discoloration, site of lesion, effect of lesion. 
+
+_Kapala kushtha_ has the following specific manifestations: 
+
+Dry, crimson red in color, coarse, unevenly spread, having rough edges, thin and slightly elevated periphery, severe numbness, covered with bristling hair, afflicted with extreme piercing pain, having mild itching, burning sensation, less serous and pus discharge, having acute manifestation and quick progression, are infested with maggots and appear like a black or blackish red piece of broken earthen pot.(1) 
+
+### _Audumbara kushtha_
+
+_Audumbara kushtha_ has the following features: 
+
+The color of affected part of skin is coppery, covered with coppery-rough (thick) hair, have plenty of thick discharge of pus, blood and lymph accompanied with itching, moistened, sloughing, burning sensation and suppuration, having acute manifestation and quick progression, associated with rise in temperature and infested with maggots, appear like the ripe fruit of _Udumbara_ (Ficus racemosa Linn) in color.(2) 
+
+### _Mandala kushtha_
+
+_Mandala kushtha_ has following features: 
+
+Skin is unctuous, heavy, elevated with smooth, fixed and yellowish margins, white and reddish in appearance, filled with white hairlines associated with copious, thick, white and slimy discharge, excessive oozing and itching, infested with numerous maggots, lesions are slow to spread & progression, round in shape.(3) 
+
+### _Rishyajihva kushtha_
+
+_Rishyajivha kushtha_ has following features: 
+
+In this skin is rough, downy red, blackish in the center as well as in the periphery, have the appearance of shades of blue, yellow and coppery tinge associated with acute onset and spreading, with less itching, oozing and maggot infestation, having excessive burning sensation, ulceration, piercing pain (suppuration) as if pierced with bristles, with elevated center and thin margins; surrounded with rough papules and having large circumference and shape like that of the antelope (_rishyajihva_) tongue. (4); 
+
+### _Pundarika kushtha_
+
+_Pundarika kushtha_ has following features: In this type, the skin is white with reddish shade, with red margins covered with red lines and blood vessels, elevated, with copious thick blood, pus and serous discharge, associated with itching, maggots infestation, burning sensation and suppuration, and having acute manifestation and quick progression, appears like the petals of lotus(or Butea monospemum flower). (5); 
+
+### _Sidhma kushtha_
+
+_Sidhma kushtha_ has following features: 
+
+In this type, skin is rough and downy red in color, with external margins fissured and thin, unctuous at the center, having white and red shades, numerous lesions, associated with mild pain, itching, burning sensation, purulent and serous discharge, having mild initiation and progression, and less maggots infestation, appear like flower of _alabu_ (Lagenaria siceraria Standi (bottle gourd)) – are to be known as _sidhma kushtha_(6); 
+
+### _Kakanaka kushtha_
+
+_Kakanaka kushtha_ has following features: 
+
+In this type, the skin is having color of _Gunja_ (Abrus precatorius) seed in the beginning but later on associated with symptoms of all sinful kushtha subsequently having many colors. This is incurable, while others are curable. [8] 
+
+### Prognosis
+
+The incurable disease never give up its incurability (never become curable). The curable disease may sometimes become incurable due to misconduct (not following the diet and lifestyle regulations properly). The six (types of) kushtha are curable except _kakanaka_. However if not treated properly, they may become incurable due to lack of timely management, improper management and constantly excess aggravation of _doshas_. [9] 
+
+### Complications of kushtha
+
+If the curable diseases are neglected (not treated), then they are also afflicted with putrefaction of skin, muscle tissue, blood, lymph and _swedaja krimi_ (maggots or micro-organisms). The _krimi_ get nourishment from the decayed skin etc. and further vitiate _doshas_ leading to variety of complications corresponding to individual _doshas_ as follows: 
+
+ * Due to _vata_ , blackish and downy red discoloration appears, roughness, dryness, piercing pain, emaciation (atrophy), pricking pain, tremors, horripilation, constriction, exhaustion, stiffness, numbness, ulceration and fissures;
+ * _Pitta_ causes burning sensation, sweating, moistening, putrefaction, discharge, suppuration and redness;
+ * _Kapha_ causes whiteness, coldness, itching, immobility, heaviness, protuberance, unctuousness and coating, maggots eat up the skin etc. (skin, flesh, blood, lymph) vessels, ligaments and cartilages. [10]
+
+During this stage, a patient of kushtha afflicts with complications such as- excessive discharge, ulceration of body parts, sequestration of body parts (necrosis of phallenges), thirst, fever, diarrhea, burning sensation, debility, anorexia, indigestion. Such types of kushtha should be known as incurable. [11] 
+
+### Summary
+
+The individual, who neglects the disease in early stage by assuming it as curable,( does not take treatment at early stage) can be regarded as dead after a lapse of time(due to complications). The individual who took treatment properly prior to full manifestation of disease or in its early stage attains happiness for long time. Just as a tender plant is easy to cut down with a little effort, but the same require great effort when fully grown. 
+
+Likewise, a disease is easily curable in the early stage; it becomes incurable or difficulty to cure as it reaches the advanced stage.[12-15] 
+
+Thus ends the fifth chapter on Kushtha Nidana in Nidana Sthana in the treatise composed by Agnivesha and as redacted by Charak. 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * kushtha is the result of combined and simultaneous involvement of all the three _dosha_ and subsequently vitiation of the four body constituents i.e. _rasa_ (_twak_ , or skin), _mamsa_(muscle tissue), _rakta_(blood), and _lasika_(lymph).
+ * There can be infinite clinical presentations of kushtha (skin diseases) depending upon severity of combination of above mentioned vitiating factors.
+ * While diagnosing the severity of kushtha, the depth of lesion can be assessed according to involvement of skin, muscle, blood and lymph respectively. The treatment should be planned accordingly, targeting these constituents and should be based upon predominantly vitiated _dosha_.
+ * The varieties in vitiated qualities of _doshas_ (like _ruksha_ etc.) depend upon dietary and lifestyle causative factors. kushtha can be classified based upon the criteria like specific sensation in skin, change in color of skin (pigmentation), site of lesion, spread of lesion, clinical features.
+ * Continuous exposure to change in temperature (thermal sensitivity), change in fluid volume and muscle mass inside body, incompatible dietary and lifestyle factors are main causative factors of kushtha. Similarly sudden changes in above factors may lead to acute condition of skin disease.
+ * If the curable kushtha are not timely treated, it leads to favorable environment to growth of micro-organisms. The micro-organisms grow on the vitiated _twak,rakta, mamsa,_ and _lasika_ leading to various severe skin lesions.
+ * The curable disease can become incurable due to improper management, exposure to causative factors and aggravation of _dosha_.
+
+## Vidhi Vimarsha (Applied Inferences)
+
+Three chapters are devoted to dermatological disorders, present chapter and Chikitsa Sthana chapter 7 (Kushtha Chikitsa) and 21(Visarpa Chikitsa). The present chapter deals with seven types of kushtha, while in Kushtha Chikitsa, all eighteen types have been described and have been given the name of _Mahakushtha_ (major) and _Kshudra kushtha_ (Minor). After reviewing the symptoms of seven major types it is clear that it covers a progressive disorder of skin leading to loss of organs and impaired sensation (sensory neuropathy). According to some commentators _Kshudra kushtha_ is a group of mild and localized skin diseases, which runs a chronic course. 
+
+Most of the diseases are classified on the basis of _dosha_ predominance. There is variable interplay of three _dosha_ and four _dushya_ in kushtha, which can present as seven types, eighteen types and innumerable types on the basis of symptoms, color, location, prognosis and treatment. (see chart). 
+
+kushtha and _visarpa_ \- both the diseases have the same seven causative factors (three _dosha_ and four _dhatu_ type disorders), where kushtha is chronic and _visarpa_ is acute and may be life threatening, In _visarpa_ , _rakta_ is dominant which makes it spread rapidly, treatment is bloodletting. In case of kushtha all seven factors are involved with little bit variation. 
+
+### Causes of kushtha
+
+Diet and lifestyle play a significant role in health and disease. What, how and when diet should be taken is important. In kushtha, alternating opposite character of food like hot/cold, nourishing/ non nourishing foods if taken one after the other is an etiological factor. Many other such etiological factors have been listed. All the etiological factors mentioned, also help in the growth of parasites like maggots at the involved skin. 
+
+Environmental factors like diet and lifestyle, in the presence of genetic predisposition impair the immune system with increased susceptibility to secondary infection. _Viruddhahara_ (incompatible foods) has similar effect through epigenetic mechanism. Early diagnosis is important and stages have been described for disease manifestation. _Poorvarupa_ (prodromal symptoms) occur in the fourth stage of disease manifestation and if the disease is diagnosed at this level, early control and better treatment may be possible. Though in the stage of _poorvarupa_ it may not be possible to diagnose the type/subtype of disease, however type of _dosha_ can be decided and accordingly treatment can be started. (7) 
+
+### Classification of kushtha
+
+The _mahakushtha_ has been classified under seven types as per their _dosha_ predominance accordingly symptomatology of these has been described. All the body physiology and pathology is designated to a particular _dosha_ thus the diseases are basically diagnosed on the basis of three _dosha_ and their combinations. The color, texture, secretions, margins, and types of pain associated with these lesions, as well as their progression have been classified on the basis of three _dosha_. 
+
+### Layers of skin
+
+Charak and Sushruta both have enumerated the layers of skin and the thickness of layers and diseases occurring in these layers have also been narrated. Their possible modern equivalence as given by some scholars in Ayurvedic texts is as follows: 
+
+Note: *1 vrihi measurement = 0.5 to 1.5 mm **we have correlated the relative terms in modern dermatology that are selected by considering the origin of the disease and thickness of layer explained in Ayurveda. 
+
+### Dosha specific variation in kushtha
+
+Various Vedic texts on the subject have tried to classify all signs and symptoms on the basis of _tridosha_ thus this serves a good tool to diagnose the lesions as per three _doshas_ seen in the following table: 
+
+Thus on the basis of symptomatology of it can be inferred that maha-kushtha is a group of skin diseases that includes Leprosy. However, there is ample scope to include, diagnose and treat any other syndromes available today or occurring in future on the basis of this description of kushtha.(verse 8) 
+
+### Prognosis of kushtha
+
+Prognostic criteria for curability or incurability has been given much importance. Text cautions that incurable will not leave its nature, however curable conditions can become incurable due improper treatment. With the availability of newer treatments and better diagnostic tools many syndromes which, were listed as incurable have become palliable. The management of leprosy is one example of change in the approach to management with the help of antibiotics, but, with limitations. The outcome of treatment can be significantly changed if the current antibiotic treatment is supplemented with Ayurvedic management. 
+
+After the fifth stage of the therapeutic intervention i.e. rupa (proper manifestation) if the disease is not managed properly or the intervention is ineffective the disease progresses further and produces symptoms of upadrava (complications). These symptoms and signs have again been classified on the basis of tri-dosha. As the rasa(twak), rakta, mamsa and lasika ( lymphatic tissue) are involved in the manifestation of kushtha, its progression to the deeper tissues like meda, asthi, majja and shukra will lead to complications. This includes permanent disfiguration of organs, loss of phalanges and infection of wounds by maggots causing severe damage to the tissues like bones. (verse 10-16) 
+
+If the symptomatology described by Charak and Dhatugata symptoms of Sushruta are compared, it is evident that the symptoms described for rasa dhatu represent poorvarupa. Rakta and mamsagata symptoms are listed as rupa of kushtha. The symptoms listed as medagata are the disfigurement of the organs, falling of limbs and flaring of skin lesions. The symptoms listed as asthigata kushtha are saddle nose, kerato- conjunctivitis, growth of maggots in lesions and loss of speech. This list of dhatugata kushtha described by Sushruta covers almost all the complications of leprosy. Thus taking into the consideration of Dhatugata stage of the disease further insight in the management of the disease as Sushruta has advised to increase the intensity of the treatment taking into the consideration of the dhatu involved. 
+
+Sushruta has explained the symptomatology on the basis of dhatugata stage of the dosha.[Sushruta Samhita Nidana Sthana 7/21-26] Rasa, lasika, rakta and mamsa are dushya, in this disease hence complications arise when the dosha proceed to the deeper dhatu, meda and majja. 
+
+Samswedaja Krimi (Maggot/micro-organisms infestation with sweating) is a complication is to be kept in mind for treatment purpose. This has been stressed that treatment should be done at the earliest stage otherwise even the most curable disease becomes incurable. Leprosy can be referred in seven types of Kushtha. Vivid description of the disease is available in the texts and almost all the aspects of pathogenesis is detailed including its contagiousness. The serious complications like disfigurement of limbs and loss of phalanges has also been described. 
+
+### Research works on kushtha
+
+## Related Chapters
+
+ * Kushtha Chikitsa, Skin diseases in Integrative Medicine
+
+**Send us your suggestions and feedback on this page.**
+
+Back to the Top

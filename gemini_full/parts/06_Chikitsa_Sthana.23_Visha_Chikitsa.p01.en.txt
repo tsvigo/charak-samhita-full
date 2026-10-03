@@ -1,0 +1,323 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 History of origin of _visha_
+ * 2.2 Sources of poison
+ * 2.3 Aggravation and pacification of potency
+ * 2.4 Animal origin
+ * 2.5 Earthen and plant origin
+ * 2.6 _Gara visha_ ( artificial poison)
+ * 2.7 Clinical features of poisoning
+ * 2.8 Stage wise clinical features in humans
+ * 2.9 Stage wise features in animals and birds
+ * 2.10 Properties of _visha_ and its effect on body
+ * 2.11 Clinical features as per site of dosha
+ * 2.12 Fatal signs
+ * 2.13 Twenty four treatment modalities
+ * 2.14 First aid treatment
+ * 2.15 Blood letting
+ * 2.16 Benefits of first aid treatments
+ * 2.17 Treatment of first stage
+ * 2.18 Treatment of second stage
+ * 2.19 Treatment of third to eighth stage
+ * 2.20 Treatment in eighth stage
+ * 2.21 Treatment in case of hanging and drowning
+ * 2.22 _Mritasanjivana agada_
+ * 2.23 Principle of treatment as per site of dosha
+ * 2.24 Treatment of obstruction by kapha and _kakapada_ (incision in the shape of paw of crow)
+ * 2.25 Nasya and _anjana_ administration
+ * 2.26 _Gandhahasti agada_
+ * 2.27 _Mahagandhahastinama agada_
+ * 2.28 _Rushabhakadi agada_
+ * 2.29 _Hingvadi yoga_
+ * 2.30 Treatment of vomiting and hiccups
+ * 2.31 Fumigation
+ * 2.32 Medicated fumigation for swelling
+ * 2.33 _Jatwadi_ medicated fumigation
+ * 2.34 _Ksharagada_
+ * 2.35 Characteristics of poison giver and intoxicated poisonous food
+ * 2.36 Effects of food poisoning
+ * 2.37 Clinical features of poison through various routes of consumption/exposure
+ * 2.38 Description of snakes and poisoning
+ * 2.39 Types of snakes and their effect on dosha
+ * 2.40 Identification of snakes
+ * 2.41 Properties of snake poisons
+ * 2.42 Characteristics of _darvikara_ snake bite
+ * 2.43 Characteristics of _mandali_ snake bite
+ * 2.44 Characteristics of _rajimana_ snake bite
+ * 2.45 Gender wise characteristics of snakes
+ * 2.46 Differentiation in features in snake bite of different genders
+ * 2.47 Bite of a pregnant snake
+ * 2.48 Characters of snakes of different ages
+ * 2.49 Fangs of snakes
+ * 2.50 _Dooshi visha_ (slowly acting poison)
+ * 2.51 Bad prognostic fatal signs
+ * 2.52 Characteristics of insect bite with _dooshi visha_
+ * 2.53 General features
+ * 2.54 Characteristics of rat bite
+ * 2.55 Features of rat bite
+ * 2.56 Characteristics of chameleon bite
+ * 2.57 Characteristics of scorpion bite
+ * 2.58 Characteristics of hornet bite
+ * 2.59 Characteristics of crab bite
+ * 2.60 Characteristics of frog bite
+ * 2.61 Effects of poisonous fish
+ * 2.62 Effects of poisonous leech
+ * 2.63 Effects of poisonous lizards
+ * 2.64 Effects of poisonous centipede
+ * 2.65 Effects of mosquito bite
+ * 2.66 Effects of bee sting
+ * 2.67 Prognosis as per place and time of bite
+ * 2.68 Aggravating factors of effects of poison
+ * 2.69 Snakes with mild poisonous effect
+ * 2.70 Effect of anger, hunger and fear on releasing snake poison
+ * 2.71 Dosha dominance in insects poison
+ * 2.72 Treatment as per dosha dominance
+ * 2.73 Clinical effects of vata dominant _visha_
+ * 2.74 Clinical effects of _pitta_ dominant _visha_
+ * 2.75 Clinical effects of _kapha_ dominant _visha_
+ * 2.76 Treatment of _vata_ dominant _visha_
+ * 2.77 Treatment of _pitta_ dominant _visha_
+ * 2.78 Treatment of scorpion bite
+ * 2.79 Treatment of crab bite
+ * 2.80 Features of dog bite
+ * 2.81 Treatment of dog bite
+ * 2.82 Treatment of poisonous effects in head region
+ * 2.83 Treatment of poisonous effects in upper and lower parts of body
+ * 2.84 Treatment of poisonous effects in eye region
+ * 2.85 Treatment of poisonous effects in throat region
+ * 2.86 Treatment of poisonous effects in stomach region
+ * 2.87 Treatment of poisonous effects in colon region
+ * 2.88 Treatment of poisonous effects in _rasa dhatu_
+ * 2.89 Treatment of poisonous effects in _rakta dhatu_
+ * 2.90 Treatment of poisonous effects in _mamsa dhatu_
+ * 2.91 Treatment of poisonous effects in all dhatu
+ * 2.92 Treatment of poisonous effects in kapha dominance
+ * 2.93 Various formulations
+ * 2.93.1 _Mamsyadi_ formulation
+ * 2.93.2 _Chandanadi_ formulation
+ * 2.93.3 _Shirishadi nasya_ and _anjana_
+ * 2.93.4 _Nata-Kushtha_ formulation
+ * 2.94 Treatment of _darvikara_ snake bite
+ * 2.95 Treatment of _mandali_ snake bite
+ * 2.96 Treatment of _rajimana_ snake bite
+ * 2.97 _Grihadhumadi_ formulation
+ * 2.98 External application in insect bite
+ * 2.99 Treatment of spider poison
+ * 2.100 Treatment of rat bite
+ * 2.101 _Kutajadi_ formulation
+ * 2.102 Best _agada_
+ * 2.103 Treatment of centipede poison
+ * 2.104 Treatment of house lizard poison
+ * 2.105 _Pancha shirisha agada_
+ * 2.106 Treatment of nail or teeth bite of animals
+ * 2.107 _Shanka visha_ (pseudo poisoning)
+ * 2.108 Suitable diet in treatment of poisoning
+ * 2.109 Unsuitable diet and lifestyle
+ * 2.110 Signs of poisoning in quadruped animals
+ * 2.111 Treatment of poisoning in animals
+ * 2.112 _Gara visha_ (slow acting artificial poison)
+ * 2.113 Effects of _gara visha_
+ * 2.114 Treatment of _gara visha_
+ * 2.115 _Nagadantyadi_ ghee
+ * 2.116 _Amrita_ Ghee
+ * 2.117 Lifestyle to avoid snake bite
+ * 2.118 Wearing gems for preventing poisonous effects
+ * 2.119 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Similes in historical origin
+ * 4.2 _Gara visha_ (artificial poison)
+ * 4.3 Properties and affects
+ * 4.4 Treatment modalities
+ * 4.5 First aid or immediate treatment after bite
+ * 4.6 _Agnikarma_ and its contraindications
+ * 4.7 Importance of protection of heart
+ * 4.8 Stage wise treatment of poisoning
+ * 4.9 _Mahagandhahasti agada_
+ * 4.10 Various formulations
+ * 4.10.1 _Ksharagada_
+ * 4.11 Characteristics of poisonous food
+ * 4.12 Identification and types of snakes
+ * 4.12.1 _Darveekara_ snake – comparison: King cobra and cobra
+ * 4.12.2 Cobra
+ * 4.12.3 King cobra: Ophiophagus hennah
+ * 4.12.4 _Mandali sarpa_ : Comparision- Russell's viper, pit vipers, saw scaled vipers
+ * 4.12.5 Russell’s viper (Daboia russelli)
+ * 4.12.6 Saw scaled viper
+ * 4.12.7 Pit vipers
+ * 4.12.8 _Rajiman Sarpa_ \- Comparision- Common and Banded Krait
+ * 4.12.9 Common Krait: Bungarus caeruleus
+ * 4.12.10 Banded krait: Bungarus fasciatus
+ * 4.12.11 Gender wise classification of snakes
+ * 4.12.12 _Godha_ (monitor)
+ * 4.13 Drugs to be identified
+ * 5 References
+
+## Introduction
+
+_Agada_ is enlisted in one of the eight branches of ayurveda. Management of poisoning is an important aspect of medical system. _Visha_ is a substance that leads to decline of overall functions of the person. The _vaidya_ should have knowledge and training in _visha gara vairodhika prashamana_ (anti-toxin treatment). In India especially in Kerala, the role of traditional practitioners in this field is significant. Their simple, but effective treatments, has really been astonishing. They are also well versed in the details regarding the good and bad omen based on _doota_ (messenger), the happenings the _vaidya_ sees when he is going to make house call for treating such cases and also what he observes in the house and in the patient. He is also well versed in astrology. 
+
+The Visha Chikitsa chapter follows Trishna Chikitsa because both have same line of treatment i.e., _sheetala kriya_ (cooling therapy). The same logic can be attributed to Madatyaya Chikitsa which follows this chapter. _Visha_ and _madya_ have same qualities and effects on body, however _madya_ is comparatively mild with gradual effects, whereas visha has severe and acute effects. The present chapter deals with detailed study of various types of acute and slow poisons. Animal bites, their clinical features and treatment are described in detail. The stages of poisoning and their clinical features are detailed. The chapter also explains the stages, features and treatment of poisoning in animals and birds. Various fumigation medicines are enlisted to detoxify the home environment, things of daily use like beds, seats, clothes etc. The treatments of insect bite, rat bite, dog bite, scorpion bite are also described. This chapter opens a window to treat adverse drug reactions and allergic reaction to anti toxic formulations described. A condition of pseudo poisoning is mentioned which needs psychological counselling without any anti toxic medicines. 
+
+With the advancement in medical technology, the new methods of treatments of poisoning have evolved with time. However the basic treatments like applying tourniquet at the site of bite to prevent spread of poison, therapeutic emesis in the form of gastric lavage in case of ingested poison, or purgation are the same as in contemporary medicine. However with the development of forensic medicine, the investigations of types of poisons, their identification and their blood levels are newer additions. The chapter describes ancient methods of management of poisoning cases that need to be highlighted and blended with todays modern techniques. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Visha chikitsa"(Management of different types of poisoning). Thus said Lord Atreya. 
+
+Agnivesha, hear me carefully. Next I will explain about _visha_ with the following aspects. _Utpatti_ (origin), guna (properties), _yoni_ (source), _vegas_ (stages), _lakshana_ (signs and symptoms) and _chikitsa_ (therapeutic measures).[1-3] 
+
+### History of origin of _visha_
+
+While the ocean was being churned by _devas_ and _asuras_ for obtaining _amrita_ (nectar of life), before the formation of _amrita_ a ferocious looking person with fiery eyes, four fangs and greenish locks emerged. After seeing him the whole world became desperate and from that desperation, _visha_ originated. [4-5] 
+
+### Sources of poison
+
+Lord Brahma deposited these _visha_ in _jangama_(animal origin) and _sthavara_ (earthen and plant origin) categories. Hence in general _visha_ , originated from water; it is (hot) like fire and is of two types. Its action is manifested in 8 stages; it has 10 properties and can be treated with 24 therapeutic measures.[6-7] 
+
+### Aggravation and pacification of potency
+
+During rainy season, due to its origin from water, when it comes in contact; it becomes moist similar to _gud_ (jaggery) due to its _kleda guna_ and after that it spreads. However the star Agastya at the end of rainy season, counteracts the effects of _visha_ thereby getting milder in potency.[7-8] 
+
+### Animal origin
+
+_Sarpa_ (snakes), _kita_ (insects), _loota_ (spiders), _vrishchika_ (scorpions), _griha godhika_ (house lizards), _jalauka_ (leeches), _matsya_ (fish), _manduka_ (frogs), _kanabha_ or _salabha_ (locusts), _krkantaka_ (chameleon), _shwa_ (dogs), _simha_ (lion), _vyaghra_ (tiger), _gomayu_ (jackal), _taraksu_ (hyena), _nakula_ (mongoose), etc., are the fanged animals through whose fangs the poison is transmitted. The poisons of these creatures constitute animal poisons (poisons of mobile origin).[9-10] 
+
+### Earthen and plant origin
+
+The poisons of the immobile (earthen and plant) origin are: the roots (including rhizomes) of _mustaka, puskara, kraunca, vatsanabha_ (Aconitum ferox), _balahaka, karkata, kalakuta, karavira_ (Nerium indicum / Cerbera thevetia), _palaka, indrayudha taila, meghaka, kusa-puspaka, rohisa, pundarika, langalaki_ (Gloriosa superb), _anjanabhaka, sankoca, markata, sringi-visa, halahala,_ and such other poisonous roots.[11-13] 
+
+### _Gara visha_ ( artificial poison)
+
+There is another variety of poison called _gara-visha_ which is prepared artificially by the combination of various substances. It produces various diseases. Since it takes time to get metabolized and to produce its toxic effects, it does not cause instantaneous death of a person.[14] 
+
+### Clinical features of poisoning
+
+_Jangama-visha_ (poison of mobile origin or animal poison) produces _nidra_ (excessive sleep), _tandra_ (drowsiness), _klama_ (mental fatigue), _daha_ (burning sensation), _sapakam_ (suppuration), _lomaharshanam_ (excessive horripilation), _shopha_ (inflammation), _atisaram_ (diarrhoea). 
+
+_Sthavara-visha_ (poison of immobile origin or plant/earthen poison) produces _jwara_ (fever), _hidhma_ (hiccup), _danthaharsha_ (tingling sensation in the teeth), _galagraha_ (obstruction in the throat), _phena vamana_ (vomiting of frothy material), _aruchi_ (anorexia), _shvasa_ (dyspnea), _moorchha_ (fainting) like signs and symptoms. 
+
+The animal poison moves downwards whereas the vegetable poison moves upwards in the alimentary canal. Therefore, the animal poison cures poisoning by vegetable-poison and the poisoning caused by animal-poison is cured by vegetable poison.[15-17] 
+
+### Stage wise clinical features in humans
+
+In human beings, the effects of poisons are manifested in eight different stages as follows: 
+
+ * In the first stage, because of the vitiation of rasa dhatu, the patient suffers from morbid thirst, unconsciousness, tingling sensation in teeth, salivation, vomiting and mental fatigue;
+ * In the second stage, because of the vitiation of rakta dhatu the patient suffers from discoloration of the skin, giddiness, trembling; fainting, yawning, tingling sensation in the limbs and dyspnea.
+ * In the third stage, because of the vitiation of mamsa dhatu, the patient suffers from _mandala_ (skin rash), pruritus, edema and urticaria;
+ * In the fourth stage, because of the vitiation of vayu, etc., the patient suffers from vomiting, burning sensation, pain in the limbs, fainting, etc.;
+ * In the fifth stage, the patient suffers from blue-vision, or dark- vision, etc.;
+ * In the sixth stage, the patient suffers from hiccup.;
+ * In the seventh stage, the patient suffers from _skandha-bhanga_ (paralysis of the muscles in the shoulder girdle); and
+ * In the eighth stage, the patient succumbs to death.
+
+The above mentioned eight stages of poisoning are manifested in human beings.[18-23] 
+
+### Stage wise features in animals and birds
+
+In quadruped animals, the effects of poisoning are manifested in four different stages; and in birds, it is manifested in three stages. 
+
+Four stages of poisoning in animals: 
+
+ 1. In the first stage, the animal gets depression and giddiness;
+ 2. In the second stage, the animal trembles;
+ 3. In the third stage, the animal feels emptiness and it stops eating; and
+ 4. In the fourth stage, the animal dies because of the obstruction to respiration.
+
+Three stages of poisoning in birds: 
+
+ 1. In the first stage, the bird gets depressed;
+ 2. In the second stage, the bird gets giddiness; and
+ 3. In the third stage, the bird develops looseness of the limbs resulting in death.[21-23]
+
+### Properties of _visha_ and its effect on body
+
+_Laghu_ (lightness for digestion), _ruksha_ (dryness), _ashu_ (rapid), _vishada_ (non sliminess), _vyavayi_ (which pervades whole body before getting digested), _tikshna_ (sharply acting), _vikashi_ (causing looseness of joints by diminution of dhatu)_, sukshma_ (subtleness), _ushna_ (hot), and _anirdeshya rasa_ (indistinct taste)- these are the ten properties of poison according to the expert _vaidyas_. 
+
+Because of dryness property, vayu gets aggravated; due to hot property, pitta gets vitiated; subtleness leads to vitiation of rakta; Due to _avyakta rasa_ (indistinct taste), kapha is vitiated; due to rapidly acting, it quickly permeates through the nutrient fluid; vyavayi guna spreads it throughout the body instantaneously. Tikshna guna (sharply acting) property causes injury to marmas, vikashi guna results in death of the patient. Due to laghu guna it becomes difficult to manage therapeutically; because of vaishadya guna, it pervades all over the body with dosha without any obstruction in circulation. Depending upon the location of dosha and prakriti of patient, _visha_ produces several other complications. [24-27] 
+
+### Clinical features as per site of dosha
+
+If _visha_ is situated at vata sthana in a person having vatika prakriti, then he suffers from _trit_ (excessive thirst), _moha_ (loss of consciousness), _arati_ (dislikness for everything), _moorchha_ (fainting), _galagraha_ (obstruction in the throat), _phena chhardi_ (vomitus containing froth). There will be less manifestation of signs and symptoms of _kapha_ and _pitta_. 
+
+If the poison gets lodged in pitta sthana in a person having paittiika prakriti he will suffer from _trit_ (excessive thirst), _kasa_ (cough), _jwara_ (fever), _vamadhu_ (vomiting sensation), _klama_ (mental fatigue), _daha_ (burning sensation), _tama_ (appearance of darkness), _atisara_ (diarrhea). There will be less manifestation of signs and symptoms of kapha and vayu. 
+
+If the poison gets lodged in kapha sthana in a person having kapha prakriri then he will be suffering from _shwasa_ (dyspnea), _galagraha_ (obstruction of throat), _kandu_ (itching), _laala vamana_ (excessive salivation). There will be less manifestation of signs and symptoms of vayu and pitta.[28-30] 
+
+_Dushi-visha_ (a type of artificial poison) vitiates blood and produces symptoms like _aru_ (eczema in the head), _kitibha_ (psoriasis) and _kotha_ (urticaria). This type of poison afflicts each one of the dosha and causes death of the patient.[31] 
+
+Due to _visha tejus_ (power of poison) vitiated blood transudes to obstruct _srotas_ (channels) leading to death of the patient. 
+
+If the poison is taken orally it stays in heart and if the poison is transmitted by bite or from poisoned arrow, it gets lodged in the place of bite.[32] 
+
+### Fatal signs
+
+Bluish lips, loose teeth, _kesha pathana_ (hair fall), _anga bhanga_ (cutting type of pain in all over body), _vikshepa_ (convulsions), absence of horripilation even if touched by cold things, non-formation of contusion marks when hit by stick, absence of bleeding from ulcers- these are the signs of imminent death of a poisoned patient. Patients without such signs should be treated with the following therapeutic measures.[33-34] 
+
+### Twenty four treatment modalities
+
+In order to cure the patient afflicted with poison, the twenty four therapeutic measures to be adopted are as follows: 
+
+ 1. Recitation of _mantras_ ;
+ 2. _Arishta_ (tying an amulate impregnated with _mantra_ or tying a bandage above the place of bite);
+ 3. _Utkartana_ (excision of the part afflicted with the poisonous bite);
+ 4. _Nishpidana_ (squeezing out blood from the place of the bite);
+ 5. _Chushana_ (sucking out the poison from the place of the bite);
+ 6. _Agni_ (cauterization);
+ 7. _Parisheka_ (affusion);
+ 8. _Avagaha_ (bath with medicated water);
+ 9. Raktamokshana (blood-letting);
+ 10. Vamana (therapeutic emesis);
+ 11. Virechana (therapeutic purgation);
+ 12. _Upadhana_ (application of medicine after making an incision over the scalp);
+ 13. _Hridayavaram_ (giving medicines-to protect the heart);
+ 14. _Anjana_ (application of collyrium);
+ 15. Nasya (inhalation of medicated oil, etc.);
+ 16. _Dhuma_ (smoking therapy);
+ 17. _Leha_ (drugs in the form of linctus given for licking);
+ 18. _Aushadha_ (administration of anti-toxic drugs or wearing as an amulet);
+ 19. _Prashamana_ (sedatives);
+ 20. _Pratisarana_ (application of alkalies);
+ 21. _Prativisha_ (administration of poisons as medicines to counteract the original poison);
+ 22. _Sanjna-samsthapana_ (administration of medicines for the restoration of consciousness);
+ 23. _Lepa_ (application of medicines in the form of a paste or ointment); and
+ 24. _Mrita-sanjivana_ (measures for the revival of life of an apparently dead person).[35-37]
+
+### First aid treatment
+
+Immediately after bite, before the spreading of the poison from the place of the bite, the _venika_ (string or rope or torniquet) should be tied (at the proximal part of the bite), the site of the bite should be squeezed frequently and forcefully; the place of bite should be excised unless it is a vital part (_arma_); and the poison should be sucked out with the help of mouth filled with the flour of barley or dust.[38-39] 
+
+### Blood letting
+
+Thereafter bloodletting should be done with _prachhana_ (scratching with the help of rough instruments), _shringa_ (horn), _jalauka_ (leech), or _siravyadhana_ (venesection). 
+
+The blood vitiated by _visha_ can cause vitiation of other dhatu there by resulting in death. Therefore blood does not come out of site of bite, then _pragharshana_ (rubbing therapy) should be employed to cause the blood to flow out. 
+
+_Pragharshana_ done with the help of powdered _trikatu_ (Zingiber officinale, Piper nigrum, Piper longum), _grihadhooma, haridra_ (Curcuma longa), _panchalavana_ (five varieties of salts) and _varthaka_. Excessive bleeding can be treated with _sheetalepa_ with the paste of vata (Ficus bengalensis), etc. 
+
+Rakta dhatu is abode of _visha_ (circulates _visha_ all over the body) just like wind spreads the fire. With the help of _pradeha_ (external application) and _seka_ which are cooling in effect, blood gets coagulated thereby arresting the spread of poison. Due to the _vega avastha_ of _visha_ (different stages), patient suffers from _mada_ (intoxication), _murchha_ (fainting), _vishada_ (depression), _hridaya drava_ (palpitation) etc. Application of cooling therapies alleviates such complication. The patient should sufficiently ventilated till the occurrence of horripilation.[39-43] 
+
+### Benefits of first aid treatments
+
+As a tree stops growing up as soon as the root is cut, similarly the action of poison does not spread further when the bite site is excised. 
+
+The process of _achooshana_ (suction) induces the poison mixed with blood to flow out. As the flow of water is arrested by a dam so also the flow and spread of poison can be arrested by tying _arishtas_ (tourniquet).[44] 
+
+### Treatment of first stage
+
+_Agnikarma_ (cauterization) causes burning of poison located in skin and flesh. _Sravana_ (drugs used to cause exudation of liquid) helps in flowing out of poison from the blood. 
+
+Vamana (emesis) helps in eliminating poison which has been taken orally. The second stage of poisoning virechana (purgation) places a definite role in eliminating the _visha_ from the body. [45] 
+
+### Treatment of second stage
+
+In the second stage, _hridaya_ (heart) should be protected and an _avarana_ (covering) should be made according to the availability of drugs. _Madhu_ (honey), ghee (clarified butter), _majja_ (bone marrow), _payas_ (milk), _gairikam_ (red ochre), _gomaya rasa_ (juice of cow dung), well boiled sugar cane juice or the juice squeezed out of meat of crow should be given to the patient for protecting the heart. Patient can be treated immediately with blood of goat etc, ashes or mud diluted with water to drink. [46-47] 
+
+### Treatment of third to eighth stage
+
+In the 3rd stage, patient can be treated with _ksharagada_ along with honey and water which can reduces _shopha_ (edema) and is having the property of _lekhana_ (which scrapes out unwanted waste products from the body). 
+
+During the 4th stage, patient should be administered with juice of cow dung along with _kapita rasa_ , honey and ghee. 

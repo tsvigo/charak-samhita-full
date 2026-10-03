@@ -1,0 +1,286 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, transliteration, and English translation
+ * 2.1 Origin of Ayurveda
+ * 2.1.1 Hierarchy of transfer of knowledge of Ayurveda
+ * 2.1.2 Problem of health and conference for its solution
+ * 2.1.3 List of scholars participated in the conference
+ * 2.1.4 Four objectives of Life
+ * 2.1.5 Knowledge transfer from Indra to Bharadwaja
+ * 2.1.6 Three principles for knowledge of Health and Disease
+ * 2.1.7 Six Basic Principles of Knowledge
+ * 2.1.8 Six disciples of Punarvasu Atreya
+ * 2.1.9 Inception of Agnivesha Tantra
+ * 2.2 Definition and Scope of Ayurveda
+ * 2.2.1 Definition of Ayu (life) and its synonyms
+ * 2.2.2 Superiority of Ayurveda (over other Veda)
+ * 2.3 Samanya Vishesha Theory (similarity and dissimilarity)
+ * 2.4 The Tripods of Living World and subject of Ayurveda
+ * 2.5 Dravya, Guna and Karma
+ * 2.5.1 Sentient and Insentient dravya (elements)
+ * 2.5.2 Guna (basic properties/ qualities) and Karma (actions)
+ * 2.5.3 Inseparable concomitance of element and properties
+ * 2.5.4 Definition of Dravya
+ * 2.5.5 Definition of Guna
+ * 2.5.6 Karma (action)
+ * 2.6 Principles of equilibrium and dis-equilibrium
+ * 2.6.1 The Objective of this Compendium
+ * 2.6.2 Three Types of Causes of Diseases
+ * 2.6.3 Two Sites of Pleasure and Disease
+ * 2.7 The Nature of Atma
+ * 2.8 Dosha
+ * 2.8.1 Three Sharira dosha and two Manas dosha
+ * 2.8.2 Treatment of these dosha
+ * 2.8.3 Properties of dosha
+ * 2.9 Fundamental principle of disease management and prognosis
+ * 2.10 Concept and applications of rasa(taste sensations)
+ * 2.10.1 Origin of rasa (taste sensations)
+ * 2.10.2 Six rasa
+ * 2.10.3 Effect of rasa on dosha
+ * 2.11 Classification of dravya based on their biological effects
+ * 2.12 Classification of matter according to Source
+ * 2.12.1 1\. Animal origin drugs
+ * 2.12.2 2\. Earth origin and 3. Plant origin drugs
+ * 2.12.3 Plant’s parts used as drugs
+ * 2.13 Classifications of drugs based on their various forms and applications
+ * 2.13.1 Sixteen roots used for shodhana (purification):
+ * 2.13.2 Fruits used for shodhana (purification therapy)
+ * 2.13.3 Four major unctuous substances (mahasneha)
+ * 2.13.3.1 General actions of unctuous substances
+ * 2.13.4 Five salt
+ * 2.13.4.1 Utility of salt
+ * 2.13.5 Eight important varieties of urine
+ * 2.13.5.1 General properties and external uses of urine
+ * 2.13.5.2 Internal uses of urine
+ * 2.13.5.3 Properties of urine of ewe and goat
+ * 2.13.5.4 Properties of cow’s urine
+ * 2.13.5.5 Properties of urine of buffalo and elephant
+ * 2.13.5.6 Properties of urine of she-camel
+ * 2.13.5.7 Properties of urine of mare and she-donkey
+ * 2.13.5.8 Eight important varieties of milk
+ * 2.13.6 General properties and actions of milk
+ * 2.13.6.1 General indications of milk
+ * 2.13.6.2 Pharmaceutical uses of milk
+ * 2.13.7 Plants with latex
+ * 2.13.8 Three bark of plants used as drug
+ * 2.13.9 Summary of descriptions of the plants
+ * 2.14 Sources of identification of plants
+ * 2.14.1 Limitation of knowledge of names of plants only
+ * 2.14.2 Importance of complete knowledge of therapeutic actions of plants
+ * 2.15 Ethics in clinical practice
+ * 2.15.1 Qualities of best physician & personalized medicine approach
+ * 2.15.2 Importance of judicious use of medicine
+ * 2.15.3 Denouncing of quacks
+ * 2.15.4 Sinful deeds about exploitation of patient
+ * 2.15.5 Quest to become good physician
+ * 2.15.6 Qualities of best drug and physician
+ * 2.16 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Threefold method of learning Ayurveda
+ * 4.2 Six basic principles
+ * 4.3 Definition of Ayurveda
+ * 4.3.1 Definition of Ayu and its synonyms
+ * 4.3.2 Indriya (sense organs)
+ * 4.3.3 Synonyms of Ayu (life)
+ * 4.4 Samanya Vishesha Theory
+ * 4.4.1 Contemporary view
+ * 4.5 Basic elements
+ * 4.5.1 Guna and karma
+ * 4.5.2 Samavaya (Inseparable concomitance)
+ * 4.6 Mahabhuta and dosha
+ * 4.7 Rasa (taste sensations)
+ * 4.8 Four objectives of life
+ * 4.9 Classification of drugs
+ * 4.9.1 Dosha prashamana (pacification)
+ * 4.9.2 Dhatu pradushana (vitiating dhatu)
+ * 4.9.3 Swasthavritta hita (maintaining health)
+ * 4.9.4 Use of herbal medicines
+ * 4.9.5 Use of minerals
+ * 4.9.6 Classification of plant origin drugs
+ * 4.9.7 Mahasneha
+ * 4.9.8 Salts
+ * 4.9.9 Animal urine
+ * 4.9.10 Milk
+ * 4.9.11 Plants for purification therapy
+ * 4.10 Local sources of identification of plants
+ * 4.11 Importance of complete knowledge of medicines
+ * 4.12 Quality assurance in healthcare
+ * 4.13 Kaarya Kaarana Siddhanta
+ * 5 More reading for vidhi vimarsha
+ * 6 References
+
+## Introduction
+
+The Charak Samhita begins with a chapter detailing the means to attaining a long, healthy and happy life, explaining certain basic tenets of Ayurveda and the consequent foundational concepts necessary to build a body of knowledge. This chapter provides a description of the origin, definition, and scope of Ayurveda. It further deliberates on the critical concepts of Ayu (or the life-span of a human being) and its qualitative dimensions, and arogya (or health) as a means of achieving the four fundamental instincts (virtue, wealth, gratification and emancipation) of life on this earth. 
+
+In Ayurveda, the process of scientific inquiry and creation of knowledge involves the community of people or societies at large (loka). Within the community, it is believed that scientific knowledge is created by the interchange of information between patients, practitioners and researchers through various modes of interaction. The knowledge created in this process is theorized, supported with applicable evidence and logic, and then documented systematically in the scientific scriptures (shaastra). This explains the mode of Ayurvedic knowledge creation (which corresponds with the current method of scientific inquiry and knowledge creation). Once documented, the “higher levels” of scientific knowledge – or inferences - of the shaastra are delivered again to the loka for public use. Thus, knowledge creation is a dynamic, iterative process involving the loka and the shaastra. When this dynamic interaction stops, knowledge becomes static and is dropped back in the history and the search for new alternative knowledge continues. 
+
+The process of origin/emergence of Ayurveda (ayurvedavatarana) as described in this chapter should be viewed from this perspective, symbolic of this iterative process of creation of knowledge. It touches upon certain basic tenets of Ayurveda such as the four dimensional concept of ayu or life and its qualitative categorization into sukhayu (happy life), duhkhayu (unhappy life), hitayu (positive life in harmony with self and the surroundings), and ahitayu(negative life, with negative state of mind and in disharmony with the surroundings), reflecting on the individual as well as the social aspects of one’s life. The chapter also deals with the doctrine of samanya (similar) and vishesha (dissimilar), dravya samgraha (knowledge of physical material), attributes of physical and mental dosha, the basic causes of ill-health, the origin of rasa (taste) and its significance, the attributes of six tastes, the nature of the material world, and the whole range of ayurvedic materia medica. Overall, as one can expect from the very first chapter of any treatise, this chapter gives guidelines about important fundamental concepts of Ayurveda that are necessary to understand the whole text. 
+
+It is very important for a physician to have the full knowledge of materials used in formulating _Ayurvedic_ drugs. For this purpose, the chapter provides a detailed taxonomy of groups of medications (or recipes), including properties and actions of each ingredient within a group. To zero in from the generic to the specific, the entire “universe” of ingredients are classified into three groups: those that are useful for maintaining good health, those that are useful for treating disorders, and finally, those that are harmful to health. The first two categories, i.e., ingredients useful for health and for treating the diseases have been described by further dividing them into various ways with categorization by three general sources viz. animal-based, plant-based, and earth/mineral-based. Plant-based ingredients are further sub-classified according to their parts used viz. fruits, roots, latex and bark, with relevant examples that are further subdivided according to their applicability in therapeutics e.g. useful for vamana (therapeutic emesis), virechana (therapeutic purgation) or basti (therapeutic enema). The specific actions of the individual ingredients of such groups which may not find place in later chapters have been described herein e.g. five types of salts and eight types of urine. 
+
+The chapter suggests that Ayurveda beginners may take the help of local people or communities living in or around forests and herders in identifying herbs. Charak denounces quackery or ayurvedic practitioners with little or limited knowledge of plants and considers that the best physician is the one who has full knowledge of ayurvedic drugs, their pharmacology, mode of administration and their use according to the condition of the patient. Exploitation of a helpless patient by a physician is considered a sin in Ayurveda. 
+
+In summary, this first chapter of Ayurveda provides, for someone aspiring to become an _Ayurvedic_ practitioner, a foundational course that teaches not only the basic tenets of Ayurveda, but also the foundational principles and practices for leading a long and healthy life. 
+
+## Sanskrit text, transliteration, and English translation
+
+Now we shall expound the chapter "Deerghanjiviteeya" (longevity). Thus said Lord Atreya[[1]]. [1-2] 
+
+**Note:** The whole Charak Samhita is documented as the conversation between preceptor Aterya and his disciple Agnivesha. It is a part of knowledge transfer through oral tradition from Guru to his Shishya. Hence the first two introductory verses of each chapter are about the name of chapter told by Atreya to Agnivesha. 
+
+### Origin of Ayurveda
+
+#### Hierarchy of transfer of knowledge of Ayurveda
+
+Bharadwaja [[2]], a great scholar, went to the King of Gods and the saviour Indra[[3]], in quest of longevity. [3] 
+
+Ayurveda in its entirety as recited by Brahma[[4]] was received by Prajapati [[5]] at first. Then the Ashwins (received) the knowledge. From Ashwins, lord Indra received it fully. That is why Bharadwaja, as beseeched by the sages, came to Indra.[4-5] 
+
+#### Problem of health and conference for its solution
+
+When diseases started blighting life, creating impediments in penance(tapa), abstinence (upavasa), study(adhyayana), celibacy (bramhacharya), religious observance (vrata) and life span (ayusha) of mankind, the holy sages, out of their compassion for creatures, assembled at an auspicious place near the Himalayas. [6-7] 
+
+#### List of scholars participated in the conference
+
+Among them were Angira[6], Jamadagni [7], Vashishtha [8], Kashyapa [9], Bhrigu [10], Atreya [11], [Gautam], Samkhya [12], Pulastya [13], Narada [14], Asita [15], Agastya [16], Vamadeva [17], Markandeya[[18]], Ashvalayana, Parikshi, Bhikshu Atreya, [Bharadwaja], Kapinjala, Vishwamitra[[19]], Ashmarathya, Bhargava[[20]], Chyavana[[21]], Abhijit Gargya[[22]], Shandilya[[23]], Kaundinya (lya), Varkshi, Devala[[24]], Galava, Sankrutya, Baijavapi, Kushika, Badarayana[[25]], Badisha, Sharaloma, Kapya, Katyayana[[26]], Kankayana, Kaikasheya, Dhaumya, Maricha, Kashyapa, Sharkaraksha, Hiranyaksha, Lokaksha, Paingi, Shaunaka[[27]], Shakunteya, Maitreya, and Maimatayani, along with the sages of _Vaikhanasa_[[28]] and _Valakhilya_ orders and other great sages. They all, sources of spiritual knowledge, (self control) and restraint of mind, illumined with brilliance of penance like fire, having oblations took their seats comfortably and held auspicious deliberations. [11-15] 
+
+#### Four objectives of Life
+
+Health is the best source of virtue, wealth, gratification and emancipation; while diseases are destroyers of this (source), welfare and life itself. Now this (disease) has appeared as a great obstacle for human beings and what could be the means for their amelioration. Saying this, they concentrated on finding the solution. Then in that state of meditation they realized Indra as savior. That only the King of the Gods will be able to tell the correct means of amelioration (of disease).[15-17] 
+
+#### Knowledge transfer from Indra to Bharadwaja
+
+Who should go to the abode of Indra to inquire about the correct means of amelioration of disease? On this, volunteered Bharadwaja, “I may be deputed for this work” and so he was deputed by the sages. Having gone to Indra’s abode, he saw Indra- the slayer of _Bala_ (a demon), sitting in the midst of the groups of godly sages and glittering like fire. He approached him with felicitating words of praises and blessings and the intelligent one submitted to him the message of the sages humbly and in the best possible way- “Diseases causing fear in all living beings have appeared so, O Lord of the Gods! Tell me the proper measure for their amelioration!”. Then Lord Indra, having sensed the wide intelligence of the great sage, delivered to him Ayurveda in a few words. [18-23] 
+
+#### Three principles for knowledge of Health and Disease
+
+Ayurveda provides the knowledge of Hetu (etiology), Linga (symptomatology) and Aushadha (therapeutics), best ways for both the healthy and the sick this tri-aphorismic, continuing for the time immemorial and virtuous knowledge which was known to Brahma first. [24] 
+
+He (Bharadwaja), the intelligent and focused sage, acquired the endless and three-pronged Ayurveda properly and entirely in a short time. With this, Bharadwaja attained immeasurably blissful long-life. Thereafter, he transmitted that knowledge as it is neither more or less to the sages.[25-26] 
+
+#### Six Basic Principles of Knowledge
+
+The sages, desirous of long life, also received that benevolent veda (compendium of knowledge) of enhancing life from Bharadwaja. The great sages further grasped properly the knowledge of samanya (similarity), vishesha (dissimilarity), guna (properties), dravya (substances), karma (action) and samvaya (inherence) by which they followed the tenets of the compendium and attained highest well-being and non-perishable life span. [27-29] 
+
+#### Six disciples of Punarvasu Atreya
+
+Now, Punarvasu (Lord Atreya), the friend of humanity, out of his benevolence, bestowed the virtuous Ayurveda upon his six disciples. (The disciples) Agnivesha, Bhela, Jatukarna, Parashara, Harita and Ksharapani received the word of instruction from the sage Punarvasu. [30-31] 
+
+#### Inception of Agnivesha Tantra
+
+It was only the extraordinary merit and not the instructions of the sage that made Agnivesha the author of the first compendium. Subsequently, Bhela etc. also authored their own compendiums and all of them, the intelligent ones, presented their work before Atreya. The sages, on hearing the composition of the various branches of Ayurveda, were extremely pleased and approved it unanimously as a well-composed body of work. All praised the sages, the benefactors of all creatures, for their compassion towards fellow beings. These emphatic, wise words of the sages were heard by the deities and gods in heaven, who became extremely pleased. Their collective appreciation, in the form of a unanimous “well done!” resonated throughout the Three Worlds. Pleasant winds began to blow, there was luster all around, and there were divine showers of buddhi(Intellect), siddhi(success), smriti (memory), medha (grasping power of intellect to learn sciences), dhriti (restraint), kirti (fame), kshama (forbearance) and daya (kindness) on those sages (Agnivesha, etc). Thus, compendiums approved by the great sages were established on (strong) footing for the welfare of the living. [32-40] 
+
+### Definition and Scope of Ayurveda
+
+Ayurveda is that which deals with good, bad, blissful and sorrowful life, and with what is wholesome and unwholesome for it, longevity, and about what Ayu (life) is in itself. [41] 
+
+#### Definition of Ayu (life) and its synonyms
+
+Ayu (life) implies the conjunction of physical body, senses, mind and soul and is known by the synonym dhari (that which preserves vitality), jivita (that which is live), nityaga (that which is in continuum), and anubandha (that which is interdependent, or a link between past life and the future life). [42] 
+
+#### Superiority of Ayurveda (over other Veda)
+
+_Vedic_ scholars regard Ayurveda as the most exalted of veda, and that which is said to be good for both the worlds for the human beings – the present and the after-life. [43] 
+
+### Samanya Vishesha Theory (similarity and dissimilarity)
+
+The principle samanya causes increase and the principle vishesha causes decrease of all the existing elements at all times, both these effects are produced by their application in the body.[44] 
+
+Samanya (is the principle which ) enables to understand similarity (between objects), and vishesha (is the principle which) enables to understand distinction(between objects). Again similarity proposes similar purpose (or action) while dissimilarity has opposite one.[45] 
+
+### The Tripods of Living World and subject of Ayurveda
+
+Mind, soul and body- these three are like a tripod. By their conjunction, existence of the living world is sustained. It is the substratum for everything which presently exists. This conjugation is termed as Purusha (holistic human being) and Chetana (sentient). It is the adhikarana (topic of discourse) for Ayurveda. Knowledge of Ayurveda is promulgated for the sake of this conjugation only. [46-47] 
+
+### Dravya, Guna and Karma
+
+#### Sentient and Insentient dravya (elements)
+
+Panchamahabhuta (the five fundamental elements, akasha, vayu, tejas, aap and prithvi), atma(soul), manas(mind), kala(time) and dik (orientation in space) are collectively called dravya (elements). Dravya, when supplemented with sense organs, form the sentient being, while without them would be insentient. [48] 
+
+#### Guna (basic properties/ qualities) and Karma (actions)
+
+Sense objects shabda, sparsha, rupa, rasa, gandha (sound, touch, sight, taste and smell respectively), properties beginning with guru (twenty properties like guru, laghu, etc), buddhi (intelligence) and ending with prayatna (effort),properties beginning with "para" are called guna. The movement initiated by (the attribute of atma) prayatna (effort) is called karma (action).[49] 
+
+#### Inseparable concomitance of element and properties
+
+Samavaya (inseparable concomitance) is the inseparable relationship of dravya with their guna (properties). This is eternal because whenever a dravya exists, it is not devoid of guna. [50] 
+
+#### Definition of Dravya
+
+Dravya (element including drugs) is the substratum for karma (actions) and guna (properties) and that which is the intrinsic or material cause of its effect (_samavayi_ karana). [51] 
+
+#### Definition of Guna
+
+Guna (property) is related with samavaya (inseparable concomitance to dravya), is devoid of action and is , i.e., non-inherent cause of its effect(_asamavayi_). [51] 
+
+#### Karma (action)
+
+The causative factor in conjunction and disjunction is located in dravya and performance of the activities to be done (as intended by the doer) is karma (action). Karma does not depend on any other factor (to produce the activities). [52] 
+
+### Principles of equilibrium and dis-equilibrium
+
+#### The Objective of this Compendium
+
+Thus has been described the cause. Now the effect dhatu samya is discussed here, because the objective of this compendium is achievement of dhatu samya (equilibrium of sustaining and nourishing factors i.e. body constituents). [53] 
+
+#### Three Types of Causes of Diseases
+
+Erroneous use, avoidance and excessive use of time factor, intellect and sense objects is the threefold cause of both psychic and somatic disorders. [54] 
+
+#### Two Sites of Pleasure and Disease
+
+Both body and mind are the locations of disorders as well as pleasures. The balanced use (of the factors mentioned in previous verse) is the cause of pleasures. [55] 
+
+### The Nature of Atma
+
+The soul is free from all diseases and supreme. It is the cause of consciousness when in conjunction with the mind, objects of senses (bhuta guna) and sense organs. It is eternal and the observer who witness of all (psychic and somatic) activities. [56] 
+
+### Dosha
+
+#### Three Sharira dosha and two Manas dosha
+
+Vayu, pitta and kapha are described as bodily dosha, rajas and tamas are the mental ones. [57] 
+
+#### Treatment of these dosha
+
+The former ones (sharira dosha) are pacified by remedial measures of divine and rational qualities while the latter ones (manas dosha) can be treated with knowledge of self (jnana), scientific knowledge (vijnana), restraint/temperance (dhairya), memory (smriti) and salvation/concentration (samadhi). [58] 
+
+#### Properties of dosha
+
+Vayu is dry, cold, light, subtle, mobile, non-slimy and rough in its characteristics and can be pacified by drugs that have opposite properties (i.e., creamy or oily, heavy and thick in their property). 
+
+Pitta is mildly unctuous, hot, sharp, viscous, sour, mobile and pungent, and can readily be pacified by drugs and food articles having opposite properties. 
+
+Kapha is heavy and dense, cold, soft, unctuous, sweet, immobile and slimy, and can be subsided by drugs and food articles possessing opposite properties. [59-61] 
+
+### Fundamental principle of disease management and prognosis
+
+Curable disorders can be treated using drugs having opposite properties and administered with due consideration to place or location, dosage and time. Treatment of incurable diseases is not advised (in Ayurveda). Now described, in detail, are the properties and actions of drugs. [62-63] 
+
+### Concept and applications of rasa(taste sensations)
+
+#### Origin of rasa (taste sensations)
+
+Rasa (taste) is the object of gustatory sense organ or tongue . Source elements for its manifestation are jala mahabhuta and prithvi mahabhuta. The variation in taste are caused due to other three mahabhuta like akasha, vayu and agni. [64] 
+
+#### Six rasa
+
+Sweet, sour, salty, pungent, bitter and astringent – this is the group of six rasa (tastes). [65] 
+
+#### Effect of rasa on dosha
+
+(Among these tastes) sweet, sour and salty overcome vayu, astringent, sweet and bitter subdue pitta and astringent, pungent and bitter win over kapha. [66] 
+
+### Classification of dravya based on their biological effects
+
+Drug is of three types- (based on prabhava) (1) some (drugs) are pacifiers of dosha, (2) some vitiate dhatu and (3) some are taken as (responsible for) maintaining normal health. [67] 
+
+### Classification of matter according to Source
+
+According to the source of origin, the drugs are of three types viz. animal origin, plant origin and earth origin.[68] 
+
+#### 1\. Animal origin drugs

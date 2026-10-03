@@ -1,0 +1,247 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Agnivesha’s questions on the human anatomy
+ * 2.2 Six layers of skin
+ * 2.3 Subdivisions of body
+ * 2.4 Number of bones
+ * 2.5 Five _indriyadhishthana_ , five _buddhindriya_ and five _karmendriya_
+ * 2.6 Seat of _chetana_ (consciousness)
+ * 2.7 Ten vital seats
+ * 2.8 _Koshthanga_
+ * 2.9 _Pratyanga varnana_
+ * 2.10 External orifice of the body
+ * 2.11 _Pratyaksha sharira_
+ * 2.12 Rationally computable _shira, dhamani, snayu,_ etc.
+ * 2.13 _Anjali pramana_ (quantum of _rasadi dhatu_)
+ * 2.14 _Panchamahabhautic_ (basic elemental) consideration of the body constituents
+ * 2.15 Innumerability of the organic constituents of the body
+ * 2.16 Importance of the knowledge of the organs and structures of the body
+ * 2.17 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Special significance of skin in Ayurveda
+ * 4.2 _Asthi sharira_(description of bones)
+ * 4.3 Number of bones in modern anatomy
+ * 4.3.1 Major difference between Charaka and Sushruta on the topic of bones
+ * 4.4 Indriya
+ * 4.5 _Koshthanga_
+ * 5 References
+
+## Introduction
+
+The Sharira Sthana is a seminal section within Charaka Samhita, with topics ranging from the origin of human beings to embryology, physiology, obstetrics, and neonatology, before delving into a study of the human anatomy. Sankhya Sharira comprises of a description of _sharira_ (human body) on the basis of _dhatubheda_ (different body constituents), the number and measurements of organs and constituting structures. The chapter begins with a description of skin (_twak sharira_), as the identification of a body starts with the skin. When a patient approaches a physician, his skin is the first organ that gets examined for visible signs of disease. The description on skin is followed by a description of the six sections of the body, or _shadanga sharira_ or six body components, (two upper limbs, two lower limbs, head and the neck, and the torso). Following _shadanga sharira_ is _asthi sharira_ , or osteology. In the modern system of anatomical schooling, osteology is always considered as the opening chapter of anatomy. _Asthi sharira_ is followed by _indriya sharira_ , which includes _panchendriya adhishthana, panchabuddhindriya_ and _panchakarmendriya_ , or the basics of neurology and myology. This is followed by _chetanadhishthana_ and _dashavidha pranayatanas_ , dealing with expressions of life including action and reaction. This is followed by a description of _koshthanga_ (viscera). This chapter is analogous to the study of splanchnology in modern texts like, for example, Gray's Anatomy. Following _koshthanga_ is the study on _pratyangas,_ or specific body regions. After _pratyangas_ is the description on nine major openings. This marks the end of body parts or organs that can be counted. The next part of the chapter deals with ligaments, musculature, etc. (_shira, dhamani, snayu_ etc). Subsequently, _anjali pramana_ of body fluids is described. _Anjali pramana_ is followed by _paramanubhediya sharira_ , which shows the understanding of microscopic anatomy in ancient times. The chapter ends with a urge to physicians and lay people to study Sankhya Sharira and gain valuable knowledge in their quest to achieving ultimate salvation. 
+
+Though the title of the chapter literally means a numerical study of the body, it is not just about counting organs and structures, as is evident from the description of the various sections presented here. Charaka has logically divided the chapter into a section on “countable” constituents of the human anatomy, followed by a section that cannot be counted, or in some cases, even be seen with the naked eye (_paramanubheda_ , or cellular level). 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Sharira Sankhya Sharira" (Numerological account of human body constituents). Thus said Lord Atreya. [1-2] 
+
+### Agnivesha’s questions on the human anatomy
+
+Agnivesha asked a question to Lord Atreya, for the sake of gaining knowledge on the human body’s organisation into divisions, subdivisions, structures and organs, so that one can understand the number and magnitude of the organs and structures. [3] 
+
+### Six layers of skin
+
+Lord Atreya replied, “Agnivesha! As you have asked, I am clearly describing the details of the whole body. You may want to focus on these. To start with, there are six layers of skin, i.e. 
+
+ * _Udakadhara_ , the outermost layer, this specially holds water.
+ * Second is _asragdhara_ , which holds blood.
+ * Third is seat of _sidhma_ (fungal infection like ptyriasis versicolor) and _kilas_ (vitiligo), a type of _kushtha_ (skin diseases)
+ * Fourth is that from which _dadru_ (ring worm infestation) and _kushtha_ originate.
+ * Fifth is that in which _alaji_ (dermoid cyst) and _vidradhi_(abscess) are formed, and
+ * Sixth is that which causes severe pain when it is cut, and the person feels like he is sinking in dark. Ulcers are caused in this layer and red-and-black colored boils with hard roots are caused at the unions of the structures (connective tissues), which are very difficult to treat.
+
+These six layers of skin cover up the underlying _shadanga sharira_ (body of six divisions). [4] 
+
+### Subdivisions of body
+
+The body can be divided into six divisions (_shadanga sharira_), i.e., two upper limbs (_bahu_), two lower limbs (_sakthi_), head and the neck (_shira_ and _griva_), and the torso (_antaradhi_). [5] 
+
+### Number of bones
+
+Including teeth, teeth sockets and the nails, the human bones are 360 in number. A breakdown of this number is as follows: 
+
+ * Teeth (_danta_) are 32, teeth sockets (_danta udukhal_) are 32
+ * Nails (_nakha_) are 20
+ * Bones of fingers (_angulyasthi_) in upper and lower limb are 60
+ * Metacarpals and metatarsals (_shalakasthi_) are 20
+ * Distal carpal and distal tarsals (_shalakashraya_) are 4
+ * Calcaneus (_parshni_) are 2
+ * Ankle bones/talus and navicular (_gulphasthi_) are 4
+ * Proximal carpal bones (_manikasthi_) in the hands are 2
+ * Forearm bones (_aratni_) are 4
+ * Leg bones (_janghasthi_) are 4
+ * Knee bones (_janvasthi_) are 2
+ * Patella (_janukapal_) are 2
+ * Femur (_urunalaka_) are 2
+ * Humerus (_bahunalaka_) are 2
+ * Clavicle (_ansasthi_) are 2
+ * Scapula (_ansaphalakasthi_) are 2
+ * Clavicular articular disc (_akshakasthi_) are 2
+ * Xiphisternum (_jatru_) is 1
+ * Palatines (_talvasthi_) are 2
+ * Ilium (_shroniphalaka_) are 2
+ * Pubis (_bhagasthi_) is 1
+ * Bones of the back (_prashthagata asthi_) are 45
+ * Bones of the neck (_grivagat asthi_) are 15
+ * Bones of the chest (_uroasthi_) are 14
+ * Both sides ribs (_parshuka_) are 24
+ * Both sides rib sockets (_parshukasthalaka_) are 24
+ * Both sides rib tubercles (_parshukarbuda_) are 24
+ * Mandible (_hanvasthi_) is 1
+ * Mandibular articular disc (_hanumoolabandhanasthi_) are 2
+ * Nasal (_nasikasthi_) is 1
+ * Zygomatic (_gandakutasthi_) is 1
+ * Frontal (_lalatasthi_) is 1
+ * Temporal (_shamkhasthi_) are 2 and
+ * Skull bones (_shirakapalasthi_) are 4. [6]
+
+### Five _indriyadhishthana_ , five _buddhindriya_ and five _karmendriya_
+
+Five _indriyadhishthana_ (seats of _indriya_) are skin (_twacha_), tongue (_jihva_), nose (_nasika_), eyes (_netra_) and ears (_karna_). 
+
+Five _buddhindriya_ (senses) are touch (_sparshana_), taste (_rasana_), smell (_ghrana_), vision (_darshana_) and hearing (_shrotra_). 
+
+Five _karmendriya_ (motor organs) are hands (_hasta_), feet (_pada_), anus (_payu_), penis (_upastha_) and tongue (_jihva_). [7] 
+
+### Seat of _chetana_ (consciousness)
+
+_Hridaya_ (heart) alone is the seat of _chetana_ , or consciousness. [8] 
+
+### Ten vital seats
+
+There are ten _pranayatana_ in the body, i.e. _murdha_ (head), _kantha_ (throat), _hridaya_ (heart), _nabhi_ (umbilicus), _guda_ (anus), _basti_ (urinary bladder), _ojas_ (essence of vitality), _shukra_ (semen, ovum), _shonita_ (blood), and _mamsa_ (muscle tissue). Of these, the first six are the _marmas_. [9] 
+
+**Cross-reference:** In Dashapranayataneeya Adhyaya, Shankha (the temples) are listed instead of nabhi and mamsa.[Cha.Sa.Sutra Sthana 29/3-4] 
+
+### _Koshthanga_
+
+There are fifteen _koshthangas_ , i.e. _nabhi_ (umbilicus, mesentery), _hridaya_ (heart), _kloma_ (pancreas), _yakrita_ (liver), _pleeha_ (spleen), _vrikka_ ( two kidneys), _basti_ (urinary bladder), _purishadhara_ (sigmoid colon), _amashaya_ (stomach), _pakvashaya_ (cecum), _uttaraguda_ (rectum), _adharaguda_ (anus), _kshudrantra_ (small intestine), _sthulantra_ (large intestine), and _vapavahana_ (omentum). [10] 
+
+### _Pratyanga varnana_
+
+The _shadanga sharira_ could be divided further into fifty-six _pratyangas_ (subdivisions). These include constituents or structures that were not described earlier. The fifty-six _pratyangas_ include 
+
+ * Two janghanapindaka (calf regions),
+ * Two _urupindaka_ (thigh regions),
+ * Two _sphik_ (gluteal regions),
+ * Two _vrishana_ (testicles),
+ * One _shepha_ (penis),
+ * Two _ukha_ (axillae),
+ * Two _vankshana_ (inguinal regions),
+ * Two _kukundara_ (ischial regions),
+ * One _bastishirsha_ (mons pubis),
+ * One _udara_ (abdomen),
+ * Two _stana_ (breasts),
+ * Two _sleshmabhuvou_ (thoracobrachial regions),
+ * Two _bahupindaka_ (forearms),
+ * One _chibuka_ (chin),
+ * Two _oshtha_ (lips),
+ * Two _srakkani_ (margins of lips),
+ * Two _dantaveshtaka_ (gums),
+ * One _talu_ (palate),
+ * One _galashundika_ (uvula),
+ * Two _upajihvika_ (Tonsils),
+ * One _gojihvika_ (glottis),
+ * Two _ganda_ (cheek regions),
+ * Two _karnashashkuli_ (auricles of ear),
+ * Two _karnaputraka_ (tregus),
+ * Two _akshikuta_ (orbits),
+ * Four _akshivartma_ (eye lids),
+ * Two _akshikaninika_ (pupils),
+ * Two _bhruva_ (eye brows),
+ * One _avatu_ (_nucha_),
+ * Four _panipadahridaya_ (two palmar heart and two plantar hearts). [11]
+
+### External orifice of the body
+
+There are nine major orifices or openings in the body, seven of which are located in the head region (two ocular, two nasal, two auditory and one oral) and two in the lower part of the body (one anal and one urethral).[12] 
+
+### _Pratyaksha sharira_
+
+As apparent (from skin to palm of the hands and soles of the feet), this is the only demonstrable topographical anatomy (_pratyaksha sharira_) which can be visualized by the normal eyes, and counted with certainty.[13] 
+
+### Rationally computable _shira, dhamani, snayu,_ etc.
+
+Starting this verse, the given anatomical descriptions will only be based on logic and reasoning, as the fixity of the count of the “rationally computable” constituents of the body is not possible. These include tissues like ligaments, muscles, veins and arteries. For example, the estimated count of _snayu_ (ligaments) in this text has been put at 900, _shira_ (veins) at 700, _dhamani_ (arteries) at 200, _peshi_ (muscles) at 400, _marmas_ (vital parts) at 107, _sandhi_ (joints) at 200, _shira dhamani anuroopmukh_ (capillaries) at 29,956 and the same count (29,956) has been put for the number of _kesh_ (hair), _smashru_ (beard) and _loma_ (body hair). Thus, an attempt has been made to enumerate all visible structures within the body - from the skin to the limbs down to all the “rationally computable” (_anumangamya_) structures. As described, these two types (_drashya_ and _tarkamat_) of numbers do not change in status until an anomaly occurs.[14] 
+
+### _Anjali pramana_ (quantum of _rasadi dhatu_)
+
+Now we will describe the _anjali pramana_ (literally, measurable by joining both palms. The quantity in it is _anjali_ of one’s hand) by which bodily constituents or _rasadidhatu_, could be quantified in our body. The quantity of _dhatus_ given here are the maximum quantity of respective constituents in the body and it may increase or decrease. Their variability could be measured logically. Water within a body is equal to ten _anjalis_ of the person. The elimination of water in feces and sweat is (because of) excess quantity of water. Similarly, water is present in a specific proportion in urine, blood and other _dhatus_ in the body. _Jala_ within the whole body is stored in the external layer of the _twacha_ (_udakadhara_). Water designated as _lasika_ , in the condition of a wound in the skin, is excreted through the hair pockets (sweat glands) as _sweda_ (sweat). The quantum of water is equal to ten _anjalis_. After the digestion of food, _rasa_ (or _rasa dhatu_) is equal to nine _anjalis_ , _rakta_ (blood) is eight _anjalis_ , seven _anjalis_ is _purisha_ (feces), six _anjalis_ is _shleshma_ , five _anjalis_ is _pitta_ , four _anjalis_ is _mutra_ , three _anjalis_ is _vasa_ , two _anjalis_ is _meda_ , one _anjali_ is _majja_ , half _anjali_ is _mastishka_ , half _anjali_ is _shukra_ and half _anjali_ is _slaeshmicojas_. This concludes the measurement of body constituents. [15] 
+
+### _Panchamahabhautic_ (basic elemental) consideration of the body constituents
+
+Specific expressions, structures, and organs of the body could be attributed to specific fundamental elements (_mahabhutas_) that they are made up of and, thus, display the properties of those elements. This verse lists them thus: 
+
+ * _Bhavas_ (expressions) of the body, specifically, _sthula_ (solid), _sthira_ (fixed), _moortimana_ (visible), _guru_ (heavy), _khara_ (rough) and _kathina_ (hard) are _parthiva_ (_prithvi tattva pradhan_ , or _prithvi_ predominant properties), and are the qualities of _nakha_ (nails), _asthi_ (bones), _danta_ (teeth), _mamsa_ (muscle), _charma_ (skin), _varchas_ (feces), _kesha_ (hair), _smashru_ (beard), _loma_ (body hair), _kandara_ (tendons). All _gandha_ (smells, olfactory senses) are _parthiva_ (_prithvi guna pradhan_ , i.e., of the qualities of _prithvi_).
+ * _Dravyas_ , especially _drava_ (liquid), _sara_ (slight movable), _manda_ (slow), _snigdha_ (unctuous), _mridu_ (soft), and _pichchhil_ (viscous), are all _apya bhava_ (_jala tattva pradhan_ , or _jala_ predominant properties), and are the properties of bodily constituents such as _rasa_ (plasma), _rakta_ (blood), _vasa_ (muscle fat), _kapha, pitta, mutra_ (urine) and _sweda_ (sweat). Taste (_rasa_) and all gustatory senses are _apya_ (_jala guna pradhan_ , i.e., are predominantly of the qualities of _jala_).
+ * Those which are in the form of _pitta_ , and possess properties such as _ushma_ (hot, warm), _bha_ (shine or aura around the body), possess _rupa_ (with a visible form) and are associated with vision sense organs are _agneya_ (_agni guna pradhan_ , or predominantly of the qualities of _agni_).
+ * Functions such as _uchhwas_ (inspiration, or breathing in), _prashwas_ (expiration, or breathing out), _unmesh_ (opening of eyes), _nimesh_ (closing of eyes), _akunchan_ (flexion), _prasarana_ (extension), _gamana_ (movement), _prerana_ (expulsion), _dharana_ (retention) and all tactile senses are _vayaviya bhava_ (_vayu_ predominant expressions).
+ * Those that are _vivikta avayava_ (structures with space and openings), major and minor _srotasas_ , sound and hearing sensory organs are all _akashiya bhava_.
+ * That which is the owner of all the _bhavas_ and is the user of them, the _jeevatma_ , which is the head (_pradhana_), the soul. Including the _buddhi_ and _manas_ , these three are the systemic sources for perception of information and development of knowledge in the body.
+
+Thus, the key organizing/governing components of body have been described briefly. [16] 
+
+### Innumerability of the organic constituents of the body
+
+The structures and components of body, if differentiated at micro level (_paramanu bheda_), are innumerable (_aparisankhyeya_) because of abundance (_atibahuta_), highly subtleness (_atisukshma_), and imperceptibility(_atindriya_). The conjoining or cell combination or unification (_samyoga_) and the split or cell division (_vibhaga_) of _deha paramanu_ \- both are caused by _vayu_ and _karmaswabhava_. [17] 
+
+### Importance of the knowledge of the organs and structures of the body
+
+The body can be considered as an organization of organs and systems. The conjunction of all the organs within the body is known as _sanga_ (attachment) and their detachment is _apavarga_ (to go away). As such when the owner of the body sees himself detached from the material world and observes his own body as a detached observer, he is free from all passions, emotions and attachments with the creature comforts and the trappings of the material world, and is said to be on the path to salvation. In other words, when the cycle of _sanyoga_ and _vibhaga_ , or unification and division, comes to an end, the holder (_pradhan_) of the body naturally finds ultimate salvation. [18] 
+
+### Summary
+
+tatra shlokau- 
+
+The physician who knows the body as an organization of organs and systems, along with all their constituents, never falls into any _moha_ (attachment, lure of the body) caused due to ignorance. [19] 
+
+A truly wise person, one who knows of every aspect of the body, does not fall into the afflictions of _doshas_ caused due to ignorance. Moreover, after knowing the secrets of life and after becoming free from the trappings of _raga_ and _dvesha_ (attachment and detachment), as well as after becoming _nirdushta_ (fair, neutral, free from the qualities of _raja_ and _tama_) and _sprasharahit_ (unflappable, calm), he becomes free from the cycle of birth and death and gains ultimate lasting peace.[20] 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * The physician who knows the body as an organization of organs and systems, along with all their constituents and has knowledge of not only gross anatomy but of the cellular, sub cellular and deepest level of their function can manage diseases and prevent recurrence. This leads to a disease free status. One who knows of every aspect of the body, does not fall into the afflictions of _doshas_ caused due to ignorance.
+ * The knowledge of anatomy and physiology is important to understand prognosis of disease in terms its severity and probable duration of treatment. It also indicates towards the probable receptors for disease specific target oriented drug delivery system.
+ * The quantification of _dhatu_ is personified in terms of _anjali_ measurement. Therefore the standard limits of physiological fluids will vary according to _anjali_ of a person.
+ * The basic _panchabhautik_ composition of body constituents shall be considered while treating a disease.
+
+## Vidhi Vimarsha (Applied Inferences)
+
+### Special significance of skin in Ayurveda
+
+The skin is the biggest organ of the body and makes the integumentary system, comprising of hair, nails etc. It constitutes 16% of body weight. It is a combined product of ectoderm as well as of mesoderm. Akin to the nervous system, epidermis is developed from the ectoderm, whereas dermis is derived from the mesoderm. The skin, from the standpoint of Ayurveda, is the _upadhatu_ of _mamsa dhatu_ , which may be because of their common germinal base. The muscles and dermis - both are organs of mesoblastic origin. Dermis is a well vascularized structure and is a very active organ. Epidermis has no blood vessels and only its basal layers get nourishment from the source of dermis next to it. The skin is also called _mamsavaha srotas_ [Cha.Sa.Vimana Sthana 5/7] since the skin synthesises[1] Vitamin D, a basic source for calcium. Calcium is assimilated and absorbed from the gut with the help of vitamin D. The physiology of action in the muscle is totally calcium dependent. This is why _twak_ is considered to be the _mula_ (root) of _mamsavaha srotas_[2]. 
+
+The skin is made up of three basic layers: 
+
+ * Epidermal layer
+ * Dermal layer, and
+ * Hypodermal layer
+
+The epidermal layer, also called epidermis, is the outermost layer and is derived from the ectoderm. This provides an overcoat type of an arrangement to the body, so that the internal organs of the body are physically protected. There are two types of skin cells – keratinized (or those that synthesize keratin, a structural protein that is core to the protective properties of skin) and non-keratinized. The epidermis is made up of various layers of keratinized cells, as are nails, hair and wool. From the level of its base (inner side) to the outermost surface the epidermis consists of the following layers: 
+
+ * Stratum Basale
+ * Stratum Spinosum
+ * Stratum Granulosum
+ * Stratum Lucidum
+ * Stratum Corneum
+
+The development of skin (_twacha_) and its anatomy is described. [Su.Sa. Sharira Sthana 4/3-4][3] _Twacha_ (skin) develops during the formation of the human body, in a similar chronological order, just the way a membrane of cream develops over warm milk. He theorized a seven-layer structure of the skin consisting of: 
+
+ * _Avabhasini_ ,
+ * _Lohita_ ,
+ * _Sweta_ ,
+ * _Tamra_ ,
+ * _Vedini_ ,
+ * _Rohini_ , and
+ * _Mansadhara twacha_ 3
+
+These layers of _twacha_ are analogous with the layers of epidermis, dermis and hypodermis. 
+
+There are several dissimilarities in the view points of two texts of Charaka Samhita and _Sushruta samhita_. Per Charaka, there are six layers in _twacha_ whereas seven layers per Sushruta. On the basis of clinical features, the last layer in Charaka’s structural model of the skin is _vedini_ whereas _vedini_ is the fifth layer in Sushruta’s model. Next, Charaka did not present any developmental theory on _twacha_ whereas Sushruta wrote the _Santanaka Siddhanta_ on this account. Finally, the basis of nomenclatures presented in Charaka’s and Sushruta’s models are also different. Charaka’s model has more clinical aspects while Sushruta’s model has more anatomical and physical aspects considered. The below table is a high-level comparison of the Charaka and the Sushruta models of Skin. 
+
+Correlating Charaka’s layers with the modern scientific names for the various layers of skin, we come up with the following mapping: • The first layer, udakadhara twacha could be the same as stratum corneum. • The second layer, Asrugdhara twacha could be the same as stratum lucidum, • The third layer, Tritiya twacha could be the same as stratum granulosum, • The fourth layer, Chaturthi twacha could be stratum germinosum (combination of spinosum and basale layers), • The fifth layer, Panchami twacha could be the Papillary layer, and • The sixth layer, Shashthi twacha could be the Reticular layer. 
+
+Alternative views on this topic could be researched further, since the papillary and reticular layers are the part of dermis and anatomically represent a single organic entity therefore the fifth and sixth layers of Charaka’s _twacha_ model may correlate with the dermis layer together. The same goes with Sushruta’s _vedini_ and _rohini_ layers (excluding Sushruta’s seventh layer from our analysis). 

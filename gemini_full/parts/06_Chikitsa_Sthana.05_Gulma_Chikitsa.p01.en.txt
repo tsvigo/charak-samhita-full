@@ -1,0 +1,326 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Management of _Gulma_ (abdominal lumps)
+ * 2.2 Etio-pathogenesis of _gulma_
+ * 2.3 General Pathogenesis of _gulma_
+ * 2.4 Cardinal Signs of _Gulma_
+ * 2.5 Five sites of _gulma_
+ * 2.6 Causative factors of _vata_ dominant _gulma_
+ * 2.7 Symptoms of _vata gulma_
+ * 2.8 Causative factors and pathogenesis of _pitta_ dominant _gulma_
+ * 2.9 Symptoms of _pitta-gulma_
+ * 2.10 Causative factors of _kapha-gulma_ and _nichaya-gulma_
+ * 2.11 Symptoms of _kapha_ dominant _gulma_
+ * 2.12 _Dvi-doshaja gulma_
+ * 2.13 Signs and symptoms of _tri-doshaja gulma_
+ * 2.14 Causative factors of _rakta gulma_
+ * 2.15 Symptoms of _rakta gulma_
+ * 2.16 Treatment of _vata-gulma_
+ * 2.17 _Snehana_ for _vata-gulma_
+ * 2.18 Benefit of _swedana_ therapy for _vata-gulma_
+ * 2.19 Mode of Administration of _sneha_ according to sites of _vata gulma_
+ * 2.20 Repeated _basti_ in _vata gulma_
+ * 2.21 _Vamana_ in _vata gulma_
+ * 2.22 _Virechana_ in _vata gulma_
+ * 2.23 Blood-letting in _vata gulma_
+ * 2.24 Treatment of _pitta_ dominant _gulma_
+ * 2.25 Blood-letting in _pitta_ dominant _gulma_
+ * 2.26 Diet after blood-letting
+ * 2.27 _Apakva gulma_ (intial non-suppurative stage)
+ * 2.28 Symptoms of suppurating (_vidahamana_) _gulma_
+ * 2.29 Symptoms of suppurated _gulma_
+ * 2.30 Management of pus discharging _gulma_
+ * 2.31 Management of _kaphaja gulma_
+ * 2.31.1 Indications of _langhana_
+ * 2.31.2 Indications of vamana
+ * 2.32 _Daha karma_ and _raktamokshana_ in _kapha gulma_
+ * 2.32.1 _Tryushanadi-ghritam_
+ * 2.33 _Parama trayushanadighritam_
+ * 2.34 _Hingusauvarchaladya ghrita_
+ * 2.35 _Hapushadya ghritam_
+ * 2.36 _Pippalyadyam ghritam_
+ * 2.37 _Peya_ (liquid gruel)
+ * 2.38 _Hingvadi churna_ and _gutika_
+ * 2.39 _Shatyadi churnam_ and _gutika_
+ * 2.40 _Nagara_ preparation
+ * 2.41 _Lashuna-kshiram_
+ * 2.42 _Taila panchakam_
+ * 2.43 _shilajatu-prayoga_
+ * 2.44 _Vatyam_ or barley preparation
+ * 2.45 _Swedana_
+ * 2.46 _Basti karma_
+ * 2.47 Medicated oils
+ * 2.48 _Nilinyadyam ghritam_
+ * 2.49 _Nilinyadyam ghritam_
+ * 2.50 _Pathya_ in _vata gulma_
+ * 2.51 Protection of _agni_
+ * 2.52 Oleation therapy
+ * 2.53 Management of _pitta gulma_
+ * 2.56 _Amalakadi ghritam_
+ * 2.57 _Drakshadi ghritam_
+ * 2.58 _Vasaghr̥itam_
+ * 2.59 Massage
+ * 2.60 _Kshira-basti_ for _pitta gulma_
+ * 2.61 _Pathya_ for _pitta gulma_
+ * 2.62 Management of _ama_ associated _gulma_
+ * 2.63 Importance of _agni_
+ * 2.64 Treatment of _kaphaja gulma_
+ * 2.64.1 _Vamana_ in _kaphaja gulma_
+ * 2.64.2 Surgical treatment of _kapha gulma_
+ * 2.65 Post-operative measures
+ * 2.66 _Dashamuli ghrita_
+ * 2.67 _Bhallatakadi ghritam_
+ * 2.69 _Mishraka sneha_
+ * 2.70 _Virechana_ in _kapha gulma_
+ * 2.71 _Danti-haritaki_
+ * 2.72 _Basti_ in _kapha gulma_
+ * 2.73 Powders and pills
+ * 2.74 _Kshara_ and _daha karma_
+ * 2.75 _Pathya_ for _kapha gulma_
+ * 2.76 Signs and symptoms of incurable _gulma_
+ * 2.77 Signs and symptoms of bad prognosis
+ * 2.78 Treatment of _rakta gulma_
+ * 2.79 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Contemporary understanding of _gulma_
+ * 4.2 Sites of _gulma_
+ * 4.2.1 Table1. Nine divisions of the abdomen, according to Ayurveda and allopathic medicine
+ * 4.3 Differential diagnosis of _gulma_
+ * 4.4 _Chikitsa sutra_ (principles of management) of _gulma_
+ * 4.4.1 Internal Medicines
+ * 4.4.2 Panchakarma
+ * 4.5 Related Chapter
+ * 4.6 Further reading
+ * 4.7 References
+
+## Introduction
+
+The word _gulma_ stands for an entity that encircles, envelops or covers something. Situations such as panic, stress, or grief, usually associated with chaotic, cataclysmic event would lead to vitiation of _vata_ causing the appearance of _vata_ -dominant diseases like _gulma_ , etc. The vitiated _vata_ , in conjunction with other _doshas_ , gets into the _mahasrotas_ and get lodged either in the _amashaya_ (stomach), _pittashaya_ (gall bladder), _pakwashaya_ (cecum) or in other regions like _hridaya_ (epigastric), _basti_ (bladder) and _nabhi_ (umblicus) leading to formation of deep-rooted shrub-like mass. As mentioned earlier, _gulma_ afflicts the gastrointestinal region between the heart and the bladder. Depending upon the region it afflicts, it can be classified into four general types common to males and females: _vata gulma_, _pitta gulma_, _kapha gulma_, and _sannipatik gulma_. 
+
+Since _gulma_ can occur as complication of _raktapitta_ (bleeding disorders) Charak describes this chapter after the _raktapitta_ chapter. _Jwara_ is the disease of _rasavah srotas_ whereas, _raktapitta_ is a disease of _raktavah srotas_ , in that sequence _gulma_ is a disease of _mansavah srotas_ and further _prameha_ is of _medavah srotas_. However, this chapter seems to be designed with greater implication and term _mahasrotasa_ has been used because manifestation of disease is in the viscera/ organs up to uterus. Even then the involvement of _vata dosha_ and _mamsa dhatu_ is predominant in final manifestation of disease _gulma_. 
+
+It should also be noted that the same pathogenesis route and treatment procedure should be kept in mind for the disease of the _mahasrotasa_ occurring without the true manifestation of growth/tumor. Hence peptic ulcer and ulcer dyspepsia should be treated like _pitta gulma_ etc. 
+
+_Gulma_ is defined as a palpable round compact lump in the abdomen. Thus, all the localized palpable masses in the abdomen are classified under _gulma_ , but they are named depending upon the dominance of _dosha_ or the place. Its four types belong to _dosha_ i.e. three of single _dosha_ and one of a combination of all the three _dosha_ and the fifth one is _rakta gulma_ which occurs only in females in uterine cavity (_garbhashayashroni_). _Sannipata Gulma_ has been given synonym as _nichaya-gulma_. 
+
+## Sanskrit text, Transliteration and English Translation
+
+### Management of _Gulma_ (abdominal lumps)
+
+Now we shall expound the chapter "Gulma Chikitsa" (Management of abdominal lumps and other diseases) . Thus said Lord Atreya. [1-2] 
+
+Punarvasu the fatherly figure for all, who has knowledge of past and future, who is the best among the exponents, describes the treatment for the complete eradication of _gulma_ [3] 
+
+### Etio-pathogenesis of _gulma_
+
+Following are the general causative factors of _gulma_ : 
+
+ * Excessive excretion of feces, _kapha_ and _pitta_ or due to pressure exerted by their excessive aggravation,
+ * Suppression of downward natural urges (like feces, flatus and urine),
+ * Physical trauma,
+ * By excessive pressure (on abdomen),
+ * By taking food articles and drinks having excessive dry property,
+ * Excessive grief,
+ * Improper implementation of Panchakarma procedures,
+ * Excessive wrongful body activities,
+
+Due to the above mentioned factors _vata_ gets aggravated in _koshtha_ i.e. thoraco-abdominal cavity [4-5] 
+
+### General Pathogenesis of _gulma_
+
+The provoked _vata_ takes out _kapha_ and _pitta_ from their sites and in turn gets blocked its own passage by them. Thus, blocked _vata_ is unable to move properly leading to pain in the regions of heart, umbilicus, both sides of abdomen and urinary bladder [6] 
+
+### Cardinal Signs of _Gulma_
+
+Formation of a palpable mass in colon, gall-bladder or stomach which may be independent or associated with other dosha is known as _gulma_. It is named according to the _dosha_ involved. [7] 
+
+### Five sites of _gulma_
+
+Five places of _gulma_ are urinary bladder (hypogastric region), umbilical region (_nabhi_), cardiac region (_hridi_) and two flanks (_parshva_). Henceforth I will explain the causes, symptoms and the treatment of these five types of _gulma_ [8] 
+
+### Causative factors of _vata_ dominant _gulma_
+
+Excessive use of dry articles of food and drinks, excessive or wrong body activities, suppression of natural urges, excessive grief, too-much diminution of feces, trauma and excessive fasting are the causes of _vata-gulma_ [9] 
+
+### Symptoms of _vata gulma_
+
+Frequent change in the site, shape and pain of the lump along with obstruction of feces and flatus, dryness in throat and mouth, dusky-red color of body, fever with chills, pain in the cardiac, umbilical, flanks and shoulder regions and headache are the sign and symptoms of _vata gulma_. The symptoms decrease on taking of food but increase on completion of digestion as well as by taking dry substances or having astringent, bitter and pungent tastes [10-11] 
+
+### Causative factors and pathogenesis of _pitta_ dominant _gulma_
+
+Taking of food articles having pungent and sour tastes and piercing, hot, irritant (_vidahi_) and dry properties; excessive wines; exposure to sun and heat; indulgence in anger, affliction by _ama_ and vitiation of _rakta_ are the causative factors of _pitta-gulma_ [12] 
+
+### Symptoms of _pitta-gulma_
+
+Fever, thirst, redness of mouth and other organs, excessive pain during digestion, sweating, burning sensation and tenderness in the lesion like that of ulcer are the signs and symptoms of _pitta-gulma_ [13] 
+
+### Causative factors of _kapha-gulma_ and _nichaya-gulma_
+
+Excessive intake of food articles having cold, heavy and unctuous properties and excessive eating, sedentary life style and day-sleep are the causative factors of _kapha-gulma_. 
+
+All the causative factors mentioned for all the above three types of _dosha gulma_ are also of _nichaya_ (_tridosha_)-_gulma_ [14] 
+
+### Symptoms of _kapha_ dominant _gulma_
+
+Feeling as covered by wet cloth, fever with chills, exhaustion of limbs, nausea, cough, anorexia, heaviness, cold and mild pain with palpable hard and protruded mass are the signs and symptoms of _kaphaja-gulma_ [15] 
+
+### _Dvi-doshaja gulma_
+
+Three types of _dvi-doshaja gulma_ (_vata-pitta, vata-kapha_ and _kapha-pitta_) are produced by the mixture of causative factors of two involved _dosha_. These _gulma_ manifest the signs and symptoms of two involved _dosha_. These varieties are mentioned here for the purpose of the treatment which can be planned on the basis of degree of provocation of each _dosha_ [16] 
+
+### Signs and symptoms of _tri-doshaja gulma_
+
+The symptoms of _tri-dosha gulma_ include agonizing pain and excessive burning sensation, elevated mass, stony hard and quick to mutilate. It is a very serious condition and leads to diminution of strength of body, mind and digestion. It is incurable [17] 
+
+### Causative factors of _rakta gulma_
+
+During _ritu-kala_ (menstruation period) if a woman does fasting or takes dry food articles or indulges in fear and suppression of natural urges; or misuses styptic (_stambhana_) drugs i.e. try to stop the menstrual bleeding; improper conduction of vomiting therapy and disorders of genital organs, all these may lead to formation of _rakta gulma_ in women [18] 
+
+### Symptoms of _rakta gulma_
+
+The lump slowly grows in the form of round mass which has pulsation as a whole but not in its part. It is associated with acute pain and signs and symptoms mimicking pregnancy. _Raktaja gulma_ occurs only in women and should be treated after the completion of ten months [19] 
+
+Now onward first the successful line of treatment shall be described for the cure of _gulma_. Thereafter, the remedies and recipes for its cure shall be described [20] 
+
+### Treatment of _vata-gulma_
+
+As _vata gulma_ is produced due to excessive dryness and exercise and is associated with severe pain and retention of feces and flatus, therefore in the beginning _snehana_ (unctuous) therapy should be prescribed [21] 
+
+### _Snehana_ for _vata-gulma_
+
+_Snehana_ is performed by administration of unctuous substances in the form of food and drink, oil massage and _anuvasanabasti_ along with _niruhabasti_. After proper _snehana_ , physician should subject the patient to _swedana_ therapy [22] 
+
+### Benefit of _swedana_ therapy for _vata-gulma_
+
+_Swedana_ therapy administered to a patient who has already undergone oil massage produces softness in the channels leading to alleviation of _vata_. Thus by breaking the obstruction and opening the channels the _vata-gulma_ is cured [23] 
+
+### Mode of Administration of _sneha_ according to sites of _vata gulma_
+
+Oral administration of unctuous substances is beneficial in _vata gulma_ particularly if it is situated above the umbilicus i.e. in stomach. _Anuvasana_ (unctuous) _basti_ is beneficial if _gulma_ is situated in colon and both oral administration of unctuous substances and unctuous _basti_ are beneficial if it is situated in the middle of _jathara_ i.e. in small intestine [24] 
+
+In _vata gulma_ if the retention of feces and flatus is present but digestion is good then unctuous, hot and nourishing (_brimhana_) diet and drinks should be given [25] 
+
+### Repeated _basti_ in _vata gulma_
+
+In _vata gulma_ repeated use of unctuous drink and alternative use of _anuvasana_ (unctuous) and _niruha_ (un-unctuous) _basti_ are advised in taking care of _kapha_ and _pitta_ [26] 
+
+During the treatment when _vata_ has almost subsided but _kapha, pitta_ or _rakta_ gets provoked, then routine treatment of these provoked _dosha_ should be done. In this condition, the treatment should be according to the predominance of _dosha_ but care should be taken to protect _vata_ in the beginning, middle and at the end of the treatment [27-28] 
+
+### _Vamana_ in _vata gulma_
+
+In _vata gulma_ if _kapha_ gets increased, it causes diminution in digestion leading to anorexia, nausea, heaviness and sleepiness; such condition should be treated with _vamana_ therapy [29] 
+
+In _vata-kapha_ dominant _gulma_ if there is acute pain, distension of abdomen and constipation then it should be treated with suppositories, pills and powders which are prepared from _vata_ and _kapha_ pacifying drugs [30] 
+
+### _Virechana_ in _vata gulma_
+
+In _vata gulma_ if increased _pitta_ causes burning sensation then _virechana_ should be done with laxative drugs mixed with unctuous substances [31] 
+
+### Blood-letting in _vata gulma_
+
+If _gulma_ does not subside even after proper treatment of _vata_ etc. mentioned above then bloodletting is advised to cure it [32] 
+
+### Treatment of _pitta_ dominant _gulma_
+
+If _pitta gulma_ is caused by indulging in unctuous and hot substances then _virechana_ is beneficial. But if it is caused by indulging in dry and hot substances then ghee is a choice of drug [33] 
+
+If _pitta_ or _pitta-gulma_ is situated in colon, the physician expert in proper and timely treatment should eliminate it by giving _kshira-basti_ mixed with bitter drugs immediately. The physician aiming to increase the digestive power should perform _virechana_ with milk mixed with bitter drugs or with _tilvaka ghrita_ [34-35] 
+
+### Blood-letting in _pitta_ dominant _gulma_
+
+The patient of _pitta-gulma_ if having thirst, fever, burning sensation, pain, perspiration, impaired digestion and anorexia is treated with bloodletting [36] 
+
+Provoked _rakta_ is responsible for inflammation (_vidaha_) which is removed by bloodletting; thus when root-cause is removed then there will be no inflammation resulting in vanishing of swelling and pain [37] 
+
+### Diet after blood-letting
+
+The patient may become weak due to elimination of vitiated blood; hence he should be nourished by the diet comprising of meat soup of wild animals and comforted. To pacify the remaining complaints, he should be prescribed the medicated ghee again [38] 
+
+In case of excessive increase of _pitta_ and _rakta_ or due to unavailability of proper treatment, if suppuration occurs then surgery should be performed by the surgeon [39] 
+
+### _Apakva gulma_ (intial non-suppurative stage)
+
+Immovable lump of _gulma_ which is deeply situated under the flesh and hard and heavy to palpate and whose color remains unchanged is considered as _apakva_ i.e. non-suppurative [40] 
+
+### Symptoms of suppurating (_vidahamana_) _gulma_
+
+The _gulma_ with symptoms of burning sensation, much pain, very much irritation and discomfort, loss of sleep and fever indicates that it is about to suppurate. In this condition _upanaha_ (poultice) is indicated. [41] 
+
+### Symptoms of suppurated _gulma_
+
+If _gulma_ protrudes pointing toward outside and skin over the lesion becomes stiff and numb and its color changes to dusky with red margins. On palpation, the lump resembles as bladder filled with water, pitting on pressure, but on pressing from side the mass becomes tense with mild pain, otherwise it feels compressed mass with acute pain; all these signs and symptoms indicate that the _gulma_ has suppurated [42-43] 
+
+The suppurated _gulma_ requires surgical intervention such as incision, cleansing and healing therefore it should be treated by a surgeon [44] 
+
+The above mentioned symptoms also occur in suppurating (_pachyamana_) internal _gulma_. Only difference is that in the internal _gulma_ there is swelling in cardiac region of the abdomen while exterior _gulma_ protrudes towards sides of abdomen [45] 
+
+### Management of pus discharging _gulma_
+
+Suppurated _gulma_ on softening of the passage discharges the pus upwards or downwards. In case of _gulma_ starts discharging at its own then the physician should wait and watch for ten or twelve days while taking care that no complication occurs [46] 
+
+Oral administration of ghee with cleansing of the discharging ulcer with _shodhana_ drugs are beneficial. After the cleansing, medicated ghee prepared with bitter drugs should be given with honey [48] 
+
+### Management of _kaphaja gulma_
+
+#### Indications of _langhana_
+
+_Kapha-gulma_ if caused by indulgence in cold, heavy and unctuous diet and in those not eligible for _vamana, langhana_ (depletion) therapy should be prescribed in the beginning. [48] 
+
+#### Indications of vamana
+
+_Vamana_ is indicated in a patient of _gulma_ who is having low digestion, anorexia, nausea and mild pain, heaviness and stiffness in abdomen [49] 
+
+After the treatment with _vamana_ and _langhana_ , the patient should be given hot (_ushna_) therapy and food mixed with pungent and bitter substances [50] 
+
+If the _gulma_ is hard and protruded accompanied with constipation and distension of abdomen then physician should give sudation locally to dissolve it [51] 
+
+After performing _langhana, vamana_ and _swedana_ therapies when digestion is improved, the patient of _kapha gulma_ should be given ghee prepared with bitter substances and _kshara_ (alkali preparation) at the proper time [52] 
+
+By the above treatments when _kapha gulma_ dislodges from its place, the patient should be given _virechana_ for purification. _Anuvasanabasti_ with oil prepared with _dashamula_ drugs can also be given for this purpose [53] 
+
+In the condition when digestion is low and dysfunction of _vata_ , after proper oleation of the affected site (_ashaya_), the drugs in the form of pills, powder or decoction are administered to the patient of _kapha gulma_ [54] 
+
+If _kapha-gulma_ has a deep root and is large in size, hard in consistency and heavy, then the patient should be treated with alkali preparation-_kshara, arishta_ and _agni karma_ (cauterization) [55] 
+
+A physician expert in assessing the degree of strength of patient as well as of _dosha_ should prescribe alkali preparation– _kshara_ to the patient of _kapha gulma_ by considering its _dosha_ and nature as well as prevailing season. The expert physician should use _kshara_ treatment on alternate day or at the interval of two or three days depending on the increase or decrease in the strength of the body and _dosha_ [56-57] 
+
+_Kapha_ is sweet and unctuous, so it is increased by indulging in the diet comprising of excessive meat, milk and ghee. Alkali preparation-_kshara_ has an action of erosion (_ksharana_) due to which it erodes the _gulma_ and tickles it down from its habitat [58] 
+
+The diminution in digestion and loss of appetite occur in a patient of _kapha gulma_ due to excessive indulgence in unctuous diet, therefore for the purification of the channels medicated fermented preparation-_arishta_ should be given provided the patient is habituated of taking alcohol [59] 
+
+### _Daha karma_ and _raktamokshana_ in _kapha gulma_
+
+If the _kapha gulma_ does not subside by _langhana, vamana, swedana,_ oral administration of medicated ghee, _virechana, basti_, pills, powder, _kshara_ and _arishta_ due to its firm root in the body, then first bloodletting should be done and then cauterization with such means as arrow head should be done [61] 
+
+The fire heat due to its hot and sharp properties relieves _kapha_ and _vata_ in _gulma_ , which in turn leads to dissolving the mass of _gulma_ [62] 
+
+Cauterization comes under the purview of the surgeon and the use of _kshara_ is the field of specialist in _kshara karma_ [63] 
+
+If the _gulma_ is due to two _dosha_ then the mix treatment of the involved two _dosha_ should be done [64] 
+
+Now the specific preparations for the cure of _gulma_ will be described [64 ½] 
+
+#### _Tryushanadi-ghritam_
+
+Ghee prepared with a paste of _trayushna_ (dry ginger, black and long pepper), _triphala_ , coriander, _vidanga, chavya_ and _chitraka_ by adding milk is known as _tryushanadighritam_. It is curative of _vata gulma_; thus described _trayushanadighritam_ [65] 
+
+### _Parama trayushanadighritam_
+
+Above mentioned paste if prepared with decoction of _brihat panchamula_ or _dashamula_ is known as _parama tryushanadighritama_. It is very much effective in curing _gulma_ ; thus described _parama tryushanadighritama_ [66] 
+
+(_shatpalam ghrita_ described for the treatment of _rajayakshma_ may also be used orally) [67] 
+
+In place of milk in above preparation of _tryushanadighritam, ghrita_ can also be prepared with _prasanna_ wine, _sura_ wine, pomegranate juice or cream of yogurt (curd). It also cures _vata gulma_ [68] 
+
+### _Hingusauvarchaladya ghrita_
+
+A _ghrita_ prepared with paste of asafoetida, rock salt, cumin, Vit-salt, pomegranate, _ajwan, pushkaramula, trikatu,_ coriander, _vetas, yavakshara, chitraka, shati, vacha, ajagandha,_ cardamom and holy basil by adding curd/yogurt is known as _hingusauvarchaladyam ghritam_. It cures _vata gulma_, acute pain and distension of abdomen due to retention of gases (_anaha_). Thus _hiṅgusauvarchaladyam ghritam_ is described [69-70] 
+
+### _Hapushadya ghritam_
+
+Ghee prepared with a paste of _hapusha, trikatu,_ cardamom, _chavya, chitraka,_ rock salt, cumin, root of long pepper and _ajwain_ along with juice of jujubes, radish and pomegranate, by adding milk and curd is known as _hapushadyam ghritam_. It is best drug to cure _vata gulma_ , abdominal pain and distension of abdomen. It also provides relief in gynecological disorders, piles, _grahani_ (assimilation disorders), dyspnea, cough, anorexia, fever and pain in hypogastric, epigastric and flanks regions of the abdomen. Thus, _hapushadyam ghritam_ is described [71-73] 
+
+### _Pippalyadyam ghritam_

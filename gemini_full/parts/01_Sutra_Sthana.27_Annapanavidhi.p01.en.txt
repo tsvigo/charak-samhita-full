@@ -1,0 +1,211 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Effect of wholesome food
+ * 2.2 Natural qualities
+ * 2.3 Classification of food articles
+ * 2.3.1 Class of corns
+ * 2.3.1.1 The qualities of _shashtika_ and _vrihi_
+ * 2.3.1.2 The qualities of _koradusha, shyamaka_ and other grains
+ * 2.3.1.3 The qualities of barley and bamboo
+ * 2.3.1.4 The properties of wheat
+ * 2.3.2 The class of pulses(di-cotyledons)
+ * 2.3.2.1 Qualities of green gram (Vigna radiata Linn. Wilczec)
+ * 2.3.2.2 Qualities of the black eye-pea (Vigna unguiculata Linn. Walp)
+ * 2.3.2.3 Qualities of the horse-gram (Dolichos biflorus Linn.)
+ * 2.3.2.4 Qualities of the moth-gram (Vigna aconitifolia (Jacq.) Marechal)
+ * 2.3.2.5 General qualities of chickpea, lentil, vetchling and common pea
+ * 2.3.2.6 Qualities of _tila_ (Sesamum indicum Linn)
+ * 2.3.2.7 Qualities of the legumes
+ * 2.3.3 Class of _mamsa_ (meat)
+ * 2.3.3.1 Qualities of meat of goat and sheep
+ * 2.3.4 Class of vegetables
+ * 2.3.5 Class of fruits
+ * 2.3.6 Class of green herbs
+ * 2.3.7 Class of wines and alcoholic preparations
+ * 2.3.8 Class of water
+ * 2.3.9 Class of milk and its varieties
+ * 2.3.9.1 Qualities of curd
+ * 2.3.9.2 Benefits of butter-milk
+ * 2.3.9.3 Benefits of butter
+ * 2.3.9.4 Benefits of ghee
+ * 2.3.9.5 Qualities of various milk products
+ * 2.3.10 Class of sugarcane and its products
+ * 2.3.10.1 Qualities of treacle (_gud_ , jaggery)
+ * 2.3.10.2 Qualities of honey
+ * 2.3.11 Class of cooked food preparations
+ * 2.3.12 Class on food articles
+ * 2.4 General considerations in qualities
+ * 2.5 Signs of bad quality (avoidable) vegetables, fruits and greens
+ * 2.6 Anupana (beverages after food)
+ * 2.6.1 General guidelines for beverages after food
+ * 2.6.2 Benefits of _anupana_ (vehicle)
+ * 2.6.3 Contra-inidcations of drinking water after meals
+ * 2.7 Qualities of creatures according to their habitat and food
+ * 2.8 Summary
+ * 3 Tattva Vimarsha(Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Role of diet in health and disease
+ * 4.2 Fourteen greens for healthy life
+ * 4.3 Six varieties of vegetables
+ * 4.4 Dietary guidelines
+ * 4.5 Common food
+ * 4.6 Harmful effects of fast food
+ * 5 References
+
+## Introduction
+
+Food is the most important source to achieve health and disease according to Ayurveda, and is even considered as a source of life as well as diseases. Wholesome diet is considered not just to be nourishing, but also to be therapeutic. It has also been given importance in other vedic texts. For instance, Maharshi Kashyapa considered food as _mahabheshaja_ (great medicine) (Ka.S.Khil-4/5-6). However, there are some differences between _ahara_ (food) and _bheshaja_ (medicine) - the former is _rasa pradhana_ (taste-centric) while the latter is _veerya pradhana_ (potency centric). 
+
+The etymological meaning of _ahara_ (food) is to collect (_ahiyate_) for the nutritional purpose of the body. _Ahara_ is a generic term that can mean _anna_ (literally, cereals, but also mean solid food) and _pana_ (beverages or anything drinkable). _Ahara_ can be classified into twelve categories and should be balanced, consisting of carbohydrates, proteins, fats, salts, water, vitamins and essential micronutrients available from _shashtika_ (rice), _shali_ paddy, _mudga_ (pulses), _ghrita_ (clarified butter), _saindhava lavana_ (rock salt), _antariksha_ (rain water), _amalaki_ (Indian gooseberry), _madhu_ (honey) and _payas_ (milk). According to Ayurveda, balanced diet besides nourishing the body, maintains the equilibrium of _doshas, dhatus_ and _malas_. There are many substances in _shaka varga_ (greens or green vegetables) that are used as diet and medicine, like _kakamachi_ (Solanum nigrum Linn.), _patha_ (Cissampelos pareira Linn.), _shatishaka_ (Hedychium spicaticum Buch-Ham), _changeri_ (Oxalis corniculata Linn.), _shakuladani_ (Picrorhiza kurroa Royle ex Benth.), _vrishapushpa_ (Adhatoda vasika Nees), _gojihva_ (Launea asplenifolia Hook.f.), _tilaparnika_ (Gynandropsis gynanndra Linn.), _prapunnada_ (Cassia tora Linn.), _triparni_ (Adiantum lunulatum Burm.), _parpatakam_ (Fumaria vaillantti Loisel) etc. 
+
+_Phala Varga_ (fruits articles); Following are not used because of non availability, _aingudam_ (Balanites aegyptiaca Linn. Delile), _bibhitakam_ (Terminalia bellerica Roxb.), _amlavetasa_ (Hippophae rhamnoides sub sp. salicifolia), _karcurah_ (Curcuma zedoaria Rosc.), _karanja_ (Pongamia pinnata Pierre) as fruits. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Annapanavidhi"(Classification and Regimen of food and beverages). Thus said Lord Atreya. [1-2] 
+
+### Effect of wholesome food
+
+The wise and the learned believe that food and beverages that possess apt colour, smell, taste and touch, taken in the right quantity, at the right time, season and location, are a source of life and vitality for all living beings. This realization came through practical observation. Wholesome food (and a healthy lifestyle) is the fuel that maintains agni(digestion and metabolism process), invigorates the mind, promotes proper distribution of body elements, vitality, complexion, and acuity of the sense-organs. Conversely, unhealthy diet and lifestyle cause vitiation or imbalances in dosha, dhatu, and rasas, thus causing diseases. [3] 
+
+### Natural qualities
+
+O Agnivesha! we shall, therefore, describe in full the science of diet and dietetics for the sake of knowledge of wholesome and unwholesome things. 
+
+By its very nature, water moistens, salt liquefies, alkali digests, honey synthesizes, ghee causes unctuousness, milk gives life, meat strengthens and has a restorative effect, soups of meat nourish. On the other hand, alcohol causes senility, _sidhu_ wine causes emaciation, grape-wine stimulates digestion, treacle causes accumulation of _doshas_ , curd causes swelling, and green _pinyaka_ causes exhaustion. 
+
+The soup of black gram increases fecal output. Alkalis are injurious to vision and semen. All substances that are acidic in taste, except pomegranate and _amla_ (embelic myrobalan) are mostly _pitta_ -promoters. All substances of sweet taste, except honey, old _shali_ rice, _shashtika_ -rice, barley and wheat are generally _kapha_ -promoters. All substances of bitter taste, except the sprouts of country willow, _guduchi_ , and the wild snake gourd are mostly _vata_ -stimulants and anaphrodisiacs. All substances with pungent taste, except long pepper and ginger, are _vata_ stimulants and aphrodisiacs. [4] 
+
+### Classification of food articles
+
+We shall now expound the different classifications of the articles of diet. 
+
+Corn, pulse, meat, vegetable, fruits, greens, wines, water, milk and its products, sugarcane and its products: these ten and two more, cooked food and adjuvant of foods. Of these, we shall now explain the taste, potency, post-digestive qualities and specific properties. [6-7] 
+
+#### Class of corns
+
+The general qualities and varieties of rice: 
+
+Red rice (_rakta shali_), big rice (_maha shali_), _kalamah_ , _shakunahritah, turnaka, dirghashuka, gaurah, panduka, langulau,_ _sugandhaka_ (basmati rice), _lohavalah, sariva, pramodakah, patanaga, tapaniya_ and other varieties of “good” rice are cold in potency, sweet in taste (after digestion), mild vata-stimulant and can lead to constipation with less faecal output. They are unctuous, nourishing, seminiferous and diuretic. [8-10] 
+
+Of these, red rice is the best. It is adipsous and is effective in treating tridosha. The next best is the big rice and the next best is the _kalamah_ and so on, in the order they are mentioned above. [11] 
+
+_Yavaka, hayana, pansu vapya_ (deep-water paddy), _naishadhaka_ and other kinds of rice are similar to the above mentioned types of rice regarding their good and bad qualities. [12] 
+
+##### The qualities of _shashtika_ and _vrihi_
+
+_Shashtika_ rice is cold in potency, unctuous, not heavy, and sweet. It pacifies the three dosha and stabilizes them. The white variety is the best type of _shashtika_ rice and the dark-white comes next in order [13] _Varaka_ (_Chinaka_ \- Panicum miliaceum Linn), _uddalaka_ (_Vanakodrava_ \- Paspalum scrobiculatum var. sommeronii Stapf.), _china_ , _sharada, ujjvala, dardura,_ the fragrant rice (_gandhana_), and _kuruvinda_ are slightly different in quality from the _shashtika_ rice. [14] 
+
+_Vrihi_ rice is sweet in taste and acidic after digestion, stimulates pitta and is heavy. The _patala_ grain causes excessive urination and defecation, enhances body heat and also increases tridosha. [15] 
+
+##### The qualities of _koradusha, shyamaka_ and other grains
+
+_Koradusha_ , or _sanwa_ millet (Paspalum scrobiculatum var. sommeronii Stapf) and _shyamaka_ or common millet (Echinochloa frumentacea Link) are astringents and sweet in taste, light, vata-stimulant kapha and pitta diminishing, and desiccants. _Hasti-shyamaka_ (Echinochloa crus galli- (Linn.) Beauv), _nivara_ (Hygroryaza aristata Nees), _toyaparni, gavedhuka_ (Coix lacryma-Jobi Linn.), _prasantika, ambhyashyamaka, lauhitya, anu,_ Italian millet (Setaria italica Linn. Beauv), _mukunda, jhinti, garmuti, varuka_ (Sarghum halepense Linn.), _varaka_ (_shyambeeja_), _shibira, utkata_ and great millet (Sorghum vulgare (Linn.) Pers.) have similar qualitites as that of _shyamaka_. [16-18] 
+
+##### The qualities of barley and bamboo
+
+Barley (Hordeum vulgare Linn.) is dry, cold in potency, not heavy, sweet in taste, increases excessively vata and feces, stabilizes, is astringent in action, promotive of strength and is effective in treating the discordance of kapha. 
+
+The bamboo is considered to be dry, astringent (_kashaya anurasa_), sweet, and is effective in treating kapha and pitta. It removes fat, worms and poison and is strengthening. [19-20] 
+
+##### The properties of wheat
+
+Wheat (Triticum aestivum Linnaeus) alleviates morbid vata, sweet, cold in potency, vitalizing, nourishing, aphrodisiac, unctuous, stabilizing and heavy. [21] 
+
+_Nandimukhi_ (crowfoot grass) and _madhuli_ (Eleusine coracana Gaerin) corn are sweet, unctuous and cold in potency. Thus, ends the first section on monocotyledons. [22] 
+
+#### The class of pulses(di-cotyledons)
+
+##### Qualities of green gram (Vigna radiata Linn. Wilczec)
+
+Now begins the section on pulses (di-cotyledons). Green-gram (_mudga_) is considered the best of pulses. It is astringent and sweet in taste, dry, cold in potency, pungent (after digestion), and light. It alleviates the vitiated kapha and pitta. [23] 
+
+The qualities of black gram (Vigna mungo Linn. Hepper syn. Phaseolus mungo): Black gram is an excellent aphrodisiac, effective in treating vata, unctuous, hot, sweet, heavy (to digest) and strength promoting. It also increases fecal volume. [24] 
+
+##### Qualities of the black eye-pea (Vigna unguiculata Linn. Walp)
+
+Black eye-pea is a relishing variant of dicotyledon that has laxative and alleviating properties against disorders of kapha shukra and acid-dyspepsia. It is sweet in taste like black gram, vata-stimulant, dry, (works as an) astringent, cleaning (action) and is heavy to digest. [25] 
+
+##### Qualities of the horse-gram (Dolichos biflorus Linn.)
+
+Horse-gram (Dolichos biflorus Linn.) is hot, astringent in taste, acidic (on digestion) and alleviates disorders of kapha shukra and vata. It is beneficial in cough, hiccup, dyspepsia and piles. [26] 
+
+##### Qualities of the moth-gram (Vigna aconitifolia (Jacq.) Marechal)
+
+The moth-gram (Vigna aconitifolia (Jacq.)) is sweet in taste and on digestion, astringent in action, with dry property and cold in potency. It is recommended in _raktapitta_ , in fevers and in similar conditions. [27] 
+
+##### General qualities of chickpea, lentil, vetchling and common pea
+
+Chick-pea (Cicer arietinum Linn), lentils (Lens culinaris Medic.), vetchling (Lathyrus sativus Linn.), and common pea (Pisum sativum sub sp. sativum, Co. ver speciosum Dierb. Alef) are light, cold in potency, sweet, astringent in taste and strongly dehydrating. [28] 
+
+They are recommended in pitta and kapha conditions and in preparation of nourishing soups and ointments. Amongst these two, the lentil is astringent in action while the vetchling excessively stimulate vata. [29] 
+
+##### Qualities of _tila_ (Sesamum indicum Linn)
+
+_Tila_ (Sesamum indicum Linn) is unctuous, hot, sweet, bitter and astringent. It is conducive to the growth of skin and hair, boosts strength and is effective in treating vata while causing kapha and pitta. [30] 
+
+##### Qualities of the legumes
+
+All varieties of legumes are sweet, cold in potency, heavy, destructive of strength, and dehydrating. They should be taken only by strong persons and in conjunction with unctuous articles. [31] 
+
+The _shimbi jataya_ (variety of legumes) is dry, astringent in taste, provokesvata in the abdomen and is an anaphrodisiac. It also, is not good for the eye and causes slow and irregular digestion. [32] 
+
+Pigeon-pea (Cajanus cajan Linn. Mill Sp) is useful in curing kapha and pitta and stimulates vata, while _avalguja_ (bakuchi seeds, Psoralea corylifolia Linn.) seeds and the seeds of _edagaja_ (wild senna, Cassia tora Linn) are effective in curing kapha and vata. The lablab (Dolichos lablab Linn. Var. typicus Prain.) stimulates vata and pitta. [33] 
+
+Sword bean (Mucuna monosperma DC), linseed (Linum usitatissimum Linn) and cowage (Mucuna prurita Hook) can be considered similar in effect to black gram. [34] 
+
+Thus, the second group of pulses i.e. dicotyledons, expounded by the learned sage. 
+
+#### Class of _mamsa_ (meat)
+
+atha mAMsavargaH- 
+
+Listed now are the “tearer” beasts (i.e., beasts that can rend/tear with their horns/jaws/horns) that are sources of _meat_ fit for human consumption : the cow (Bos taurus), the ass (Asinus equidae), the mule, the camel (Camelus dromedarius), the horse (Equus caballus), the panther (Felis pardus), the lion (Felis leo), the bear (Melusus labiatus), the monkey (Semnopithecus sp), the wolf (Canis lupus), the tiger (Felis tigris), the hyena (Hyaena striata), the large brown mongoose (Herpestes mungo), the cat (Felis domesticus), the mouse (Mus musculus), the fox (Vulpus bengalensis), the jackal (Canis aureus), the hawk (Accipiter gentilis), the dog (Canis familiaris), the blue jay (Cyanocitta cristata), the crow (Corvus splendens), the golden eagle (Aquilar chrysaetos), the honey buzzard (Pernis apivorus), the bearded vulure (Gypatus barbatus), the vulture (Vulture monachus), the Indian horned owl (Bubo bengalensis), the sparrow hawk (Ploceus bengalensis), the owlet (Athene brama), and the fish-eagle (Pandion heliestus).[35-36] 
+
+And listed now are the burrowing creatures that can be considered fit for human consumption: 
+
+The white (Python molurus), the dark-brown (Python molurus), the reticulated (Python reticulus) and the black (Python molurus) ones are the four varieties of pythons; and the hedgehog (Erinaceus europaeus), musk shrew (Neomys fodiens), frog (Rana sp), iguana lizard (Iguanidae), pangolin (Manis pentadactyla), gecko lizard (Gekkonidae), marmot (Marmota), mongoose (Herpestes mungo), and porcupine (Acanthion leucura). [37-38] 
+
+Wetland or marshy animals that are fit for consumption are: 
+
+The wild boar (Sus cristatus), the yak (Poephagus grumnicus), the rhinoceros (Rhinoceros unicornis), the buffalo (Bos bubalus), the _gayal_ ox (Bos frontalis), the elephant (Elaphus indicus), the antelope, the hog (Cervus porcinus) and the swamp deer (Rucervus durancelli) [39] 
+
+Acquatic animals fit for human consumption are: 
+
+The tortoise (Chelonia), the crab (Brachyura), the fish (Pisces), the estuarine crocodile, the whale (Cetacea), the pearl oyster (Margaritifera), the snails (Gastropoda), the cat-fish, the gangetic _garial_ (Crocodylus porosus), the sus or gangetic dolphin (Delphinus gangetica) and the _magar_ (Neomeris phocaenoides), the great Indian crocodile (Sea monster) —these are the aquatic animals (in the group of edible meat) [40] 
+
+The following are the acquatic creatures that are fit for human consumption: 
+
+The swan (Cygnus olor), the demoiselle crane (Anthropoides virgo), crane(_balaka_ , Ardea nivea), the goliath heron (ardea goliath), the goose (Anser albifrons), the pelican (Pelicanus onocrotalus), the skimmer or scissor bill (Rynchops), the lily trotter (Ardea sibirica), the curlew (_keshari_ , Oedicnemus crepitans), the oyster-catcher (Haematopus ostralegus), the snake-bird (_Mrinalakantha_ , Plotus anhinga), the little cormorant (_madgu_ , Phalacrocorax pygmeus), greylag goose (_kadamba_ , anser anser), the common river tern (_Kakatundaka_ , Sterna hirundo), mallard(_utkosha_ , Anas platyrhynchos), the white-eyed pochard (_Pundarikaksha_ , Nyroca ferina), the trumpeter swan (_megharava_ , Cygnus buccinators), the moorhen (_ambukukkuti_ , Gallinula chloropus), the cobbler’s owl bird or avocet (_ara_ , Recurvirostra avosetta), the flamingo (_nandimukha_ , Phoenicopterus roseus), the little grebe (_vati_ , Podiceps ruficellis) or the laughing gull (_Sumukha_ , Anas galericulata), petrel (_Sahacharin_ , Oceanitidae), common teal (_rohini_ , Anas crecca),tropic bird (_Kamakali_ , Phaethon rubricauda), Indian crane (sarasa, Megalornis grus), the purple heron (_raktashirshaka_ , Ardea purpurea), and the ruddy shel-duck(_Chakravaka_ , Anas sp.) [41-44] 
+
+Some of the wild antelopes (or _jangala_ animals) that are fit for human consumption are: 
+
+The _chital_ or spotted deer(_prisata_ , Cervus axis), the elk or wapiti (_sharabha_ , Cervus canadensis), kashmir red deer (_rama_ , Cervus elaphus), the mouse deer (_Shadamshtra_ , Tragulus meminna), red deer (_mrigamatrika_ , Cervus elaphus), the hare or rabbit (_shasha_ , Leporidae), the oorial or wild sheep(_urana_ , Ovis vignei), the Indian antelope (_kuranga_ , Antilope cervicapra), the cow-eared deer (_gokarna_ , Antelope picta), the Indian _muntjak_ or barking deer (_kottakaraka_ , Cervus muntjae), the gazelle (_charushka_ , Gazelle bennetti), the black or Indian antelope(_Harina_ , Antilope cervicapra), fawn deer (_ena_ , Cervus rusa), the Indian sambhar (_sambhara_ , Cervus unicolor), the black-tailed deer (_kalapucchaka_ , odocoilus), the musk deer and the small antelope (_varapota_ , Antilope cervicapra).[45-46] 
+
+The following gallinaceous birds are fit for human consumption: 
+
+The common quail (_lava_ , Turnix suscitates), the rain quail (_vartiraka_ , Coturnix coromandelica), the jungle bush quail (vartika, Coturnix sylvatica), the grey partridge (_kapinjala_ , Francolinus vulgaris), Greek pheasant (Chakora, Perdix rufa), the sushi chukor- smaller Greek pheasant (_upachakra_ , Perdix rufa), the crow pheasant (_kukubha_ , Coccyzus), red jungle fowl (_raktavartamaka_ , Gallus ferruginous): these beginning with the quail are the gallinaceous birds. We shall now enumerate the list of birds beginning with the male bustard or button quail (_vartaka_ , Turnix indica), the female bustard or button quail (_vartika_ , Coturnix sylvatica), the peacock (_barhi_ , Pavo cristatus), the partridge (_tittiri_ , Arborophila torquala), the red spur fowl (rooster) (_Kukkuta_ , Galloperdix spadicca), heron (_kanka_ , Ardeidae), the stork (_sarapada_ , Ciconia boycinia), hedge sparrow (_Indrabha_ , Leucocerea aureola), the hill partridge (_gonarda_ , Ardea sibirica), the mountain quail (_girivartaka_ , Coturnix coturnix), the snipe (_krakara_ , Ardea virago) and the spoon bill (_varapada_ , Platela leucorodia) [47-49] 
+
+The following birds from the Pecker family are suitable for human consumption: 
+
+The black woodpecker (_shatapatra_ , Picus martius), the king bird of paradise–shrike (_Bhringaraja_ , Lanalidae), the green-bill coucal (_kojashthi_ , Centropus chlororhynchos), peacock pheasant (_jivajivaka_ , Chalcurus), red-faced malkoha (_kairata_ , Pheanicophaeus pyrrhocephalus), the koel (_kokila_ , Eudynamys honorata), the red-vented bulbul (_Atyuha_ , Molpastes haemorrhous), the cowbird (_gopaputra_ , Molothrus), the Indian babbler (_priyatmaja_ , Argya caudata), the pied flycatcher (_latva_ , Muscicapidae atricapilla), paradise flycatcher (_lattashaka_ , Muscicapidae techitrea), the Bengal tree pie (_Babhru-vataha_ , Dendrocitta rufa), the toucan (_dindimantaka_ , Ramphastos toco), the hoopoe (_jati_ , Upupa indica), the grey hornbill (_dundubhi_ , Lophoceros birostris), the green barbet (_pakkara_ , Thereiceryx zeylonicus), the king fisher (_lauhaprishtha_ , Alcedo ispida), the baya or weaver bird (_kulingaka_ , Ploceus benghalensis), the dove (_kapota_ , Chalcophaps indica), the green parakeet (_shuka_ , Psittacula spengeli), the ringneck parakeet (_saranga_ , Palaeonis torquatus), the babbler (_Chirati_ , Timaliidae), the blossom headed parakeet (_kanku,_ Torquatus rosa),the sun bird or honey-sucker (_yastika_ , Nectariniidae), mynah (_sharika_ , Turdus salica), the house sparrow (_kalavinka_ , Passer domesticus), the tree sparrow (_chataka_ , Passer montanus), the black bulbul (_angarachudaka_ , Hypsipetes leucocephalus), the pigeon (_paravata_ , Columba treron) and the wood pigeon (_pandanavika_ , Columba palumbus).[50-52] 
+
+And now we define the various groups of animals listed above. The first are the “tearers”. The creatures that eat their food by rending or tearing – using their horns, claws, or talons - are known as tearers or of the tearer group of creatures. Those that dwell beneath the ground are called burrowing creatures. Those that dwell in wetlands or marshy lands are known as wetland creatures. Owing to their living in water, some creatures are known as aquatic creatures or water dwellers. Those that move about in water as well as land are known as water-roamers or amphibious creatures. Those (antelopes) that dwell and roam in the jungles are known as _jangala_ creatures. Those that scatter food with their claws and pick them up are known as gallinaceous birds and those that peck at their food are called peckers. These are the eight varieties of sources of flesh. [53-55] 
+
+Next we talk of the general qualities of the flesh of these animals: 
+
+The tearer, the burrower, the wetland, the aquatic and the amphibious— these five groups are heavy, hot, unctuous, sweet and these enhance strength and obesity. They are also aphrodisiacs and are very effective against vata while greatly aggravating kapha and pitta. They are wholesome to individuals who exercise daily and whose digestive fire is strong. [56-60] 
+
+The physician should prescribe the flesh of the tearer group of carnivorous animals to patients suffering from chronic piles, assimilation disorders and consumption. [58] 
+
+Now the general qualities of the quail and bustard families of gallinaceous birds, the pecker class of birds, and the _jangala_ antelopes. The flesh of the common quail family of gallinaceous birds, pecker family of birds and _jangala_ animals is light, cold in potency, sweet, and slightly astringent in taste and is beneficial to those who suffer from vitiation of three dosha in which pitta is predominant, vata is moderate and kapha is relatively less aggravated. The flesh of the gallinaceous birds of the bustard family, however differs slightly in action from that of the flesh of the tearer group and therefore is called out separately. [59-60] 
+
+##### Qualities of meat of goat and sheep
+
+The flesh of the goat (capra hircus) is not very cold in potency, not heavy, and not unctuous. It helps keep the dosha in harmony with the human body-elements and acts as a nourishing without being deliquescent in effect. [61] 
+
+The flesh of the sheep (ovis) is heavy due to it being cold in potency, sweet in taste (and digestion) and nourishing. The sheep and the goat are found both in wet and _jangala_ settings and hence cannot be grouped in any particular category defined above. [62] 
+
+Now that the general properties of flesh have been stated, we shall describe the specific qualities of the flesh of some of these creatures: 

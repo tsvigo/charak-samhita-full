@@ -1,0 +1,845 @@
+{
+  "files": [
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "01_Deerghanjiviteeya.txt",
+      "stem": "01_Sutra_Sthana.01_Deerghanjiviteeya",
+      "parts": 5,
+      "words_en": 12710
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "02_Apamarga_Tanduliya.txt",
+      "stem": "01_Sutra_Sthana.02_Apamarga_Tanduliya",
+      "parts": 2,
+      "words_en": 4448
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "03_Aragvadhiya.txt",
+      "stem": "01_Sutra_Sthana.03_Aragvadhiya",
+      "parts": 1,
+      "words_en": 2046
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "04_Shadvirechanashatashritiya.txt",
+      "stem": "01_Sutra_Sthana.04_Shadvirechanashatashritiya",
+      "parts": 2,
+      "words_en": 3878
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "05_Matrashiteeya.txt",
+      "stem": "01_Sutra_Sthana.05_Matrashiteeya",
+      "parts": 2,
+      "words_en": 6746
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "06_Tasyashiteeya.txt",
+      "stem": "01_Sutra_Sthana.06_Tasyashiteeya",
+      "parts": 2,
+      "words_en": 6902
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "07_Naveganadharaniya.txt",
+      "stem": "01_Sutra_Sthana.07_Naveganadharaniya",
+      "parts": 2,
+      "words_en": 5679
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "08_Indriyopakramaniya.txt",
+      "stem": "01_Sutra_Sthana.08_Indriyopakramaniya",
+      "parts": 2,
+      "words_en": 6184
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "09_Khuddakachatushpada.txt",
+      "stem": "01_Sutra_Sthana.09_Khuddakachatushpada",
+      "parts": 1,
+      "words_en": 3052
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "10_Mahachatushpada.txt",
+      "stem": "01_Sutra_Sthana.10_Mahachatushpada",
+      "parts": 1,
+      "words_en": 3253
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "11_Tistraishaniya.txt",
+      "stem": "01_Sutra_Sthana.11_Tistraishaniya",
+      "parts": 4,
+      "words_en": 13719
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "12_Vatakalakaliya.txt",
+      "stem": "01_Sutra_Sthana.12_Vatakalakaliya",
+      "parts": 2,
+      "words_en": 4292
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "13_Sneha.txt",
+      "stem": "01_Sutra_Sthana.13_Sneha",
+      "parts": 3,
+      "words_en": 9970
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "14_Sweda.txt",
+      "stem": "01_Sutra_Sthana.14_Sweda",
+      "parts": 3,
+      "words_en": 10135
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "15_Upakalpaniya.txt",
+      "stem": "01_Sutra_Sthana.15_Upakalpaniya",
+      "parts": 2,
+      "words_en": 5041
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "16_Chikitsaprabhritiya.txt",
+      "stem": "01_Sutra_Sthana.16_Chikitsaprabhritiya",
+      "parts": 1,
+      "words_en": 2071
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "17_Kiyanta_Shiraseeya.txt",
+      "stem": "01_Sutra_Sthana.17_Kiyanta_Shiraseeya",
+      "parts": 3,
+      "words_en": 7486
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "18_Trishothiya.txt",
+      "stem": "01_Sutra_Sthana.18_Trishothiya",
+      "parts": 2,
+      "words_en": 5303
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "19_Ashtodariya.txt",
+      "stem": "01_Sutra_Sthana.19_Ashtodariya",
+      "parts": 2,
+      "words_en": 5522
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "20_Maharoga.txt",
+      "stem": "01_Sutra_Sthana.20_Maharoga",
+      "parts": 2,
+      "words_en": 3580
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "21_Ashtauninditiya.txt",
+      "stem": "01_Sutra_Sthana.21_Ashtauninditiya",
+      "parts": 3,
+      "words_en": 8214
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "22_Langhanabrimhaniya.txt",
+      "stem": "01_Sutra_Sthana.22_Langhanabrimhaniya",
+      "parts": 1,
+      "words_en": 2431
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "23_Santarpaniya.txt",
+      "stem": "01_Sutra_Sthana.23_Santarpaniya",
+      "parts": 4,
+      "words_en": 13627
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "24_Vidhishonitiya.txt",
+      "stem": "01_Sutra_Sthana.24_Vidhishonitiya",
+      "parts": 2,
+      "words_en": 5182
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "25_Yajjah_Purushiya.txt",
+      "stem": "01_Sutra_Sthana.25_Yajjah_Purushiya",
+      "parts": 2,
+      "words_en": 5809
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "26_Atreyabhadrakapyiya.txt",
+      "stem": "01_Sutra_Sthana.26_Atreyabhadrakapyiya",
+      "parts": 3,
+      "words_en": 7946
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "27_Annapanavidhi.txt",
+      "stem": "01_Sutra_Sthana.27_Annapanavidhi",
+      "parts": 5,
+      "words_en": 14073
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "28_Vividhashitapitiya.txt",
+      "stem": "01_Sutra_Sthana.28_Vividhashitapitiya",
+      "parts": 2,
+      "words_en": 3855
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "29_Dashapranayataneeya.txt",
+      "stem": "01_Sutra_Sthana.29_Dashapranayataneeya",
+      "parts": 1,
+      "words_en": 3351
+    },
+    {
+      "sthana": "01_Sutra_Sthana",
+      "src": "30_Arthedashmahamooliya.txt",
+      "stem": "01_Sutra_Sthana.30_Arthedashmahamooliya",
+      "parts": 2,
+      "words_en": 5807
+    },
+    {
+      "sthana": "02_Nidana_Sthana",
+      "src": "01_Jwara_Nidana.txt",
+      "stem": "02_Nidana_Sthana.01_Jwara_Nidana",
+      "parts": 3,
+      "words_en": 7637
+    },
+    {
+      "sthana": "02_Nidana_Sthana",
+      "src": "02_Raktapitta_Nidana.txt",
+      "stem": "02_Nidana_Sthana.02_Raktapitta_Nidana",
+      "parts": 2,
+      "words_en": 4376
+    },
+    {
+      "sthana": "02_Nidana_Sthana",
+      "src": "03_Gulma_Nidana.txt",
+      "stem": "02_Nidana_Sthana.03_Gulma_Nidana",
+      "parts": 2,
+      "words_en": 3938
+    },
+    {
+      "sthana": "02_Nidana_Sthana",
+      "src": "04_Prameha_Nidana.txt",
+      "stem": "02_Nidana_Sthana.04_Prameha_Nidana",
+      "parts": 3,
+      "words_en": 8566
+    },
+    {
+      "sthana": "02_Nidana_Sthana",
+      "src": "05_Kushtha_Nidana.txt",
+      "stem": "02_Nidana_Sthana.05_Kushtha_Nidana",
+      "parts": 1,
+      "words_en": 3371
+    },
+    {
+      "sthana": "02_Nidana_Sthana",
+      "src": "06_Shosha_Nidana.txt",
+      "stem": "02_Nidana_Sthana.06_Shosha_Nidana",
+      "parts": 2,
+      "words_en": 3778
+    },
+    {
+      "sthana": "02_Nidana_Sthana",
+      "src": "07_Unmada_Nidana.txt",
+      "stem": "02_Nidana_Sthana.07_Unmada_Nidana",
+      "parts": 2,
+      "words_en": 4358
+    },
+    {
+      "sthana": "02_Nidana_Sthana",
+      "src": "08_Apasmara_Nidana.txt",
+      "stem": "02_Nidana_Sthana.08_Apasmara_Nidana",
+      "parts": 3,
+      "words_en": 9640
+    },
+    {
+      "sthana": "03_Vimana_Sthana",
+      "src": "01_Rasa_Vimana.txt",
+      "stem": "03_Vimana_Sthana.01_Rasa_Vimana",
+      "parts": 2,
+      "words_en": 4415
+    },
+    {
+      "sthana": "03_Vimana_Sthana",
+      "src": "02_Trividhakukshiya_Vimana.txt",
+      "stem": "03_Vimana_Sthana.02_Trividhakukshiya_Vimana",
+      "parts": 4,
+      "words_en": 11815
+    },
+    {
+      "sthana": "03_Vimana_Sthana",
+      "src": "03_Janapadodhvansaniya_Vimana.txt",
+      "stem": "03_Vimana_Sthana.03_Janapadodhvansaniya_Vimana",
+      "parts": 3,
+      "words_en": 7544
+    },
+    {
+      "sthana": "03_Vimana_Sthana",
+      "src": "04_Trividha_Roga_Vijnaniya_Vimana.txt",
+      "stem": "03_Vimana_Sthana.04_Trividha_Roga_Vijnaniya_Vimana",
+      "parts": 2,
+      "words_en": 4071
+    },
+    {
+      "sthana": "03_Vimana_Sthana",
+      "src": "05_Sroto_Vimana.txt",
+      "stem": "03_Vimana_Sthana.05_Sroto_Vimana",
+      "parts": 1,
+      "words_en": 3032
+    },
+    {
+      "sthana": "03_Vimana_Sthana",
+      "src": "06_Roganika_Vimana.txt",
+      "stem": "03_Vimana_Sthana.06_Roganika_Vimana",
+      "parts": 2,
+      "words_en": 4608
+    },
+    {
+      "sthana": "03_Vimana_Sthana",
+      "src": "07_Vyadhita_Rupiya_Vimana.txt",
+      "stem": "03_Vimana_Sthana.07_Vyadhita_Rupiya_Vimana",
+      "parts": 2,
+      "words_en": 5635
+    },
+    {
+      "sthana": "03_Vimana_Sthana",
+      "src": "08_Rogabhishagjitiya_Vimana.txt",
+      "stem": "03_Vimana_Sthana.08_Rogabhishagjitiya_Vimana",
+      "parts": 5,
+      "words_en": 17107
+    },
+    {
+      "sthana": "04_Sharira_Sthana",
+      "src": "01_Katidhapurusha_Sharira.txt",
+      "stem": "04_Sharira_Sthana.01_Katidhapurusha_Sharira",
+      "parts": 3,
+      "words_en": 9316
+    },
+    {
+      "sthana": "04_Sharira_Sthana",
+      "src": "02_Atulyagotriya_Sharira.txt",
+      "stem": "04_Sharira_Sthana.02_Atulyagotriya_Sharira",
+      "parts": 2,
+      "words_en": 5804
+    },
+    {
+      "sthana": "04_Sharira_Sthana",
+      "src": "03_Khuddika_Garbhavakranti_Sharira.txt",
+      "stem": "04_Sharira_Sthana.03_Khuddika_Garbhavakranti_Sharira",
+      "parts": 2,
+      "words_en": 3873
+    },
+    {
+      "sthana": "04_Sharira_Sthana",
+      "src": "04_Mahatigarbhavakranti_Sharira.txt",
+      "stem": "04_Sharira_Sthana.04_Mahatigarbhavakranti_Sharira",
+      "parts": 2,
+      "words_en": 5008
+    },
+    {
+      "sthana": "04_Sharira_Sthana",
+      "src": "05_Purusha_Vichaya_Sharira.txt",
+      "stem": "04_Sharira_Sthana.05_Purusha_Vichaya_Sharira",
+      "parts": 2,
+      "words_en": 4358
+    },
+    {
+      "sthana": "04_Sharira_Sthana",
+      "src": "06_Sharira_Vichaya_Sharira.txt",
+      "stem": "04_Sharira_Sthana.06_Sharira_Vichaya_Sharira",
+      "parts": 3,
+      "words_en": 8037
+    },
+    {
+      "sthana": "04_Sharira_Sthana",
+      "src": "07_Sharira_Sankhya_Sharira.txt",
+      "stem": "04_Sharira_Sthana.07_Sharira_Sankhya_Sharira",
+      "parts": 3,
+      "words_en": 8401
+    },
+    {
+      "sthana": "04_Sharira_Sthana",
+      "src": "08_Jatisutriya_Sharira.txt",
+      "stem": "04_Sharira_Sthana.08_Jatisutriya_Sharira",
+      "parts": 5,
+      "words_en": 17125
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "01_Varnasvariyam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.01_Varnasvariyam_Indriyam",
+      "parts": 1,
+      "words_en": 2449
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "02_Pushpitakam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.02_Pushpitakam_Indriyam",
+      "parts": 1,
+      "words_en": 1216
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "03_Parimarshaneeyam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.03_Parimarshaneeyam_Indriyam",
+      "parts": 1,
+      "words_en": 1380
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "04_Indriyaneekam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.04_Indriyaneekam_Indriyam",
+      "parts": 1,
+      "words_en": 1405
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "05_Purvarupeeyam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.05_Purvarupeeyam_Indriyam",
+      "parts": 2,
+      "words_en": 4385
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "06_Katamanisharireeyam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.06_Katamanisharireeyam_Indriyam",
+      "parts": 1,
+      "words_en": 1820
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "07_Pannarupiyam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.07_Pannarupiyam_Indriyam",
+      "parts": 1,
+      "words_en": 2301
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "08_Avakshiraseeyam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.08_Avakshiraseeyam_Indriyam",
+      "parts": 1,
+      "words_en": 2231
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "09_Yasyashyavanimittiyam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.09_Yasyashyavanimittiyam_Indriyam",
+      "parts": 1,
+      "words_en": 1792
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "10_Sadyomaraneeyam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.10_Sadyomaraneeyam_Indriyam",
+      "parts": 1,
+      "words_en": 1240
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "11_Anujyotiyam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.11_Anujyotiyam_Indriyam",
+      "parts": 1,
+      "words_en": 3051
+    },
+    {
+      "sthana": "05_Indriya_Sthana",
+      "src": "12_Gomayachurniyam_Indriyam.txt",
+      "stem": "05_Indriya_Sthana.12_Gomayachurniyam_Indriyam",
+      "parts": 1,
+      "words_en": 3111
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "01_Rasayana.txt",
+      "stem": "06_Chikitsa_Sthana.01_Rasayana",
+      "parts": 4,
+      "words_en": 13201
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "02_Vajikarana.txt",
+      "stem": "06_Chikitsa_Sthana.02_Vajikarana",
+      "parts": 4,
+      "words_en": 11351
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "03_Jwara_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.03_Jwara_Chikitsa",
+      "parts": 4,
+      "words_en": 11838
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "04_Raktapitta_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.04_Raktapitta_Chikitsa",
+      "parts": 2,
+      "words_en": 4300
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "05_Gulma_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.05_Gulma_Chikitsa",
+      "parts": 3,
+      "words_en": 8453
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "06_Prameha_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.06_Prameha_Chikitsa",
+      "parts": 3,
+      "words_en": 8394
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "07_Kushtha_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.07_Kushtha_Chikitsa",
+      "parts": 2,
+      "words_en": 5383
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "08_Rajayakshma_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.08_Rajayakshma_Chikitsa",
+      "parts": 3,
+      "words_en": 7481
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "09_Unmada_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.09_Unmada_Chikitsa",
+      "parts": 3,
+      "words_en": 7442
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "10_Apasmara_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.10_Apasmara_Chikitsa",
+      "parts": 3,
+      "words_en": 7424
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "11_Kshatakshina_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.11_Kshatakshina_Chikitsa",
+      "parts": 2,
+      "words_en": 5682
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "12_Shvayathu_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.12_Shvayathu_Chikitsa",
+      "parts": 2,
+      "words_en": 6134
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "13_Udara_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.13_Udara_Chikitsa",
+      "parts": 4,
+      "words_en": 13678
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "14_Arsha_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.14_Arsha_Chikitsa",
+      "parts": 4,
+      "words_en": 13429
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "15_Grahani_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.15_Grahani_Chikitsa",
+      "parts": 5,
+      "words_en": 16574
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "16_Pandu_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.16_Pandu_Chikitsa",
+      "parts": 3,
+      "words_en": 8935
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "17_Hikka_Shwasa_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.17_Hikka_Shwasa_Chikitsa",
+      "parts": 3,
+      "words_en": 7493
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "18_Kasa_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.18_Kasa_Chikitsa",
+      "parts": 3,
+      "words_en": 9860
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "19_Atisara_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.19_Atisara_Chikitsa",
+      "parts": 3,
+      "words_en": 8558
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "20_Chhardi_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.20_Chhardi_Chikitsa",
+      "parts": 2,
+      "words_en": 4358
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "21_Visarpa_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.21_Visarpa_Chikitsa",
+      "parts": 3,
+      "words_en": 7903
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "22_Trishna_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.22_Trishna_Chikitsa",
+      "parts": 3,
+      "words_en": 8155
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "23_Visha_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.23_Visha_Chikitsa",
+      "parts": 5,
+      "words_en": 14965
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "24_Madatyaya_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.24_Madatyaya_Chikitsa",
+      "parts": 3,
+      "words_en": 8836
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "25_Dwivraniya_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.25_Dwivraniya_Chikitsa",
+      "parts": 3,
+      "words_en": 8861
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "26_Trimarmiya_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.26_Trimarmiya_Chikitsa",
+      "parts": 5,
+      "words_en": 16469
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "27_Urustambha_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.27_Urustambha_Chikitsa",
+      "parts": 2,
+      "words_en": 4370
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "28_Vatavyadhi_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.28_Vatavyadhi_Chikitsa",
+      "parts": 5,
+      "words_en": 14595
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "29_Vatarakta_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.29_Vatarakta_Chikitsa",
+      "parts": 3,
+      "words_en": 7028
+    },
+    {
+      "sthana": "06_Chikitsa_Sthana",
+      "src": "30_Yonivyapat_Chikitsa.txt",
+      "stem": "06_Chikitsa_Sthana.30_Yonivyapat_Chikitsa",
+      "parts": 5,
+      "words_en": 15784
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "01_Madana_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.01_Madana_Kalpa",
+      "parts": 2,
+      "words_en": 5554
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "02_Jimutaka_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.02_Jimutaka_Kalpa",
+      "parts": 1,
+      "words_en": 2796
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "03_Ikshvaku_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.03_Ikshvaku_Kalpa",
+      "parts": 1,
+      "words_en": 2119
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "04_Dhamargava_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.04_Dhamargava_Kalpa",
+      "parts": 1,
+      "words_en": 2526
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "05_Vatsaka_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.05_Vatsaka_Kalpa",
+      "parts": 1,
+      "words_en": 1377
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "06_Kritavedhana_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.06_Kritavedhana_Kalpa",
+      "parts": 1,
+      "words_en": 1445
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "07_Shyamatrivrita_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.07_Shyamatrivrita_Kalpa",
+      "parts": 3,
+      "words_en": 9740
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "08_Chaturangula_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.08_Chaturangula_Kalpa",
+      "parts": 1,
+      "words_en": 2828
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "09_Tilvaka_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.09_Tilvaka_Kalpa",
+      "parts": 1,
+      "words_en": 2776
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "10_Sudha_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.10_Sudha_Kalpa",
+      "parts": 2,
+      "words_en": 3526
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "11_Saptalashankhini_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.11_Saptalashankhini_Kalpa",
+      "parts": 1,
+      "words_en": 1285
+    },
+    {
+      "sthana": "07_Kalpa_Sthana",
+      "src": "12_Dantidravanti_Kalpa.txt",
+      "stem": "07_Kalpa_Sthana.12_Dantidravanti_Kalpa",
+      "parts": 2,
+      "words_en": 5294
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "01_Kalpana_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.01_Kalpana_Siddhi",
+      "parts": 3,
+      "words_en": 9131
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "02_Panchakarmiya_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.02_Panchakarmiya_Siddhi",
+      "parts": 2,
+      "words_en": 5794
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "03_Bastisutriyam_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.03_Bastisutriyam_Siddhi",
+      "parts": 2,
+      "words_en": 6041
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "04_Snehavyapat_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.04_Snehavyapat_Siddhi",
+      "parts": 2,
+      "words_en": 4429
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "05_Netrabastivyapat_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.05_Netrabastivyapat_Siddhi",
+      "parts": 1,
+      "words_en": 2308
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "06_Vamana_Virechana_Vyapat_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.06_Vamana_Virechana_Vyapat_Siddhi",
+      "parts": 3,
+      "words_en": 7399
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "07_Bastivyapat_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.07_Bastivyapat_Siddhi",
+      "parts": 2,
+      "words_en": 5504
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "08_Prasrita_Yogiyam_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.08_Prasrita_Yogiyam_Siddhi",
+      "parts": 2,
+      "words_en": 5305
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "09_Trimarmiya_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.09_Trimarmiya_Siddhi",
+      "parts": 3,
+      "words_en": 8566
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "10_Basti_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.10_Basti_Siddhi",
+      "parts": 2,
+      "words_en": 3913
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "11_Phalamatra_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.11_Phalamatra_Siddhi",
+      "parts": 2,
+      "words_en": 4071
+    },
+    {
+      "sthana": "08_Siddhi_Sthana",
+      "src": "12_Uttar_Basti_Siddhi.txt",
+      "stem": "08_Siddhi_Sthana.12_Uttar_Basti_Siddhi",
+      "parts": 3,
+      "words_en": 9874
+    }
+  ],
+  "chunk_words": 3500
+}

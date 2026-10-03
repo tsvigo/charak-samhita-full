@@ -1,0 +1,248 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Four types of apasmara
+ * 2.2 Persons prone to apasmara
+ * 2.3 Characteristic features of apasmara
+ * 2.4 Specific types and features of apasmara
+ * 2.4.1 _Vata dosha_ dominant apasmara
+ * 2.4.2 _Pitta_ -dominant apasmara
+ * 2.4.3 _Kapha_ -dominant apasmara
+ * 2.4.4 _Sannipatika apasmara_ with dominance of all _dosha_
+ * 2.4.5 apasmara with extrinsic factors
+ * 2.5 Management of apasmara
+ * 2.6 Manifestation of various diseases
+ * 2.7 Summary
+ * 2.8 Diagnostic principles of diseases
+ * 2.8.1 _Nidanarthakara roga_ (disease specific causes)
+ * 2.8.2 Ideal therapy without adverse effects
+ * 2.8.3 Diagnostic aspect of etiological factors
+ * 2.8.4 Diagnostic aspect of symptoms
+ * 2.8.5 Therapeutic considerations
+ * 2.8.6 Prognostic aspect in therapy
+ * 2.8.7 Examination of stages of disease
+ * 2.9 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 History and origin of the disease in ancient medical literature
+ * 4.2 Definition of apasmara
+ * 4.3 Impairment of knowledge and coordination
+ * 4.4 _Tattva Sara_
+ * 4.5 Predisposing factors for apasmara
+ * 4.5.1 _Rajas–tamas_ affliction
+ * 4.5.2 _Sharira dosha_ vitiation
+ * 4.5.3 Role of diet
+ * 4.5.4 Improper methods – lifestyle factors
+ * 4.5.5 Improper techniques
+ * 4.5.6 Incorrect postures and movements
+ * 4.5.7 Excessive degeneration and debility
+ * 4.5.8 Additional factors by Sushruta
+ * 4.6 Six stages of pathogenesis of epilepsy (_shatkriyakala_ for apasmara)
+ * 4.6.1 _Sanchaya_
+ * 4.6.2 _Prakopa_
+ * 4.6.3 _Prasara_
+ * 4.6.4 _Sthanasamshraya_
+ * 4.6.5 _Vyakta_
+ * 4.6.6 _Bheda avastha_
+ * 4.7 Types of apasmara
+ * 4.7.1 _Agantu Apasmara_
+ * 4.7.2 _Skanda graha_ and _Skandapasmara_
+ * 4.8 Premonitory signs of apasmara
+ * 4.9 Differential diagnosis of apasmara
+ * 4.10 Prognosis of apasmara
+ * 4.11 Reasons behind aggressive and dormant stages of apasmara
+ * 4.12 Management of apasmara
+ * 4.13 Practical application of principles
+ * 4.14 Research areas
+ * 4.15 Research works done on apasmara at post graduate/post doctoral level:
+ * 4.16 Research papers published
+ * 4.17 Related Chapters
+ * 5 References
+
+## Introduction
+
+In this important section dealing with the diagnoses of some common disorders of the body and the mind, this chapter deals with apasmara, a disorder afflicting the mind and sharing similar etiological and pathological factors as _unmada_ (the subject of the preceding chapter). apasmara (Sanskrit for _apa_ (to lose) or leave, and _smara_ (memory)) is a psychosomatic disorder involving memory, intellect and mind and present with cardinal features such as transient loss of memory, abnormal movements of body and blackouts. apasmara is counted, in Ayurvedic texts, among the eight _mahagada_ (most dreadful diseases). The extent of knowledge on the disease indicates that it must have been quite prevalent in antiquity. Ayurvedic scholars have observed that apasmara simulates epilepsy in its features[1] [2]. Epilepsy is a common neuropsychiatric condition involving mainly the brain, nervous system and the psyche. However, Ayurveda emphasizes heart, the abode of consciousness and mind, as its core pathological site while covering diseases of memory, intellect as well as psyche under the umbrella of apasmara. 
+
+Causative factors of apasmara can be categorized under dietary, lifestyle, psychological and iatrogenic factors. Vitiated _doshas_ get through the vessels of the heart and when exposed to predisposing psychological factors like excess worry, grief, anger, and fear, move upwards from the heart, the abode of all consciousness, to the brain, afflicting the senses while altering memory. This eventually leads to apasmara. The etiology of the disease and specific features of the dominant _doshas_ involved, and _nidanarthakara roga_ (one disease causing other disease) and its importance in diagnosis and treatment have been described in detail in this chapter, with some important aspects of diagnosis addressed. In some cases, both diseases (the causative and the secondary ones) coexist while in other cases, the causative disease disappears and the new disease remains present. Thus, this chapter, while focusing on apasmara, also talks of complications that lead to secondary conditions and their treatment. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Apasmara Nidana" (Diagnosis and etiopathogenesis of seizure disorders). Thus said Lord Atreya. [1-2] 
+
+### Four types of apasmara
+
+There are four types of apasmara caused by _vata, pitta, kapha_ and _sannipatika_ (combination of all the three _doshas_).[3] 
+
+### Persons prone to apasmara
+
+Individuals get quickly afflicted with apasmara if: 
+
+ * the mind of an individual is afflicted by _rajas_ (mental _dosha_ associated with hyperactivity) and _tamas_ (mental _dosha_ associated with hypoactivity);
+ * the three _shariradoshas_ are imbalanced and excessively aggravated;
+ * an individual takes food that is impure, untimely, decomposed, possessing antagonistic properties, or touched/cooked by unclean hands
+ * an individual follows improper methods (of diet and lifestyle, conduct described in Ayurveda) and neglects prescribed rules;
+ * an individual observes improper techniques (of treatment) and resorts to unhealthy regimen and behavior
+ * an individual practices improper bodily movements and follows improper postures
+ * an individual suffers from excessive degeneration or debility.
+
+In the situations mentioned above, the _doshas_ get aggravated and affect individuals whose minds are already afflicted by _rajas_ and _tamas_. The _doshas_ (so aggravated) pervade the heart which is, as mentioned earlier, the abode of consciousness, as well as the sense organs. While there, the _doshas_ get further aggravated by emotions such as passion, anger, fear, greed, attachment, excitement, grief, anxiety, perturbation etc., consequently spreading throughout the heart and the sense organs. The individual is then said to have been afflicted with apasmara. [4] 
+
+### Characteristic features of apasmara
+
+apasmara is characterized by occasional loss of consciousness associated with aberrant activities (like vomiting of froth and abnormal postures of the body) and behavior, due to perversion of memory, intellect and other psychic faculties. [5] 
+
+Premonitory symptoms of apasmara include contraction of eyebrows, erratic and constant movement of eyes, auditory hallucinations, excessive salivation, and nasal discharge. There is frequent accompaniment of anorexia, indigestion, and general disinclination towards food, chest congestion, distension of the lower abdomen accompanied with gurgling sound, weakness, cracking pain in bones and malaise, unconsciousness, a feeling of despondency or depression, fainting and giddiness, and frequent dreams of scenes of intoxication, dancing, murdering, aching, shivering and falling. [6] 
+
+These are some common premonitory symptoms of apasmara. [7] 
+
+### Specific types and features of apasmara
+
+#### _Vata dosha_ dominant apasmara
+
+More frequent episodes of apasmara, episodes of instant loss of consciousness and regain it quickly, bulging or rolling up of eyes, incoherent speech, frothy vomit, excessive stiffness of neck, drooping of the head to one side, irregular contraction of fingers, unstable upper and lower limbs, redness, dryness and grayish tint in the nails, eyes, face and skin, apparent vision or perception of unstable, fickle, coarse and dry objects, conditions associated with consuming _vata_ -aggravating diets and alleviation of ailments when subjected to _vata_ -pacifying diets.[8-1] 
+
+#### _Pitta_ -dominant apasmara
+
+Frequent episodes of apasmara, instant loss of consciousness and regaining it quickly, stertorous breathing, abnormal, dragging-like movement, green, yellow or coppery tint of nails, eyes, face and skin, apparent vision or perception of bleeding, terrifying, horrible, burning and angry looking objects, conditions associated with _pitta_ -aggravating diets and alleviation of ailments when subjected to _pitta_ -pacifying diets [8-2] 
+
+#### _Kapha_ -dominant apasmara
+
+Less frequent episodes of apasmara, gradual loss and regain of consciousness, frequently falling down, less pronounced abnormalities in movement, dribbling of saliva, whitish discoloration of nails, eyes, face, and skin, apparent vision or perception of white, heavy and unctuous objects, and conditions associated with consuming _kapha_ -aggravating diets and alleviation of ailments when subjected to _kapha_ -pacifying diets [8-3] 
+
+#### _Sannipatika apasmara_ with dominance of all _dosha_
+
+_Sannipatika apasmara_ (caused by the simultaneous vitiation of all the three _doshas_) shares the symptoms of all the three _doshas_ (described above). This condition is incurable. 
+
+Thus, four types of apasmara are explained. [8-4] 
+
+#### apasmara with extrinsic factors
+
+Sometimes these conditions are associated with extrinsic causative factors described later (in Cikitsa10:53). The symptoms that manifest in such cases, though, are not the same as those caused by vitiated _doshas_. [9] 
+
+### Management of apasmara
+
+Strong elimination and alleviation therapies are effective in alleviating and curing apasmara. When extrinsic causative factors are involved, then _mantras_ etc., are considered useful. [10] 
+
+### Manifestation of various diseases
+
+As per vedic legends, in the aftermath of destruction of Daksha’s _yajna_ (holy sacrifice), _gulma_ (disease similar to lumps in abdomen) was manifested first in human beings due to stress induced as a result of fleeing, swimming, running, flying, etc. in all directions. _Prameha_ (disease of obstinate urinary disorders) and _kushtha_ (obstinate skin diseases including leprosy) were manifested due to excess intake of ghee. Various types of _unmada_ (insanity/psychosis) were manifested due to fear, apprehension and grief. apasmara (epilepsy) set in due to coming in contact with various types of unclean objects. _Jwara'' came out of the forehead of Lord Shiva, and _raktapitta _was manifested (a condition characterized by bleeding from different parts of the body) due to_jwara _’s heat. Moon was afflicted with_ rajayakshma _due to excessive sexual indulgence. [11]_
+
+### Summary
+
+From the preceding verses, it can be said that apasmara manifests itself due to the vitiation of _vata, pitta_ and _kapha_ and _sannipata_ (combined vitiation of all the three _doshas_). The _sannipata_ variation is incurable. [12] 
+
+The curable types of apasmara should be carefully treated by a physician possessing extensive knowledge and experience of administering elimination and alleviation therapies associated with the _dosha_(s) causing the specific variant of apasmara. [13] 
+
+When apasmara is caused by the vitiation of _doshas_ associated with extrinsic causative factors, then general therapies addressing both (_doshic_ equilibrium and extrinsic causes) are advised by the best of physicians. [14] 
+
+An able physician, well versed in the specific characteristics of all diseases and the properties of all medicines, cures all (curable) diseases and does not get confused. [15] 
+
+This concludes the (excellent section titled) Nidana Sthana. [16] 
+
+### Diagnostic principles of diseases
+
+#### _Nidanarthakara roga_ (disease specific causes)
+
+Diseases can act as causative factors of other diseases as well [16] 
+
+For example, elevated temperature in _jwara_ can cause _raktapitta_ and _raktapitta_ can cause _jwara_. Both the diseases (i.e _jwara_ and _raktapitta_) may lead to _shosha_ (depletion of _dhatus_). [17] 
+
+_Pleeha_ (enlargement of spleen) causes _jathara_ (abdominal diseases including ascitis), which leads to _shotha_ (generalized edema). _Arsha_ (hemorrhoids) causes _jathara_ (abdominal diseases including ascitis) that leads to _gulma_ (abdominal lumps). [18] 
+
+_Pratishyaya_ (rhinitis) leads to _kasa_ (cough) which further leads to _kshaya_ (depletion of _dhatu_), consequently resulting in _sosha_ (emaciation). [19] 
+
+Conditions in their primary stages or forms manifest themselves as diseases and subsequently act as causative factors for other diseases. They thus play a dual role - as a disease and as a causative factor. Some of these play just one role as well– either as a disease or as a causative factor. [20] 
+
+Some diseases subside after causing another disease, while some do not subside even after causing another disease. [21] 
+
+Combinations of diseases in human beings are usually very difficult to treat, owing to the complexity of the line of treatment, and their serving as causative factors of each other. [22] 
+
+#### Ideal therapy without adverse effects
+
+A therapy that alleviates one disease condition but provokes another disease is not _shuddha_ (or is an impure or incorrect therapy). The ideal therapy is that which pacifies a disease without provoking any other disease. [23] 
+
+#### Diagnostic aspect of etiological factors
+
+One causative factor may cause one or many diseases. Many causative factors may result in a single disease or may cause several diseases. [24] 
+
+It is seen that a single causative factor, ruksha (dry) can cause many diseases such as _jwara_ (fever), _bhrama_ (vertigo) and _pralapa_ (delirium) etc., while the same single factor (_ruksha_) may cause just one disease (_jwara_) [25] 
+
+_Jwara_ alone may be caused by a combination of several causative factors including but not limited to _ruksha_(dry) etc. and many causes like, _ruksha_ (dry, rough) etc. may lead to several diseases. [26] 
+
+#### Diagnostic aspect of symptoms
+
+Similarly, one symptom may be common to many diseases, one symptom may be related to only one disease, many symptoms may be associated with only one disease, and many symptoms may be common to many diseases. [27] 
+
+One symptom i.e. _jwara_ can be considered common to many diseases that have irregular onset, while _santapa_ (elevated temperature) is considered a symptom of only one disease i.e. _jwara_.[28] 
+
+Irregular onset (and similar other symptoms) appear in the case of _jwara_ , while similar symptoms also occur in _shwasa_ (dyspnea), _hikka_ (hiccups), and other similar diseases. [29] 
+
+#### Therapeutic considerations
+
+A single therapy can subside many diseases as well as a single disease. Multiple therapies may be needed to subside many diseases, whereas one disease could require multiple therapies to cure. [30] 
+
+The diseases originating from _amashaya_ are cured by _langhana_ (fasting), only whereas only a single disease entity _jwara_ also can be treated by the single therapy of _langhana_ (fasting). [31] 
+
+For treating a single disease like _jwara_ , multiple therapies like light diet, etc. are needed and the same multiple therapies like light diet etc. are needed to subside many diseases like _jwara_(fever), _shwasa_(dyspnea), _hikka_(hiccups) etc. [32] 
+
+#### Prognostic aspect in therapy
+
+Easily curable diseases can be managed in a short time by simple measures. Diseases which are difficult to cure may require more effort and time to cure. The palliable variety of incurable diseases can never be cured, but can be alleviated. Incurable diseases are not amenable to any type of treatment. 
+
+Conversely, incurable diseases never become curable, while the curable varieties may become incurable due to factors like incompetence of the four components of health management (the physician, the medicine, the attendant and the patient) and/or misfortune. The easily curable kinds may also become difficult to cure, if not incurable, while diseases that are difficult to cure may become palliable and palliable variety may become incurable. [33-35] 
+
+#### Examination of stages of disease
+
+A wise physician should carefully observe the subtle changes in the state of diseases (aggravated, normal and diminished) while properly assessing the patient’s body strength, digestive power and mental ability. [36] 
+
+The physician, who is keenly observing variations in disease stages in the patient, should know it (the disease) well and prescribe such a treatment that would be helpful in attaining the fourfold effect of therapeutics. [37] 
+
+Generally, _doshas_ that are spread over obliquely (in the transverse direction) afflict the patient for a longer time. In that condition, treatment should not be initiated in a hurry without proper assessment of body strength and digestive power. These _doshas_ should be alleviated first by treatment, or they should be carefully be drawn to the _koshtha_ (bowel). After knowing their status in _koshtha_ , the wise physician should eliminate them through the nearest route. [38-39] 
+
+In the Nidana Sthana, a compendium of symptomatology has been provided as a reckoner for the Ayurveda practitioner to gain adequate knowledge of some of the major classes of diseases and diagnose them effectively. But these symptoms may independently develop into diseases and create emergency situations. [40] 
+
+Everything can be categorized into being in a normal or an abnormal state. Both of these categories depend upon causes. Nothing can happen without a cause. [41] 
+
+### Summary
+
+To sum up this chapter, etiological factors, premonitory symptoms, signs and symptoms, therapeutic relief, pathogenesis, historical origins and brief line of treatment of apasmara have been described in this section. Since this is the concluding chapter of the Nidana Sthana, a summary to the entire section has also been provided here, stating that starting from _jwara_ all eight diseases have been dealt with separately in eight chapters, each with etiological factors, symptomatology, prognosis and brief line of management. 
+
+A compendium of diseases with etiological factors, their synonyms, symptoms of the diseases have been provided as an epilogue to the chapter. [42-44] 
+
+Thus, ends the eighth chapter on the ‘diagnosis of apasmara” of the section “Diagnosis of diseases” (Nidana Sthana) of Agnivesha , as redacted by Charak. 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Apasmara is a disease due to vitiation of three _shariradoshas_ and two _manas doshas_.
+ * The causative factors of apasmara mainly include consuming unhygienic, impure, decomposed food and encountering inauspicious things that are not compatible with one’s sensibilities.
+ * Diet is important for sustaining physical and psychological health. Improper dietary habits can lead to various psychosomatic disorders associated with apasmara.
+ * Apasmara originates from the heart, which is the center of consciousness and emotions per Vedic texts. The clinical presentation includes impaired heart-brain coordination leading to transient loss of memory, erratic movements, and blackouts. Analysis of the heart-brain connection is very important in the pathology of apasmara.
+ * _Psychological_ stressors like excessive passion, anger, fear, greed, attachment, excitement, grief, anxiety, worry, perturbation etc. precipitate episodes of apasmara in a person afflicted with excessively aggravated _dosha_.
+ * apasmara, depending upon the predominant _dosha_ , can be diagnosed on the basis of frequency of episodes, duration of loss of consciousness, pattern of abnormal movements, and types of objects perceived (in aura phase) prior to the occurrence of an actual episode.
+ * Purification therapies using strong medicines, observing a healthy diet and lifestyle are considered the primary forms of treatment of apasmara. Non-pharmacological measures like _mantra_ (holy chants) and _sattvavajaya chikitsa_ (mind training for restraint, such as cognitive behavior therapy) aid in the treatment of apasmara.
+ * There can be one causative factor for many diseases or multiple causative factors for single disease.
+ * Similarly one symptom can be common in many diseases and one symptom can be seen in a single disease alone.
+ * There could be a single treatment for many diseases or many treatments for a single disease.
+ * The duration of treatment depends upon prognosis of the disease. A disease at the onset may be curable but if not treated, could worsen into a palliable or incurable variant.
+ * The subtle changes in _dosha_ , and the three states of a disease (aggravated, normal, or diminished) should be carefully observed along with proper assessment of body strength, digestive power and mental ability .
+ * The _doshas_ that spread obliquely (in the transverse direction) afflict patient for a longer time. These _doshas_ should be managed first, or they should be carefully drawn to _koshtha_ (bowel) by proper measures. After analyzing them in _koshtha_ , the physician should eliminate them through the nearest route.
+
+## Vidhi Vimarsha (Applied Inferences)
+
+The chapter on apasmara is sequenced after the one on unmada. The sequence is due to similarities of clinical origin as well as causative and pathophysiological factors, since both diseases are psychosomatic in nature. 
+
+### History and origin of the disease in ancient medical literature
+
+The origin of various diseases is narrated in the eleventh verse of the chapter. apasmara originates from physical and mental contact with various unclean and unwholesome exogenous factors leading to imbalance at physical and psychological levels. The words _ashuchi samsparsha_ literally mean direct contact of body and mind with unwholesome things. This is further supported by apasmara’s etiology which points at improper diet and lifestyle as a major causative factor. 
+
+Review of ancient medical literature confirms that epilepsy was initially called sacred, because of the belief for its divine origin[3]. A chapter on epilepsy in Babylonian texts on medicine comprising 40 tablets dating as far back as 1067 BC accurately recorded many of the different seizure types recognized today. It emphasizes upon the supernatural nature of epilepsy, with each seizure type associated with a divinity, spirit or deity (usually evil)[4]. It was believed, in antiquity, that if a person comes in contact with things that are supernatural and evil, he/she would suffer from epilepsy. This view is consistent with those in ancient Greek, British, and Indian (Vedic) literature as well. The Ayurvedic theory of origin of epilepsy mentions contact with evil, unwholesome and unclean objects or experiences as key causative factors. References of _grahas_ (celestial bodies) as a causative factor of apasmara, specifically in children, can be found in vedic texts with terms such as ‘skanda’ and ‘skandapasmara. Though there are references of exogenous variants of epilepsy (_agantu apasmara_) in Charak Samhita, a detailed description of these is not found. This indicates two things: 
+
+ 1. Epilepsy originates from exposure to unwholesome, unclean and evil things either at a physical or at a psycho-spiritual plane.
+ 2. Management of the disease may include _adhyatmik chikitsa_ (psycho-spiritual therapy) for better treatment.
+
+### Definition of apasmara
+
+apasmara is defined as the occasional loss of consciousness due to deterioration of _smriti_ (memory), _buddhi_ (intellect) and _sattva_ (mind), characterized by _tamahpravesha_ (entering darkness/ blackouts) and _bibhatsa cheshta_ (abnormal movements). 
+
+As explained by Sushruta, _smriti_ in context of apasmara is _bhutarha vijnana_ i.e. orientation of external world and consciousness. _Dhi-buddhi_ (intellect) is _karya-akarya vibhaga karini_ i.e. discriminating power between right and wrong. _Sattva_ is referred as _manas_ (mind) and _dhairya_ (temperance, patience). A patient of apasmara suffers from deterioration of all these three important mental faculties (_dhi,buddhi_ and _smriti_). 

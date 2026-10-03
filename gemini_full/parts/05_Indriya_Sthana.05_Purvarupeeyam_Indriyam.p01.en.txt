@@ -1,0 +1,167 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Incurable prodromal signs of Jwara leading to death
+ * 2.2 Incurable prodromal signs of Rajayakshma leading to death
+ * 2.3 Incurable prodromal signs of Raktapitta leading to death
+ * 2.4 Incurable prodromal signs of Gulma leading to death
+ * 2.5 Incurable prodromal signs of Kushtha leading to death
+ * 2.6 Incurable prodromal signs of Prameha leading to death
+ * 2.7 Incurable prodromal signs of Unmada and Apasmara leading to death
+ * 2.8 Incurable prodromal signs of bahirayama leading to death
+ * 2.9 General prodromal features and prognosis
+ * 2.10 Dreams
+ * 2.10.1 Types of dreams
+ * 2.10.2 Consequences of dreams
+ * 2.11 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Contemporary views
+ * 4.2 Bad prognostic signs
+ * 4.3 Relation between dreams and psyche
+ * 4.4 Delirium as a prognostic sign
+ * 4.5 Skin disease and its prognosis
+ * 4.6 Psychiatric disorders and its prognosis
+ * 4.7 Analysis of dreams
+ * 4.8 Prognosis by assessment of prodromal features
+ * 4.9 Relation of disease pathology and relevant dreams
+ * 5 References
+
+## Introduction
+
+In this chapter prodromal symptoms and dreams related to poor prognosis of diseases- fatality are described. In the first verse, Charak has emphasized that he will describe both common and special prodromal symptoms. This indicates that while there may be some prodromata which result out of normal pathogenesis, some are unusual and unexpected. In the next verse it has been said that if all prodromal symptoms are manifesting and are severe in nature then such a condition will be fatal. This principle is applicable to all other diseases also. Prodromal symptoms of kushtha and prameha suggest that complications manifest before cardinal symptoms of the disease appear. If body metabolism in any disease is altered severely during latent phase of disease and complications are appearing before manifestation of full-fledged disease then such condition will be difficult to cure. Example of gulma suggests that there are certain diseases which are incurable in nature and prodromal symptoms related to such clinical conditions will always be precursors of imminent death. It is commonly seen that any person who is emaciated and have low immunity and strength, when affected by disease, has fatal consequences due to less resistance. This fact is explained with the example of shosha. Another important aspect regarding disease prognosis is that, if a person is continuously partaking causative factors or is in constant exposure to the causative factors, body will be unable to fight disease properly and thus there will be less chances of recovery from the disease. This point is also mentioned while describing prognosis of shosha. 
+
+From the above discussion it is clear that prodromal symptoms can be useful in predicting diagnosis of any disease. But now question arises whether it is practically possible to predict prognosis with prodromal symptoms? We should admit that it is very difficult and one will need years of experience to attain such competence. Another important fact is that the prediction of prognosis can be done from purvarupa only after disease manifestation. Charak states that purvarupa converting into a particular disease in future can be termed a prognostic sign. This indicates that we cannot predict by only prodromal symptoms. We have to look into whether disease was produced after purvarupa or not. For example, delirium in raktapitta is indicator of poor prognosis. If delirium is seen in any patient but he is not developing raktapitta we cannot predict poor prognosis. In this condition, after manifestation of raktapitta we need to ask the patient whether he suffered from delirium before disease manifestation or not. It is a retrospective inquiry about purvarupa based on which a prospective prediction may be made. We will have to follow detailed retro-prospective approach and will need proper patient history comprising of each and every detail from prodromal symptoms to disease manifestation. Thus practically, prodromal symptoms are helpful only after disease manifestation as they are not independent. Since accompanying symptoms may also lead to predictions, they can also be regarded as tools of predictive prognosis. This might be the reason that Sushruta and Vagbhata have not described dreams in reference of purvarupa but have described in the stage of disease manifestation. 
+
+Biomarkers are recent advancements can be the answer to above problem as we do not need to wait for disease manifestation and can predict prognosis by seeing values of biomarkers related to that disease. In 2001, a consensus panel at the National Institutes of Health defined the term biomarker as ‘a characteristic that is objectively measured and evaluated as an indicator of normal biological processes, pathogenic processes, or pharmacologic responses to a therapeutic intervention or other health care intervention’.[1] Biomarker defined as alteration in the constituents of tissues or body fluids provide a powerful approach to understanding the spectrum of chronic disease with application in at least 5 areas like screening, diagnosis, prognostics, prediction of disease recurrence and therapeutic monitoring.[2] The biomarker is either produced by the diseased organ (e.g., tumor) or by the body in response to disease. Before diagnosis, markers could be used for screening and risk assessment. Tumor classification, stage and sometimes grade are generally used to assess prognosis. Researches in the field of biomarkers may give us chance to know prognosis of disease in early stage. 
+
+Another important aspect mentioned in this chapter is concept of dreams. The descriptions related to dreams are found abundantly in the ancient oriental classics, specifically the Atharvaveda, Upanishadas, Puranas, Darshanas and Ayurveda]. The description of the _doshika_ dreams of the Atharvaveda is similar to that in Ayurveda. Dreams are mentioned while describing purvarupa, rupa and arishta lakshanas.[3] Sushruta states that sex of the unborn child can be predicted and Vagbhata says that _doshikaprakriti can be known by the help of dreams._
+
+Subject of dreams is dealt in very scientific manner. According to Charak, dreams occur when person is in relatively wakeful state. This has been proved now by the researches that dreams mainly occur in the rapid-eye movement (REM) stage of sleep—when brain activity is high and resembles that of being awake. In the late 19th century, psychotherapist Sigmund Freud developed a theory that the content of dreams is driven by unconscious wish fulfillment. Freud called dreams the "royal road to the unconscious”.[4] To Freud, no dream was of entertainment value, they all held important meanings. Dreams reflect the dreamer’s mental, emotional, and physical state. This fact is well established in this chapter while describing classification of dreams. Dreams are based on our day to day interactions and so are classified as dreams seen, heard, felt etc. Two of the seven types, one which predict prognosis and one which is due to vitiation of dosha are said to have fatal consequences. 
+
+Research studies are needed to prove that dreams can be used as markers of prognosis. Some studies have been conducted in this regard but we cannot make strong conclusion on basis of their results. In a few studies it has been shown that hormone levels affect dreams. One of the studies states that cortisol plays an important role in controlling the state of memory systems during sleep. High levels of cortisol, as are observed late at night and, typically in the context of REM sleep, disrupt normal hippocampal → neocortical communication, thereby interfering with forms of memory consolidation dependent upon this communication. At the same time, the content of dreams is also affected.[5] In neurological and psychological diseases dream disturbances are often seen but few other diseases have also been found to affect dreams. Patients with sleep apnea are reported to have intense nightmares.[6] Abnormal dreams have also been reported in diseases like Relapsing fever,[7] Cardiac ischemia[8] etc. Certain drugs also affect dreams e.g. Anti malarial drug has shown to alter dream types.[9] This proves that at times diseases certainly affect dreams but intense research studies are needed to actually establish this fact on scientific grounds. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Purvarupeeyam Indriyam "(Predicting prognosis of diseases by prodromal symptoms).Thus said Lord Atreya.[1-2] 
+
+Note: This chapter deals with of premonitory symptoms related to signs of death. 
+
+### Incurable prodromal signs of Jwara leading to death
+
+For enhancing the knowledge of physicians, we will distinctly explain the general and fatal prodromal symptoms of diseases. If all prodromal symptoms of jwara manifests in severe degree, the person will die. If prodromal symptoms of any other disease also appear in the same way as described above, death of the patient is certain. [3-5] 
+
+### Incurable prodromal signs of Rajayakshma leading to death
+
+Now we shall discuss certain severe premonitory symptoms which are associated with certain diseases. The consumption which is associated with continuously decreasing strength, worsening rhinitis and over indulgence in sex in prodromal stage will turn out to be incurable. 
+
+A man, who in his dreams, is dragged by dog, camel or a donkey towards south, leaves his life as by consumption. A person who in his dreams takes alcohol with demons and who is dragged by a dog leaves his life getting affected with severe fever. [6-9] 
+
+### Incurable prodromal signs of Raktapitta leading to death
+
+He who sees clothes as if dyed with red lac, leaves his life if he gets affected with severe bleeding disorders. In his dream, the man who sees himself adorned with red garlands, clad in red clothes, anointed with red dye and dragged by a continuously laughing woman will succumb to severe bleeding disorders. [10-11] 
+
+### Incurable prodromal signs of Gulma leading to death
+
+A man who experiences severe pain, gurgling sounds in abdomen, intestinal peristalsis, excessive debility, discoloration of nails and other body parts is going to die if he is affected with gulma. 
+
+A person, who in his dreams sees hard and thorny creepers grown on his chest and then gets afflicted by gulma, is surely going to die soon. [12-13] 
+
+### Incurable prodromal signs of Kushtha leading to death
+
+A person whose body even if touched gently leads to deep cuts and whose injuries never heal will be killed by severe skin diseases. In his dream, a man who sees himself naked, anointed with ghee, offering the oblations without the fire being lit, who has lotuses grown on his chest, will be taken away by death as afflicted by skin diseases.[14-15] 
+
+### Incurable prodromal signs of Prameha leading to death
+
+Even after taking bath and getting anointed with scents, flies are attracted towards person, he will certainly die, if affected with prameha. 
+
+One who sees in his dreams, drinking various kinds of oily substances with Chandalas becomes affected by prameha and will die. [16-17] 
+
+### Incurable prodromal signs of Unmada and Apasmara leading to death
+
+He who is affected with disturbing thoughts, anxiety, stupefaction without any specific cause, restlessness, loss of strength will succumb to death as affected with insanity. 
+
+The person who feels excess anger, fear, always smiles and who is suffering from severe stupor and thirst will be certainly killed by insanity. 
+
+The man who in his dreams dances with evil spirits and sinks in water leaves the world. He who sees darkness even when he is awake and hears sounds when there is no real sound, will be killed by epilepsy. In dream, a person who sees himself dancing with ghosts while in intoxication with his head upside down, will be taken away by death getting affected with epilepsy. [18-23] 
+
+### Incurable prodromal signs of bahirayama leading to death
+
+If individual is found with bahirayama(a disease with feature of opisthotonus or bending of body backwards) soon after awaking from sleep along with lock jaw, neck stiffness, stale eyes and paralysis is going to lose life soon. 
+
+Such an individual in his dream sees himself taking cakes of sesame seeds and _apupa_ ( a dietary item) and vomits the same when he is awake.[24-25] 
+
+### General prodromal features and prognosis
+
+One who (physician) understands these premonitory symptoms thoroughly, also deserves the knowledge of associated diseases and their result i.e. death.[26] 
+
+Certain other dreams which are fierce should also be analyzed as they indicate the approaching death of the diseased and grave sufferings for those who are going to be affected. 
+
+He, who in his dreams sees bamboos, shrubs and creepers etc. growing in his head, birds coming to them and his scalp been shaved. Or who in his dreams sees himself surrounded by vultures, owls, dogs, crows and other birds or by Rakshasa, dead men, _pishachas_ , women, _chandalas_ , and inhabitants of Dravida and Andhra regions. 
+
+Or who in his dreams finds himself surrounded by pathless forests of bamboo, canes, creepers, grass and prickly plants and finds himself lost in the midst and falling down while trying to come out. 
+
+Or who in his dreams, falls down on the bare ground covered with dust or upon an anthill or upon ashes, or upon a crematorium or in to a hole. 
+
+Or who sinks in a ditch or pond of dirty water or into mire or in a dark well or who is carried away by a rapid current. Or who in his dreams drinks oily substances or anoints his body with oil, vomits, defecates, or gets gold, engages in quarrel, gets defeated and captured. 
+
+Or who lose his sandals, has skin of feet peeling off or feels excited or who is rebuked by his angry ancestors. Or who sees in his dreams the fall or destruction of his own tooth or the moon or the sun or the stars or the burning lamps or his own eyes or the cracking of a mountain. 
+
+Or who in his dreams, enters a forest of trees with red flowers or a place where sinful activities are done or a funeral place (crematorium), a dark cave. 
+
+Or who in his dreams sees himself proceeding towards south, finds himself adorned with garlands of red flowers, laughing aloud and naked. The sight of a woman who is dark in complexion, who is sinful, who has long hair and nails, hanging breasts, or who is clad in garlands of red flowers and red garments is regarded to be as fatal as a fatal night. These are severe dreams which indicate death of a patient. 
+
+If a healthy man sees such dreams, his life becomes doubtful, rarely does he escape. [27-40] 
+
+### Dreams
+
+When the channels associated with the mind are saturated by the excessively vitiated dosha, such terrible dreams appear in his sleep. The person who is not in deep sleep (subconscious state), sees various fruitful (meaningful) or fruitless (meaningless) dreams in association with sense organs. [41-42] 
+
+#### Types of dreams
+
+It is known that there are seven kinds of dreams: seen, heard, felt, desired, imagined, prognosticating and faulty by nature. [43] 
+
+#### Consequences of dreams
+
+Amongst these the first five (viz.seen, heard, felt, desired and imagined) are fruitless (meaningless), and also those seen during daytime, and those which are too short or too long. 
+
+The dream that is seen during the first part of night is partially fruitful. He, however who having seen a dream does not sleep after it, will be realizing the dream completely. 
+
+It should be known that if a person having seen an inauspicious dream, sees without waking up another dream that is auspicious and of beneficial form just afterwards, he meets with good results. [44-46] 
+
+### Summary
+
+A physician who is conversant with those premonitory symptoms which are associated with such terrible dreams never starts the treatment for incurable diseases out of his ignorance.[47] 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Important principle regarding disease prognosis states that “if all premonitory symptoms of a disease are fully manifested in severe form then it indicates poor prognosis”. [Verse No.3-5]
+ * If any person is continuously exposed to etiological agents and complications appear earlier than such disease is going to have poor prognosis. It is also emphasized that any person who is severely debilitated will not recover from any disease easily. Interpretation based on dreams should also be considered while predicting course of the disease. One special note from this chapter is that they describe symptoms in combination than in solitary appearance which shows the complexity of disease causing and disease prognostic process leading to fatality. Perhaps this needs a specially designed research to study on relation between dreams and arishta. [Verse No.6-9]
+ * It has been emphasized that not only clinical presentations but personal experiences of the patient can play role in disease outcome and so should not be neglected. This analogy described here has a striking resemblance with astronomy and understanding of body components. They attribute special colors, precious stones in relation with dhatu, zodiac signs and body components. Perhaps Jyothisha Shastra (astrology) and gemology can be referred for more explanation. [Verse No.10-11]
+ * It has been emphasized that even minor complaints of the patient should not be ignored as they can be indicator of forthcoming serious and grave conditions. [Verse No.12-13]
+ * Significance of dreams in prodromal symptoms and fatal consequences have been described which need further study and research. All the three dosha should be excessively vitiated and should involve Manovaha Srotas, i.e. channels associated with mind for producing such kind of dreams.
+
+## Vidhi Vimarsha (Applied Inferences)
+
+### Contemporary views
+
+In present era we do not predict prognosis by prodromal symptoms except in few cases as prodromal symptoms are not exactly known in most of the diseases. Due to ambiguity, prodromal symptoms are not considered reliable and this might be the reason they are not given importance in disease diagnosis and prognosis. [Verse No.3-5] 
+
+### Bad prognostic signs
+
+In the example of tuberculosis, if person is severely debilitated and then consumption is occurring then there are more chances that he will succumb to disease. Persistence of cause like sexual indulgence in such condition will further precipitate the possibility of fatality. Here one point is noticeable that rhinorrhea is not a symptom of tuberculosis. It can occur as complication of extra-pulmonary tuberculosis which may lead to bony erosion, out-pouching of the dura, CSF leak, and subsequent bacterial meningitis which is a fatal condition. This condition suggests that if severe complications are occurring earlier than manifestation of cardinal feature of the disease, it indicates poor prognosis of disease.[10] This rule applies to all other diseases: if prior health status of person is poor, he continues to partake etiological agents and complications are appearing in very early stage then disease produced in future will be fatal in nature. 
+
+### Relation between dreams and psyche
+
+Horrible dreams in a person indicate the decreased mental strength of the person. ‘Mind’ is component of health and patient can combat diseases easily with strong mind and will power. Disease is always difficult to cure in a depressed person with low will power. This might be a reason why Charak has mentioned importance of dreams while predicting prognosis of any disease. Lifestyle has changed since this text was composed, the type of dreams and their interpretation should also be changed, requiring research. We often give importance to sharira dosha and neglect the importance of manasadosha in causation and continuation of disease process. Perhaps this chapter gives us a scope to view things from different dimension. For all dreams the role of manasa dosha are pivotal. This needs further research [Verse No.6-9] 
+
+### Delirium as a prognostic sign
+
+As per description in verse 10-11, it can be inferred that delirium before bleeding disorders will be fatal for the patient. Important cause of delirium is old age and other risk factors are poor overall health, anemia, malnutrition, underlying medical or neurologic illness etc.[11] If we critically analyze these factors we can infer that each of these will deteriorate general condition of the patient and so even slight bleeding can produce fatal results in such persons. [Verse No.10-11] 
+
+### Skin disease and its prognosis
+
+Kushtha literally means discoloration, disgrace, disfiguration of the normal skin texture. It can be inferred that here kushtha wound refers to non healing ulcers of leprosy. Leprosy is a chronic infectious disease caused by Mycobacterium Leprae, the only pathogenic bacteria able to infect peripheral nerves. About 30% of people with leprosy develop nerve damage. Neural impairment results in a set of sensitive, motor and autonomic disturbances, with ulcers originating primarily on the hands and feet. Neuropathic ulcers are one of the most common squeal of leprosy, but little is known about their clinical and epidemiological aspects.[12] If wounds are occurring before change in normal texture of skin it shows that wounds are occurring in prodromal stage and sensory loss has occurred till this stage and so slight injuries are resulting into wound formation. Such condition will lead to late diagnosis and hence chances of recovery will be minimal. [Verse No.14-15] 
+
+### Psychiatric disorders and its prognosis

@@ -1,0 +1,207 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Questions and debate in conference
+ * 2.2 Properties of _vata dosha_
+ * 2.3 Views of Kumarashira Bharadvaja
+ * 2.4 Aggravating and pacifying factors of _vata dosha_
+ * 2.5 Functions of _vata dosha_
+ * 2.6 Views of Marichi
+ * 2.7 Views of Marichi about functions of agni and _pitta_
+ * 2.8 Views of Kapya about _kapha_ and its functions
+ * 2.9 Concluding remarks by Atreya
+ * 2.10 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Functions of normal vata
+ * 4.2 Operational head of body systems and mechanisms (Vayu tantra yantra dhara)
+ * 4.3 Five functional types of vata (Prana-udana-samana-vyana-apan atma)
+ * 4.4 Initiation of all movements (pravartaka cheshtanam)
+ * 4.5 Control and initiation of functions of mind, sense and locomotor organs
+ * 4.6 Compactness of body by bringing them together (sandhanakara sharirasya)
+ * 4.7 Creating and maintaining proper structure of body components (sarvasharira dhatu vyuhakara)
+ * 4.8 Initiation of speech (pravartaka vachah)
+ * 4.9 Fundamental role in sound and touch perception(prakriti shabda sparshayoh-shrotra sparshanyormulam)
+ * 4.10 Initiation of enthusiasm and exhilaration (Harsha-utsahayo yoni)
+ * 4.11 Stimulation of digestion and metabolism (samirano agne)
+ * 4.12 Absorption of harmful products (Dosha samshoshanah)
+ * 4.13 Excretion (Kshepta bahirmalanam)
+ * 4.14 Division of gross and subtle channels of transportation and transformation (sthulanu strotasam bhetta)
+ * 4.15 Normal shape and size in embryo-genesis (karta garbhakrutinam)
+ * 4.16 Representing vitality and liveliness (ayusho anuvrutti pratyayabhuto)
+ * 5 Related Chapter
+ * 6 References
+
+## Introduction
+
+Understanding of contemporary physiology has gone through several changes and through several stages of evolution, from the standpoint of health and its workings. At first, there used to be a static view of the individual and of specific functions of a body’s constituent organs and tissues. Gradually, it was realized that there was an integrative control mechanism through the nervous system and psychic influences could not be regarded as functioning separately from the body. A study of endocrine secretions led to discoveries of newer processes of physiologic and metabolic conditions having integrative chemical control on the body and subsequently, new light was thrown onto the cellular structure and function. And now it is known that the whole human physiology is an integrated process of interdependent components. The peculiar characteristic of the human body is its capability to modify its internal structure and function to cope up and adapt to changes in the external environment. This capability naturally involves a continuous maintenance of the body structure by means of periodic repair of an organ’s wear and tear and provision of a continuous supply of energy for maintaining the optimal temperature and keeping the various interdependent systems running, so as to help the organism react appropriately to environmental changes within and without the body. The following three systems are integral to every organism, big or small: 
+
+ 1. The system of fluid-balance of the body (or, the water-balance system):- A specific fluid matrix is essential to fulfil the expression of life phenomena. This system maintains the specific consistency and structure of the fluid matrix under the stress of varying environmental factors.
+ 2. The system of agni:- Specific heat (agni) is necessary to digest and assimilate material from the environment, providing for the necessary energy to maintain body heat and the functioning of various organs and systems.
+ 3. The system (or concept) of vital force:- Vital force is essential for the purpose of evolution of organisms as well as their ability to do complex activities, which essentially characterize life and differentiate animate from inanimate entities.
+
+This threefold system has been briefly described by Sushruta as _shabda, archi,_ and _jala santanavata_ meaning the “Organization of vital, thermal and fluid balance”. Within and outside the living body, we can classify all activities and functions grossly into three groups: 
+
+ 1. _Visarga_ (To nourish) - Nourishment is required for the birth, growth and development of living beings, as well as for the evolution of the universe and various objects. It is required for new creations as well as augmentation of existing structures and tissues, union, conjunction, synthesis, anabolism, impletion and various other phenomena that drive evolution.
+ 2. _Adana_ (To consume)- Consumption implies depletion of existing structures and tissues, dissociation or disjunction, division, catabolism, desiccation, reduction, destruction and annihilation of existing structures. Finally, this also indicates death in case of living beings and dissolution of the universe.
+ 3. _Vikshepa_ (To circulate or move)- For all the above functions, various movements are required which form the third group.
+
+In the external world, these activities are performed by the group of _pancha mahabhuta_ i.e. _prithvi, apa, agni, vayu_ and _akasha_. These activities in the external world are guided and controlled by: 
+
+ 1. _Soma_ (The Moon - controls the activities of group 1 (_Visarga_) )
+ 2. _Surya_ (The Sun or Agni – controls the activities of group 2 (_Adana_)) , and
+ 3. _Anila_ (Wind or Air – controls the activities of group 3 (_Vikshepa_)).
+
+In the living body, these activities (nourishment, consumption, and circulation) are going on in a coordinated, systematic and controlled manner continuously. The body constituents that govern these activities are representatives of _soma, surya,_ and _anila_ respectively. These are also called _doshas_ \- 
+
+ * _kapha_ \- represents moon in the body, and is responsible for the activities of _Visarga_.
+ * _pitta_ \- represents sun in the body, and is responsible for the activities of _Adana_ , and
+ * _vata_ \- represents air in the body, and is responsible for the activities of group _Vikshepa_.
+
+Collectively, these are called _tridosha_. Ayurveda studies and understands all the normal and abnormal activities in the human body in terms of the workings of the _tridosha_. This chapter mainly deals with the detailed account of _vata_ , while it also mentions the nature of _pitta_ and _kapha_. 
+
+In Ayurveda, the whole concept of integration of all the above governing factors (the threefold system/organization, etc) and the concept of physical constitution of a human being has been known for thousands of years. The _tridosha_ form the general outline of that constitutional pattern or scheme, and all constructive, integrative, assimilative, recuperative and eliminative processes are studied in terms of the nature and working of the _tridosha_ as an integrated whole. These concepts are all inclusive and form the basis of gaining a complete comprehension of the body-mind processes as a whole. Balanced _tridosha_ leads to good health while its imbalance either quantitatively or qualitatively leads to a diseased state. 
+
+The _tridosha_, when vitiated, are considered as the intrinsic cause of the disease, and they either confer a predisposition to or actually cause morbidities. 
+
+_Doshas_ are susceptible to imbalance and vitiation and in turn they vitiate other structural and functional elements of the body. They are also known as _dhatus_ as they support the body in their state of equilibrium, which represents normalcy. The state of equilibrium of _doshas_ i.e. _samyata_ or _arogata_ is a disease free state. On the contrary, a diseased state is due to a deviation from the state of equilibrium.[1] The unbalanced _doshas_ are also called _malas_ when they start vitiating the body. 
+
+Further in this chapter, it becomes very evident that the functions of _vata dosha_ correspond very much not only to the functions of nervous system but also to functions of any system concerned with regulation, signaling, conduction and control of any information or any system in our body. 
+
+If we observe the following processes of physiology: 
+
+ * Transportation of the digested nutrients to all the tissues of the body for their renewal and replenishment, transportation of oxygen and waste products.
+ * Transport into the cell (either passive or active by some energy pumps or co transport etc.).
+ * Contraction of all muscles in the body (striated, non-striated and cardiac).
+ * Movement of joints.
+ * Retention of various products within the body and their timely removal or excretion.
+ * Division of cells.
+ * Occurrence of one event after another in synchronisation.
+ * Control and integration of occurrence of events only to the desired limit.
+ * Regulation of all events occurring in the body, including the regulation of hormone secretion (by negative or positive feedback) by various mechanisms either through electrical signals or through neuro-hormonal mechanisms within our body are all because of _vata dosha_ as Ayurveda says that _vata_ is the only _dosha_ capable of causing movement (due to _rajas bahulya_) in our body.
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Vatakalakaliya" (Merits and demerits of vata dosha). Thus said Lord Atreya.[1] 
+
+### Questions and debate in conference
+
+The sages who were eager to know about the good and bad properties of _vata dosha_ assembled at a place and framed the following questions for the purpose of discussion among themselves: 
+
+ 1. What are the properties of _vata_ ?
+ 2. What aggravates the _vata dosha_?
+ 3. What are its alleviating factors?
+ 4. How is the _vata dosha_ ,which is unapproachable due to its ethereal and unsteady nature, aggravated and alleviated by its respective factors?
+ 5. What are the functions of aggravated and non aggravated _vata dosha_ which is situated within the body and outside in the loka (universe)?[3]
+
+### Properties of _vata dosha_
+
+Kusha, the descendent of Sankruti, then spoke “roughness, lightness, coldness, instability, coarseness and non-sliminess are the six properties of _vata_.”[4] 
+
+### Views of Kumarashira Bharadvaja
+
+Listening to this, Kumarashira Bhardvaja spoke, “It is, as you have described Sir, these that are the _gunas_ of _vata_. The habitual usage of substances with the above stated identical properties or indulging in activities bringing identical experiential effects brings about the aggravation of _vata dosha_ as the _dhatus_ are enhanced by the habitual usage of similar properties. [5] 
+
+### Aggravating and pacifying factors of _vata dosha_
+
+Kankayana, a physician from Bahlika then spoke “what you have said is correct, Sir. These are truly the _vata_ aggravating factors. Those opposite to it are its alleviating factors, as the alleviating factors are the opposites of the aggravating factors of the _dhatus_ ” Listening to it, Badisha Dhamargava said “It is as you have said, Sir. These are the aggravating and alleviating factors of _vata_. We will now discuss how the non-material and unstable, and thus, the inaccessible _vata_ is aggravated and alleviated. _Vata_ aggravators are those which bring roughness, lightness, coldness, instability, coarseness, non–sliminess and hollowness within the body. The _vata dosha_ gets shelter in such state of the body or its part and gets augmented, resulting in aggravation state. The alleviating factors are again those which bring about unctuousness, heaviness, heat, smoothness, softness, sliminess and compactness in the body. _Vata_ does not get accommodation in such a kind of body and thus gets alleviated.[7] 
+
+### Functions of _vata dosha_
+
+Hearing the scientific explanation of Badisha which was approved by the sages, Varyovida, the royal sage said “Sir, all that you have told is very true and free from any exception and misleading notion. The functions of both the bodily and the external _vata_ , either normal or aggravated, moving within or outside the body will now be described after paying obeisance to lord Vayu, as has been perceived by us through our direct observation, inference and textual knowledge. 
+
+_Vata_ in its normalcy maintains the whole body and its systems, working as _prana, udana, samana,_ and _apana_. It is the initiator of all kinds of activities within the body, the controller and impellor of all mental functions, and the employer of all sensory faculties (helping in the enjoyment of their subjects). It joins the body tissues and brings compactness to the body, prompts speech, is the origin of touch and sound, is the root cause of auditory and tactile sense faculties, is the causative factor of joy and courage, stimulates the digestive fire, and helps in the absorption of the dosha and ejection of the excretory products. Vata traverses all gross and subtle channels, moulds the embryo shape and is the indicator of continuity of life. 
+
+Vata is indivisible and is like an eternal god with no origin. The existence and destruction of all the creatures and their happiness and grief depends on _vata_. It is the God of death, is the controller, regulator, and the lord of all creatures, Aditi (the first one), Vishvakarma (creator of the universe), is _vishvarupa_ (omniform, or with innumerable forms), _sarvaga_ (omni-pervading), the regulator of all actions and thoughts in the universe, is subtle, and is omnipresent. It is lord Vishnu and permeates the whole universe. Lord Vayu alone is God. [8] 
+
+### Views of Marichi
+
+Listening to sage Varyovida, Marichi said- “Though what you have said is true, how is the above description about the qualities of _vata_ applicable to the science of medicine, in the understanding and practical approach to medicine, since this symposium is related to the science of medicine?”. 
+
+The sage Varyovida replied, “If a physician doesn’t understand and realize the qualities of _vata_ \- which is so very powerful, rough, quick and possessing so much destructive power - how will he be able to forewarn a patient well in advance about its disastrous effects and how would he advise about the qualities of the normal _vata_ which are beneficial for good health, improvement of strength and complexion, lustre, growth, attainment of knowledge and longevity? [10] 
+
+### Views of Marichi about functions of agni and _pitta_
+
+Marichi spoke, "Agni of our body is represented by _pitta_ , which in its non-aggravated and aggravated form performs various good and bad functions including digestion or indigestion, vision or loss of vision, normality or abnormality of body heat and complexion, valour, fear, anger, joy, attachment, happiness and other such pairs of opposing qualities."[11] 
+
+### Views of Kapya about _kapha_ and its functions
+
+After listening to Marichi, Kapya spoke, “Soma, the moon or the god of water, is represented by _kapha_ in our body which in its normal and abnormal state performs good or bad activities or functions in our body, such as firmness or sturdiness of the body and looseness of the body, nourishment and leanness, enthusiasm and laziness, potency and impotency, wisdom and ignorance and similar other pair of qualities. [12] 
+
+### Concluding remarks by Atreya
+
+After listening to Kapya, lord Punarvasu Atreya spoke, “All of you have dealt with the various aspects of the subject very well, only with the exception that any generalized statement on the topic has not been made. Actually, all the three _doshas_ (i.e. _vata, pitta_ and _kapha_) in their natural states help in keeping the individual’s sensory faculties normal while enhancing the strength, complexion, happiness and life span of an individual. Just as the proper accomplishment of virtuous deeds (dharma), wealth (_artha_) and desires (_kama_) lead to freedom from the cycle of birth and death (_moksha_), similarly the proper regulation of all these three leads to immense happiness in this world and beyond. On the other hand their vitiation or aggravation leads to undesirable and disastrous effects in the lives of creatures just like the three vitiated seasons. ” 
+
+All the sages agreed to and welcomed the explanation of lord Atreya. 
+
+Thus it is said – listening to the exposition of lord Ātreya, all the sages agreed to and lauded lord Atreya, just as the gods did on hearing lord Indra. [13-15] 
+
+### Summary
+
+The six qualities of _vata_ , two types of causes (aggravating and relieving factors), several functions, and four aspects (related to normalcy and aggravation within the body and outside), as well as the functions of _kapha_ and _pitta_ , views of the sages and conclusion by lord Atreya – all of these has been explained in this chapter on the merits and demerits of _vata_. [16-17] 
+
+Thus ends the twelfth chapter of Sutra Sthana on the merits and demerits of _vata_ , compounded by Agnivesha and redacted by Charak. Thus concludes the _Nirdesha Chatushka_. 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Three _doshas_ , _vata, pitta_ and _kapha_ in their natural state help in keeping the individual’s sensory faculties normal, nourish the strength, complexion, happiness and a long life span.
+ * Out of the three _doshas_ , _vata dosha_ is considered supreme because it regulates all functions in the body including movement of the other two _doshas_ , such as the functions of any system concerned with regulation, signalling, conduction and control of any information or any system in our body.
+ * Qualities of _vata guna_ of _vata_ is classified into three types, viz. _naisargika guna, prakrtika guna_ and _bhautika guna_ :
+ * Cardinal features (_Naisargika guna_ or _pratyatma niyata guna_) of _vata dosha_ is _sparsha_ (touch sensation). Along with this quality, _vata_ possesses the qualities of ether (or the _akasha mahabhuta_) e.g, _shabda_ (sound). Therefore _vata_ possesses _sparsha_ as well as _shabda gunas_ as the process of combination, interrelationship (_anyonyanu pravesha_). 
+ * The _prakritika guna_ (constitutional property) of _vata_ is _rajas guna_ , as it is told to be _rajas bahulya_.
+ * _Bhautika_ means the quality derived from the _mahabhutas_. The _bhautika gunas_ of _vata dosha_ are _ruksha_ (dryness), _sheeta_ (coldness), _laghu_ (lightness), _sukshma_ (minuteness), _chala_ (movement), _vishada_ (clearness) and _khara_ (roughness).
+ * _Vata_ is non-material (_avayavasamghatarahita_) in nature which can also be termed as rarefied in nature and is _anavasthita_ (unstable) too. These two properties are due to its _bhautik muhushchari_ (constantly mobile) composition. _Vata_ is composed of _akasha_ and _vayu_ predominantly.
+ * Agni is represented by _pitta_ , which in its non-aggravated and aggravated form performs various good and bad functions including digestion or indigestion, vision or loss of vision, normality or abnormality of body heat and complexion, valour, fear, anger, joy, attachment, happiness and other such pairs of opposing qualities.
+ * _Soma_ , the moon or the god of water, is represented by _kapha_ in the body which in its normal and abnormal state performs good or bad activities or functions in our body, such as firmness or sturdiness of the body and looseness of the body, nourishment and leanness, enthusiasm and laziness, potency and impotency, wisdom and ignorance and similar other pair of qualities.
+
+## Vidhi Vimarsha (Applied Inferences)
+
+### Functions of normal vata
+
+Vata possesses movement (gati) due to dominance of Vayu mahabhuta and Rajas guna in its basic composition. It caused division of body components due to its dividing function(vibhajati). Vata possesses the following 16 kala (functional properties) as described below. 
+
+### Operational head of body systems and mechanisms (Vayu tantra yantra dhara)
+
+_Tantra_ (System) implies sharira here, meaning the whole of the body system. _Yantra_ (organs) refer to parts of the _tantra_ , such as joints. Vata is the basis of this _tantra_ and _yantra_ as it is the initiator and the regulator of the overall system as well as its constituent parts. 
+
+_Vata_ is the one which monitors homeostasis between: 
+
+ * Apparatus and operator,
+ * Cell and its constituents,
+ * Cell and tissue,
+ * Tissue and organ, and
+ * Organ and the system,
+
+It maintains common homeostasis and regulation within the body. 
+
+### Five functional types of vata (Prana-udana-samana-vyana-apan atma)
+
+With the help of the five lieutenants of vata: 
+
+ * _Prana_ (predominance of _akasha_)– propensity to assimilate
+ * _Apana_ (predominance of _prithvi_)- propensity to eliminate, aversion and ejection
+ * _Samana_ (predominance of _agni_)- analyzing the ability to assimilate and get eliminated i.e. _sara_ (nourishing part) and _kitta_ (waste products)
+ * _Vyana_ (predominance of _vayu_)- circulation in body
+ * _Udana_ (predominance of water) -functional utilization
+
+Ayurvedic scholars study each of these types of _vata_ in depth. In the aforementioned section, we have given a few examples for ease of understanding. 
+
+### Initiation of all movements (pravartaka cheshtanam)
+
+Or, the initiator of different types of (higher and lower, visible and invisible, motor and sensory) functions of _vata_. Some aspects of modern medical science may be utilized for the purposes of developing an understanding of the above stated functions of _vata dosha_ and also other functions, which have been described in further parts of the verses stated below. 
+
+### Control and initiation of functions of mind, sense and locomotor organs
+
+The function "Niyanta Praneta cha manasa Sarvendriayanamudyojaka Sarvendriyarthanam abhivodha" can be observed as below: 
+
+ * Employs the sense organs
+ * Carries the extrinsic object from the nature
+ * For conversion to the intrinsic subjects
+ * Then to the knowledge
+ * Controller and conductor of the _manas_ (mind) with the help of _Indriyartha –indriya – indriyaadhishthana – indriyadravya – indriyabuddhi_
+ * Conversion of _indriyartha_ into _manoartha_ and then into the knowledge.
+
+_Vata_ is regarded as the carrier of objects to their sense faculties and is the direct cause of skin and tactile sensation, without which no other sense faculty can enjoy their recipients perception. [Cha.Sa.Sutra Sthana 11/38] 
+
+All the sensory faculties are felt and respond only when they are conducted from the sensory point to the brain and are interpreted there. This whole process needs stimulation of one point after another which can occur through some connections which may be occurring through various mechanisms. 

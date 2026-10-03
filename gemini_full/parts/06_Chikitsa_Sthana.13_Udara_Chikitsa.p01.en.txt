@@ -1,0 +1,257 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Description of patient of _udara roga_
+ * 2.2 Pathogenesis of _udara roga_
+ * 2.3 Etiology of _udara roga_
+ * 2.4 Premonitary symptoms
+ * 2.5 General pathogenesis of _udara roga_
+ * 2.6 General Symptoms of _udara roga_
+ * 2.7 Classification of _udara roga_
+ * 2.8 Etiology of _vatodara_
+ * 2.9 Pathogenesis of _vatodara_
+ * 2.10 Symptoms of _vatodara_
+ * 2.11 Etiology of _pittodara_
+ * 2.12 Pathogenssis of _pittodara_
+ * 2.13 Symptoms of _pittodara_
+ * 2.14 Etiology of _kaphodara_
+ * 2.15 Pathogenesis of _kaphodara_
+ * 2.16 Symptoms of _kaphodara_
+ * 2.17 Etiology of _sannipatodara_
+ * 2.18 Pathogenesis of _sannipatodara_
+ * 2.19 Symptoms of _sannipatodara_
+ * 2.20 Etiology of _plihodara_
+ * 2.21 _Samprapti_ of _plihodara_
+ * 2.22 Symptoms of _plihodara_ and _yakritodara_
+ * 2.23 Etiology of _baddhodara_
+ * 2.24 Pathogenesis of _baddhagudodara_
+ * 2.25 Symptoms of _baddhagudodara_
+ * 2.26 Causes of _chhidrodara_
+ * 2.27 Pathogenesis of _chhidrodara_
+ * 2.28 Symptoms of _chhidrodara_
+ * 2.29 Etiopathogenesis of _jalodara_
+ * 2.30 Symptoms of _udakodara_
+ * 2.31 Consequences of not treating _jalodara_ at early stage
+ * 2.32 Prognosis of _udara roga_
+ * 2.33 Symptoms of _ajatodaka udara roga_
+ * 2.34 Treatment of _vatodara_
+ * 2.35 Post _virechana_ regimen
+ * 2.36 Role of _asthapana basti_
+ * 2.37 Role of _anuvasana [[basti\\\_
+ * 2.38 _Dashamula niruha basti_
+ * 2.39 Indications for palliative (_shamana_) treatment
+ * 2.40 Treatment of _pittodara_
+ * 2.41 Treatment of _kaphodara_
+ * 2.42 Treatment of _sannipatodara_
+ * 2.43 Predominant symptoms of _dosha_ in _plihodara_ (splenomegaly)
+ * 2.44 Treatment of _plihodara_
+ * 2.45 _Pippalyadi churna_
+ * 2.46 _Vidangadi kshara_
+ * 2.47 _Rohitakadi yoga_
+ * 2.48 _Rohitaka ghrita_
+ * 2.49 _Agnikarma_ (cauterization)
+ * 2.50 Treatment of _pitta_ dominated _plihodara_(splenomegaly)
+ * 2.51 Treatment of _baddhagudodara_
+ * 2.52 Treatment of _Chhidrodara_
+ * 2.53 Treatment of _jalodara_
+ * 2.54 Healthy diet for _udara roga_
+ * 2.55 Do’s and Don’ts
+ * 2.56 Therapeutic use of _takra_ (buttermilk) in _udara roga_
+ * 2.57 Use of milk in _udara roga_
+ * 2.58 Application of paste on abdomen
+ * 2.59 _Parisheka_ in _udara roga_
+ * 2.60 _Panchakola ghrita_
+ * 2.61 _Nagaraadi ghrita_
+ * 2.62 _Chitraka ghrita_
+ * 2.63 _Yavadi ghrita_
+ * 2.64 _Virechana_
+ * 2.66 _Gavakshyadi churna_
+ * 2.67 _Narayana churna_
+ * 2.68 _Hapushadya churna_
+ * 2.69 _Nilinyadi churna_
+ * 2.70 _Snuhi kshira ghrita_
+ * 2.71 Management following _virechana_
+ * 2.72 _Shamana_ (palliative) treatment
+ * 2.73 _Pippalyadi lavana_
+ * 2.74 _Kshara vatika_
+ * 2.75 _Yavagu_ for treatment of _udara roga_
+ * 2.76 Treatment of constipation
+ * 2.77 Treatment of _parshva shula_
+ * 2.78 _Kshara taila_
+ * 2.79 _Eranda taila_ in _avarana_
+ * 2.80 Use of _venum_ in the treatment of _sannipatodara_
+ * 2.81 Surgical measures
+ * 2.82 Surgical Intervention in _jalodara_
+ * 2.83 Importance of milk diet
+ * 2.84 Summary of the chapter
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Etiopathogenesis
+ * 4.2 Types of _udara roga_
+ * 4.3 _Vatodara_
+ * 4.4 _Pittodara_
+ * 4.5 _Kaphodara_
+ * 4.6 _Sannipatodara_
+ * 4.7 _Plihodara_ and _Yakritodara_
+ * 4.8 _Baddhagudodara_
+ * 4.9 _Kshatodara_
+ * 4.10 _Parisravi udara_
+ * 4.11 _Chhidrodara_
+ * 4.12 _Jalodara_
+ * 4.12.1 Current Clinical Management
+ * 5 References
+
+## Introduction
+
+Generalized enlargement of the abdomen is _udara roga_ and due to similarity of this symptom i.e. bulging (_utsedha_), this chapter follows the chapter on _shvayathu_ (edema). Out of eight types of _udara roga_ viz. _vataja, pittaja, kaphaja_ and _sannipataja_ are regarded as _dosha_ dominant _udara roga_. In contrast to this _plihodara_ (splenomegaly), _baddhodara_ (enlargement of abdomen due to gastrointestinal obstruction), _kshatodara_ (abdominal enlargement due to intestinal perforation) and _jalodara_ (enlargement of abdomen due to collection of fluid) are regarded as _dushya_ dominant _udara roga_. Again, _baddhodara_ and _chhidrodara_ are considered as _agantuja_ (exogenous disease) and the remaining six types of _udara roga_ are enlisted as _nija_ (endogenous disease). Vitiation of morbid _dosha_ obstructing the channels in the abdomen and leading to fluid accumulation are the predominant features of pathogenesis of _udara roga_. Various purification treatments including therapeutic purgation, enema and surgical intervention to remove excess fluid are described in the chapter. The medications to pacify morbid _dosha_ with strict dietary guidelines are treatment measures of _udara roga_. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Udara chikitsa" (Management of generalized enlargement of abdomen). Thus said Lord Atreya [1-2] 
+
+Sage Punarvasu was residing in Mount Kailasa (which is similar to _Nandana Vana_) and was accompanied with _Siddha_ (a group of highly skilled individuals possessing eight supernatural faculties) and _Vidhyadara_ (the possessor of knowledge of science/super human personality is termed _Vidyadhara_). In Mount Kailasa, Sage Punarvasu was seated like very embodiment of _dharma_ (righteousness) and was engaged in practicing austerity. Sage Punarvasu is the foremost among those who are proficient in the knowledge of Ayurveda and involved in promulgating the science of medicine. Agnivesha spoke addressing to such self controlled great sage Punarvasu. [3-4] 
+
+### Description of patient of _udara roga_
+
+Sage Agnivesha addressing Punarvasu, said “Oh Lord!” it is observed that the patient of _udara_ suffers from dryness of the mouth, emaciation of body, distension of abdomen and flanks, impaired digestion, loss of physical strength, inability to consume food, inability to perform any physical activities and depression; such patients sooner or later die due to the illness in the absence of treatment just like an orphan. I wish to hear the proper description of this disease from my teacher Lord Punarvasu in regards to its etiology, the number, the premonitory symptoms, clinical presentation and treatment. [5-7] 
+
+Enthused by the student’s questioning, Lord Punarvasu spoke about the beneficial topics for the well being of human. [8] 
+
+### Pathogenesis of _udara roga_
+
+Abnormalities of _jatharagni_ (digestive power) leads to the morbid accumulation of the _mala_ (_dosha_ and bodily wastes) and in turn tend to cause multiple diseases and particularly _udara roga_. In the state of impaired _jatharagni_ consumption of unhealthy foods further leads to indigestion and eventually causes accumulation of morbid substances. Thus formed morbidity afflicts the functioning of _prana vata, agni_ as well as _apana vata_ which in turn obliterates the channels tending upwards and downwards. Due to this obliteration of channels, finally the morbid _dosha_ tend to divulge and penetrate the space between the skin and flesh and gets accumulated there. This accumulation leads severe distention of the abdomen and causes serious disease _udara roga_. Hereafter etiology and clinical symptoms of the same have been narrated. [9-11] 
+
+### Etiology of _udara roga_
+
+Consumption of foods that are excessively hot in property, excessive consumption of salty foods, excessive intake of foods containing solutions of _kshara_ (alkali obtained from ash of herbs), excessive intake of foods that cause burning sensation on digestion, excessive consumption of foods that are sour in taste, consumption of _garavisha_ (intentional application of poison or poison synthesized by combination of nontoxic substances), erroneous dietary management following _shodhana_ treatment, excessive consumption of foods having _ruksha_ (dry) property, intake of _viruddha ahara_ (combination of foods having mutually contradictory properties), consumption of unhealthy foods, emaciation due to splenic enlargement, emaciation due to _arshas_ (mass per rectum), emaciation due to _grahani roga_ (malabsorption), improper administration of Panchakarma, ignorance of persistent illness without treatment, dryness of the body, withholding the naturally manifesting urges, morbidity of body channels, illness of _ama_ (undigested food), psychological irritation, excessive consumption of foods, obstruction of the ano-rectal canal by the _arshas_ (mass per rectum), impaction of hair within the lumen of the intestines, impaction of hardened stools within the intestines, perforation or rupture of intestines, excessive accumulation of morbidity, indulging in sinful activities, these causes will lead to development of _udara roga_ and among these more particularly the impairment of _jatharagni_. [12-15] 
+
+### Premonitary symptoms
+
+Loss of appetite, delayed digestion of foods that are sweet, greasy and heavy for digestion, food consumed causing burning sensation, inability to appreciate the digestion and indigestion of the food, intolerance to over eating, slight edema in the feet, constant reduction in the physical strength, breathlessness even on slight exertion, abdominal distension due to accumulation of fecal matter resulting due to dryness or _udavarta_ (abnormal upward course of _vata_), abdominal pain, fullness of the abdomen, distension of the abdomen or bursting type of abdominal pain at the site where bladder meets the surrounding, distension of the stomach even after small meals, appearance of distended veins and loss of normal skin folds are the premonitory symptoms of _udara roga_. [16-19] 
+
+### General pathogenesis of _udara roga_
+
+Morbid _dosha_ by obstructing the channels of _sweda_ (sweat) and _udaka_ (body fluid) and afflicting the _prana vata, agni_ and _apana vata_ causes _udara roga_. [20] 
+
+### General Symptoms of _udara roga_
+
+Distension and gurgling sound in the abdomen, edema of hands and feet, impaired digestion, smooth shiny cheeks and emaciation are the common symptoms of _udara roga_. [21] 
+
+### Classification of _udara roga_
+
+Three types of _udara_ caused by each morbid _dosha_ , one type of _udara_ caused by morbidity of all three _dosha, plihodara_ (splenomegaly), _baddhodara_ (enlargement of abdomen due to gastrointestinal obstruction), _kshatodara_ (abdominal enlargement due to intestinal perforation) and _udakodara_ (enlargement of abdomen due to collection of fluid) are the eight types of _udara_. Listen to the characteristic symptoms each of these types of _udara roga_. [22]. 
+
+### Etiology of _vatodara_
+
+Among the etiological factors of _udara roga_ is intake of dry food articles, consumption of inadequate amount of food, exertion, suppression of naturally manifesting urges, abnormal upward course of _vata_ and weight reducing activities like walking or lifting weight causes _vatodara_. [23] 
+
+### Pathogenesis of _vatodara_
+
+Due to the etiological factors _[vata]]_ gets aggravated which assumes abnormal course and reaches the _kukshi_ (lower abdomen), _hridaya_ (chest), _basti_ (pelvis) and _gudamarga_ (rectum). Again the morbid _vata_ further impairs the _agni_ (digestive enzymes) and draws out the _kapha_. Thus morbid _kapha_ in turn obstructs the morbid _vata_. Eventually the obstructed _vata_ gets diverged in to the space between the skin and visceral tissues in the abdomen leading to distension of the abdomen and _udara roga_. [23-24] 
+
+### Symptoms of _vatodara_
+
+The symptoms of _vatodara_ include distension of abdomen, edema of the hands, legs and scrotum, splitting type of pain in abdomen, undue increase and decrease of abdominal distension, abdominal pain, pain in the sides of the abdomen, abnormal upward course of _vata_ within abdomen, body ache, pain in phalangeal joints, dry cough, emaciation, debility, lack of taste in mouth, indigestion, heaviness in the lower abdomen, obstructed flatus, constipation, retention of the urine, brown or reddish black discoloration of the nails, brown or reddish black discoloration of the conjunctiva, buccal mucosa, dermis, urine and fecal matter; abdominal wall possessing thin, blackish stretch lines and vessels, tympanic note on percussion similar to the sound produced on tapping air filled leather bag or bladder and upward, downward and lateral painful movement of _vata_ with gurgling sound within the abdomen. [25] 
+
+### Etiology of _pittodara_
+
+Etiological factors of _pittodara_ are excessive consumption of foods having pungent taste ans sour taste, salty foods, foods having _ushna_ (hot) and _tikshna_ (sharply acting) properties, exposure the heat of fire place, exposure to sunshine, consumption of foods that cause burning sensation whilst getting digested, pre-digestion meals and indigestion. [26] 
+
+### Pathogenssis of _pittodara_
+
+Due to the etiological factors pitta gets aggravated, which assumes abnormal upward course and obstructs the _vata_ and _kapha_. Further the morbid _pitta_ by suppressing the _agni_ situated in stomach causes _pittodara_. [27] 
+
+### Symptoms of _pittodara_
+
+The symptoms of _pittodara_ are burning sensation, fever, excessive thirst, transient loss of consciousness, diarrhea, giddiness, abnormal pungent taste in mouth, abnormal green or yellowish discoloration of nails, conjunctiva, mouth, dermis, urine and feces, abdominal wall covered with bluish, yellowish, greenish or coppery stretch marks and distended veins, burning sensation of the abdominal wall, abdomen becoming warm, subjective symptoms of smoke emitting from the abdomen, subjective feeling of abdominal warmth as if fire in near place, abdominal sweating, moistening of the abdomen, abdomen appears soft on palpation and the illness rapidly progressing to ascites. [28] 
+
+### Etiology of _kaphodara_
+
+Indulgence in the factors such as lack of physical exercise, day sleep, excessive consumption of sweet, greasy and slimy foods, curds, milk, liquids and meat of wet land animals causes _kaphodara_. [29] 
+
+### Pathogenesis of _kaphodara_
+
+The etiological factors lead to the morbidity of _kapha_ which obstructs the body channels that include obliteration of the passage of _vata_. Thus obstructed _vata_ expels the morbid _kapha_ out of the intestines causing distension of the abdomen. [30] 
+
+### Symptoms of _kaphodara_
+
+The symptoms of _kaphodara_ are heaviness of the body, lack of taste in the mouth, indigestion, body ache, numbness, edema of the hands, feet, scrotum and thighs, nausea due to morbid _dosha_ located in the chest, sleepiness, cough, dyspnea, whitish discoloration of nails, conjunctiva, mouth, skin, urine and feces, abdominal wall covered with whitish stretch marks, whitish distended veins, subjective feeling of heaviness and stillness of the abdomen, unwavering abdomen with hardness of the abdomen. [31] 
+
+### Etiology of _sannipatodara_
+
+The etiological factors such as person with impaired _agni_ (digestive power) indulging in unhealthy food habits and consuming foods that are inadequately cooked, taking food articles having mutually contradictory properties, eating foods that are heavy for digestion, consumption of food adulterated with dust, hair, feces, urine, bone and nails which is offered by a wicked lady and slow poisoning by the intake of _dushivisha_ (chronic poisoning) cause _sannipatodara_. [32] 
+
+### Pathogenesis of _sannipatodara_
+
+Exposure to the etiological factors lead to morbidity of all three _dosha_ , which gradually accumulates in the abdomen causing _sannipatodara_. [33] 
+
+### Symptoms of _sannipatodara_
+
+The symptoms of _sannipatodara_ are manifestation of symptoms pathognomonic of all three _dosha_ , variegated abnormal coloration of nails and other body parts pathognomonic of all three _dosha_ and appearance of stretch marks and veins having variegated color pathognomonic of morbidity of all three _dosha_. This illness is regarded as _sannipatodara_. [34] 
+
+### Etiology of _plihodara_
+
+The _plihodara_ is caused by activities like travelling excessively in vibrating vehicle, heavy exercises that involve violent jerky movements of the body and are done immediately after the meals, excessive sex, lifting heavy objects, indulging in heavy walking, excessive vomiting and emaciation due to chronic illness [35]. 
+
+### _Samprapti_ of _plihodara_
+
+Afflicted by the jerky movements of the body etc, the spleen located in the left side(flank or left hypochondriac region) enlarges and descends to cause enlargement of the abdomen; or else, a variety of dietary factors leading to increment and morbidity of _rasa, rakta_ etc. which in turn causes enlargement of the spleen. Enlarged spleen distends the abdomen causing _plihodara_ [36]. 
+
+### Symptoms of _plihodara_ and _yakritodara_
+
+Patient suffers from progressive enlargement of the spleen. Initially the enlarged spleen is palpable as a hard mass identical to the oval metal ball used by blacksmiths. The surface of the spleen appears smooth similar to the dorsum of the tortoise. If left untreated the enlarging spleen encroach the whole abdomen including the abode of _agni_ [37]. 
+
+The symptoms of _plihodara_ include debility, lack of taste in mouth, indigestion, constipation, retention of urine, darkness in front of the eyes, excessive thirst, body ache, vomiting, transient loss of consciousness, tiredness in the body parts, cough, dyspnea, mild fever, flatulence, loss of appetite, emaciation, abnormal taste in the mouth, pain in joint of the digits, abdominal pain due to morbid _vata_ , abnormal pinkish coloration of the abdomen, discoloration of the abdominal wall and the abdominal wall shows bluish greenish yellowish linear stretch marks. 
+
+In the similar manner the enlarged liver located at right flank(hypochondriac) region causes distention of the abdomen. As the etiology symptoms and treatment of enlarged liver is identical to the _plihodara, yakritodara_ is included in the _plihodara_. This is regarded as _plihodara_ [38]. 
+
+### Etiology of _baddhodara_
+
+_Baddhodara_ is caused by the obliteration of the passage of stools due to consumption of the food admixed with feathers of birds or human hair, _udavarta_ (reversed course of _vata_ in abdomen), due to _arshas_ (ano-rectal mass lesion) and intussusception of the intestines [39]. 
+
+### Pathogenesis of _baddhagudodara_
+
+Obliteration of the passage of colon leads to morbidity of _apana vata_ which in turn impairs the functioning of the agni as well as obstructs the excretion of stools and obliterates the movement of _pitta_ and _kapha_. Eventually the patient suffers from the _baddhagudodara_ [40]. 
+
+### Symptoms of _baddhagudodara_
+
+Symptoms of _baddhagudodara_ are excessive thirst, burning sensation, fever, dryness of the mouth, dryness of the palate, tiredness in the thighs, cough, breathlessness, debility, lack of taste in mouth, indigestion, constipation, retention of the urine, abdominal distention, vomiting, sneezing, headache, chest pain, pain in the umbilical region and rectum, absence of gurgling sound in the abdomen, abdominal wall covered with pinkish and bluish stretch marks, visible veins, probably the stretch marks and visible veins occur above the umbilicus in the shape of cow tail, or else there may not be any stretch marks [41]. 
+
+### Causes of _chhidrodara_
+
+Consumption of food contaminated with sand particles, straw, pieces of wood, bone and thorn, or else yawing with stretching of the body as well as excessive intake of food causes injury to intestine lead to _chhidrodara_ [42]. 
+
+### Pathogenesis of _chhidrodara_
+
+Contaminated food causes perforation of the intestines, which undergoes suppuration. Or else the suppuration of the intestines may happen due to yawing or excessive food which in turn leads to perforation. Perforation of the intestines further causes leaking out of the chyle from the intestines, which tends to move into the dependent parts of the abdomen filling the intestinal and rectal parts. Eventually the accumulation of the fluids in the lower abdomen manifests in _chhidrodara_ [43]. 
+
+### Symptoms of _chhidrodara_
+
+The symptoms include distension of the abdomen mostly below the umbilicus due to accumulation of the fluids. Patient may suffer from a variety of symptoms according to the degree of morbidity of each _dosha_. Patient excretes reddish, bluish, yellowish, mucous mixed with foul smelling and unformed stools. Patient suffers from hiccough, cough, breathlessness, thirst, altered state of consciousness, tastelessness in mouth, indigestion and debility. These are indicative of _chhidrodara_ [44]. 
+
+### Etiopathogenesis of _jalodara_
+
+Excessive consumption of water on occasions like oral medication with medicated ghee, impaired state of _agni_ , debility and emaciation causes destruction of digestive power and vitiation of _vata_ situated at _kloma_. [45]. 
+
+These vitiated factors obliterate _udaka-vaha-srotas_. Thus obliterated _kapha_ mixed water further increases the fluid contents which by disloging from its site and accumulating in abdomen produce _jalodara_ [46]. 
+
+### Symptoms of _udakodara_
+
+The symptoms of _udakodara_ (_jalodara_) includes lack of interest to take food, excessive thirst, mucus discharge from anus, abdominal pain, breathlessness, cough, debility, abdomen with stretch marks and distended variegated veins, fluid thrill and dull percussion note identical to the one seen in leather bag filled with water [47]. 
+
+### Consequences of not treating _jalodara_ at early stage
+
+_Udara roga_ of recent origin having no complications and without signs of fluid accumulation should be immediately treated. If left untreated, the morbid _dosha_ gets displaced and liquefied, moistens the joints as well as body channels, obstructs the external channels and thus mobilizes the fluid into the abdomen. 
+
+The accumulated fluid in the abdomen thus become turbid and leads to the symptoms like globular distension of the abdomen, subjective feeling of heaviness in the abdomen, still abdomen with absence of gurgling sound, dull note on percussion, soft abdomen on palpation, disappearance of stretch marks and distended veins spreading around the umbilicus. 
+
+This is followed by appearance of fluid in the abdomen. The symptoms include huge distension of abdomen, disappearance of the distended veins, distended abdomen producing dull note on percussion and cystic on palpation identical to the one seen in leather bag filled with water. 
+
+On appearance of the fluid the patient may suffer several complications that include vomiting, diarrhea, asthma, excessive thirst, breathlessness, cough, hiccough, debility, pain in the sides of the abdomen, tastelessness in mouth, hoarseness of voice and retention of urine and in this state it is incurable [48-49]. 
+
+### Prognosis of _udara roga_
+
+Among the list of _vatodara, pittodara, kaphodara, plihodara, sannipatodara_ and _jalodara_ (ascites); the later ones are more and more difficult to cure. After a fortnight the _baddhodara_ (enlargement of abdomen due to gastrointestinal obstruction) and _udara_ that presents with accumulation of fluid are incurable. Mostly _chhidrodara_ (enlargement of abdomen due to intestinal perforation) is fatal. The treatment should be avoided in patients of _udara_ presenting with peri-orbital edema, distorted genitalia, moistening and thinning of the skin, severe reduction in the physical strength, severe depletion in the blood, severe wasting of the body flesh and severe impairment in the _agni_. 
+
+The development of symptoms like edema involving all vital parts, breathlessness, hiccough, tastelessness in the mouth, transient loss of consciousness, vomiting and diarrhea kills the patients of _udara roga_. 

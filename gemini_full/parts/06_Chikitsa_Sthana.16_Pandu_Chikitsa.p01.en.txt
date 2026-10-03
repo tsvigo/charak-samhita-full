@@ -1,0 +1,266 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Five types of _pandu_
+ * 2.2 Pathogenesis of pandu
+ * 2.3 General etio-pathogenesis of _pandu_
+ * 2.4 Premonitory symptoms
+ * 2.5 General symptoms of _pandu_
+ * 2.6 _Vatika pandu_
+ * 2.7 _Paittika pandu_
+ * 2.8 Kaphaja pandu
+ * 2.9 _Tridoshaja pandu_
+ * 2.10 _Mrittika bhakshana pandu_
+ * 2.11 Prognosis of _pandu_
+ * 2.12 _Koshthashakhashraya kamala_
+ * 2.13 _Kumbha kamala_
+ * 2.14 Bad prognostic symptoms of _kamala_
+ * 2.15 Principles of treatment
+ * 2.16 _Dadimadya ghritam_
+ * 2.17 _Katukadyam ghritam_
+ * 2.18 _Pathya ghritam_
+ * 2.19 _Danti ghritam_
+ * 2.20 _Drakshaghritam_
+ * 2.21 _Haridradi ghritam_
+ * 2.22 _Darvyadi ghritam_
+ * 2.23 Preparations for _pandu roga_
+ * 2.24 _Navayasa churnam_
+ * 2.25 _Mandura vataka_
+ * 2.26 _Tapayadi lauha_
+ * 2.27 _Yogaraja_
+ * 2.28 Various formulations
+ * 2.29 Shilajatu Vataka
+ * 2.30 Punarnava Mandura
+ * 2.31 Darvyadi leha and other two recipes
+ * 2.32 _Dhatryavaleha_
+ * 2.33 _Mandura vatakah_
+ * 2.34 _Gaudo arishta_
+ * 2.35 _Beejakarishta_
+ * 2.36 _Dhatryarishta_
+ * 2.37 Medicated water
+ * 2.38 Principles of treatment according to dosha
+ * 2.39 Treatment of _mrittika bhakshanajanya pandu_
+ * 2.40 _Shakhashrita kamala_ (_kamala_ in body tissue with obstructive pathology)
+ * 2.41 Treatment of _shakhashriat kamala_
+ * 2.42 _Haleemaka_ (obstructive jaundice)
+ * 2.43 Treatment of _haleemaka_
+ * 2.44 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Pathological factors
+ * 4.2 General considerations
+ * 4.3 Etiological factors observed in present era
+ * 4.3.1 Diet
+ * 4.3.2 Lifestyle
+ * 4.3.3 Psychological factors
+ * 4.3.4 Iatrogenic factors
+ * 4.3.5 Pathophysiology
+ * 4.3.6 Clinical features and conditions resembling the disease
+ * 4.3.7 Signs
+ * 4.3.8 Symptoms
+ * 4.3.9 Differentiating features of _dosha_ dominance
+ * 4.3.10 Consequences of dhatu kshaya
+ * 4.3.11 List of diseases with features as observed in _pandu_
+ * 4.4 _Kamala_
+ * 4.4.1 Types of _kamala_
+ * 4.4.2 1\. _Shakhashrita Kamala/Alpa_ pitta (_Dhatu ashrita_)
+ * 4.4.3 2\. _Kostha Shakhashrita Kamala/bahu_ pitta (_Maha Srotasashrita_)
+ * 4.5 _Haleemaka_
+ * 4.6 _Panaki_
+ * 4.7 _Kumbha Kamala_
+ * 4.8 Management of Diseases (Treatment Protocols)
+ * 4.8.1 Current clinical practices in treatment of _pandu_ and _kamala_ ( referred from Chikitsa Pradeep)
+ * 4.8.2 Evidence based clinical practices
+ * 4.9 Research studies on _pandu_
+ * 4.10 Principle of treatment for _kamala_
+ * 4.11 List of Research Works done
+ * 4.12 IPGT&RA, Jamnagar
+ * 4.13 Banaras Hindu University, Varanasi
+ * 4.14 National Institute of Ayurveda, Jaipur and others
+ * 4.15 Potential areas /scope for further research
+ * 5 References
+
+## Introduction
+
+After the description of _grahani dosha_ , the chapter on _pandu roga_ is given, as the causative factors of _pandu roga_ are quite similar to that of _grahani dosha_. Probably it is because that the various gastrointestinal problems can also lead to development of _pandu roga_. The chapter deals with general discoloration of the body such as pallor, yellowish, greenish and whitish discoloration which is seen in skin, eyes, lips, face, nails, urine feces etc. 
+
+_Kamala_ (jaundice) and _haleemaka_ (severe obstructive jaundice) have also been included in this chapter as they are also characterized by the discoloration and may relate to _pandu roga_. _Kamala_ is of two types, _swatantra_ (primary) and _partantra_ (secondary). The etiological factors of _primary kamala_ are described later. Secondary _kamala_ develops in chronic phase of _pandu_ in which vitiated pitta is seated in rasa dhatu and in kamala, pitta goes deeper in rakta dhatu and continues to go deeper in mamsa dhatu and meda dhatu, then it is called _haleemaka_ and _kumbha kamala_ respectively. 
+
+_Kamala_ is of two types in repect to location, _shakhshrita kamala_ located in body tissues in the form of obstructed pitta and _koshthashrita kamala_ , localized to gut and can be easily removed by purgation while _shakhashrita kamala_ needs to be brought to gut for removal. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Pandu Chikitsa" (Management of Anemia and diseases due to blood deficiency). Thus said Lord Atreya. [1-2] 
+
+### Five types of _pandu_
+
+Pandu roga is classified into five types as vatika, paittika, kaphaja, tridoshaja and mrittika bhakshhana janya pandu [3] 
+
+### Pathogenesis of pandu
+
+Aggravated pitta predominant dosha vitiates the dhatu. This vitiation of dhatu cause sluggishnesss (_shithilata_) and heaviness (_gaurava_) in the dhatu resulting in diminution of complexion (_varna_), strength (_bala_), unctuousness (_sneha_) and the qualities of ojas. Thus, the person develops diminished blood (_rakta_) and the fatty tissue (meda dhatu) and absence of the vitality of all the tissues (_nihsara_) decreases functional status of sense organs (_sithilendriyah_) and discoloration of the body. Hetu (etiological factors and pathogenesis) and the sign and symptoms of the disease will be explained hereafter [4-6] 
+
+### General etio-pathogenesis of _pandu_
+
+Followings are the etiological factors of _pandu_ : 
+
+ * The (excessive) intake of alkaline, sour, saline, hot and mutually contradictory foods, unwholesome food, _nishpava_ (a type of pulses), _masha, pinyaka_ (oil cake) and _tila_ oil;
+ * Indulging in day sleep, performing exercise and sex before digestion of the food;
+ * Improper administration of Panchakarma measures (_pratikarma vaishamya_) and the disobedience of the seasonal regimens (_ritu vaishamya_)
+ * Suppression of the natural urges
+ * Affliction of mind with passion, worry, fear, anger, grief
+
+Indulgence in the above factors aggravates pitta seated in the cardiac region and then this pitta is forcefully propelled by the vata into the ten _dhamanis_ (attached to the heart) and further into the whole body. There, it gets located in between the _tvacha_ (skin) and the mamsa dhatu (flesh) and additionally vitiates the kapha, vata, rakta, tvacha and mamsa dhatu resulting in the development of various discolorations in the body like _pandu_ (pale), _haridra_ (yellow),and _harita_ (green). This is called as _pandu roga_ [7-11½] 
+
+### Premonitory symptoms
+
+The premonitory symptoms of the disease are palpitations, ununctuousness, absence of sweating and fatigue [12] 
+
+### General symptoms of _pandu_
+
+On developing _pandu roga_ the patients have the symptoms of tinnitus, low digestion, weakness, prostration, disliking for food, fatigue, giddiness, pain in the body, fever, dyspnea, heaviness and anorexia. The patient feels as if the limbs are being kneaded, pressed or churned; develops peri-orbital swelling, greenish complexion and falling of body hair. The person loses his body luster, becomes irritable, dislikes cold things, feels sleepy, spits in excess, avoids speaking, suffers from cramps in the calf region and experiences excessive fatigue as well as pain and weakness in the lumbar region, thighs and feet specifically by exertion while climbing [13-16] 
+
+The signs and symptoms specific to each variety of _pandu_ will be described henceforth. 
+
+### _Vatika pandu_
+
+Indulging in vata increasing diet and regimens aggravates vata leading to _vatika pandu roga_. The skin of the patient becomes blackish dawn colored and ununctuous. Its other symptoms are malaise, ache, pricking pain, tremor, pain in both the sides of the chest, headache; dried feces, distaste in the mouth; swelling, gaseous distention of the abdomen and weakness [17-18] 
+
+### _Paittika pandu_
+
+Pitta gets aggravated by indulging in pitta vitiating _nidanas_ (diet and regimens) which by involving the blood etc. causes pittaja pandu. Its symptoms are, change in complexion to yellowish/greenish, fever, burning sensation; morbid thirst and fainting; excessive perspiration and longing for cold things and environment. The person does not relish food, develops pungent taste, disfavors hot and sour things; gets sour eructations associated with burning sensation due to impaired digestion of food; emits foul smell from mouth; the urine and stool become yellow in color, has loose motions and develops weakness and fainting [19-22] 
+
+### Kaphaja pandu
+
+Aggravated kapha by indulging in kapha increasing diet and regimen gives rise to kaphaja pandu roga through the pathogenesis described earlier. The sign and symptoms of kaphaja pandu are heaviness, drowsiness, vomiting, whitish complexion, salivation, horripilation, prostration, fainting, giddiness, mental fatigue, dyspnea, cough, laziness, anorexia, obstruction in speech and voice, whitish coloration of the eyes, urine and feces; longing for pungent, ununctuous and hot things; and develops edema and sweet taste in the mouth [23-25] 
+
+### _Tridoshaja pandu_
+
+Indulging in the etiological factors of all the three types of _pandu_ leads to aggravation of the three dosha resulting in _tridoshaja pandu_ with the features of all the three types of _pandu roga_. This type of _pandu_ causes much distress to the patient. [26] 
+
+### _Mrittika bhakshana pandu_
+
+Person indulging in the habitual consumption of clay (_mrittika_) gets dosha aggravated according to the taste of mud viz. astringent mud aggravates vata, saline and alkaline mud aggravates pitta and sweet mud aggravates kapha dosha. The clay further because of its ununctuousness causes dryness in the rasa (nutrients of the digested food). The clay due to its undigestable nature fills and blocks the channels of circulation leading to decrease in the sharpness of the senses, luster, energy and ojas (vital essence of the tissues). This quickly manifesting _pandu_ results in the loss of strength, complexion and digestive power. Its clinical features are edema of the cheeks, peri orbital edema and edema on the eyebrows area, feet, umbilical region and the pudendum; infestation of worms in the koshtha (gastrointestinal tract) and loose motions, the stool associated with blood and mucus. [27-30] 
+
+### Prognosis of _pandu_
+
+Chronic _pandu roga_ is incurable. Other symptoms indicating the incurability are appearance of excessive dryness and edema; patient visualizes everything as yellow; passes very hard stool or less amount of stool or passes loose stool associated with mucus and green in color; feels exceedingly prostrated; body becomes excessively white as if be smeared with whiteness; has vomiting, fainting and excessive thirst and when the patient develops excessive whiteness in the body as a result of loss of blood. 
+
+Thus, the signs and symptoms of all the five type of _pandu roga_ have been described. [31-33] 
+
+### _Koshthashakhashraya kamala_
+
+If a patient of _pandu roga_ excessively follows pitta vitiating diet and regimen, the pitta so aggravated by involving the rakta and the mamsa dhatu causes _kamala_. Its clinical features are the eyes, skin, nails and face of the patient become exceedingly yellow; stool and urine become reddish-yellow in color; complexion develops a color similar to that of a frog (found in rainy season); the senses get impaired; has burning sensation, indigestion, weakness, prostration and anorexia. This _kamala_ is caused by excess of pitta is known as _koshthashakhashrita_ [34-36] 
+
+### _Kumbha kamala_
+
+With the due course of time the disease (_kamala_) becomes deep seated (_kharibhuta_) resulting in excessive dryness of the body or afflicted tissue and thus becomes difficult to cure. This condition is called _kumbha kamala_ [36½] 
+
+### Bad prognostic symptoms of _kamala_
+
+If the stool and urine of the patient (of _kamala_) become black and yellow; develops excessive edema; eyes and face becomes red colored; vomit, stool and urine are mixed with blood; the patient feels like going in darkness; has burning sensation, anorexia, morbid thirst, constipation, drowsiness and fainting; and the person looses his agni and consciousness; such patient may succumb to death quickly [37-38½] 
+
+### Principles of treatment
+
+Now, the treatment for the curable types of _pandu roga_ is being described here: 
+
+The patient suffering from the _pandu_ should first be given strong (_tikshna_) emetic and purgation therapies after the administration of internal oleation (snehana) for cleansing of the body (_shodhana_). 
+
+On the other hand, patient of _kamala_ should be given mild purgation therapy with bitter drugs. After the cleansing of the _koshtha_ by the above procedures the patient of both of these diseases should be given wholesome food consisting of old _shali_ rice, barley and wheat mixed with the _yusha_ (vegetable soup) of _mudga, adhaki_ and _masura_ , and the _rasa_ (meat soup) of animals inhabiting the arid zone. 
+
+On the basis of the aggravated dosha specific medicines are to be administered to the patients of these two categories (which will be described later in the chapter). For the oleation of the patient of _pandu_ and _kamala panchagavya ghrita, mahatikta ghrita_ and _kalyanaka ghrita_ should be given [39-43] 
+
+### _Dadimadya ghritam_
+
+Take twenty _pala_ of ghee, one _adhaka_ of water and add to it the paste prepared of one _kudava_ of _dadima_ , half _kudava_ of _dhanya_ , one _pala_ each of _chitraka_ and _sringavera_ and one _ashtamika_ (two _karsha_) of _pippali_ and prepare ghee as per method of _sneha paka_.This medicated ghee stimulates the power of digestion. It cures heart disease, anemia, gulma, hemorrhoids, spleenomegaly and disorders of vata and kapha.It is also useful for curing asthma, bronchitis, _mudha-vata_ (claudication of vata) and _duhkha-prasava_ (difficult labor). It also helps a sterile woman to get offspring. 
+
+Thus, ends the description of _dadimadyaghrita_ [44-46] 
+
+### _Katukadyam ghritam_
+
+### _Pathya ghritam_
+
+The decoction of one hundred fruits of _haritaki_ and the paste of fifty stalks of _haritaki_ fruits should be added to one _prastha_ of ghee and cooked. This medicated ghee cures _pandu_ and _gulma_ [50] 
+
+### _Danti ghritam_
+
+One _prastha_ of ghee should be cooked by adding (one _prastha_ of) the decoction of four _palas_ of _danti_ and the paste of the green fruits of _danti_. Intake of this medicated ghee cures _pleeha_ (splenic disorders), _pandu_ and edema [51] 
+
+### _Drakshaghritam_
+
+One _prastha_ of old ghee should be added to half a _prastha_ of _draksha_ and cooked. This medicated ghee cures _kamala, gulma, pandu, jwara, meha_ (polyuria) and _udara roga_ (generalized abdominal enlargement)[52] 
+
+### _Haridradi ghritam_
+
+### _Darvyadi ghritam_
+
+One _prastha_ of buffalo’s ghee prepared by adding two _prasthas_ of cow’s urine and the paste of two _aksha_ of the paste of _darvi_ as per _sneha kalpana_ cures _pandu roga_. 
+
+One _prastha_ of buffalo’s ghee prepared by adding with the decoction of five _palas_ of _darvi_ and the paste of _kaleeyaka_ as per _sneha kalpana_ cures _kamala_ [54-55] 
+
+### Preparations for _pandu roga_
+
+After proper oleation of the patient with the internal administration of the above described medicated _ghrita,_ the patient should be given frequent medication with the following recipes: 
+
+Milk with cow’s urine or milk alone or lukewarm infusion of _danti_ sprinkled with the powder of one _anjali_ of _kashmarya_ or mixed with the paste of one _anjali_ (handful) of _draksha_ ; all these drugs cure _pandu roga_ in general. 
+
+The patient suffering from _paittika pandu_ should take half _pala_ of _trivitta_ mixed with one _pala_ of sugar; 
+
+_Kaphaja_ type of _pandu_ patient should take _haritaki churna_ immersed in cow’s urine. 
+
+_Kamala_ patient should take _aragvadha_ along with the juice of sugarcane, _vidari, amalaki_ to which _sunthi, maricha, pippali_ and _bilva_ leaves have been added; or may take the paste of half _pala_ of _danti_ mixed with one _pala_ of jaggery along with cold water; or may take _trivritta_ along with decoction of _triphala_. 
+
+_Vishaladi phanta_ – One _karsha_ each of _vishala, haritaki, bibhitaka, amalaki, musta, kushtha, devadaru_ and _kalingaka_ ; half _karsha_ of _ativisha_ , two _karsha_ of _madhurasa_ (_murva_) should be made to a paste by triturating with lukewarm water and strained. The patient should take honey after taking this infusion. This _phanta_ cures cough, dyspnea, fever, burning sensation, _pandu roga_ , anorexia, _gulma_ (lumps in abdomen), _anaha_ (gaseous distention of the abdomen), _amavata_ (joint disorders caused by _ama_), and _raktapitta_ (bleeding disorders). 
+
+Other drugs which are useful for these ailments are as follows: 
+
+ * _Kamala_ patients should take the decoction of _triphala, guduchi, devadaru,_ or _nimba_ after cooling and adding honey in the morning.
+ * _Pandu_ patient may take the milk or urine of either cow or buffalo for one fortnight.
+ * _Pandu_ patient may drink the decoction of _triphala_ along with cow’s urine for one week.
+ * Patient suffering from _pandu_ and _sopha_ (edema) should drink the liquid obtained by straining the paste of tender branches of _matulunga_ set afire and then immersed in cow’s urine.
+ * _Suvarnakshiri, trivritta, syama-trivritta, bhadradaru_ and _nagara_ should be triturated by adding one _anjali_ of cow’s urine or should be made to a decoction by adding cow’s urine. The above mentioned drugs may also be boiled with milk. The drinking of these drugs brings about the downward motion of the _doshas_ causing _pandu_.
+ * Then again, the patient suffering from _pandu roga_ should take a course of _haritaki_ with cow’s urine (for seven days) and then should take food either with milk or sweetened meat soup, and
+ * Physicians should give _lauha bhasma_ impregnated for seven nights with cow’s urine along with milk for the alleviation of _pandu roga_ [55-69]
+
+### _Navayasa churnam_
+
+Take _sunthi, pippali, maricha, haritaki, bibhitaki, amalaki, musta, vidanga_ and _chitraka_ in one part each and nine parts of _lauha bhasma_ and mix together. Intake of this recipe along with honey and ghee cures anemia, heart diseases, _kushtha_ (group of skin diseases), _arsha_ (hemorrhoids) and _kamala_. This medicine propounded by _krishnatreya_ is called _navayasa churna_ [70-71] 
+
+### _Mandura vataka_
+
+_Mandura vataka_ – jaggery, _shunthi, mandura_ and _tila_ in one part each along with two parts of _pippali_ should be triturated and made in the form of pills. This medicine is suitable for the treatment of the patients with _pandu roga_. 
+
+_Shunthi, pippali, maricha, haritaki, bibhitaki, amalaki, musta, vidanga, chavya, chitraka,_ bark of _daruharidra, makshika_ (copper pyrite), _pippalimoola_ and _devadaru_ in the quantity of two _pala_ each should be made to powders separately. 
+
+_Mandura bhasma_ which is dark in color like collyrium, should be cooked by adding eight times of cow’s urine and the powders of the above drugs should be mixed to this. _Vatakas_ (large sized pills) of the size of _udumbara_ should be made out of this combination. This should be taken by the patient in the appropriate doses according to his agni (power of digestion and metabolism) along with butter milk. The patient should take wholesome food after its digestion. These pills named as _mandura vataka_ are the life givers for the patients of _pandu_. It also cures _kushtha, ajeerna_ (indigestion), _sotha_ (edema), _urustambha_ (stiffening of the thighs), disease caused by aggravation of the kapha, arsha _(hemorrhoids),_ kamala _(jaundice),_ meha _(polyuria) and_ pleeha _(splenic diseases)._
+
+Thus ends the description of two types of _mandura vataka_.[72-77] 
+
+### _Tapayadi lauha_
+
+_Tapyadi yoga_ – _Tapya, shilajatu,_ silver, _mandura_ in the amount of five _pala_ each should be added to one _pala_ each of _chitraka, haritaki, bibhitaka, amalaki, sunthi, pippali, maricha_ and _vidanga_ ; and eight _pala_ of sugar. This recipe should be taken by the patient habitually (by a _pandu rogi_) in the dose of one _karsha_ along with adequate amount of honey. After the digestion of this drug the patient should take wholesome food in small quantity and should avoid using _kulattha, kakamachi_ etc. and pigeon meat [78-80] 
+
+### _Yogaraja_
+
+Thus ends the description of _yogaraja_ [80-86] 
+
+### Various formulations
+
+### Shilajatu Vataka
+
+_Shilajatu vataka_ – Eight _pala_ of _shilajatu_ impregnated for ten, twenty or thirty days with the decoction of fruit of _kutaja, haritaki, bibhitaka, amalaki, nimba, patola, ghana_ and _nagara_. Eight _pala_ of sugar and one _pala_ each of _tvakakshiri, pippali, dhatri_ and _karkatashringi_ ; half _pala_ each of the fruit and root of _nidigdhika_ and adequate powder of _tvaka, ela_ and _patra_ should be added to this _shilajatu_. _Vataka_ (large sized pills) of one _aksha_ each should be prepared by adding three _pala_ of honey to this powder. These pills can be taken on either empty stomach or after having food. The patient should drink the juice of _dadima_ (pomegranate), milk, meat soup of birds, water, alcohol, _asava_ (medicated wine) after taking this medicine. It cures _pandu, kushtha, jwara, pleeha, tamaka svasa, arsha, bhagandara_ (fistula in ano), _puti_ (putrified ulcers), _hridroga_ (heart diseases), _shukra dosha_ (diseases of semen), _mutra dosha_ (diseases of urine), and _agni dosha_ (diseases of digestion), _sosha_ (consumption), _gara_ (poisoning), _udara, kasa, asrigdara_ (menorrhagia), _raktapitta_ (bleeding disorders), _sotha, gulma, galamayana_ (diseases of the throats) and all types of _vrana_ (wounds). It cures all types of diseases and bestows auspiciousness. Thus, ends the description of _shilajatu vataka._ [87-92] 
+
+### Punarnava Mandura
+
+### Darvyadi leha and other two recipes
+
+Powder of the bark of daruharidra, haritaki, bibhitaka, amalaki, pippali, sunthi, maricha, vidanga and lauha bhasma mixed with ghee and honey, taken as a linctus by the patients suffering from _pandu_ and _kamala_. 
+
+Two other recipes – Patients suffering from _kamala_ should take the powder of one part each of _lauha bhasma, haritaki_ and _haridra_ along with honey and ghee and may also take the linctus of the powder of _abhaya_ prepared by mixing with jaggery and honey. [97-99] 
+
+### _Dhatryavaleha_
+
+_Dhatryavaleha_ – _Vanshalochana, sunthi, maduyashti_ powders, each in two _pala_ ; one _prastha_ each of _pippali_ and _draksha_ ; and half a _tula_ of sugar crystal added with one _drona_ of _amalaki_ fruit juice and cooked till it changes into linctus form. One _prastha_ of honey is added to it after it cools down. Intake of one _panitala_ of this linctus cures _kamala,pitta vikaras, pandu, kasa_ and _haleemaka_ [100-101] 
+
+### _Mandura vatakah_

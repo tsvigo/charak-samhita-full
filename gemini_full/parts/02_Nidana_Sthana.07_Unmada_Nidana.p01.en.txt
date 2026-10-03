@@ -1,0 +1,294 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Five types of unmada
+ * 2.2 Individuals prone to unmada
+ * 2.3 Types of cognitive distortions
+ * 2.4 Premonitory symptoms
+ * 2.5 Specific features of _vatika_ type unmada
+ * 2.6 Features of _paittika_ type unmada
+ * 2.7 Features of _kaphaja_ type unmada
+ * 2.8 Management of unmada
+ * 2.9 Exogenous unmada
+ * 2.10 Premonitory symptoms of exogenous unmada
+ * 2.11 Symptoms of exogenous unmada
+ * 2.12 Treatment of exogenous unmada
+ * 2.13 Role of _dosha_ in causing various types of unmada
+ * 2.14 Responsible factors for unmada
+ * 2.15 Summary
+ * 3 Tattva Vimarsha(Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Table 1: Behavioral and psychological manifestation of _triguna_
+ * 4.2 Table 2: Predominance of _raja_ and _vata_
+ * 4.3 Table 3:Predominance of _raja_ and _vata_
+ * 4.4 Table 4:Predominance of _tamas_ and _kapha dosha_
+ * 4.5 Table 5:Predominance of _Raja_ and _Pitta dosha_
+ * 4.6 Table 6: Predominance of _Raja_ and _Vata_
+ * 4.7 Case Paper Format Points
+ * 4.7.1 The mental status examination
+ * 4.8 Related Chapters
+ * 5 References
+
+## Introduction
+
+unmada, a major mental disorder, has been known to Ayurvedic practitioners since ancient times in India. In the Vedic period, the disease was thought to be caused due to _grahas_ or demons, but in Ayurveda, it is considered a major mental illness. unmada as such does not describe a lone clinical entity comparable to a modern diagnostic category, rather it is a group of psychotic disorders. As the psychotic disorders cover almost all the major mental illnesses, the different types and subtypes of unmada can be separately correlated with different psychotic disorders. The clinical features of the different types of unmada resemble various types of schizophrenia, manic psychosis, psychotic depression, and depressive disorders. 
+
+Thus, unmada covers a wide range of major mental disorders and is considered synonymous with madness and mental derangement, in which a person loses contact with reality and loses the ability to regulate his actions & conduct according to the norms of the society. When _doshas_ move upwards in the body into the head, they could cause aberrations in the functioning of _manas_(mind) while producing _mada_ (delusional/ intoxicated state) in an individual. The mental status of psychotic patients is vividly described while explaining the clinical aspect of the disease. The description suggests that a patient of unmada develops derangement of all the activities of _manas_(mind), _buddhi_(intellect), _ahamkara_(ego) and _indriyas_ (sense organs). The patient develops thought disturbances in the form of abnormalities of _chintana_(thinking), _vichara_(discriminating) and _uha_(analyzing), derangement of memory in the form of _smriti nasa_ (memory loss.) and _smriti bhramsha_ (memory impairment), behavioral, social and emotional disturbances in the form of abnormalities of _achara, dharma_ and _bhavas_ along with functional derangement of _indriyas_ which is manifested clinically as disturbed speech and other variants such as incoherence (_abaddha vakyam_), thought blocking (_hridaya shunyata_), loosening of associations, neologism, echolalia etc. and various psychomotor disturbances. 
+
+Unmada is classified into two broad categories: _nija_(endogenous), or those caused by internal imbalance of _dosha_ i.e. _vata_ , _pitta, kapha_ and _sannipataja_ , and _agantu nimitta_ , i.e., those caused by exogenous factors. Sushruta [1] and Vagbhatta - both are of the opinion that unmada is of six types, of which four are due to _doshas_ , the fifth is _madyaja_ (like intoxications) and sixth is _vishaja_ (poison-based or poison-like). Both have described the _agantuja unmada_ separately as the condition of _amanushopasarga_ (due to affliction of supra-human power) and _bhuta badha_ (due to affliction of demons), under the heading _amanusopasarga pratishedha_ (treatment of affliction of supra-human power) and _bhuta badha pratisedha_ (treatment of affliction of demons) respectively. The body of knowledge within Ayurveda dedicated to psychiatry underscores the advancement in scientific knowledge on this subject that existed thousands of years ago. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Unmada Nidana" (Diagnosis and etiopathogenesis of psychosis disorders). Thus said Lord Atreya.[1- 2] 
+
+### Five types of unmada
+
+There are five types of unmada such as those caused due to the three _doshas, sannipata_ (simultaneous vitiation of the three _doshas_), and exogenous causes. [3] 
+
+### Individuals prone to unmada
+
+This verse describes the qualities of a person prone to getting afflicted with unmada, as well as the conditions that are conducive to the affliction of the disease: 
+
+ * Four types of _doshika unmada_ quickly manifest in individuals who are fearful, confused and complicated, who do not know societal rules and norms, and who lead erratic lifestyles and dietary habits (unclean, unwholesome, untimely eating habits, as well as neglecting any prescribed dietetic rules). _Doshas_ in such individuals are in a volatile state and are prone to getting vitiated.
+ * Resorting to specific lifestyle activities that are not conducive to good health, especially when 
+ * the body is exceedingly weak & cachexic;
+ * the person is ailing from various diseases;
+ * the mind is afflicted repeatedly by desires, anger, greed, excitement, fear, attachment, exertion, anxiety and grief; and
+ * the person is subjected to excessive mental trauma / physical assault.
+
+Such individuals often get afflicted with subclinical mental disorders, leading to unstable intellect because of volatile _doshas_. When the seat of consciousness, wisdom, and the system that regulates mental activities are badly affected, then all these factors lead to the manifestation of unmada. [4] 
+
+### Types of cognitive distortions
+
+unmada is again defined as cognitive distortion pertaining to mind, intellect, consciousness, knowledge, memory, desire, attitude, activities and behavior. [5] 
+
+### Premonitory symptoms
+
+Following are the premonitory symptoms of unmada: 
+
+ * Blankness of thought,
+ * Restless eyes,
+ * Tinnitus,
+ * Prolonged exhalation,
+ * Hyper-salivation,
+ * Disinclination towards food associated with anorexia and indigestion,
+ * Feeling of tightness in cardiac region,
+ * Uncalled for attention, fatigue, confusion and panic,
+ * Continuous horripilation,
+ * Frequent fever,
+ * Insanity,
+ * Erythematous rashes over the body,
+ * Distorted faces (as in Bell’s palsy or facial paralysis)
+ * Dreams with the following recurrent themes-- 
+ * Terrifying & inauspicious objects that are wandering, moving and unstable;
+ * Riding over the wheel of an oil press;
+ * Being churned by whirl-winds;
+ * Sinking in dirty whirl-pools; and
+ * Distortion of eyes.
+
+These are the pre-monitory symptoms of unmada caused by the vitiation of _doshas_. [6] 
+
+### Specific features of _vatika_ type unmada
+
+After the above stage, unmada manifests. The distinctive features of _vatika_ type of unmada are as follows: 
+
+ * Constant wandering
+ * Sudden spasm of eyes, eyebrows, lips, jaws, and irregular movements of shoulder, fore-arms and legs;
+ * Continuous, irrelevant and incoherent speech;
+ * Frothing from the mouth;
+ * Frequent smiling, laughing, dancing, singing and playing musical instruments in inappropriate situations;
+ * Loudly imitating the sounds of lute, flute, conch, _samya_ (cymbal played by right hand), and _tala_ (cymbal played by left hand);
+ * Riding phantom vehicles;
+ * Adoration of self by false ornaments;
+ * Craving for food articles that are not available;
+ * Disgust and hatred for food articles that are readily available.
+ * Emaciation and roughness;
+ * Protruding dusky red eyes;
+ * Aggravation by _vata_ -provoking factors; and
+ * Pacification by factors which are opposite to _vata_
+
+These are the features of _vatika_ type of unmada. [7-1] 
+
+### Features of _paittika_ type unmada
+
+ * Intolerance, anger and excitement at inappropriate occasions;
+ * Inflicting injury on self or on others by weapons, brickbats, whips, sticks and fist.
+ * Running around
+ * Desire for shade, cold water and food having cooling effect;
+ * Prolonged anguish;
+ * Ferocious eyes with coppery, green or yellow color;
+ * Aggravation of the signs and symptoms by _pitta_ provoking factors
+ * Pacification by factors which are opposite to _pitta_
+
+are the features of _paittika_ type of _unmada._[7-2] 
+
+### Features of _kaphaja_ type unmada
+
+ * Prefers to live at one place (doesn’t move/ immobility)
+ * Meek and mum, prefers not to speak;
+ * Excessive salivation and nasal secretions;
+ * Disinclination for food
+ * Prefers loneliness
+ * Frightening appearance;
+ * Aversion for cleanliness;
+ * Always drowsy;
+ * Edematous face;
+ * White and timid eyes full of dirt;
+ * Aggravation of the signs & symptoms by _kapha_ provoking factors
+ * Pacification by factors which are opposite to _kapha_
+
+These are the features of _kaphaja_ type of unmada. 
+
+Features of _sannipatika_ type unmada: In the unmada caused by the combined vitiation of all the three _doshas_ , all the symptoms mentioned above are simultaneously manifested. This type of unmada is considered to be incurable. [7-3] 
+
+### Management of unmada
+
+Modalities of treatment of the three types of curable unmada are: 
+
+ * Oleation, fomentation, emesis, purgation, _asthapana_ enema, _anuvasana_ enema
+ * Alleviation therapies
+ * Nasal medication, smoking, fumigation, collyrium, _avapida_ and _pradhamana_ types of nasal medication
+ * Massage, ointment, affusion, and unction
+ * Assaulting at times, tying, solitary confinement, frightening, and inducing shock
+ * Depleting therapies and venesection.
+
+Suitable diets should be given according to the requirement of the patient. Such other therapies as would work against the causative factors of the disease should also be given. [8] 
+
+Thus it is said : 
+
+A competent physician should selectively employ the above-mentioned therapies to treat the curable types of unmada caused by the vitiation of _doshas_ as per the fundamental principles of the prescribed therapy. [9] 
+
+### Exogenous unmada
+
+The type of unmada having etiology, premonitory symptoms, signs and symptoms, pain and favorable therapeutics (_upashaya_) different from those of the types of unmada caused by the vitiation of _doshas_ are known to be of exogenous type. Some scholars hold the view that this type of unmada is caused by the effect of the activities of the past life. Lord Atreya considers intellectual errors as the causative factor of this condition. Due to intellectual errors, the patient disregards the Gods, ascetics, ancestors, _gandharvas, yakshas,_ _rakshasas, pishachas,_ preceptors, elders, teachers and the other respectable ones. He also resorts to undesirable and inauspicious (or blasphemous) activities. The gods etc. cause unmada in him because of his own inauspicious activities. [10] 
+
+### Premonitory symptoms of exogenous unmada
+
+The premonitory symptoms of exogenous unmada are as follows: 
+
+ * Desire for inflicting injury upon the gods, cows, brahmins and ascetics;
+ * Anger;
+ * Desire for inflicting cruel acts, torture, etc. on living beings
+ * Restlessness
+ * Impairment of _ojas_ , colour, complexion and physical strength
+ * Abuse and incitement of the gods etc. in dreams.
+
+unmada manifests soon after the occurrence of these premonitory symptoms. [11] 
+
+The various divine entities unleash their wrath on the individual as follows: 
+
+ * Godly spirits cause _devonmada_ (divine unmada)
+ * Preceptors, elders, adepts and ascetics cause unmada by their curse
+ * Ancestors by manifesting themselves;
+ * _Gandharvas_ by their touch;
+ * _Yakshas_ by entering the host;
+ * _Rakshasas_ by making the person inhale the odor of their bodies,
+ * _Pishachas_ by seizing and riding the host.[12]
+
+### Symptoms of exogenous unmada
+
+Characteristics of a patient afflicted with exogenous unmada are: 
+
+Untimely, uncertain and uncalled for manifestations superhuman strength, valor, manliness, enthusiasm, power of understanding and retention, memory, spirituality, logical and scientific knowledge and power of speech. [13] 
+
+Persons get afflicted by unmada caused by godly spirits, ascetics, ancestors, _gandharvas, yakshas, rakshasas, pishachas,_ preceptors, elders and adepts in the following circumstances, places and time: 
+
+ * In the beginning of sinful acts;
+ * When the consequences of prior (sinful) acts of the person (committed in the present life or the past) manifest their effect (karmic effects);
+ * (Living) in a deserted house or crossing roads alone;
+ * Sexual intercourse during the junctures of day and night or during the new moon and full moon nights (considered inappropriate and inauspicious for sex).
+ * Sexual intercourse with a lady during her menstrual period;
+ * Recitation of scriptures, religious offerings, auspicious rites and sacrifices in improper manner.
+ * Dishonoring a vow and discontinuing a religious duty or observance of celibacy
+ * Fierce battles;
+ * Destruction of countries, communities and towns;
+ * Onset of inauspicious planets in the sky;
+ * Post-partum depression;
+ * Coming in contact with different types of inauspicious and unclean creatures;
+ * Emesis, purgation and bleeding;
+ * Visiting a _chaitya_ (sacred tree) or temple when unclean and not following the prescribed rules;
+ * Not using mouthwash after eating meat, honey, sesame seeds, sugar candy and alcohol;
+ * While being naked;
+ * Visiting cities, towns, crossroads, gardens, cremation grounds, slaughter houses at night;
+
+Insulting _dvija_ (twice born), preceptors, Gods and divinities, ascetics and the learned; 
+
+Thus, described were some circumstances in which a person attracts the wrath of gods, divinities, and the sages and gets afflicted with unmada. [14] 
+
+unmada is caused by the above mentioned agents with the following objectives: 
+
+ 1. as a consequence of one’s sinful acts
+ 2. affection/love/pleasure and
+ 3. to make the individual pay obeisance to Gods
+
+The prognosis of unmada can be judged from the characteristic features of the patient. When the intention of the afflicted agents is to inflict injury, then the patient enters into fire, sinks into water, falls into a pit, provokes others to hurt him, strikes himself with weapons, whips, sticks, brick bats, his own fist etc. He may also adopt to such other means of killing himself. This type of unmada is incurable. 
+
+The other two types of intentions i.e. for affection/love/pleasure or to offer prayer give rise to variants of unmada that are curable. [15] 
+
+### Treatment of exogenous unmada
+
+For the curable variants of exogenous unmada, the prescribed therapies are: 
+
+ * Incantation of _mantras_ ,
+ * Wearing of gems and jewels according to astrological indications,
+ * Performance of auspicious and religious rites and sacrifices, oblations
+ * Taking a vow, performing religious duties, penance, fasting, blessings, obeisance and pilgrimage. [16]
+
+### Role of _dosha_ in causing various types of unmada
+
+In the following verses, the five types of unmada have been explained. [17] 
+
+The unmada of five types can be further classified as endogenous or exogenous or as curable or incurable. At times, due to the combination of etiological factors (of endogenous and exogenous types), these could also manifest in hybrid forms. Such forms would exhibit a combination of both the types of unmada in their premonitory as well as actual symptoms. However, it is important to note that: 
+
+ * Combination of the incurable types or of the curable and incurable types result in an incurable condition.
+ * Combination of curable types results in curable conditions that should be treated using a combination of therapies. [18]
+
+### Responsible factors for unmada
+
+Neither gods, nor _gandharvas_ , nor _pishachas_ nor _rakshasas_ afflict a person who himself is free from misdeeds. The primary cause of unmada in an individual is the consequences of his own misdeeds and not other agents like the gods etc. [19] 
+
+If the primary cause of unmada is misdeeds of the individual, then how could the causation of these exogenous unmada be attributed to divinities? Misdeeds committed already cannot be undone, but good deeds can pacify or neutralize the effects of these exogenous factors. [20] 
+
+All the diseases whether _karmaja_ (due to misdeeds) or _atman_ (due to one’s self) are caused due to intellectual errors. The Gods, ancestors or _rakshasas_ shall not be blamed for any disease. [21] 
+
+One should hold himself responsible for his happiness and miseries. Therefore, one should follow the path of welfare without apprehensions. [22] 
+
+Prayers to the Gods etc. and resorting to wholesome dietary and lifestyle habits act as antidotes to the misdeeds of the individual. Thus, the choice either to avert or get afflicted with unmada rests with the individual himself. [23] 
+
+### Summary
+
+Tatra shloka- 
+
+In summary, types of unmada and their etiology, premonitory symptoms, symptoms, curability or otherwise, and their modes of treatment have been described in this chapter. [ 24] Thus ends the seventh chapter on diagnosis of unmada in Nidana Sthana in the treatise composed by Agnivesha and redacted by Charak. [24] 
+
+## Tattva Vimarsha(Fundamental Principles)
+
+ * The unmada pathology involves psychic _dosha_ (_rajas_ and _tamas_) and body _doshas_ ( _vata, pitta_ and _kapha_).
+ * The individuals with low mental strength and emotionally unstable with the mind afflicted repeatedly by desires, anger, greed, excitement, fear, attachment, exertion, anxiety and grief are more prone for unmada.
+ * Improper diet and lifestyle play important role in causing unmada. Therefore these shall be checked in management.
+ * unmada involves cognitive distortion pertaining to mind, intellect, consciousness, knowledge, memory, desire, attitude, activities and behavior. These factors shall be assessed to determine severity of disease, management protocol and prognosis.
+ * The _dosha_ dominance shall be assessed for deciding the protocol for management of _nija_(endogenous) unmada.
+ * Intellectual error is the basic cause of exogenous unmada.
+ * Exogenous unmada is characterized by untimely, uncertain and uncalled for manifestations, superhuman strength, valor, manliness, enthusiasm, power of understanding and retention, memory, spirituality, logical and scientific knowledge and power of speech.
+ * The diagnosis of exogenous type is based upon clinical presentation resembling with specific extra-human factors mentioned in the text.
+ * The treatment of exogenous unmada includes psycho-spiritual therapies.
+ * No other factor can afflict a person who is free from misdeeds. The primary cause of unmada in an individual is the consequences of his own misdeeds and not other agents like the gods, etc.
+ * Misdeeds that are committed already cannot be undone, but good deeds can pacify or neutralize the effects of exogenous factors.
+ * All the diseases are caused due to intellectual errors. The Gods, ancestors or demons shall not be blamed for any disease. One should hold himself responsible for his happiness and miseries. Therefore, one should follow the path of welfare without apprehensions.
+
+## Vidhi Vimarsha (Applied Inferences)
+
+As the present chapter deals with the psychopathogenesis and diagnosis of unmada, the fundamental approach of Ayurveda in the etiopathogenesis of psychiatric diseases needs to be discussed. Charak considers violation of dietetic rules as an important causative factor for unmada. Both body and mind are affected by diet. unmada occurs in individuals taking diet in manners forbidden by the dietetic rules, consuming improper dietary articles, food articles that are unclean and ill prepared, incompatible and vitiated. According to Chandogya Upanishad, quality of mind depends upon the food taken by the individual. Once digested, the food is divided into three components – gross (_sthula_), medium (_madhyam_) and (_sukshma_). The subtle portion of the food nourishes the mind. Bhagavad Gita also opines that the _sattvika, rajasika_ and _tamasika_ types of _buddhi_ (intellect) is derived from the characteristics associated with the type of diet. Thus, Ayurveda considers that incompatible, vitiated food articles affect the physical as well as mental state of an individual, predisposing him to psychiatric illnesses in general, if he is already harboring other causative factors. 
+
+Secondly, psychiatric illnesses with special reference to unmada are not only associated with the vitiation of _manas doshas_ but there is vitiation and provocation of _shariradoshas_ as well. It points to the fact that though psychiatric illnesses are associated with subtle pathological changes at the bio-energetic level, they are also simultaneously accompanied by qualitative as well as quantitative changes/imbalances in the neurotransmitters and other bio-chemicals at the physical level. Thus, the normal psychological processes as well as the psychopathologies, operate simultaneously at multiple levels (biological, bio-energetic) and also at subtler levels where the intangible thought processes start appearing in the relatively tangible field of bio-energy. All this needs extensive exploration using the available scientific tools. 
+
+Thirdly, entire thought processes, attitudes, emotional experiences, desires and behaviors of an individual, which are relatively intangible, have the capacity to bring about qualitative as well as quantitative changes in the _manas_ and _shariradoshas, agni,_ and _ojas_. These psychological factors are also capable of bringing about structural as well as functional changes in the _dhatus_ (body tissues), _malas_ (biological byproducts and wastes) and _srotasas_ (macro and micro-channels). These are some of the most fundamental considerations. which needs special attention. 
+
+The eight psychological and behavioral factors are described here that get imbalanced when the individual is afflicted with mental diseases. These factors are- _manas, buddhi, sanjna jnana, smriti, bhakti, sheela, chesta_ and _aachara_. This provides a basis for objectively and empirically assessing the mental functions of a patient afflicted with unmada. Using this understanding, Ayurvedic institutions have been able to create a rubric to analyze patients and conduct various mental health studies. A three-stepped approach to creating such a scale is as follows:- 
+
+ 1. In depth study of various definitions, synonyms, commentaries available on the eight factors.
+ 2. Screening the available descriptions in a scientific way.
+ 3. Developing an elaborate and objective assessment scale based on Ayurvedic principles for making it more understandable and useful in a clinical set up. The scale has been named as _ashta manas bhava pariksha_ (assessment of eight mental faculties).
+
+Now described in some detail would be each of the eight psychological and behavioral factors used in Ayurvedic studies on mental health: 

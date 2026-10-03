@@ -1,0 +1,201 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 History of disease
+ * 2.2 Synonyms of disease and history of _yakshma_
+ * 2.3 Four important causative factors of disease
+ * 2.3.1 1\. _Sahasaja rajayakshma_ (due to over exertion beyond one’s capacity)
+ * 2.3.2 2\. _Vegasandharanaja rajayakshma_ (due to suppression of natural urges)
+ * 2.3.3 3\. _Kshayaja rajayakshma_ (due to depletion of tissues)
+ * 2.3.4 4\. _Vishamashanaja rajayakshma_ (due to irregular dietary habits)
+ * 2.4 Premonitory signs
+ * 2.5 Pathogenesis and clinical features
+ * 2.6 Signs of _pratishyaya_
+ * 2.7 Appearance of sputum
+ * 2.8 Clinical features of _rajayakshma_
+ * 2.9 _Swarabheda_ (hoarseness of voice) and characteristics as per _dosha_ affliction
+ * 2.10 _Rakta shthivana_ (hemoptysis)
+ * 2.11 Causes of depletion of tissues
+ * 2.12 Cause of anorexia
+ * 2.13 Cause of vomiting
+ * 2.14 Management of _rajayakshma_
+ * 2.15 Various dietary articles in treatment
+ * 2.16 _Swedana_ (sudation)
+ * 2.17 _Alepana_ (local applications)
+ * 2.18 Beneficial procedures of purification
+ * 2.19 External applications
+ * 2.20 Indications of _shodhana_ (purification)
+ * 2.21 Various formulations for _nasya_ (nasal errhines)
+ * 2.22 Various unctuous formulations
+ * 2.23 Sitopaladi formulation
+ * 2.24 _Vasa ghee_ and _shatavari ghee_
+ * 2.25 _Duralabhadi ghee_
+ * 2.26 _Jivantyadi ghee_
+ * 2.27 _Baladi_ medicated milk
+ * 2.28 Treatment of burning sensation
+ * 2.29 Treatment of productive cough/excessive expectoration and vomiting
+ * 2.30 Treatment of diarrhea
+ * 2.31 Formulations for treatment of anorexia
+ * 2.32 _Yavani shadava_ formulation
+ * 2.33 _Talisadi_ formulation
+ * 2.34 Importance of meat in emaciation
+ * 2.35 Administration of meats in disguised form (or without telling the patient)
+ * 2.36 Best animal meats in _rajayakshma_
+ * 2.37 Types of meats for alleviation of specific _dosha_
+ * 2.38 Prescription of wines in _rajayakshma_
+ * 2.39 Various ghee formulations
+ * 2.40 External treatments
+ * 2.41 Lifestyle treatments
+ * 2.42 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 General pathogenesis
+ * 4.2 Pathogenesis of various types of _rajayakshma_
+ * 4.3 Contemporary Treatments
+ * 4.3.1 Medicine formulations used
+ * 4.4 Cautions for purification treatments
+ * 4.5 Role of _rasayana_ in enhancing the immunity
+ * 4.6 Research on Ayurveda treatment in tuberculosis patients
+ * 4.7 Related Chapter
+ * 4.8 Further reading
+
+## Introduction
+
+_Rajayakshma_ has been identified since Vedic period (2400 BC). _Yakshma_ ,the word, first appeared in the vedas (Rigveda and Atharvaveda), but a detailed description was missing. In the Ayurvedic treatises, or the Samhitas (1000 BC to 500 AD), a detailed description of _rajayakshma_ can be found. An account of its definition, etiology, pathogenesis, general features, management, and the prognosis is found in Charak Samhita, _Sushruta Samhita_ , and _Ashtanga Hridaya_ with more extensive description is in Charak Samhita. Four etiological factors are described, _sahasa_ (over exertion or working beyond one's capacity), _samdharana_ (suppression of natural urges), _kshaya_ (depletion of tissue element) and _vishamashana_ (irregular diet). 
+
+The three chapters viz. Shosha Nidana, Rajayakshma Chikitsa and Kshatakshina Chikitsa deal with similar clinical presentation of disease and principles of management. _Dhatukshaya_ is common feature in all. Advancement of _dhatukshaya_ in _shosha_ reaches a stage when immuno-suppression with resulting opportunistic infection occurs and is called _rajayakshma_. In _kshatakshina_ or _urakshata_ there is chest injury due to direct or indirect trauma along with _dhatukshaya_. _Brimhana_ of _dhatu_ (nourishment) is the principle line of management. 
+
+Thus _upsarga_(additional contact or exposure to) may be considered as _Sannikrishta Nidana_ (recent cause) of _rajayakshma_. Sushruta was aware of this fact, and he has described its contagious nature by saying that skin diseases, fever, _rajayakshma_ and conjunctivitis are infectious diseases which spread from one man to another man. 
+
+Symptomatology of _rajayakshma_ has been described in three different categories viz. _trirupa, shadrupa_ and _ekadashrupa_. It seems that _trirupa_ denotes the description of early tuberculosis when the disease is of mild nature whereas _shadrupa_ is the clinical manifestation of the moderately advanced disease. _Shadrupa_ is the cardinal symptoms of pulmonary tuberculosis which are found in the majority of the patients. _Ekadashrupa_ or eleven-fold manifestation may appear in the far advanced stage of tuberculosis or in those patients whose _vyadhikshamatva_ (immunity) is _hina_ (low). The clinical presentation of disease includes groups of signs with their specific pathogenesis. The increasing number of signs denote severity of disease and spread of disease over body organs. 
+
+As far as the treatment is concerned, mild _samshodhana_ therapy is indicated in excess aggravation of _dosha_. However drastic purification leading to emaciation is strictly contraindicated especially _virechana_ (purgation) therapy. _Samshamana_ (pacification) therapy includes treatment of symptoms and treatment of emaciation to increase the declining _dhatus_ (tissues) of the body by using various types of meat and wines. Meat having high protein content helps in rebuilding body tissues whereas wine acts as a tonic and appetizer, it also helps open the blocked channels thereby providing proper nutrition to all the tissues of the body. _Rasayana_ (rejuvenatives) have a significant role in enhancing immunity and thereby preventing infectious diseases. The formulations described in Rajayakshma Chikitsa enhance immunity as well as an adjuvant therapies to anti-tubercular treatments in current practices. 
+
+This chapter underscores the importance of judicious combination of modern drug treatment of infectious diseases with Ayurvedic treatment to achieve better results.[1] 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter “Rajayakshma Chikitsa"(Management of Wasting Diseases). Thus said Lord Atreya. [1-2] 
+
+### History of disease
+
+The following story – of Chandrama (Moon)’s passionate cohabiting (with Rohini, one of his 28 celestial wives) - was narrated by the Gods to the sages. Because of his excessive sexual indulgence with Rohini, Chandrama soon started neglecting his own health, becoming emaciated due to depletion of his bodily unctuousness (essence or vitality). Besides, his inordinate attention to just one wife in comparison to the others resulted in his not being able to satisfy the desires of his remaining wives – all of whom were the daughters of Daksha Prajapati (Lord of Progeny). This ill-treatment to his daughters made Daksha furious, and his anger came out of his mouth in the form of breath that took a physical form (Yakshma). The now lusterless, afflicted Moon sought clemency from the great Daksha, accompanied by the Gods and Sages. Daksha Prajapati , now realizing Chandrama’s pure state of mind (and therefore, admitting his folly), became cordial to him got him treated by the Ashwin, the celestial physicians. The Ashwins having enhanced his _ojas_ (vital essence), Chandrama additionally acquired a great purity of mind. [3-10] 
+
+### Synonyms of disease and history of _yakshma_
+
+_Krodha_(rage), _yakshma_ (sickness), _jwara_(fever) and _roga_ (disease suffering) – these terms are synonymous, and indicate misery. Because it afflicted Chandrama, the king of stars, originally, it is called _rajayakshma_ , or the king of diseases. This disease, having been treated by the Ashwin in the celestial world, has come down to the world of mortals (i.e., human beings). Here, it afflicts human beings after being triggered by a four-fold causative factor [11-12] 
+
+### Four important causative factors of disease
+
+Over–exertion beyond one’s capacity, suppression of natural urges, depletion of tissue elements and irregular dietary habits are the etiological factors of _rajayakshma_. [13] 
+
+#### 1\. _Sahasaja rajayakshma_ (due to over exertion beyond one’s capacity)
+
+When beyond one’s capacity, a person indulges in excess battle, reading, weight-lifting, walking, jumping, swimming etc. or falls down - or gets injured -or exerts himself in any action that is beyond his strength or tolerance, leads to chest injury and , vitiates _vata dosha_. This _vata dosha_ afflicts the other two (_pitta_ and _kapha dosha_). These vitiated _dosha_ , along with _vayu_ , spread in all direction within body (_pradhavati_) and cause eleven symptoms, with each symptom directly corresponding to the particular part of the body. If the deranged _dosha_ enters the head, it causes headache; if the throat, then irritation in throat, cough, hoarseness of voice and anorexia; if the chest, then pain in the sides of the chest; if the anus, then diarrhea; if in the joints, then fever, yawning and pain in the chest. 
+
+Injury to the chest and coughing cause the patient to spit out phlegm along with blood. In this case, the patient suffers from unbearable pain in his chest due to pulmonic damage. These eleven symptoms are manifested in the patients suffering from _yakshma_ caused by overexertion. [14-19] 
+
+#### 2\. _Vegasandharanaja rajayakshma_ (due to suppression of natural urges)
+
+When due to bashfulness or disgust or fear one suppresses the impelling urge to pass flatus, urine and/or feces, _vata_ , due to the obstruction of such urges, propels _kapha_ and _pitta_ upwards, obliquely and downwards within the body, causing the disorders having symptoms of all three _doshas_ such as coryza, cough, hoarseness of voice, anorexia, pain in flank, headache, fever, pain in shoulders, bodyache, frequent vomiting and diarrhea. These are the eleven symptoms of _rajayakshma_ caused due to suppression of urges. [20-23] 
+
+#### 3\. _Kshayaja rajayakshma_ (due to depletion of tissues)
+
+Excessive envy, eagerness, fever, terror, anger, grief, excessive indulgence in sexual intercourse, and fasting leads to depletion of _shukra_ and _ojas_. This, in turn, due to loss of unctuousness, provokes _vata_ which further aggravates the other two _doshas_ and causes eleven symptoms such as—coryza, fever, cough, bodyache, headache, dyspnea, diarrhea, anorexia, pain in flanks, feeble voice and feeling of warmth in shoulders. These eleven symptoms indicate the advent of the great disease _rajayakshma_ due to wasting. [24-27] 
+
+#### 4\. _Vishamashanaja rajayakshma_ (due to irregular dietary habits)
+
+Irregular intake of dietary articles, or irregular dietary habits lead to vitiation of _doshas_ , causing severe _amavisha_ disorders. These vitiated _doshas_ obstruct the channels of blood etc. leading to weaning away of _dhatus_ and causing the 11 symptoms of _rajayakshma_ caused due to irregular dietary habit: 
+
+ 1. Due to vitiated _kapha_ : coryza, excessive salivation, cough, vomiting and anorexia,
+ 2. Due to vitiated _pitta_ : fever, distress in shoulder and haemoptysis, and
+ 3. Due to vitiated _vata_ : pain in flanks, headache and hoarseness of voice.[28-31]
+
+### Premonitory signs
+
+The premonitory symptoms (of _rajayakshma_) are coryza, debility, nitpicking (or an inclination to find faults where there is no reason to), morbid appearances on the body; feeling of disgust, loss of strength and flesh (inspite of consuming adequate food), craving for women, wine and meat, desire to be always covered by something (feeling of cold), imagined feeling of one’s food being infested with insects, flies, hair,, rapid growth of hairs and fingernails, imagined feeling of being attacked by birds, wasps, and animals, seeing dreams of climbing heaps of hair, bones, and ashes, and dreaming of dried or withered ponds, mountains, and forests- these are to be known as premonitory symptoms of _rajayakshma_ of various types.[33-38] 
+
+### Pathogenesis and clinical features
+
+Now we will describe the pathogenesis, clinical features and management in brief. 
+
+Normally, the _dhatus_ of the body get metabolised (being acted upon) by their own _ushmas_ or _dhatvagnis_ (transforming enzymes in the tissue elements). From these _dhatus_ , (nutrient tissue elements), the other _dhatus_ ( next _dhatu_ to it that which receive nourishment) gets nourished through their respective _srotas_ (channels of circulation). (For example, a _poshakarasa dhatu_ would nourish the _rakta dhatu_ ). 
+
+Once, however, there is any obstruction to _srotas_ or if there is diminution of stable tissue elements like _rakta_ or if there is diminution of _dhatu-ushmas_ or _dhatvagnis_ then _rajayakshma_ is manifested. In such a case, whatever food is digested in the gastrointestinal tract by _jatharagni_ is mostly reduced to waste products and very little of it contributes to the formation of _ojas_ (nourishment). The patient is depleted of all tissue elements and strength. The patient’s stool should be preserved and it is the only source of strength left with him. Because of the obstruction to the _srotas,rasa dhatu_ becomes _vidagdha_ (improperly metabolized) in its own location (heart) and this vitiated _rasa_ comes out through the upper passages in different forms by way of coughing. Subsequently, six or eleven symptoms (or forms of diseases) are manifested, and their aggregation is the syndrome called _rajayakshma_. Cough, distress in shoulder, change of voice, fever, pain in flanks, headache, vomiting of _rakta_ and _kapha_ , dyspnea, diarrhea and anorexia are the eleven symptoms of _rajayakshma_ ; or they are also six viz., cough, fever, pain in flanks, hoarseness of voice diarrhea and anorexia. With eleven, six or even three of the symptoms, a patient is incurable if he is losing _mamsa_ (flesh tissues) and strength, but he is curable if he is behaving otherwise in spite of showing all the symptoms. [39-47] 
+
+### Signs of _pratishyaya_
+
+The _kapha_ or blood or _pitta_ located at the root of the nasal passage cause nasal catarrh in the patients whose head is afflicted with _vayu_. This results in severe _pratishyaya_ (coryza) affecting entire body of the patient, This leads to emaciation of the body; its signs and symptoms are headache, heaviness in the head, loss of smell, fever, cough, increase of mucous secretion, change of voice, anorexia fatigue and asthenia of the senses and then _rajayakshma_ manifests. [48-50] 
+
+### Appearance of sputum
+
+Expectorates resulting from coughing (when afflicted with _rajayakshma_) contain slimy, thick, putrid, greenish or white-yellowish matter along with _kapha_. [51] 
+
+### Clinical features of _rajayakshma_
+
+The typical characteristics of _rajayakshma_ include a feeling of warmth (or burning sensation) in the shoulders and flanks, burning sensation in hands, and feet, and raised temperature all over the body.[52] 
+
+### _Swarabheda_ (hoarseness of voice) and characteristics as per _dosha_ affliction
+
+Hoarseness of voice is engendered by morbid _vata, pitta_ or _kapha_ or blood or by, strain of coughing or by coryza. The voice becomes husky, feeble and unstable if caused by _vata_ ; if by _pitta_ , there will be burning of the palate and throat and the patient will refrain from talking; and if due to _kapha_ , the voice is low, choked and is marked with a wheezing sound; owing to the obstruction to the flow of blood, the voice becomes low and comes out with difficulty; the throat becomes injured by the strain of exorbitant coughing and in case of coryza, the characterstics of the voice resemble the condition in _vata_ and _kapha_ afflictions. 
+
+The _rajayakshma_ patient is afflicted with pain in the sides of the chest (flanks) which is inconsistent and manifests during constriction and expansion of chest during breathing, with headache, burning and heaviness.[53-56] 
+
+### _Rakta shthivana_ (hemoptysis)
+
+In the emaciated condition of _rajayakshma_ patients’ indulgence in irregular diet causes expectoration of blood. The _kapha_ too, having been vitiated, is expectorated from the throat. [57] 
+
+### Causes of depletion of tissues
+
+Owing to obstruction in the circulation, the blood does not nourish the flesh tissues and other body elements. The blood staying in the stomach, getting agitated owing to incremented quantity, passes to the throat. Due to the obstruction of _vata_ and _kapha_ in the chest, there occurs dyspnea and the _agni_ , being impaired by the morbid humors, causes the patient to pass loose and slimy stools.[57-59] 
+
+### Cause of anorexia
+
+Anorexia or dislike for food is caused by morbidity of one or all the three _doshas_ in the tongue or heart or by repugnant perceptions. By knowing the astringent, bitter or sweet taste in the mouth, anorexia is to be diagnosed as caused due to dominance of _vata, pitta_ or _kapha_ respectively. Anorexia due to morbid perceptions is psychosomatic, caused due to visually observing disturbing or morbid visuals. [60-61] 
+
+### Cause of vomiting
+
+Regurgitating or vomiting is caused by anorexia, bouts of coughing, and the precipitation of morbid _dosha_ and as a result of fear; it occurs as a complication of other diseases additionally. [62] 
+
+### Management of _rajayakshma_
+
+All types of _rajayakshma_ are caused due to vitiated three _doshas_ and hence the physician should treat the patient after examining the degree of intensity of the morbid _dosha_ and the vigor of the patient. The physician should carefully observe the status (of patient) – by the symptoms such as coryza, headache, cough, dyspnea, asthenia of the voice and pain in flanks. [63-64] 
+
+### Various dietary articles in treatment
+
+In coryza, sudation, inunction, smoke application, effusion, bath, cooked barley and barley gruel, meat juices of quail, partridge, chicken and _vartaka_ quail prepared with salt, acid, pungent, sultry and unctuous articles should be given. The patient should imbibe the juice of goat-meat prepared with long pepper, barley, horse gram, dry ginger, pomegranate or emblic myrobalan and unctuous articles. By taking this, the hexad of coryza and other disorders vanishes. The patient should be treated with a suitable diet of soups made up of radish or horse gram or out of staple food composed of barley, wheat or shali rice. A potion made up of the clear supernatant part of _varuni_ wine or water, prepared with pentaradix, or with coriander and dry ginger or with feather-foil, or with the tetrad of herbs called _parnini_ is advised. Articles of diet may additionally be consumed with these decoctions.[65-70] 
+
+### _Swedana_ (sudation)
+
+The throat, the flanks, the chest and the head regions should be made to sweat by a commixed type of lump sudation prepared using _krushara_ (a type of gruel), _utkarika_ (hot poultice), ebony gram, horse gram, barley and milk pudding; or the head should be effused genially with warm decoction prepared using the leaves of heart leaved _sida, guduchi_ and liquorice; or the steam kettle sudation prepared with the decoctions of the heads of goat and fish or with _vata_ pacifying decoctions should be utilized for sweating the throat, head and sides of the chest. The flesh of aquatic and wet land animals, the decoction of pentaradix or sour _conjee_ with unctuous articles may be utilized in steam kettle sudation. The poultices well prepared with cork swallow wort, heart of dil seeds, leaved _sida,_ liquorice, saccharine flag cooked meat, white yam, radish, the flesh of aquatic and wet land creatures and commixed with all the four kinds of unctuous articles should be applied to persons suffering from pain applied to persons suffering from pain in the head, side of the chest and shoulder region.[71-76] 
+
+### _Alepana_ (local applications)
+
+Dil, liquorice, costus, Indian valerian and sandalwood with ghee make an effective curative for pain in the head, sides of the chest and shoulder regions. [77] 
+
+ 1. Heart leaved _sida_ , Indian groundsel, _til,_ ghee, liquorice and blue water-lily;
+ 2. gum , _guggulu,_ _deodar,_ sandalwood, fragrant poon and ghee;
+ 3. climbing asparagus, heart leaved _sida,_ white yam, drumstick and hog’s weed;
+ 4. climbing asparagus, milky yam, ginger grass, liquorice and ghee: these four groups of drugs, described one in each half verse for preparation of application are propitious in conditions of pain in the head, side of the chest and the shoulder region arising from bi-_dosha_ discordance. [78-80]
+
+### Beneficial procedures of purification
+
+Nasal errhines, medicated smokes, post prandial unctuous potions, inunctions with medicated oils, and enemata are very useful options to help ease pain. In conditions of pain in the head, flanks and shoulder region, the vitiated blood should be depleted by betokens of the horn, bottle gourd, application of leeches or venesection.[81-82] 
+
+### External applications
+
+The application of Himalayan cherry, cuscus grass and sandal wood with ghee is salutary; or the application of scitch grass, liquorice, Indian madder and fragrant poon soaked in ghee; or the application composed of tubers of white lotus chaste tree, red lotus, fragrant poon, blue water lily, rushnut and milky yam with ghee. Inunction with the compound sandal oil or ghee processed for hundred times and affusion with milk or liquorice water are recommended. Effusion with cold rainwater or the sandalwood group should be given. Thus the pacification treatment has been described.. [83-86] 
+
+### Indications of _shodhana_ (purification)
+
+In cases of excessively aggravated _dosha,_ mild therapeutic emesis and purgation therapies after proper _snehana_ (oleation) and _swedana_ (sudation) which do not cause emaciation can be administered. The emaciated man (consumptive) may suffer death even on loosening of stools. Then what can be said if a strong dose of purification is given in _rajayakshma_ patient beyond his tolerance?[87-88] 
+
+### Various formulations for _nasya_ (nasal errhines)
+
+When the alimentary system is well purified, the following tested recipes should be utilized for the remedy of cough, dyspnea, loss of voice and pain in the head, sides of the chest and shoulder region: 
+
+ * Ghee admixed with heart-leaved _sida_ and tick-trefoil group of drugs or with white yam or with liquorice and salted, makes good nasal medication for the amelioration of voice.
+ * Ghee admixed with the tubers of white lotus, liquorice long pepper, Indian nightshade, heart leaved _sida_ and milk is an excellent nasal medication for the amendment of the voice. [89-91]
+
+### Various unctuous formulations

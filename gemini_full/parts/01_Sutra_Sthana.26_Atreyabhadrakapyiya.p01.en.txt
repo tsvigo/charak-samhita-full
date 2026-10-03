@@ -1,0 +1,187 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Conference on rasa and diet
+ * 2.1.1 Participants in the conference
+ * 2.1.2 Discussion on rasa
+ * 2.1.3 Conclusion by Lord Atreya
+ * 2.2 Panchamahabhuta
+ * 2.2.1 The Five Elements, their properties and actions
+ * 2.2.2 Properties and actions of panchamahabhuta
+ * 2.2.3 Existance of panchamahabhuta in universe
+ * 2.3 Description of drug action
+ * 2.4 Description of the concept of rasa
+ * 2.4.1 Combinations of rasa
+ * 2.4.2 Guna (properties)
+ * 2.4.3 Origin and basic composition of rasa
+ * 2.4.4 Actions of _madhura rasa_ and effects of its excessive use
+ * 2.4.5 Actions of _amla rasa_ and effects of its excessive use
+ * 2.4.6 Actions of _lavana rasa_ and effects of its excessive use
+ * 2.4.7 Actions of _katu rasa_ and effects of its excessive use
+ * 2.4.8 Actions of _tikta rasa_ and effects of its excessive use
+ * 2.4.9 Actions of _kashaya rasa_ and effects of its excessive use
+ * 2.5 _Veerya_ (potency)
+ * 2.6 _Vipaka_ (metabolites)
+ * 2.7 Characteristics of rasa, veerya, vipaka
+ * 2.8 Prabhava (specific influential effect)
+ * 2.9 Means of knowing _rasa_
+ * 2.10 Concept of viruddha (incompatibility or antagonism)
+ * 2.10.1 Viruddha dravya (incompatible substances)
+ * 2.10.2 Examples of incompatible substances
+ * 2.10.3 Definition of viruddha (incompatibility)
+ * 2.10.4 Types of viruddha (incompatibility)
+ * 2.10.5 Diseases due to incompatibility
+ * 2.10.6 Management of incompatibility
+ * 2.11 Summary
+ * 3 Tattva Vimarsha(Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Practical application of rasa, veerya, vipaka and prabhava
+ * 4.1.1 Rasa
+ * 4.1.2 Guna
+ * 4.1.3 Veerya
+ * 4.1.4 Vipaka
+ * 4.1.5 Prabhava
+ * 4.2 Current researches
+ * 4.2.1 Adverse effects of viruddha ahara (incompatible diet)
+ * 5 References
+
+## Introduction
+
+The scope of Ayurveda was envisaged by the acharyas under three key principles: hetujnana(knowledge of etiology), lingajnana (symptomatology) and aushadhajnana (knowledge of therapeutics). Etiology includes the immediate and distant causes of diseases. Symptomatology includes the signs and symptoms of diseases and health. In continuation of the series on _annapana chatushka_ (tetrad on dietetics), the present chapter is on understanding the basic principles of Ayurvedic pharmacology (_aushadhajnana_). _Aushadhajnana_ encompasses materia medica and therapeutics. _Dravya_ (matter), guna (quality), _karma_ (action), _samanya_ (that which results in similarity), _vishesha_ (that which results in exclusivity) and _samavaya_ (inseparable or permanent relationship or concomitance) constitute _karana_ (causes, reasons or means) for achieving good health by restoration of dhatu samyata (equilibrium of dosha, tissue elements). 
+
+_Dravyas_ are of three categories - some alleviate dosha,some vitiate dhatu,and some are good for the maintenance of positive health. _Dravyas_ act with the help of their inherent qualities (guna). _Dravya_ acts by its nature or with the help of its inherent qualities. It is emphasized that no medicine should be prescribed for incurable diseases and curable conditions should be treated with _bheshaja_ (medicine) possessing opposite qualities (to those of the conditions being treated), administered with due regard to _desha_ (the area or region where the drugs are produced or collected), _matra_ (appropriate dose) and _kala_ (seasonal variations as well as the age of the patient). The success of the treatment primarily depends on the principles involved in processing and prescribing the drugs that are collectively called paradi guna (10 general attributes). The key factor responsible for the manifestation of the effect of the drug is referred to as _veerya_. _Veerya_ is the power that performs _karya_ (work or activity). The site of action of one drug is referred as _adhikarana_ , and bodily components like _dosha, dhatu, mala, agni, srotas_ and mind may be considered as _adhisthanas_. _Upaya_ indicates the mode of administration and the consequent outcome of the _upaya_ is _phalam_ (which ideally should be the restoration of equilibrium of all the functions of body and mind). About principles of drug action rasa, guna, veerya, vipaka and _prabhava_ are considered to be the prime factors that trigger the drug’s actions. This is referred to as guna prabhava(literally, effects of the qualities). 
+
+_Rasas,_ or tastes, are of six types: _madhura_ (sweet), _amla_ (sour), _lavana_ (saline), _katu_ (pungent), _tikta_ (bitter), and _kashaya_ (astringent). 
+
+Guna, or qualities, are of twenty types: _guru_ (heavy), _laghu_ (light), _manda_ (dull, slow), _tikshna_ (sharp, fast), _hima_ (cold), _ushna_ (hot), _snigdha_ (unctuous or greasy), _ruksha_ (dry), _shlakshna_ (smooth, slippery), _khara_ (coarse), _sandra_ (coagulating or solidifying), _mridu_ (soft), _kathina_ (hard), _sthira_ (immobile, static), _sara_ (movable), _sukshma_ (subtle), _sthula_ (grossness), _vishada_ (cleansing) and _pichchila_ (sticky, gluey), and _drava_ (liquidity). 
+
+Veerya is either of two guna (sheeta and ushna) or eight guna:guru, snigdha, hima, mridu, laghu, ruksha, ushna, and tikshana. 
+
+_Vipaka_ is expressed in the form of either two guna (_guru_ and _laghu_), or three _rasas_ (_madhura, amla,_ and _katu_). 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Atreyabhadrakapyiya" (Pharmacological principles of wholesome and unwholesome diet). Thus said Lord Atreya. [1-2] 
+
+### Conference on rasa and diet
+
+#### Participants in the conference
+
+Once Atreya, Bhadrakapya (descendant of Shakunta), Purnakshasha (descendant of Mudgala), Hiranyaksha (the descendant of Kushika), Kumarashira, Bharadwaja, the pious one, Varyovida, the king and the excellent among the wise, Nimi, the king of Videha; Badisha, the great scholar; Kankayana Bahlika, the excellent among the physicians of Bahlika – these great sages, advanced in scholarship, age and self-control- went to the beautiful forest of Chaitraratha on a pleasure trip. While sitting there, they engaged in a historic dialogue on the correlation between _rasa_ and diet. [3-7] 
+
+#### Discussion on rasa
+
+“There is only one _rasa_ ”, said Bhadrakapya, “which is one of the five sense objects, being the object of gustatory organ, and not different from water". “Two _rasas_ ”, said the brahmana descendant of Shakunta, “and these are eliminating and pacifying”. "Three _rasas_ ”, said Purnakaksha, the descendant of Mudgala, “such as eliminating, pacifying and general (having both properties)". "Four _rasas_ ” said Hiranyaksha, the descendant of Kushika, “such as palatable wholesome, palatable unwholesome, impalatable wholesome and impalatable unwholesome." “Five _rasas_ ”, said Kumarashira Bharadwaja, “such as derived from the five basic elements- prithvi, jala, agni, vayu and akasha. “Six _rasas_ ”, said Vayorvida, the king sage, “such as heavy, light, cold, hot, unctuous and rough”. “Seven _rasas_ ”, said Nimi, (the king) of Videha, “such as sweet, sour, saline, pungent, bitter, astringent and alkaline”. "Eight _rasas_ ", said Badisha, belonging to the clan of Dhamargava, “such as sweet, sour, saline, pungent bitter, astringent, alkaline and unmanifested". “ _Rasas_ are innumerable”, said Kankayana, the physician of Bahlika, “because factors like substratum (substance), property, action and taste are innumerable". [8] 
+
+#### Conclusion by Lord Atreya
+
+(After this) Lord Punarvasu Atreya said, "_Rasas_ are only six: _madhura_ (sweet), _amla_ (sour), _lavana_ (saline), _katu_ (pungent), _tikta_ (bitter) and _kashaya_ (astringent). Their primordial source is water. Elimination and pacification the two actions, in moderate both being mixed up. Palatability or otherwise are subjective likings. Wholesome and unwholesome are effects. The products of five mahabhuta (prithvi, jala, agni, vayu and akasha) are actually the substratum of _rasas_ dependent on the natural composition, products, preparation, place and time. Heavy, light, cold, hot, unctuous, rough, etc. are the properties residing in those substrata known as _dravya_ (substance or drug). _Kshara_ is called such because of _ksharana_ (having been poured out or having corrosive action). It is not a _rasa_ , but a _dravya_ (substance) having been derived from many _rasas_ and having the amalgamations of many _rasas_ \- predominantly _katu_ (pungent) and _lavana_ (saline) - and produced by a particular method of preparation. Unmanifestedness is there in primordial source of _rasa,_ _anurasa_ (secondary _rasa_) and in the substance having _anurasa_. Countlessness of _rasas_ because of countlessness of factors like substratum etc. is not a convincing hypothesis because even a single _rasa_ is attached to innumerable factors like substratum etc. and yet it does not forego its identity. Even in cases of combinations of _rasas,_ there is no innumerableness of its primordial source, natural properties and actions. That is why the intelligent ones do not describe the action of the combined _rasas_. Based on this fact, (I) will describe the characters of uncombined six _rasas_ separately.” [9] 
+
+### Panchamahabhuta
+
+#### The Five Elements, their properties and actions
+
+“First of all, I will tell something about the drugs. In this context, a drug constitutes of five bhutas: prithvi, apa, tejas, vayu and akasha. It is (of two types) sentient and insentient. Its properties are _shabda_ etc. and those from _guru_ to _drava_ , and its action are said to be five-fold-vamana etc”. [10] 
+
+#### Properties and actions of panchamahabhuta
+
+_Dravyas_ (drugs) which have properties of _guru_ (heavy), _khara_ (coarse), _kathina_ (hard), _manda_ (slow), _sthira_ (stable), _vishada_ (non-slimy), _sandra_ (solid), _sthula_ (gross) possess the predominant _gandha guna_ of _parthiva_ (i.e., primarily made up of prithvi mahabhuta) exert actions like _upachaya_ (development), _sanghata_ (compactness), _gaurava_ (heaviness) and _sthairya_ (firmness). 
+
+Those having properties of _drava_ (liquid), _snigdha_ (unctuous), _sheeta_ (cold), _manda_ (slow), _mridu_ (soft), _pichchila_ (slimy) and the predominant rasa is _apya_ (i.e., constituting primarily of jala mahabhuta) exert actions like _upakleda_ (moistening), sneha (unction), bandha (binding), vishyanda (oozing), mardava (softening) and pralhad (exhilaration). 
+
+_Dravyas_ with properties of _ushna_ (hot), _tikshna_ (sharp), _sukshma_ (minute), _laghu_ (light), _ruksha_ (rough), _vishada_ (non-slimy) and predominant _rupa_ is _agneya_ (i.e., constituting primarily of _agni_ (agni mahabhuta)) produce _daha_ (burning/heat), _paka_ (digestion), _prabha_ (luster), _prakash_ (light) and _varna_ (complexion). 
+
+_Dravyas_ having properties of _laghu_ (light), _sheeta_ (cold), _ruksha_ (rough), _khara_ (coarse), _vishada_ (non-slimy), _sukshma_ (minute) and the predominant _sparsha_ is _vayavya_ (i.e., primarily made up of vayu mahabhuta). They produce actions of _raukshya_ (roughness), _glani_ (depression), _vichara_ (movement), _vaishdya_ (non-sliminess) and _laghava_ (lightness). 
+
+_Dravyas_ having predominance in the properties of _mridu_ (soft), _laghu_ (light), _sukshma_ (minute), _shlakshna_ (smooth)and the predominantly _shabda_ are _akashiya_ (constituted predominantly of akasha mahabhuta). They exert actions of softening, hollowing and making light. [11] 
+
+#### Existance of panchamahabhuta in universe
+
+On this basis, there is no substance in the universe which cannot be used as a medicinal drug, on the condition that they are used with rational method and with a definite objective. [12] 
+
+### Description of drug action
+
+The activity of drugs is not due to its properties only, but their own intrinsic composition, properties and both combined together in particular time, on reaching a particular locus, with a particular mechanism and objective are also involved in the mode of action of drug. What they perform is _karma_ (action), by means of which they act is _veerya_ (potency), where they act is _adhikarana_ (locus of action), when they act is _kala_ (time), how they act is _upaya_ (mechanism) and what they achieve is _phalam_ (result). [13] 
+
+### Description of the concept of rasa
+
+#### Combinations of rasa
+
+There are sixty-three types of variations of _rasas_ according to substance, place and time, that is mentioned in the following verses. [14] 
+
+Combination of two _rasas_ such as sweet with sour etc. and sour with others, lead to creation of fifteen combinations. 
+
+Likewise, combination of three _rasas_ together result in twenty substances. There are fifteen combinations of four _rasas_ together. They are formed as follows: The group of sweet and sour tastes, combines with any two of remaining tastes beginning with salt in six different ways. They this form the ‘group of fours’ of tastes. 
+
+Thereafter, the group of two-sweet and salt combining consecutively with pungent, bitter and astringent, form with the addition of sour, astringent and pungent respectively, three separate ‘group of fours’. 
+
+Thereafter the group of twos of sweet and pungent combining with residuary group of two of bitter and astringent tastes, forms ‘group of fours’. Thus with the sweet taste as a constant factor, there are ten distinct groups ‘four tastes’. 
+
+Now, dropping the sweet taste, the group of two of sour and salt combining consecutively with pungent, sour and astringent tastes forms with the addition respectively of bitter, astringent and pungent tastes, three separate groups of ‘four tastes’. (1) sour-salt-pungent-bitter (2) sour-salt-bitter-astringent (3) sour-salt-astringent-pungent. 
+
+Now, dropping the salt taste, the group of two of sour and salt combine with the residuary two groups of bitter and astringent to form one fresh group of four tastes. 
+
+Finally, dropping both sweet and sour tastes, salt and pungent combine with astringent and bitter to form the fifteenth and the last group of four tastes. 
+
+By dropping from the total complex of tastes one taste at a time, there are formed six groups of quinary tastes. Then there are six groups of single tastes and the single group of six tastes. [15-22] 
+
+The count of 63 (combinations of _rasa_) becomes countless when factoring in the _anurasas_ and innumerable variations of _rasas_. [23] 
+
+Thus, the scholars of _rasa_ , have mentioned fifty-seven combinations and sixty-three forms of _rasas_ (after adding six pure forms of _rasas_ in fifty-seven combinations) on the basis of their applicability. [24] 
+
+The physician, desirous of success, should administer _rasas_ , in pure forms or in combinations based on dosha, drugs etc. In diseases, the wise physicians administer drugs made up of combinations of two or more _rasas_ etc., and also the combined or single _rasa_ separately (as required). [25-26] 
+
+One, who is conversant with the variations of _rasas_ and dosha, does not confuse in diagnosing the cause and symptoms of the disease and decide the course of treatment of diseases. [27] 
+
+_Rasa_ is that which is perceived at first in dry form (of the substance). The contrary (perceived afterwards and drug in wet form) is known as _anurasa_ (subsidiary taste). There is no seventh _rasa_ (as unmanifested one). [28] 
+
+#### Guna (properties)
+
+_Paratva_ (excellence), _aparatva_ (non-excellence), _yukti_ (rationale), _sankhya_ (enumeration), _samyoga_ (conjunction), _vibhaga_ (disjunction), _prithaktva_ (separateness), _parimana_ (measurement), _sanskara_ (processing) and _abhyasa_ (practice): these properties are known as _paradi_ (beginning with _para_). They are the means of success (in treatment), I am explaining them with definitions. 
+
+_Paratva_ and _aparatva_ are used in relation to place, time, age, measure, _vipaka, veerya, rasa_ etc. _Yukti_ is the rational planning (of therapeutic measures). _Sankhya_ is mathematics (including statistics). Joining together (of entities) is _samyoga_. This is of three types according to the active participation of both, all or one partner. It is non-eternal. _Vibhaga_ is also of three types – _vibhakti_ (excision), _viyoga_ (disjoining) and _bhagaso graha_ (division). _Prithaktva_ is of three types: _asamyoga_ (spatial separateness), _vailaksanya_ (class separateness), and _anekata_ (individual separateness). _Parimana_ denotes measures (of all types, including weights). _Samskara_ is processing. _Abhyasa_ is regular use of substance, habituation and practice. Thus, all the _paradi_ properties are described with their definitions, which if unknown, do not let the therapy proceed properly. [29-35] 
+
+Properties are not said to be located within properties (i.e., within themselves). Hence a physician should take the properties of _rasas_ as those of _dravyas_ , taking into account the different intentions of the author. [36] 
+
+Hence one should decide the meaning after knowing the context, the factors like place and time, author's intentions and the scriptural methods (like _tantrayukti_). [37] 
+
+Hereafter, I will tell about the six divisions of _rasa_ and also that the _rasas_ have originated from the pancha mahabhuta. [38] 
+
+#### Origin and basic composition of rasa
+
+Water is predominantly composed of soma (apa), generated in sky, naturally cold, light and having unmanifested rasas. This, while falling from the sky, gets endowed with the properties of five mahabhuta and thus dropped (on the ground) nourishes the physical forms of animals and plants. In this process, six rasas manifest in water. [39] 
+
+Of the six rasas, madhura rasa is produced by the predominance of soma (apa), amla by that of prithvi and agni, lavana by that of apa and agni, katu by that of vayu and agni, tikta by that of vayu and akasha, and kashaya by that of vayu and prithvi. Thus, the six manifestations of rasas take place according to shortage and excess of mahabhutas like various complexions and shapes in plants and animals. The shortage and excess of mahabhuta is possible due to kala (the time factor) having six seasons. [40] 
+
+Amongst these, the _rasas_ having agni and vayu often move upwards because of vayu’s property of lightness and rushing up and agni’s property of flaming up. Those predominant in apa and prithvi often move downwards due to heaviness of prithvi and downward moving tendency of apa (water). Those having mixed constitutions move both ways. [41] 
+
+Now I shall describe the properties and actions of each of the six _rasas_ according to _dravyas_ (which are their substrata). [42] 
+
+#### Actions of _madhura rasa_ and effects of its excessive use
+
+Amongst the six _rasas,_ the _madhura rasa,_ because of its suitability to the body, promotes rasa dhatu, rakta,mamsa, meda dhatu, asthi dhatu, majja dhatu,ojas and shukra. It is also conducive to increasing the lifespan of the person, is pleasing to the six sense organs, promotes strength and lustre, alleviates pitta and vayu, neutralizes poisons, and pacifies thirst and heat. It is beneficial for skin, hair, throat and strength and is nourishing, vitalizing, saturating, bulk-promoting and stabilizing. It promotes healing of wounds of the emaciated. It provides good feeling in nose, mouth, throat, lips and tongue; alleviates fainting, is most liked by the bees and ants, and is unctuous, cold and heavy. 
+
+This _rasa,_ though having so many qualities, if used singly and excessively, causes obesity, softness, laziness, excessive sleep, heaviness, loss of desire for food, poor digestion with mildness of appetite, abnormal growth in mouth and throat, dyspnea, cough, coryza, _alasaka_ , fever with shivering, hardness in bowels, sweetness in mouth, vomiting, loss of consciousness and voice, goitre, cervical adenitis, filariasis, pharyngitis, (mucous) coating in bladder, arteries and throat, eye diseases, conjunctivitis etc. [43.1] 
+
+#### Actions of _amla rasa_ and effects of its excessive use
+
+_Amla rasa_ makes food relishing, stimulates agni, enhances body bulk and energizes it, awakens the mind, firms the sense organs, increases _bala_ (strength), causes _vatanulomana_ (normal movement of vata), nourishes the heart, increases secretions in the mouth, propels, moistens, and digests food, gives satisfaction, and is light, hot and unctuous. 
+
+This, though endowed with so many qualities, if used singly and excessively, makes teeth sensitive, causes thirst, causes closure of eyes, raises the body hair, liquifies kapha, aggravates pitta, affects blood morbidity, causes inflammation in muscles and laxity in body, produces swelling in wasted, injured, emaciated and debilitated persons, because of its _agneya_ nature causes suppuration in wounds, injuries, bites, burns, fractures, swellings, dislocations, poisoned spots due to urination and contact of insects, compressed, excised, incised, punctured and crushed etc., and causes burning sensation in throat, chest and the cardiac region. [43.2] 
+
+#### Actions of _lavana rasa_ and effects of its excessive use
+
+_Lavana rasa_ is digestive, moistening, appetizing, pouring, expectorant, mass-breaking, irritant, laxative, quickly spreading in body, oozing, space-creating, vata alleviating, diminishes stiffness, viscid, diminishes the perception of other tastes if added in excess, increases secretions in mouth, liquefies kapha, cleanses channels, softens all the body-parts, gives relish to food, is a supplement of food. It is not very heavy, unctuous and hot. 
+
+This, though having so many qualities, if used singly and excessively, vitiates pitta, aggravates rakta, causes thirst, fainting, heat, tearing, sloughing, increases leprosy and other skin diseases, aggravates poisons, weakens teeth, aggravates inflammations, impairs potency, hinders sense organs, gives rise to wrinkles, grey hair and baldness, and also produces disorders like internal hemorrhage, acid gastritis, erysipelas, _vatarakta_ , eczema, alopecia etc. [43.3] 
+
+#### Actions of _katu rasa_ and effects of its excessive use
+
+_Katu rasa_ cleanses mouth, stimulates digestion, absorbs food, causes secretion from the nose and eyes, makes the sense organs clear, alleviates _alasaka_ , swelling, corpulence, urticarial patches, blocked channels, unction, sweating, moisture and dirt, making food relishing, destroys itching, depresses wounds, kills germs, scrapes muscles, checks the coagulation of blood, cuts the bindings, expands the channels, pacifies kapha, and is light, hot and rough. 
+
+This though having so many properties, if used singly and excessively, can damage sexual potency due to the effect of _vipaka,_ cause mental confusion, malaise, depression, emaciation, fainting, bending, feeling of darkness, giddiness, burning in throat, body-heat, loss of strength and thirst due to the effect of _rasa_ and _veerya_ and _prabhava_ , over and above, due to abundance of vayu and agni, it produces _vatika_ disorders in feet, hands, sides, back etc. particularly with symptoms like dizziness, burning pain, tremors, piercing and tearing pains. [43.4] 
+
+#### Actions of _tikta rasa_ and effects of its excessive use
+
+_Tikta rasa_ , though itself non-relishing, enhances appetite, is anti-poison, anthelmintic, alleviates fainting, burning sensation, itching, skin disorders and thirst, provides firmness to skin and muscles, is antipyretic, appetizer, digestive, galactodepurant (i.e., an agent that cleanses any adverse reaction of milk), _lekhana_ (making thin), absorbs moisture, reduces fat, muscle-fat, marrow, lymph, pus, sweat, urine, feces, pitta and kapha; and is rough, cold and light. 

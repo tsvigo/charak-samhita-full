@@ -1,0 +1,136 @@
+The classification of _prameha_ on the basis of onset as _sahaja/jataja pramehi madhumehi_ (hereditary) and _apathyanimittaja pramehi_ (acquired) could be considered analogous to the classification of diabetes conditions as congenital/ Type-I, insulin dependent diabetes mellitus (IDDM) and acquired/ Type-II, non insulin-dependent diabetes mellitus (NIDDM) respectively. 
+
+Considering the pathogenesis, two types of prameha patients are as given below: 
+
+#### _Sahaja prameha_ / _jatah pramehi_ (hereditary)
+
+In Ayurveda, the words _sahaja_ and _jatah_ indicate genetic predisposition to the disease. 
+
+Broadly, in hereditary diseases there may be two contributing factors: 
+
+ 1. A certain defect in the sperm and ovum (referred to as _bija dosha_) results in a genetic disorder or genetic predisposition to disease. Regarding _prameha_ , Charak Samhita mentions that excessive indulgence in _madhura rasa_ (foods/ drinks with a sweet taste) by the parents is the chief cause of this chromosomal damage to the sperm and ovum.
+ 2. An intrauterine environment that negatively affects the development of the fetus due to the mother’s diet, lifestyle, or adverse psychological state during pregnancy. This congenital aspect can trigger the disease process for which there is a genetic predisposition. Regarding _prameha_ , the overindulgence of _madhura rasa_ by the mother during pregnancy is likely to trigger _prameha_.
+
+The diet, lifestyle, and adverse psychological state of the mother during lactation (and only during the stage of pregnancy)may also play a decisive role in precipitating _prameha_ in the infants. In addition, excessive intake of _madhura rasa_ during childhood can contribute to the onset of _prameha_ in children who are genetically predisposed. Thus, hereditary predisposition and unwholesome dietary and lifestyle choices, especially excessive intake of _madhura rasa_ , can play a combined role to cause hereditary _prameha_. The description of _sahaja prameha_ in Sushruta Samhita and _jatah prameha_ in Charak Samhita are quite similar to that of type-I diabetes (also known as insulin- dependent diabetes mellitus or juvenile- onset diabetes). _Jatah pramehi madhumehino_ , as defined in Charak Samhita, correlates with type-I diabetes beginning in early childhood. 
+
+#### _Apathyanimittaja prameha_ (acquired)
+
+The acquired form of _prameha_ (_apathyanimittaja pramehi_), in contrast, is a lifestyle condition caused due to sedentary, or inactive living, and psychologic factors include depression and stress. 
+
+The description of _apathyanimittaja prameha_ in Sushruta Samhita is very similar to that of type-II diabetes. The types of food and drink likely to precipitate this disease have been enumerated in all the classical Ayurvedic texts[1] [2]. These are briefly listed below, along with lifestyle factors and psychological factors that lead to the onset of _prameha_
+
+ 1. Dietary factors: Excessive intake of yogurt, meat of aquatic animals, milk, new grains, food/drinks containing sugar and jaggery (an unrefined form of cane sugar), cold foods, sweet foods, liquid foods, foods that are heavy to digest, and slimy foods.
+ 2. Lifestyle factors: Sedentary lifestyle, excessive sitting, excessive sleeping, sleeping during the daytime, lack of exercise, and laziness.
+ 3. Psychological factors: Disturbance in mental health caused by extremes of psyche such as _vishada_(depression) and bipolar disorder.
+
+All types of _prameha_ ultimately morph into _madhumeha_ which is incurable. From the standpoint of its pathology and clinical manifestation, _madhumeha_ can be correlated with diabetes mellitus. Certain forms of _kaphaja prameha_ could be considered to be very similar (if not identical) to maturity onset diabetes (MODY) or type -II diabetes or NIDDM. _Udakameha_ is analogous to diabetes insipidus, while certain _pittaja prameha_ relate to urinary tract infection and glomerulonephritis relates to diabetes and its complications (diabetic patients are more prone to developing UTI due to deranged immunity). 
+
+All the twenty types of _prameha_ should be considered as distinct disorders. For example, _kalameha_ can be considered as an alkaptonuria-a disease of tyrosine and phenylalanine metabolism. _Vasameha_ can be considered as _lipiduria_ (as in nephrotic syndrome). 
+
+#### Causative factors of _prameha_ /diabetes mellitus
+
+#### Type I Diabetes
+
+Type-I diabetes is a multi-genomic disease and heredity plays an important role in determining an individual’s predisposition to it. Secondly, type-I diabetes is an autoimmune disease in which insulin itself could trigger an attack on beta cells by white blood cells (T-cells)[3]. Finally, there are environmental factors such as foods, viruses and toxins that could trigger an early onset of the disease.[4]
+
+#### Type II Diabetes
+
+Food articles that are high in saturated fats, including dairy products (especially whole-milk products like cream and full-fat yogurt), red meat and meat juice (_mamsarasa_) are known to increase the probability of contracting type II diabetes. High saturated fats lead to increase in adipose tissue secretory factors (ATSF), or resistine, that cause insulin resistance.[5] [6]
+
+Another important causative factor for type-II diabetes is an inactive/sedentary lifestyle. According to a World Bank report, almost 10% of all deaths reported worldwide in 2008 could be attribute to inactivity, due largely to four major diseases, including type II diabetes.[7] , 
+
+### Jaggery and jaggery products including sugar (_gudavaikritum_)
+
+A study published in the International Journal of Diabetes in Developing Countries showed that jaggery and sugar have nearly the same glycemic values[8]. This means that when consumed, both raise blood glucose levels by approximately equal values. The only difference is that the release of glucose from jaggery is comparatively slower than sugar as it is a complex sucrose which takes longer to break down.[9] (Note: Glycemic Index is a unit which measures the amount of glucose released into the blood by a food source. Foods which release more glucose into the blood will have a high Glycemic Index value and vice versa.) 
+
+### The classification of _prameha_
+
+#### Classification by _Dosha_ /Stage of Progression
+
+As for all other disease systems described in Ayurvedic texts, _prameha_ has been classified according to the predominant _dosha_ in the disease process. Ayurveda describes three distinct categories of _prameha_ by _dosha_ , i.e., _kaphaja, pittaja,_ and _vataja prameha_[10] [11]. However, it is important to note here that the dominance of a _dosha_ varies as the disease progresses. In the initial stage, _kapha_ is in excess, which vitiates _meda_ and _kleda_ causing _kaphaja prameha_. 
+
+Further progression results in the loss (or _kshaya_) of _kapha_. _Pitta_ then predominates, which vitiates the blood (_rakta_), precipitating _pittaja prameha_. Further progression results in loss of _pitta_. This leads to vitiation of _vata_ , which weans the body of vital substances/vital essence through urine, precipitating _vataja prameha_[12]. Charak says that any of these three types of _prameha_ can be precipitated directly, depending upon genetic predisposition and improper diet and lifestyle. 
+
+Correlating the _doshic_ classification of _prameha_ with the etiology, _kaphaja_ and _pittaja prameha_ are always _apathyanimittaja_ _prameha_ (acquired), while _vataja prameha_ can be hereditary or acquired. If _kaphaja_ and _pittaja_ _prameha_ are not managed properly, in due course of time they lead to _madhumeha_ (a subtype of _vataja prameha_), which is a terminal stage of the disease and is said to be incurable[13]. This disease can be equated with the terminal stage of type 2 diabetes, which progresses to insulin- dependent diabetes. It has been observed that in the _pittaja_ stage of _prameha_ , there is a tendency toward moderate hyperglycemia, which may be due to increased adrenal medullary and cortical activities. In _vataja prameha_ , there may be severe hyperglycemia with hypoinsulinemia.[14]
+
+As mentioned earlier, _prameha_ can be correlated with obesity, metabolic syndrome, and diabetes mellitus. The early manifestation of the disease process in these conditions is characterized by lipid, carbohydrate, and protein metabolism disturbances accompanied by glycosuria, proteinuria, etc., which can be equates with a _kaphaja_ condition (i.e., which can be easily controlled and cured. _Pittaja prameha_ can be correlated with the inflammatory conditions accompanied with diabetes like urinary tract infection and diabetic ketoacidosis. The advanced stage of disease, with metabolic disturbances associated with loss of immunity, correlates with type 2 diabetes that has progressed to insulin dependent diabetes, and correlates with the hereditary form of type 1 diabetes, which both correlate with _vataja prameha_. Both of these forms are incurable as described by Charak. 
+
+### _Prameha_ classified according to physique
+
+Charak Samhita has classified the patients of _prameha_ into two main categories on the basis of their body constitution with regard to physique:: 
+
+ 1. _Sthula pramehi_ refers to obese diabetic patients and corresponds to individuals with Type 2 diabetes, and
+ 2. _Krisha pramehi_ refers to asthenic diabetic patients and corresponds to _krisha pramehi_ corresponds to patients with Type-I diabetes.[15]
+
+Research shows that sedentary lifestyle, coupled with an excessive intake of sugar-rich substances lead to a build up of toxins that could be equated to _ama_ (or toxins resulting from improperly digested food and metabolic products). This _ama_ then leads to the formation of _meda_ (fat)[16]. When this resultant _meda_ is also coupled with vitiated _doshas_ (primarily, _kapha_ and _vata_), and _agni_ (the digestive processes), it provides for a conducive ground for the causation of _prameha_. 
+
+Modern scientific research also correlates insulin resistance with obesity, where insulin resistance increases with weight gain and reduces with weight loss. Hormones such as resistin (derived from adipose tissues) provide for a direct link between obesity and diabetes, as they cause insulin resistance.[17]
+
+In Ayurveda, much emphasis has been given to the role of _meda_ in the pathogenesis of _prameha_. However, its role is not only as a _dushya_ (disturbed functioning of the _dhatus_), but something more than that. _Bahudrava shleshma_ (_kapha_ that contains too much liquid) joins and affects _meda_ , causing it to become _abadha_ (unobstructed or fluid) in nature. This form of _meda_ has been described to have an effect on _mamsa_ (muscle tissue), thereby increasing the volume of body fluid. This has been described as _sharira- kleda_ (body fluid). This route of pathogenesis for _prameha_ is closely related to obesity. 
+
+### _Samprapti_ (pathogenesis) of _prameha_
+
+The scientific utility of this chapter lies in the fact that in _prameha_ the vitiated _kapha_ first vitiates _meda dhatu_ followed by _mamsa_ and other _dushya_ and then finally vitiates _mutra_ to manifest as _prameha_. This signifies that hyperglycemia is preceded by dyslipidiemias. One more interesting fact is that the main culprit of the disease i.e. _kapha_ is inherently denatured, means it loses its natural properties due to hereditary defect what we know today as genetic susceptability. Furthermore, it is added that if a disease appeared due to genetic default, then it is incurable. A step ahead from the present contemporary knowledge, it is mentioned that as genetic modulation can cause disease similarly a chronic disease can cause gene modulation and vice-versa.[18]
+
+### Various _dushyas_ involved in the pathogenesis
+
+#### Meda dhatu
+
+_Meda_ vitiation is common and dominant _dushya_ in the pathogenesis of _madhumeha_. _Kapha_ and _meda_ both have close resemblance in regard to functions as well as in regard to qualitative parameters. Both get vitiated more or less by same etiological factors. In _madhumeha_ vitiation of _meda_ results by two ways:[19]
+
+ 1. Qualitative: _Abaddha_ (loose): The normal function of _meda_ is to produce unctousness in the body along with _drudhatva_ (compactness). This _abadhatva_ (looseness) causes derangement in the structure of _meda_ producing _shaithilya_ (flabbiness) in the body this can be well correlated with FFA excess.[20]
+ 2. Quantitative: _Bahu_(excess): Here in the pathogenesis, _meda_ is in excess quantity. This _meda dhatu_ is _aparipakva_ (immature). It obstructs the path of _vayu_ along with _kapha_. This provoked _vata_ increases the _agni_ , so patient eats more and more food causing excessive deposition of _aparipakva meda_. This in turns causes severe depletion of the other _dhatus_ and produces various sign and symptoms.
+
+Excess of fat in the body get converted into FFA and is utilized in energy metabolism especially in the muscles causing retention of glucose in the blood. Increased appetite in _medoroga_ is due to increased body demand, which is explained to be due to hyperinsulinism or increased secretion of growth hormone. Diabetes has been compared with the fasting state of the body, ketosis is nothing else but the advanced fasting stage of the body, so the deleterious effect of long fast specially in the patient of obesity is same as in diabetic stage. 
+
+#### Mamsa dhatu
+
+It is one of the main _dushyas_ (vitiating factors) described by Charak in regards to _prameha_. He narrated it especially in _kaphaja prameha_ and _avaranjanya madhumeha_. _Mamsa_ and _Kapha_ possess similar qualities and both give strength to the body. When vitiated, _mamsa_ loses its normal consistency and develops _shaithilya_ and provide space in between for the accumulation of morbid matter. That in turn results in _putimamsa pidika_. [Cha.Sa.Nidana Sthana 4/8] _Mamsa dushti_ can be compared to deranged protein metabolism which is an integral part of diabetes mellitus. Research studies have found that glucocorticoid activities and acidosis stimulates protein and amino acid catabolism [21]. Amino acids breakdown in liver results in increased production of urea[22] and these free amino acids can be compared with _abaddha mamsa_. _Putimamsa_ and _pidaka_ are the morbid states of _mamsa dhatu_. Two major changes take place in _mamsa dhatu_ \- protein degradation and reduction in its blood supply, both of which along with elevated blood sugar level form a favorable media for the growth and multiplication of microorganisms. The results are putrefaction and evolution of multiple septic foci in _mamsa dhatu_. Diminished protein synthesis hampers the healing process and these complications adopt chronic course. 
+
+#### Majja dhatu
+
+_Majja dhatu_ is not vitiated to maximum extent but _vata_ causes its _kshaya_ i.e. depletion. Thus vitiated _majja_ produces symptoms like _netragaurava_ (heaviness in eyes), _angagaurava_(heaviness in body) in patient of _madhumeha_. The ketone bodies production due to excessive utilization of fat may be referred to _dushti_ of _vasa_ and _majja_. _Murchcha_ (temporary loss of consciousness) occurs due to dushti of _majja_ in diabetes mellitus. The condition of hyperglycemic coma is characterized by the accumulation of ketone bodies. 
+
+#### Shukra
+
+_Shukra_ also get vitiated in the pathogenesis and produces symptoms like _daurbalya_ (fatigue) and _krichavyavayata_ (difficulty in sexual intercourse), because normal functions of _shukra_ is to maintain _dehabala_. It also plays role in the precipitation of _sahaja_ (genetic) _prameha_. Sexual impotency and testicular hypofuctions have been reported in diabetes mellitus. 
+
+#### Ojas
+
+Ojas as _dushya_ is mainly involved in _vataja prameha_ i.e. _ojomeha_ (_madhumeha_). The symptoms of _ojakshaya_ manifests, like _gurugatrata_ (heaviness in body), _nidra_ (sleepiness), _tandra_ (drowsiness) and _daurbalya_ (fatigue) can be correlated with immunocompromised stage in diabetes mellitus due to deranged immunity. 
+
+#### Kleda
+
+This is one of the body components mainly involved in the pathogenesis. The literary meanings of _kleda_ are wetness, moisture and dumpness etc. The physiology of _kleda_ is mainly related with _mutra_ and _sweda_ along with _meda_. Thus, when _kleda_ is involved then it directly affects the above factors. In normal physiology _mutra_ and _sweda_ maintain the balance of _kleda_. Especially _sweda_ holds it in the body and _mutra_ gets excreted out of the body according to the body condition and requirement. If _kleda_ gets vitiated it directly affects the physiology of _mutra_ and _sweda_ and disrupts the assemblage of bodily elements causing _shaithilya_. Thus, the symptoms manifest due to _kleda_ vitiation are _prabhutamutrata_ (polyuria), _swedavrddhi_ (increased sweating), _shaithilya_ (weakness), _daurgandhya_ (bad smell) and _avilamutrata_ (polyuria). 
+
+The glycosuria raises the _osmolar_ concentration of the urine and osmotic diuresis resulting in water and sodium loss along with potassium leads to generalized weakness in the patient of diabetes mellitus. The level of catecholamines is increased in DM causes excessive sweating that further leads to loss of electrolytes such as sodium and chlorides through the skin. The whole phenomenon described under _kleda_ can be correlated with water and electrolyte imbalance. 
+
+#### Vasa
+
+Charak described it as a subtype of _vatajaprameha_ i.e. _vasameha_. _Vasa_ is the _upadhatu_ (minor tissue or sub-tissue) of _mamsa_ and the unctuousness present in the _mamsa dhatu_ is called _vasa_. 
+
+#### Lasika
+
+This is one of the liquid component present just beneath the skin. _Lasika_ also get vitiated by _vata_ resulting _lasikameha_. There is no direct reference related to _vasa_ and _lasika dushti_. 
+
+#### Exclusion of asthi as a dushya
+
+Among the ten _dushyas_ of _prameha,asthi_ (bone) is not included. According to modern physiology, bone is a tissue that undergoes frequent remodeling and has a large capacity for regeneration. In the adult remodeling occurs so that the skeleton is replaced approximately every 10–11 yr. This physiological remodeling is initiated by osteoclasts that re-absorb bone and is followed by the formation of an equivalent amount of new bone by osteoblasts,[23] [24] bone loss is noted when the amount of bone resorption exceeds the amount of new bone formation. 
+
+Diabetes has also been associated with a net loss of bone. A number of studies have reported that type 1 diabetes alters bone remodeling by reducing the formation of new bone, leading to osteopenia. This has been shown by a decrease in bone mineral density in humans and alterations in the formation of new bone in animal studies[25] [26] [27] [28]. In contrast, the presence of bone loss in type 2 diabetes is less clear, and current understanding suggests that this form of diabetes is not typically associated with osteopenia[29] [30] [31] [32]. The reasons for the lower bone mineral density in type 1 diabetes are not known. 
+
+### _Vataja prameha_ vis a vis type 1 diabetes mellitus
+
+The pathogenesis of _vataja prameha_ is similar to that of type-1 diabetes mellitus. _Vata_ is agitated due to various precipitating causes acts on the body in such a way that there is passage of _vasa_ (fat), _majja_ (bone marrow), _lasika_ (lymph), and _ojas_ (essence of the body /immune substances / vitality) through the urine. This condition indicates impaired renal function as a result of diabetes, leading to a dire prognosis. Due to _dhatukshaya_ (loss of body tissues) the patient become very weak and emaciated. 
+
+Charak Samhita deals with very specific pathogenesis for _madhumeha_ , which is a subtype of _vataja prameha_. When an individual excessively consumes the foods that cause _prameha, [kapha]]_ and _pitta_ become vitiated, then adipose tissues and muscle tissuses become disturbed and causes impaired functioning of _vata_. Subsequently _vata_ gets vitiated and extends to urinary bladder along with _ojas_ , resulting in _ojas_ being expelled in the urine. In Ayurveda, _ojas_ is considered vital to the maintanence of health; its loss in _prameha_ leads to many complications, including _prameha pidika_ (boils and carbuncles). This advanced condition is comparable to non-insulin –dependent type -2 diabetes progressing into insulin dependent diabetes. It is the stage of diabetes in which there are complications, including nephropathy, which result in vital substances of the body being excreted through urine. 
+
+Among patients with significant proteinuria, the degeneration of cells within epithelial casts may result in a characteristic "Maltese Cross" appearance and a fatty cast. These droplets are composed of cholesterol esters and cholesterol, which may also be observed free in the urine. This may be correlated with _vasameha_ (lipiduria). _Majjameha_ can be correlated with appearance of waxy casts in urine in advanced renal failure. Waxy cast are thought to be the last stage of the degeneration of a granular cast. Since this degenerative process is probably slow, it is most likely observed in nephrons with much diminished flow. Waxy casts are therefore most consistent with the presence of advanced renal failure.[33]
+
+_Hastimeha_ can be correlated with polyuria in diabetic ketoacidosis due to osmotic dieresis and electrolyte imbalance. Insidious increased thirst (i.e. polydipsia) and urination (i.e. polyuria) are the most common early symptoms of diabetic ketoacidosis (DKA).[34]
+
+### _Poorvarupa_ (prodromal symptoms) of _prameha_
+
+For _prameha_ , these symptoms include excessive sweat, body odor, laziness, inclination towards rest, presence of excessive _malas_ (waste products) in the eyes, ears, teeth, throat, palate, and tongue (buccal cavity), excessive growth of hair and nails, matting of the hair, excessive thirst, a sweet taste in the mouth, a burning sensation in the hand and feet, attraction of insect and ants toward the body and urine, and so on. Diabetes has close relationship to conditions within the oral cavity. It leads to adverse changes in gums and periodontal tissues: effects that may be evident even before clinical diabetes is recognized and diagnosed.[35] Periodontal diseases are associated with higher levels of insulin resistance and are often a precursor of type 2 diabetes as well as with the higher levels of glycated hemoglobin[36]. These findings may relate to the prodromal symptoms of excessive excretion of _malas_ in the buccal cavity. A sweet taste in the mouth is a prodromal symptom that may be explained by the presence of glucose of saliva. If blood glucose levels are high, glucose is also present in the saliva, which can increase cavities and increase the risk of oral candidiasis. 
+
+A burning sensation in the hands and feet is an important feature of neuropathy that results from diabetes mellitus. Excessive sweat as a consequence of obesity may result in bacterial growth that leads to body odor. Excessive thirst may be directly related to disturbed glucose metabolism. Thus, the symptoms described in the _poorvarupa_ of _prameha_ include prediabetic symptoms and the early manifestation (vascular changes, obesity, etc.) of diabetes or subclinical diabetes. 

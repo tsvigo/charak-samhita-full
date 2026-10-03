@@ -1,0 +1,61 @@
+Determination of psychosomatic constitution, as well as disease susceptibility of an individual in population through genetic trait, is known as prakriti. Prakriti is a broad term that encompasses all the three genotype, phenotype as well as endophenotype. The concept of prakriti in Ayurveda is related to the bio-characteristic of an individual in healthy state and its vulnerability for particular diseases. According to Ayurveda, prakriti of an individual once determined at the time of fertilization remains unchanged throughout life though it is well influenced by environment. Role of environment in determination of prakriti during prenatal period is as important as postnatal period. Reviewing the human embryology, it can be postulated that the three primitive germinal layers namely ectoderm, mesoderm and endoderm can be correlated with _vatika, paittika_ and _kaphaja_ trait. According to Ayurveda at the time of fertilization the _doshika prakriti_ is determined by the _doshika_ predominance of shukra (sperm) and shonita (ovum) that represent the fastidious genetic alignment of chromosomes in sperm and ovum and decide the genetic trait of zygote. Robust research is being conducted to study the link between prakriti and genes. 
+
+In Nidana Sthana Chapter 4 (Prameha Nidana), Acharya says that the development of disease is multi-factorial and it depends upon both the virulence of pathogens (nidana) as well as host response (dushya). Response of the host can be quantified by using prakriti as a parameter. [verse 13] 
+
+### Psycho-somatic disease
+
+Classification of various diseases on five parameters is described and then gives a generalized method for classification of disease on the basis of grief as a universal symptom. Here it is important to note that the term grief is used instead of pain to identify the disease. The word grief (_dukha_) signifies both mental as well as physical trouble. Thus more emphasis is given on the fact that both the component of a disease i.e. somatic and psychic should be equally treated for successful management. Description of the causative dosha for mental diseases and their relation with physical dosha is given. In the same context the psychosomatic diseases are described. Chronic somatic diseases cause psychological diseases and chronic psychological diseases leads to somatic diseases i.e. both are intermingled and have cause and effect relationship. 
+
+### Role of agni
+
+The relation between agni and disease process is essential to be understood. Impairment of agni is a cause of accumulation of various toxic products inside body leading to disease. Agni includes all processes of digestion and metabolism taking at gross level, tissue level, micro-cellular level. Hence it needs a special emphasis while treating a disease. Diagnosis of agni of a person is one of key factor in understanding disease. 
+
+The term _sharireshu_ indicates that agni (factors or enzymes responsible for digestion and metabolism) residing all over the body. However, in subsequent elaboration, agni residing in the gastrointestinal tract is described because this agni regulates the aggravation or abatement of all the other agni [Cha.Sa.Chikitsa Sthana 15/39]. Agni belonging to regular or balanced category are the most beneficial for a healthy living; still agni belonging to the sharp category are given priority in the order of description because of their importance in as much as they are capable of tolerating all types of irregularities. Balanced (_sama_) condition of vata, pitta, and kapha during their natural states and when they are aggravated, accompanies regular or balanced agni. 
+
+The charts 1,2 and 3 shows various types of agni and its related processes in ayurvedic perspective. 
+
+### Contemporary views
+
+Current scientific research supports this age-old tenet of medical wisdom. Walter Cannon in 1920, documented the physiological changes in body as a response to stressors through hormones called catecholamines. This was further researched by Hans Selye to pioneer the field of stress research. He described the close relation between body and mind with various articles on stress affecting humans biologically. Biofeedback is found effective in the treatment of various psycho-somatic disorders. Dean Ornish and his colleagues also worked upon the concept to integrate _yoga_ , meditation for designing protocol for stress management in a medical center[1]. 
+
+International classification of diseases and related health problems is a system that classifies disease on the basis of interpretation and comparison of mortality and morbidity data across globe[2]. 
+
+### Applied aspect for future research
+
+ 1. Scientific validation of term prakriti and standardization of _doshika_ and _manasa prakriti_.
+ 2. Preparation of protocol for the classification of diseases on the basis of vata, pitta and kapha.
+ 3. Standardization of Parameters for the characterization of agni into _manda, tikshana_ and _vishama_.
+ 4. Classification of disease, patient as well as management on the basis of prakriti and its scientific validation.
+
+### Future Scope for Research
+
+ 1. Searching genetic trait for different prakriti and disease susceptibility accordingly.
+ 2. Standardization of _Jatharagni, Bhutagni_ and _Dhatvagni_.
+
+### Further reading
+
+ 1. Kajaria Divya, Tripathi J.S, Tiwari S.K. Clinical Application of Concept of Agni. Asian Journal of Pharmaceutical Research. 2014; 4(1):1-5.
+ 2. Kajaria Divya, Tripathi J.S, Tiwari S.K. Exploring Novel Concept of Agni and its Clinical Relevance. Alternative & Integrative Medicine.2013; 2(8):1-5.
+ 3. Patwardhan, B., and Mashelkar, R. A. (2009) Traditional medicine-inspired approach to drug discovery: can Ayurveda show the way forward? Drug Discovery Today 14 (15-16), 804–11.
+ 4. Bhushan, P., Kalpana, J., and Arvind, C. (2005) Classification of human population based on HLA gene polymorphism and the concept of Prakriti in Ayurveda. J. Altern. Complement. Med. 11 (2), 349–53.
+ 5. Prasher, B., Negi, S., Aggarwal, S., Mandal, A. K., Sethi, T. P.,Deshmukh, S. R., Purohit, S. G., Sengupta, S., Khanna, S., Mohammad, F., Garg, G., Brahmachari, S. K., Indian Genome Variation Consortium, Mukerji, M. (2008) Whole genome expression and biochemical correlates of extreme constitutional types defined in Ayurveda. J. Transl. Med.6, 48.
+ 6. Aggarwal, S., Negi, S., Jha, P., Singh, P. K., Stobdan, T., Pasha,M. A., Ghosh, S., Agrawal, A., Prasher, B., and Mukerji, M. (2010) EGLN1 involvement in high-altitude adaptation revealed through genetic analysis of extreme constitution types de!ned in Ayurveda. Proc.Natl. Acad. Sci. U.S.A. 107 (44), 18961–6.
+ 7. Peng, Y., Yang, Z., Zhang, H., Cui, C., Qi, X., Luo, X., Tao, X.,Wu, T., Ouzhuluobu, B., Ciwangsangbu, D., Chen, H., Shi, H., and Su, B. (2011) Genetic variations in Tibetan populations and high-altitude adaptation at the Himalayas. Mol. Biol. Evol. 28 (2), 1075–81.
+ 8. Xu, S., Li, S., Yang, Y., Tan, J., Lou, H., Jin, W., Yang, L., Pan, X.,Wang, J., Shen, Y., Wu, B., Wang, H., and Jin, L. (2011) A genome-wide search for signals of high-altitude adaptation in Tibetans. Mol. Biol. Evol.28 (2), 1003–11.
+ 9. Bigham, A., Bauchet, M., Pinto, D., Mao, X., Akey, J. M., Mei, R.,Scherer, S. W., Julian, C. G., Wilson, M. J., L!opez Herr!aez, D., Brutsaert, T., Parra, E. J., Moore, L. G., and Shriver, M. D. (2010) Identifying signatures of natural selection in Tibetan and Andean populations using dense genome scan data. PLoS Genet. 6 (9), e1001116.
+ 10. Storz, J. F. (2010) Evolution. Genes for high altitudes. Science 329 (5987), 40–1.
+ 11. Huerta-Yepez, S, Baay-Guzman, G. J., Bebenek, I. G., Hernandez-Pando, R, Vega, M. I., Chi, L, Riedl, M, Diaz-Sanchez, D, Kleerup, E, Tashkin, D. P., Gonzalez, F. J., Bonavida, B, Zeidler, M, and Hankinson,O. (2011) Hypoxia Inducible Factor promotes murine allergic airway inflammation and is increased in asthma and rhinitis. Allergy66 (7),909–18.
+
+## Related chapters
+
+ * Ashtodariya
+ * Maharoga Adhyaya
+
+**Send us your suggestions and feedback on this page.**
+
+## References
+
+ 1. ↑ Sourced from http://www.bravewell.org/integrative_medicine/philosophical_foundation/mind_and_body_connection/ accessed on 18/06/2017 
+ 2. ↑ Sourced from http://www.who.int/classifications/icd/revision/en/ accessed on 26/06/2017 
+
+Back to the Top

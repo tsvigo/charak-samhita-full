@@ -1,0 +1,147 @@
+ 1. Definition of _sharira_ (body), with a focus on how it is afflicted leading to disease and destruction
+ 2. Increase or decrease of _dhatu_
+ 3. Treatment of deficient _dhatu_
+ 4. Factors responsible for the growth of the body
+ 5. Factors responsible for the promotion of strength
+ 6. Factors which help in the digestion and metabolism of food
+ 7. The mode of action of each of the above mentioned factors
+ 8. _mala_ (body wastes) and _prasada_ (building blocks) types of _dhatu_ (body elements)
+ 9. Various queries (related to fetus development, birth process, life span and time of death etc.) [31-34]
+
+Thus ends the sixth chapter of Sharira Sthana on the ‘Analytical Study of the Body’ of Agnivesha’s work as redacted by Charaka. 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Human body is the site of manifestation of _chetana_ (consciousness) and a union of factors derived from the five _mahabhuta_ in a specific proportion that maintains equilibrium.
+ * Inappropriate change in the relative proportions of _dhatus_ (disequilibrium) causes discomfort or destruction of the body. The change in the relative proportion of the _dhatu_ is either in terms of aggravation or diminution, either partially or completely.
+ * _Dhatus_ with mutually opposing properties undergo increase and decrease simultaneously. A factor which increases a particular _dhatu_ can prove antagonist for the other _dhatu_ of opposing properties.
+ * Properly administered medical therapies, following the principle of _samanya_ and _vishesha_ , administered simultaneously, bring both the reduced and increased _dhatus_ to their normal states by reducing the increased ones and increasing the diminished ones.
+ * For the maintenance of the equilibrium of _dhatus_ , one should follow activities and diet with properties opposite to the geographical condition, season and physical constitution of the individual. One should observe proper utilization and avoid excessive utilization of physical and mental capabilities as well as of available resources like time. One should not suppress manifested urges and should also avoid working beyond one’s capacity.
+ * Substitute dietary articles with similar properties can be used in certain conditions of diminution of _dhatu_ , where the tissue replacement is not possible.
+ * The factors responsible for proper growth and development of body include favorable time (in terms of age and season), favorable natural tendencies for growth, observance of all rule of taking diet of good quality and absence of inhibiting factors for growth.
+ * Factors responsible for enhancement of strength:
+
+ 1. Birth at a time when people naturally gain strength
+ 2. Favorable disposition of time
+ 3. Excellence of _beeja_ and _kshetra_ qualities
+ 4. Excellence of ingested food
+ 5. Excellence of physique
+ 6. Excellence of _satmya_ (adaptation to various factors responsible for the maintenance of the body)
+ 7. Excellence of mind qualities
+ 8. Natural tendency
+ 9. Youth
+ 10. Exercise
+ 11. Cheerful nature
+
+ * Factors responsible for transformation (digestion, assimilation and metabolism) of food are _ushma, vayu, kleda, sneha, kala_ (time required for digestion) and _samayoga_ (appropriate administration).
+ * Specific actions of factors of transformation of food:
+
+ 1. _Pitta/ushma_ digests the food.
+ 2. _Vata/vayu_ transports the food for digestion.
+ 3. _Kleda_ loosens the food particle.
+ 4. _Sneha_ makes the ingredients softer.
+ 5. _Kala_ indicates duration which is required to complete the digestion.
+
+Seasons of the year as well as the age under the _kala_ factor influence strength. In certain seasons like _hemanta_ and _shishira_ , people generally gain strength, and birth in such seasons makes the individual strong. Moderate climate when there is no excess heat and cold and which is pleasant also promotes the strength of the individual. 
+
+ * Transformation of food (digestion, assimilation and metabolism) results in two attributes, _prasada_ (building blocks) and _mala_ (waste products). _Mala_ are either _paripakvadhatu_ (mature tissue elements of the body) which are reutilized or vitiated (either aggravated or diminished) _doshas/dhatu_ which need to be excreted .
+ * The vitiated _dosha_ when come in contact with the tissue elements of the body, manifest disorders. When in normal state, the _doshas_ maintain the health of the individual.
+ * The fetus is dependent upon the mother for all its activities. It gets nourishment by the process of _upasneha_ (perfusion) and _upasweda_ (thermal regulation). It gets nourishment by the process of perfusion- sometimes through the hair follicles and sometimes through the umbilical cord and placenta connected with the heart (circulatory system) of the mother. The heart of the mother floods the placenta (with nourishment) through the pulsating vessels. This _rasa_ (nutritive fluid) promotes strength and complexion of the fetus as it is composed of material having all six _rasa_ (tastes). Therefore the diet and lifestyle of mother during gestation is of utmost importance to prevent disorders in the fetus.
+ * _Vata dosha_ plays a key role in regulation of movement of fetus during a normal labor. Hence _vata_ pacifying diet is advised to prevent gestational and post natal disorders in women. (24)
+ * _Kala_ (Time) is an important determining factor for all processes of life and lifespan.
+ * The factors responsible for the maintenance (of the normal span) of life are: _prakriti sampat_ i.e. equilibrium of _dosha_ in the constitution of individual, _guna sampat_ i.e. excellence of the compactness of the body and excellence of hereditary qualities; and _atma_ _sampat_ i.e. virtuous acts. (30)
+
+## Vidhi Vimarsha (Applied Inferences)
+
+### Concept of analytical knowledge
+
+The concept of analytical knowledge or detailed knowledge of the body elements that is described here is very much similar to the concept of systems biology in contemporary science. 
+
+Systems biology studies biological systems by analyzing them (biologically, genetically, or chemically), by monitoring the gene, protein, and informational pathway responses, integrating these data and ultimately, formulating mathematical models that describe the structure of the system and its response to individual variations. Systems biology does not investigate individual genes or proteins one at a time. Rather, it investigates the behavior and relationships of all of the elements in a particular biological system while it is functioning. Thus, the systems biology theory understands the importance of the constituent units of the body as well as their networking. (Timothy Galitski, 2001)[1]
+
+A simple example that can illustrate System biology approach is of sickle cell anemia. This disease is caused by a single point mutation at position 6 of the β-chain of hemoglobin, which changes hemoglobin’s oxygen affinity and promotes polymerization under hypoxic conditions. However, individuals with sickle cell disease can present with variety of symptoms which include hemolysis, inflammation, cell adhesion and end-organ ischemia-reperfusion injury and infarction. Patients also experience intermittent painful episodes due to acute vascular obstruction. (Mack KA) [2] There are many reasons for these different clinical manifestations, including the presence of other genes modifying the disease modifying genes (e.g., hemoglobin F). Hence, this example indicates that the knowledge of single gene is not sufficient to understand the disease. There is need to consider other genes or in other words other constituents of the body. [verse 3] 
+
+### Definition of sharira and disequilibrium in body elements
+
+The consciousness manifested in the body is because of the soul. Since the soul does not have any dwelling place, the word bhuta is added to the term _chetana sthana_ in the text. 
+
+_Dhatus_ are derived from the _mahabhuta_ and the body represents the union of these _dhatus_ in specific proportions. Hence, maintenance of these proportions becomes important for the maintenance of health. Any change in the quantity of individual _dhatu_ , thereby disturbing the relative proportion of the other _dhatu_ results in ill health. A minor change in proportion results in discomfort while the major change destroys the body completely i.e. it can lead to death. It is important to note here that the change in proportion should be manifested and it should produce _klesha_ (discomfort) and/or _vinasha_ (destruction) to consider it significant. 
+
+A change in proportion of these _dhatus_ can be due to circadian, seasonal variations etc. Sometimes the change can also occur due to dietary or behavioural changes. For example, increase in the quantity of _shukra_ (one among the seven structural elements) by consumption of milk. However, this kind of change is transitory in nature. To differentiate this transitory state of disequilibrium, the term _gamana_ has been suffixed to the term _vaishamya_ (any increase or decrease beyond the normal range). This indicates that the _vaishamya_ has to be long standing. 
+
+Sometimes a change in proportion of these _dhatus_ can also be seen without discomfort and destruction. 
+
+For example, 
+
+ 1. The effects of aphrodisiacs by which there is an increase in the quantity of _shukra_ and
+ 2. The increase in _dhatus_ of a child along with the increase of its age.
+
+In both of these examples, there is no discomfort or destruction. This type of interpretation is not valid as an increase in _dhatus_ of a child is owing to its age, which is natural and does not exceed the desired quantity at the given age of the individual. Even the increase of _shukra_ by the administration of aphrodisiacs does not cause any disease and therefore, this increase should be considered as within the normal range. 
+
+In the seventh chapter of this section, we would see that the average quantity of _dhatu_ is described in terms of _anjali pramana_ (a measurement by joining palms of both hands). In spite of the description of these quantities one has to depend on the signs and symptoms of aggravation and diminution of _dhatu_ as they are not available directly for measurement. Therefore, the maximum increase of _shukra_ which does not produce a disease should be considered as the limit of the normal range of this _dhatu_ and _vaishamya_ should be diagnosed when abnormal symptoms will get manifested. 
+
+Some scholars opine that sometimes the increase or decrease can be physiological (_prakrita_). They cite the example [Cha. Sa. Sutra Sthana 17/45-46] that the diminution of _kapha_ aggravates _vata_ and further draws the _pitta_ which is in its normal state from its site and makes it circulate through the body to produce pain in the sites of its circulation. In this case, even though the _pitta dosha_ is in its normal state, it causes discomfort in the body because of external factors (_paratantra prakopa/ashayapakarsha gati_). 
+
+This statement is not convincing because in another verse of the same chapter [Cha.Sa. Sutra Sthana 17/62], the author has described three different states of _dhatu_ viz. increase, decrease and normalcy along with their diagnostic criteria. In its normal state, a _dhatu_ does not produce any kind of discomfort or destruction. Also, a disease is defined as the result of the imbalance of _dhatus_ and the normal state of these _dhatus_ is described to constitute the health. [Cha.Sa. Sutra Sthana 9/4] 
+
+The correct understanding of the verse [Cha.Sa. Sutra Sthana 17/45-46] therefore should be that if the _pitta_ in its normal state, when carried by the aggravated _vata_ , circulates in the body, and gets mixed up with the _pitta_ of other places, and then actually there is an increase in local _pitta_ of those places, this increased state of _pitta_ is in fact responsible for the cause of symptoms/disease. Even when _dhatus_ are in their normal states before they come in contact with the aggravated _dosha_ , their equilibrium gets disturbed after the interaction with _dosha_. The manifestation of diseases, therefore, is possible only when _dhatu_ are either increased or decreased due to this interaction and the consequent imbalance. 
+
+### Factors responsible for increase and decrease of body elements
+
+A factor which is responsible for the increase of one _dhatu_ will at the same time reduce the dhatu of opposing properties. For example, milk increases _kapha_ and _shukra_ and at the same time, reduces _vata_ etc. which are of opposing properties. With this view, the authors have used a verb _bhavatah_ , which is _dvivachana_ (changes are happening in two _dhatus_). 
+
+Cow’s urine and _kapha dosha_ share similar physical properties i.e. both are liquid. Still cow’s urine reduces _kapha_ because of differences in other attributes, viz. _katu_ (pungent), _ushna_ (producing heat in the body), _ruksha_(dry, desiccating) etc. Thus, it can be inferred that more than the physical nature (_jati_),the attributes (_guna_) are responsible for the increase or decrease of _dhatu_ , and to reiterate this, the term _guna_ has been added as a suffix to _viparita_ (opposite) in the text. 
+
+The concept explained here is simultaneous changes happening in two or more _dhatus_ having mutually opposite attributes. An etiological or causative factor can cause an increase or decrease in different body elements disturbing the equilibrium. It is possible that the introduction of the etiological or causative factor may be catalyzing a cascade of events either independent or related to the _dhatu_ bringing changes in them. This concept can be further understood by the concept of “cross-organ talks” explained in modern medicine. When there is change in status of any organ, there can be changes seen even in the distant organs through cellular networks. For example, adipose tissue is an endocrine organ. The tissue produces and secretes a wide range of mediators regulating adipose tissue function in an auto-/paracrine manner and important distant targets, such as the liver, skeletal muscle, the pancreas and the cardiovascular system. The enlargement of adipocytes leads to adipose tissue dysfunction and a shift in the secretory profile with an increased release of pro-inflammatory adipokines in metabolic disorders such as obesity. Adipose tissue dysfunction has a central role in the development of insulin resistance, type 2 diabetes, and cardiovascular diseases. (Romacho T).[3]
+
+### Objective of therapy
+
+Medicines bring _dhatus_ to normalcy only when administered in appropriate regimen (dose, duration, concomitant medicine/vehicle etc.) Further, they should be administered only till the _dhatu_ is in an imbalanced state. Medicines administered without taking into account these factors do not produce adequate results. 
+
+For simultaneous reduction of aggravated _kapha_ and increase of reduced _pitta_ , _dravya_ having _katu rasa_ (pungent taste) is used. If they are administered, beyond a desired effect then there will be increase in _pitta_ and reduction of _kapha_ from their normal level resulting again in imbalance. 
+
+Medicines need to be used appropriately (_samayaka avacharyamana_) in terms of (dose, duration, concomitant medicine/vehicle etc.). The use of _yukti pramana_ can help to understand the scope of _samyaka_ in a given situation at a given point in time. These are the pharmacotherapeutics principles of clinical pharmacology in Ayurveda. 
+
+The major focus of administering therapies for the cure of diseases as well as maintenance of health is to bring about the balance of _dhatu_ which results into alleviation of diseases. _Rasayana_ therapy which is administered for promotion of the strength of a healthy individual is primarily aimed at maintaining the equilibrium of _dhatu_ and further improving them qualitatively. So the ultimate objective of Ayurveda is to establish the equilibrium of _dhatu_. [Cha.Sa. Sutra Sthana1/53]. In healthy persons, although _dhatus_ are in a state of equilibrium, _rasayana_ and _vajikarana_ therapies are given to maintain this state of equilibrium. Even the selection of dietary articles should be done with this objective in mind. 
+
+The term _satmyasamadnyata_ means the food preparations which are consistently wholesome at all times and which exclude the preparations that are wholesome only when taken habitually (_abhyasa_) but not otherwise. The wholesomeness of substances is to be considered in terms of _rasa_ and _guna_. 
+
+Consumption of food preparations dominated by one type of _rasa_ may produce imbalance of _dhatu_ and then it becomes necessary to counterbalance the changes by following regimens having opposite effects. For example, when a person eats food dominated by _madhura_ (sweet) taste then _kapha dosha_ gets aggravated and hence, he should follow regimens like exercise that produce opposite effects i.e. reduce _kapha_. It is needless to say that even such regimens should not be taken in excess.[verse 7] 
+
+### Guidelines for sustaining equilibrium
+
+The concept has been explained with an example of obese individuals. For them, activity contrary to their “usual” place would be to sleep in an arid zone, activity contrary to time would be to exercise in spring season, and activity contrary to their make up or constitution would be to exercise at late nights. 
+
+The concept of indulging in food and activities contrary to the environmental conditions and constitutions of an individual is a part of _swasthavritta vidhi_. This has been described in [Cha.Sa. Sutra Sthana 7/50], [Cha.Sa. Vimana Sthana 5/23] and [Cha.Sa. Sutra Sthana 26/8]. Interestingly, the _samprapti_ (pathogenesis) of _rajayakshma_ includes all the above mentioned conditions as etiological factors. It would be worth exploring whether compliance/adherence to _swasthavritta vidhi_ can prevent development of _rajayakshma_. [verse 8] 
+
+### Increase and decrease in body elements
+
+The nature of food ingredients that either increase or decrease _dhatus_ is described. Only physical factors follow the above mentioned principles. Other factors like intellect etc. do not increase or decrease. 
+
+A substance may be either identical totally (i.e., similar in all respects (including form)) or have partial similarities (in terms of majority of qualities). Yogindranath says that the former refers to _dravya_ while the latter is _gunasamanya_. For example, meat is identical to _mamsa dhatu_ (one of the seven structural elements or _dhatus_) completely and hence the intake of meat increases _mamsa dhatu_. _Shukra_ and milk, on the other hand, are not identical with each other but the major qualities of semen are predominantly found in milk. For example, both of them are liquid in nature. Hence, the habitual use of milk increases semen although to a lesser extent as compared to meat’s increasing _mamsa dhatu_. 
+
+Such increase or decrease of _dhatu_ by similar or dissimilar food ingredients takes place only when they are taken habitually. Occasional intake of such food does not cause any such effect. 
+
+### Attributes
+
+The twenty attributes represent ten pairs of mutually opposite attributes. For example, effects of substances having one pair of such mutually contradictory attributes, viz. _guru_ and _laghu_ are described. These specific attributes directly take part in increase and decrease of _dosha_ and body tissues. 
+
+_Samanya_ is considered in view of _guna_ (attributes) as well as _jati_ (form). For example the properties and form of meat are similar to _mamsa dhatu_. Therefore meat can be used in condition of depletion of _mamsa_. This is applied also in cases, where form is different but properties are similar, such as milk to _shukra_. We already discussed about the effect of _mamsa_ on _mamsa dhatu_. The immature fetus in the form of egg etc. is a conglomeration of all _dhatus_. Hence, the mother’s consuming a chicken egg would promote all the _dhatus_ of her fetus. _Karma_ (activities) here includes sedentary habit, anxiety etc. 
+
+### Factors responsible for strength
+
+The child is characterized by two fundamental facts- development and growth. Development refers to the increase of functional capacity in perfect form resulting from production of specialised tissues from unspecialised ones. Growth means increase in the size of various parts and organs of the body by multiplication of cells and intercellular components during the period commencing from fertilization to physical maturity. Changes in size are outcomes of three underlying cellular processes: (a) an increase in cell number or hyperplasia; (b) an increase in cell size or hypertrophy; and (c) an increase in intercellular substances or accretion. Hyperplasia, hypertrophy and accretion all occur during growth. This increase in body size is limited by predetermined constitutional and hereditary factors. It is however influenced by exogenous factors like diet, climate, race, environment etc.[4]
+
+### Effect of season
+
+During the year, there are periods of more rapid growth when growth rate is three times greater than the time of slowest growth. These periods of growth rate are synchronized with the seasons, and most rapid growth occurs in spring. (Marshall,1971)[5] Climate is also affected by high altitude, where people exposed to lower oxygen saturation in the air have a shorter stature.(Eveleth PB,1990).[6]
+
+### Effect of nutrition
+
+Malnutrition results in failure to grow, involving both weight and height. Increased growth hormone secretion occurs in protein malnutrition, presumably inducing mobilization of the remaining fat tissue. On the other hand, growth hormone levels are decreased in calorie malnutrition. When malnutrition is corrected, the affected children soon recover, and when this reversal occurs at a young age, most children will attain a complete remission in height and weight to equal their siblings before puberty. (Henriette A,1993)[7]
+
+### Effect of stress
+
+Acute stress elicits a burst of growth hormone secretion, but chronic exposure to stress such as is caused by psychosocial deprivation suppresses growth hormone secretion, resulting in failure to grow. Once the stress is removed, growth hormone secretion rapidly returns to normal and then there is a period of catch-up growth. Postnatal growth is affected by nutrition, socioeconomic factors, disease, urbanization, psychosocial stress, and physical activity. There is a complex interaction among these different factors, and periods of retardation can be compensated by ensuing catch-up growth if the adverse factors are remedied. (Henriette A,1993)[7]
+
+### Excellence of mind

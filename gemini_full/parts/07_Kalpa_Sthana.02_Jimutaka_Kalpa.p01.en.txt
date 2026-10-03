@@ -1,0 +1,153 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration with English Translation
+ * 2.1 Synonyms and qualities
+ * 2.2 Various Preparations
+ * 2.3 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Researches
+ * 4.2 Thrust areas of research
+ * 5 References
+
+## Introduction
+
+Kalpa Sthana contains the descriptions of Vamaka and _Rechaka_ drugs (Emetics and Purgatives). Six drugs i.e. _Madanaphala, Jimutaka, Ikshvaku, Dhamargava, Kutaja_ and _Kritavedhana_ are denoted for emesis while nine drugs namely _Shyama, Trivrit, Chaturangula, Tilvaka, Mahavrikshaka, Saptala, Sankhini, Danti_ and _Dravanti_ are described for purgation. 
+
+Atreya formulated 600 emetic and purgative recipes from 15 drugs. Emetic drugs predominantly constituted by agni and vayu mahabhutas. _Rechana_ drugs constituted by prithvi and jala mahabhuta. It is also observed that drugs with these _panchabhautika_ compositions may not exert either emetic or purgative action and the activity is attributed to general principle of drug action known as _prabhava_. _Virya_ (a principle responsible for each and every drug action) is augmented by _Deshasampat_ (quality of soil in which plant grows), _Kalasampat_ (Ideal season for collecting the plant), _Gunasampat_ (enrichment of principles of drug action) and _Bhajanasampat_ (suitability of storage containers) contributing to maximum therapeutic effect.[Cha. Sa. Kalpa Sthana 1/7] 
+
+Chakrapani comments that container to be used for storing drugs should have guna (attributes) similar to the stored drugs. Different adjuvants (_anupana_) are required to be used in accordance with dosha involved in the pathogenesis of disease during the administration of drugs. Recipes are prepared basing on the dravya (Nature of drug), deha (Physique), dosha (factor for causation of diseases), Prakriti (Constitution), bala(Strength), satmya(Homologation), rogavastha(stage of the disease), vaya(age), agni(digestive and enzymatic complexes) etc.[ Cha. Sa. Kalpa Sthana1/12]. 
+
+Before the administration of emetic therapy snehana (oral oleation therapy) and swedana (fomentation) are mandatory. Administered drug first reaches the heart and circulated all over the body through _dhamani_ (Blood vessels) and liquefy morbid matter (mala) and separate it from channels and bring them to _koshtha_. Emetic and purgative drugs facilitate the expulsion ofmala brought into _koshtha_ from rest of the body. 
+
+Drugs for emesis which are _ushna_ (hot), _tikshna_ (sharp/penetrating),_sukshma_ (subtle), _vyavayi_ (pervading), and _vikashi_ (loosening), by virtue of their own potency (_swa viryena_), reach the heart and circulate throughout the body through vessels. It liquefies the mass of impurities by its _agneya_ nature (dominance of agni mahabhuta) and due to tikshna guna(penetrating property) separate the adhered dosha situated in gross and subtle channels of the entire body. Consequently the separated mass floating in the oleated body like honey kept in a fat smeared vessel reaches the stomach because of its nature to move through subtle channels (_anumarga sancharitwat_) and to flow towards gastrointestinal tract (_koshta gamanonmukhatwam_). Because of the predominance of agni and vayu mahabhuta in these drugs, their specific action ( due to _prabhava_) to move upwards and by action of udana vata, the morbid matter gets expelled through the upward tract (mouth) [Cha. Sa. Kalpa Sthana 1/5] 
+
+Vomiting is a complex process that consists of a pre-ejection phase (gastric relaxation and retro peristalsis), retching (rhythmic action of respiratory muscles preceding vomiting and consisting of contraction of abdominal and intercostals muscles and diaphragm against a closed glottis), and ejection (intense contraction of abdominal muscles and relaxation of the upper oesophageal sphincter). The process appeared to be coordinated by a central emesis centre in the lateral reticular formation of the mid brain-stem adjacent to both the chemoreceptor trigger zone (CTZ) in the area postrema at the bottom of the fourth ventricle and the solitary tract nucleus (STN). The lack of blood-brain barrier allows the CTZ to monitor blood and cerebrospinal fluid constantly for toxic substances and to relay information to the emesis centre to trigger nausea and vomiting. The emesis centre also receives information from the gut, principally by the vagus nerve (via the STN) and also by splanchnic afferents via the spinal cord. The CTZ has high concentrations of receptors for serotonin (5-HT3), dopamine (D2), and opioids; the STN is rich in receptors for enkephalin, histamine, and Ach, and also contains 5-HT3 receptors.In the emetic response fundus and body of stomach, eosophageal sphincter and esophagus relax, while duodenum and pyloric stomach contract in a retrograde manner. Rhythmic contractions of diaphragm and abdominal muscles then compress the stomach and evacuate its contents via mouth[1]. 
+
+Administration of drugs in emetic or purgative therapies and rest of the Panchakarma procedures, complication arising out of their improper administration and their successful management dealt in Siddhi Sthana (section on successful administration of therapeutic measures) in detail. Indications and contraindications of emetic and purgative therapies are described by Charak in Siddhi Sthana.Appearance of pitta at the end of emesis and kapha at the end of purgation though described under signs of proper elimination, Chakrapani opines that they may also occur in inappropriate purification (_asamyakshudhhi_). Therefore additionally associated signs like emaciation (_karshya_), weakness (_daurbalya_) and lightness of the body (_laghavata_) only indicate appropriate purification. 
+
+In seminar held on the topic of “Determination of appropriateness of medicaments for enema” [ Cha. Sa. Siddhi Sthana 11]. Saunaka said “Amongst the fruits, _Jimutaka_ is the foremost in efficacy for basti (medicated enema) because of its effect to eliminate kapha and pitta. Atreya concluded that _Jimutaka_ is useful for the treatment of _kushtha_ (skin diseases including leprosy), while _Madanaphala_ is not contraindicated in any disease. He further writes that there is no drug that is absolutely free from any side effects - good or bad. One has to think of a drug which possesses more of good attributes in the treatment of a particular ailment.[Cha. Sa. Siddhi Sthana 11/ 5-14].To make it more explicit the physician has to judiciously evaluate _rogibala_ (strength of patient) and _rogabala_ (severity of disease) to draft suitable therapeutic regimens. 
+
+Atreya enumerated three synonyms of _Jimutaka_ i.e. _garagari, veni_ and _devatadaka_. Bhavamishra described _Jimutaka_ (_Guduchyadivarga_) with synonyms like _Devadali, Karkati_ and _Vrittakosha_ in addition to Charaka’s descriptions. He has also quoted another variety known as _Peetadevadali_ with synonyms _Kharasparsha, Vishaghni_ and _Garanashini_. _Devadali_ is attributed with _vamaka_ activity and its fruit is mentioned as _Samsrana_. Indications include _Arsha, Pandu, Kshaya, Hikka, Jwara, Krimi, Gulma_ and _Shoola_. The recipe with _Jimutaka_ as nasal drops in the management of _Kamala_ is very popular and scientific validation has been produced for its claim. Botanical source of _Jimutaka_ are Luffa echinata and Luffa graveolens (yellow variety). 
+
+Dalhana in his commentary identified _Jimutaka_ with _Musta_ (Sushruta) but most of the Ayurvedic classics and _Nighantus_ quoted it for _Devadali_ or _Garagari_ or _Veni_. 
+
+Bhavamishra described two kinds of _Devadali_ , one with white flowers (Luffa echinata), the other with yellow flowers (Luffa graveolens)[2]. 
+
+ * **Synonyms** : _Devadali,Garagari,Devatadaka_
+ * **Properties** : 
+ * Rasa – _Katu, Tikta_
+ * _Guna_ – _Laghu, Ruksha_
+ * _Veerya – Ushna_
+ * _Vipaka - Katu_
+ * **Pharmacological actions** – _Tridoshahara, Vamaka_
+ * **Indications** – _Jwara, Shwasa, Kasa, Hikka, Shotha, Kamala, Pandu, Krimi_
+ * **Therapeutic uses** – 
+ * _Kamala_ (Jaundice)-Root of _Ankola_ or _Arka_ or _Jimuta_ pounded with rice water, if used as snuff alleviates jaundice[3].
+ * _Kushta_ (skin diseases) – _devadali_ fruit is impregnated with _Snuhi_ latex for seven times and taken in the dose of 125mg with milk keeping on salt-free diet[3].
+ * _Visha_(Poison) – _Devadali_ fruit should be taken with curd and the poison is vomited. This is an excellent remedy for all types of rat bite[3].
+ * The fruits are used as a purgative and also given to patients suffering from colic and cholera.[4]
+ * **Part used** – Fruit, Flowers
+ * **Preparations & Dosage**( For therapeutic purposes other than emesis as mentioned in API) – Powder -1-3 g
+ * **Botanical description**
+ * (L) - Luffa echinata Roxb.
+ * (F) - Cucurbitaceae
+ * (S) - _Jeemuta, Devadali_
+ * (H) – _Bindal, Ghagharbel_
+
+Trailing and climbing, herb upto 3m long; tendrils bifid. Leaves alternate, simple; lamina 4.5-6 cm long, slightly broader, reniform-orbicular, in outline, broadly cordate at base, 5 angledor deeply 5- lobed with dentate margins; petioles2.5-4 cm long, puberulous, scabrid. Flowers dioecious and monoecious, male flowers in axillary racemes on 6-15 cm long peduncles, pedicles upto2 cm long, bracteates near the base; calyx tube short with 5 ovate – lanceolate lobes, hairy; corolla of 5 white, ovate spreading petals 1.2- 1.5 cm long; stamens 3, one with 1- celled anther and others two celled, anther cells sigma shaped. Female flowers solitary, axillary on a peduncle of 1.5- 5 cm long, calyx tube produced beyond the ovary, calyx lobes and corolla as in male flowers. Fruit 3-5* 1.5-3 cm in size, ellipsoid, ribless, clothed all over with needle- like out growths of 0.4-0.7 cm long, fibrous within at length, and 3- celled, terminated by a conical brisle-less operculum; seeds many, about 0.5*0.3 cm, slightly verrucose[5]. 
+
+**Distribution** : In India Luffa echinata is found in Diu (Goa state), Gujarat and Rajastan states. The plant is also distributed in Pakistan and Tropical Africa[11]. 
+
+**Chemical constituents** : The fruit contains chrysoeriol and its glycosides as principal flavonoids. Seeds contain cucurbitacin B, triterpenes alcohols, and a saponin with oleanolic acid as sapogenin[5]. 
+
+Echinatin, Saponins, Hentriacontane, Gypsogenin , Amariin Cucurbitacin-B & -E, Sapogenin, -Sitosterol, Echinatol-A & -B, Oleanolic acid, Elaterin-2-O--D-Glucopyranoside, Isocucu&bitacin-B, Elaterin glucoside,Chrysoeriol-7-glucoside, Graviobioside-B, Sitosterol glucoside, Datiscacin, 2-O--D-glucopyranosylcucurbitacin-B & 2-O--D-glucopyranosylcucurbitacin-S. 
+
+**Flowering & Fruiting**: September - December 
+
+## Sanskrit Text, Transliteration with English Translation
+
+Now we shall expound the chapter "Jeemutaka Kalpa" (The pharmaceutics of Jimutaka).Thus said Lord Atreya [1-2] Note: Jeemutaka is Bristly luffa. 
+
+### Synonyms and qualities
+
+Listen about of pharmaceutics of Jimutaka relating to its phala (fruit) and pushpa (flower).Garagari,Veni and Devatadaka are its synonyms. [3] 
+
+_Jimutaka_ when administered with appropriate drugs cures diseases caused by all the three dosha. It is useful in fever, dyspnea, hiccup and similar other disorders. [4] 
+
+### Various Preparations
+
+Jimutaka endowed with all attributes, growing in appropriate land should be collected according to the prescribed procedures as described in earlier chapter(Madanaphala kalpa 1:9,10,14). 
+
+Milk should be prepared with its flowers, milky gruel with freshly appeared fruits, milk cream with hairy fruits, curd with non hairy one and sour curd from milk boiled with the pale green fruit. Fully matured fruit is dried, powdered well and kept in a clean container. One suffering from ailments caused by vata and pitta should take one shukti (20 gm) of this preparation.[5-7] 
+
+_
+
+The fruits of Jimutaka should be macerated in sura -manda (the supernatant part of alcohol) overnight. Thereafter it is stirred and the juice is strained. It can be taken in anorexia due to kapha, cough, anemia and wasting diseases. [8] Two or three fruits of bristly luffa should be squeezed and put into the decoction of either Guduchi, Yashti , Kovidara, Karbudara, Nipa, Vidula, Bimbi, Shanpushpi,Sadapushpi, Apamarga ,Nimba or Kutaja and should be kept overnight. It should then be strained and taken as potion in the manner already described in madanaphala kalpa.[9] 
+
+Or the powder of Jimutaka may be taken with any one of the decoction of the Aragvadhadi seven drugs mentioned in Madanaphala kalpa i.e Aragwadha, Vrukshaka, Swadukantaka (Babbul or Gokshura), Patha, Patala, Gunja and Murva according to the procedure described in the previous chapter, by a person suffering from fever of Pitta and Kapha origin. [10] 
+
+In fever due to Pitta –and-kapha or Vata-and-Pitta, the powder of Jimutaka should be administered with the juice of one of the four drugs viz. Jivaka, Rushabhaka, Ikshu or Shatavari. [12] 
+
+The ghee prepared (extracted directly or processed according to the procedure of snehakalpana) from the milk boiled with Jimutaka should be cooked with decoction of madanaphala etc. It is regarded as an excellent recipe for emesis. [13] 
+
+### Summary
+
+tatrashlokau- 
+
+In summary, 
+
+There are the thirty nine preparations described in the Jimutaka Kalpa. 
+
+Six preparation in milk, one in the suramanda (supernatant part of wine), twelve recipes prepared by boiling with decoctions of Guduchi etc., seven in the decoction of the Aragvadha etc., eight recipes in the form of pills, four preparation in the juice of Jivaka etc. and one recipe of ghee – Thus ends the second chapter of kalpa sthana dealing with the “pharmaceutics of Jimutaka” compiled by Agnivesa, redacted by Charaka, and reconstructed by Dridhabala, as it was unavailable. [14-15] 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Jeemutak is used as emetic herb in vamana (therapeutic emesis).
+
+## Vidhi Vimarsha (Applied Inferences)
+
+Emetics should be administered with vehicles depending on dosha. For example in pitta dominant conditions drugs are administered with milk, _draksha, amalaka, parushaka_ , etc., honey and _gomutra_ are employed in kapha dosha and with _sura_ (wine) and other fermented drinks, curd etc. in vata dosha. Gangadhara described the use of _jimutaka_ in kotha (urticaria) and he also commented that Hikkadi includes Kasa. Chakrapani specifically indicates that diseases which are due to urogatadosha should be considered under hikkadi. 
+
+Chakrapani mentions the use of freshly appeared fruit in the preparation of milk gruel. Arunadatta comments there are two varieties of _Jimutaka_ fruits viz _Mridu_ and _Kathina_ , based on their hairy and non hairy texture.[6] Fruits described as _Haritapandu_ should be of moderate growth and of texture that lies between hairy and non hairy ones. 
+
+The recipe with _Jimutaka_ as nasal drops in the management of _Kamala_ is very popular and has scientific validation. Its Emetic activity has also been revalidated. Being _tiskanavamaka_ it can be used in _Nanatmaja Kapha Vikara_. Though it sometimes may create hematemesis.[7]
+
+### Researches
+
+ 1. Aqueous extract of fruits significantly lowered the serum bilirubin level in chlorpromazine – induced jaundice in rats[8]
+ 2. The alcoholic and the ether extracts of the plant showed definite protection against CCl4- induced liver injury in rats.[9]
+ 4. 50% ethanolic extract of whole plant (except roots) showed hypoglycaemic action in rats. The LD50 of the extract in mice was found to be 261 mg/kg i.p[14] (Aswal et al., 1984).
+ 5. Methanolic extract of Luffa echinata exerts its antiproliferative effects by inducing apoptotic cell death, and causing G2/S arrest in HT-29 cells and it promotes ROS generation[10].
+ 6. In a study on the therapeutic effect of Luffa echinata fruits in 6 patients of viral hepatitis the result reveals that a single administration of drops squeezed from water soaked dry fruits into the nostrils led to a reduction in bilirubin and SGPT levels significantly within 3 to 7 days and this response was accompanied by a substantial relief in clinical symptoms especially anorexia and malaise.The nasal secretions contained total bilirubin ranging from 1.62 to 5.5mg per cent, the levels not being higher than the serum levels. The observations thus could justify the simple explanation of the relief of jaundice by enhanced nasal excretion of bilirubin. The possibility of the absorption of the active principle of the plant through the nasal mucosa and then action on the liver has been proposed.[11]
+
+**Pharmacological activity**
+
+ * Anti-arthritic activity [12]
+ * Hepatoprotective activity[13]
+ * Anti-cancer activity [14]
+
+### Thrust areas of research
+
+Thyroid disorders became common especially in female. Thyroid disorders especially hypothyroidism should be treated by giving Vamana with _Jimutaka_. It can be used as emetic in de-addiction due to alcohol withdrawal syndrome due to its hepato protective activity. 
+
+**Send us your suggestions and feedback on this page.**
+
+## References
+
+Back to the Top 
+
+ 1. ↑ K D Tripathi, Essentials of Clinical Pharmacology, 6th edition, Jaypee Brothers Medical Publishers, 639.
+ 2. ↑ Bhavamishra,Guduchyadi varga ,In:Prof. K.C. Chunekar,Late Dr. G.S. Pandey,editors, Bhavaprakash Nighantu,? ed, Varanasi:Chaukhamba Bharati Acadamy,2010,pp 461 
+ 3. ↑ 3.0 3.1 3.2 P.V Sharma, Classical uses of medicinal plants, Chaukhambha Viswabharati,Varanasi,2004pp-549-550
+ 4. ↑ Anonymous,Wealth of India- Raw materials Vol 6 L-M, CSIR, New Delhi, pp-181
+ 6. ↑ Arunadatta, Vagbhata. Kalpa Sthana, amana Kalpa Adhyaya verse 21. In: Harishastri Paradkar Vaidya, Editors. Ashtanga Hridayam. 1st ed. Varanasi: Krishnadas Academy;2000.p.4.
+ 7. ↑ Thakur Balwant Singh and Dr K C Chunekar, Glossary of Vegetable drugs in Brihattrayi, second edition 1999, Chaukhamba Amarabharati Prakashan, Varanasi, pp 207 
+ 8. ↑ SK Bapat, V Chandra, The effect of Luffa echinata (Roxb) on experimental jaundice in rats,Indian journal of physiology and pharmacology 08/1968; 12(3):119-20.
+ 9. ↑ Lauria P etal, The effect of Luffa ecchinata in liver injury and its other pharmacological actions. Indian J Pharmacology 1972 ,4(2),152
+ 10. ↑ Li-Hua Shang , Chun-Mei Li , Zhao-Yang Yang , De-Hai Che , Jing-Yan Cao and Yan Yu, Luffa echinata Roxb. Induces Human Colon Cancer Cell (HT-29) Death by Triggering the Mitochondrial Apoptosis Pathway, Molecules 2012, 17, 5780-5794
+ 11. ↑ K Nishteswar, Ayurvedic herbal remedies, Choukhambha Surabharati Prakashan , Varanasi,2009, pp-95
+ 12. ↑ H S Chandel et al, Evaluation of antiarthritic activity on LuffaechinataRoxb. fruits on rats, Asian Journal of Biomedical and Pharmaceutical Science, 3(21) 2013, 36-41.
+ 13. ↑ Bahar Ahmed et al, Hepatoprotective activity of Luffaechinata fruits, Journal of Ethnopharmacology 76 (2001) 187–189
+ 14. ↑ Li-Hua Shang et al, LuffaechinataRoxb. Induces Human Colon Cancer Cell (HT-29) Death by Triggering the Mitochondrial Apoptosis Pathway, Molecules 2012, 17, 5780-5794; doi:10.3390/molecules17055780.

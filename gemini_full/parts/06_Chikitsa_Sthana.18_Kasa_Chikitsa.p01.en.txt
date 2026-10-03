@@ -1,0 +1,308 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Types
+ * 2.2 Premonitory signs
+ * 2.3 Pathophysiology
+ * 2.4 Specific features of _kasa_
+ * 2.4.1 Etiological factors, clinical features of Vataja kasa
+ * 2.4.2 Etiological factors, clinical features of Pittaja kasa
+ * 2.4.3 Etiological factors, clinical features of Kaphaja kasa
+ * 2.4.4 Etiological factors, clinical features of _Kshataja kasa_
+ * 2.4.5 Etiological factors, clinical features of _Kshayaja kasa_
+ * 2.5 Prognosis
+ * 2.6 Management
+ * 2.7 Management of vata dosha dominant kasa
+ * 2.7.1 Kantakari ghrita
+ * 2.7.2 Pippalyadi ghrita
+ * 2.7.3 Tryushanadi ghrita
+ * 2.7.4 Rasna ghritam
+ * 2.7.5 Various formulations
+ * 2.7.6 _Chitrakadi leha_
+ * 2.7.7 Agastya haritaki
+ * 2.7.8 Other formulations
+ * 2.7.9 Dhumapana (medicated smoke inhalation) formulations
+ * 2.8 Diet recipes
+ * 2.9 Management of pitta dosha dominant kasa
+ * 2.10 Management of kapha dosha dominant kasa
+ * 2.10.1 Dashamuladi ghritam
+ * 2.10.2 Kantakari ghritam
+ * 2.10.3 Kulatthadi ghritam
+ * 2.10.4 Dhuma (medicated smmoke) formulations
+ * 2.11 Principles of treatment in various states of dosha
+ * 2.12 Management of kshataja kasa (due to injury)
+ * 2.13 Management of kshayaja kasa (due to depletion)
+ * 2.13.1 Dvi-panchamuladi ghritam
+ * 2.13.2 Guduchyadi ghritam
+ * 2.13.3 Haritaki leha
+ * 2.13.4 Padmakadi leha
+ * 2.13.5 Principles of management
+ * 2.14 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Diagnostic codes
+ * 4.2 Causes of kasa
+ * 4.3 Classification
+ * 4.4 Premonitory features
+ * 4.5 Clinical features
+ * 4.5.1 General clinical features
+ * 4.5.2 Dosha specific clinical features
+ * 4.5.2.1 Vata dominant kasa
+ * 4.5.2.2 Pitta dominant kasa
+ * 4.5.2.3 Kapha dominant kasa
+ * 4.5.2.4 Kasa as a result of trauma (kshataja)
+ * 4.5.2.5 Kasa due to depletion of body tissues (kshayaja)
+ * 4.6 Pathogenesis
+ * 4.7 Clinical examination
+ * 4.8 Investigations
+ * 4.9 Prognosis
+ * 4.10 Management
+ * 4.10.1 Principles of management
+ * 4.10.2 Dosha specific treatment principles
+ * 4.10.2.1 Vata predominance
+ * 4.10.2.2 Pitta predominance
+ * 4.10.2.3 Kapha predominance
+ * 4.10.3 Disease-specific treatment principles
+ * 4.10.3.1 Cough due to traumatic injury
+ * 4.10.3.2 Cough due to depletion of body tissues or degenerative conditions
+ * 4.10.4 Panchakarma procedures with safety precautions
+ * 4.10.5 Medicines used in current practice
+ * 4.10.5.1 Herbs
+ * 4.10.5.2 Herbal formulations
+ * 4.10.5.3 Herbo-mineral formulations
+ * 4.10.6 Wholesome diet
+ * 4.11 Complications
+ * 4.12 Contemporary views
+ * 4.12.1 Case reports
+ * 4.12.1.1 Solanum xanthocarpum
+ * 4.12.1.2 Tribulus terrestris
+ * 4.12.1.3 Combination of terminalia chebula and rock salt
+ * 4.12.1.4 Kantakari-maricha leha
+ * 4.12.1.5 Samasharkara powder formulation
+ * 4.12.1.6 Bhrigarajasava as adjunct to anti tubercular treatment
+ * 4.12.1.7 Vyaghri-haritaki avaleha in chronic bronchitis
+ * 4.12.1.8 Unctuous enema in pertussis
+ * 4.12.1.9 Kasahara dashemani tablets
+ * 4.13 List of research works done
+ * 4.14 Abbreviations
+ * 5 References
+
+## Introduction
+
+_Pranavaha srotas_ is a vital system of the body and although this _srotas_ is more susceptible to abuse from little amount of smoke, allergens, adulterants, petrochemicals and many pollutants in atmosphere, there are a variety of disorders and diseases that are temporary and harmless, while others can be life threatening. In literature, _pranavaha srotas_ disorders are elaborated under the heading of _shwasa, kasa, hikka, rajayakshma_ and _urakshata_ (_kshata-kshina_). Cough, expectoration, breathlessness, sore throat, chest pain are common clinical features of respiratory diseases. _Kasa_ is one such disease, which is identified by the hoarse phonetic sound, produced due to the pathological process of dosha dushti _(vitiation ofdosha), _vimarga gamana _(diverted movement) of_ pranavata _and_ avarana _(occlusions) ofvayu by the kapha. The main pathology is in chest region with reduced functioning of the respiratory system. _
+
+Smoke, dust, and over exertion (_dhumopaghata, raja, vyayama_) are largely considered as causative factors (_samanya nidana_). These may cause direct damage to the harmony of the _pranavaha srotas_ which occurs in all respiratory disorders. Apart from above said causative factors some in particular like _guru_ (heavy), _snigdha_ (unctuous), _madhura_ (sweet), _asatmya_ (unhabituated), _paryushita ahara_ (rotten food) will cause vitiation of dosha, more specifically vata and kapha which will in turn have its impact on _pranavaha srotas_ to cause structural and functional impairments (_kha vaigunya_). Improper diet will result in the improper digestion and absorption of _ahara rasa_ which will in turn produce _kasa_. These can be considered as intrinsic factors for the pathogenesis. 
+
+Prodromal symptoms (_purvarupa_) are irritation of throat with pricking sensation, itching (_kantha kandu_)and inability to swallow (_bhojyanam avarodha_). These are very much similar with upper respiratory tract infection leading to condition of pharyngitis or pharyngotonsillitis and persistence of such upper respiratory tract infection will further spread to lower respiratory tract. 
+
+There are five types of _kasa_ namely,vataja, pittaja, kaphaja, kshataja and kshayaja. _Vatika kasa_ is more related to upper respiratory tract with _swarabheda_ (hoarseness of voice) as its diagnostic feature and is unproductive. It resembles more to allergic rhinobronchitis, which may be self-limiting and curable. _Paittika_ and kaphaja kasa _involve lower respiratory tract and are productive in nature. While_ paittika kasa _seems to be the result of inflammation,kaphaja kasa is due to mucosal hypertrophy of bronchial lining or chronic bronchitis. _Kshyaja kasa _is a state of chronic cough associated with emaciation. Charak has mentioned that the disturbance in the action of_ jatharagni _all the threedosha get vitiated, which causes emaciation of dhatu of the body either due to _anulomana kshaya _or_ pratiloma kshaya _[Cha.Sa.Chikitsa Sthana 18/24]. That makes it different from _shosha _, which is a tridoshaja disease manifests as a group of several diseases. _Kshataja kasa _is associated with break in integrity of lung parenchyma with_ shonita darshana _(blood tinged mucous) as a symptom. There may or may not be_ shosha _(emaciation)._
+
+Snehapana, vamana, virechana, vairechanika nasya (nasal catarrhal), dhumapana (medicated cigaretes) are indicated as treatment modalities in different types of _kasa_. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Kasa chikitsa"(Management of cough of various origins). Thus said Lord Atreya.[1-2] 
+
+### Types
+
+Atreya, endowed with power of penance, fame and perseverance and super-intellect expounded the infallible therapies for the treatment of _kasa_. There are five types of _kasa_. If exacerbated they may cause kshaya. These five types are vataja, pittaja, kaphaja, kshataja and kshayaja. [3-4] 
+
+### Premonitory signs
+
+Following are the premonitory signs and symptoms of _kasa_ : 
+
+ 1. Sensation as if throat and mouth are filled with _shooka_ (thorns).
+ 2. Itching sensation in the throat.
+ 3. Inability to swallow food.[3-4]
+
+### Pathophysiology
+
+Vata being obstructed in the lower region of the body, moves upwards, afflicts the channels of circulation in the upper part of the body, takes over the function of udana vayu and gets localized in the throat and chest. Then entering all the cavities in the head, fills them up and causes hunching and convulsive movements of the body, jaws, sides of the neck and eyes. Thereafter this obstructed vata causes contraction and stiffness of the eyes, back, chest and sides of the chest, gives rise to _kasa_ which may be dry or with phlegm because of which it is known as _kasa_.[6-8] 
+
+### Specific features of _kasa_
+
+Specific variations in the pain and sound associated with different types of _kasa_ are caused by the specific nature of the obstruction (by kapha, etc.) to the force fully moving vayu.[9] 
+
+#### Etiological factors, clinical features of Vataja kasa
+
+Following are the causative factors of _vatika_ type of _kasa_ : 
+
+ 1. Intake of _ruksha_ (dry), _sheeta_(cold), _kashaya_ (astringent) type of food.
+ 2. Intake of food in less quantity or much less quantity or not taking food at all.
+ 3. Excess indulgence in _vyavaya_.
+ 4. Suppression of _vega_.
+ 5. Excessive physical strain.
+
+Its signs and symptoms are as follows: 
+
+ 1. Excruciating pain in the epigastric region, flanks, chest, and head.
+ 2. Excessive hoarseness of the voice.
+ 3. Dryness in the chest, throat and mouth.
+ 4. Horripilation and fainting.
+ 5. Resonant sound during coughing, looks hopeless, hollow sound during coughing.
+ 6. weakness, agitated, illusive perceptions.
+ 7. Dry cough
+ 8. Expectorate scanty phlegm with pain.
+ 9. The _kasa_ gets alleviated by the food and drinks that are _snigdha, amla, lavana_ and _ushna_.
+ 10. The upward movements increases vata after digestion of food.[10-13]
+
+#### Etiological factors, clinical features of Pittaja kasa
+
+Excessive intake of _ushna, katu, vidahi, amla_ and _kshara_ type of _ahara; krodha, santapa_ , exposure to the heat of the fire and sun are the causative factors of pittaja kasa _._
+
+Signs and symptoms of pittaja kasa _are as follows:_
+
+ 1. Yellowish sputum and eyes
+ 2. Bitter taste in mouth
+ 3. Voice disorders
+ 4. Feeling of smoke is being vomited out of the chest
+ 5. Morbid thirst, burning, illusive, anorexia and giddiness
+ 6. Appearance of twinkling stars in front of the eyes while coughing continuously
+ 7. Expectoration of sputum mixed with pitta. [14-16]
+
+#### Etiological factors, clinical features of Kaphaja kasa
+
+Intake of heavy to digest, slimy, excessive sweets and oily foods ; excessive sleep and habitual inertia leads to aggravation of kapha and thereby obstructs the movement of vata which gives rise to kaphaja type of _kasa_. 
+
+The signs and symptoms of kaphaja type of _kasa_ are as follows: 
+
+ 1. Lowered digestion process, anorexia, vomitng, nasal discharge, nausea and heaviness
+ 2. Horripilation, stickiness and sweetness of the mouth
+ 3. Expectoration of thick, sweet, slimy, phlegm in large quantity
+ 4. Not feeling of pain in the chest while coughing
+ 5. Feeling of fullness in the chest [17-19]
+
+#### Etiological factors, clinical features of _Kshataja kasa_
+
+Excessive indulgence in _vyavaya_ , carrying excessive heavy load, walking excessively long distance, indulgence in fighting, excessive indulgence in restraining the movement of horses and elephants etc. factors cause injury to the chest and bring about _rukshata_ in the body and in turn causes aggravation of vata there by results in the manifestation of _kshataja kasa_. 
+
+Signs and symptoms of _kshataja kasa_ are as follows: 
+
+ 1. The cough will be dry in the beginning followed by blood tinged sputum
+ 2. Excessive pain in the throat and feeling of cracking pain in the chest
+ 3. Pricking type of pain as if pricked by sharp needles
+ 4. Excruciating pain and discomfort by touch on chest, miserable appearance.
+ 5. Pain in joints and fingers, fever, labored breath, thirst and altered voice
+ 6. While coughing, sounds humming like pigeon. [20-23]
+
+#### Etiological factors, clinical features of _Kshayaja kasa_
+
+Intake of _vishamashana_ and _asatmya ahara_ , indulgence in _vyavaya_ , suppression of _vega, ghrina_ and _shoka_ etc factors leads to vitiation of agni thereby aggravation of tridosha giving rise to _kshayaja kasa_. 
+
+Signs and symptoms of _kshayaja kasa_ are as follows: 
+
+ 1. Expectoration of the kapha, which is greenish, red in colour, associated with pus and bad odor.
+ 2. While coughing person feels as if the heart is displaced.
+ 3. Feels suddenly afflicted with both hot and cold sensations.
+ 4. Consumption of food in excessive quantity
+ 5. Feeling of very weak, and emaciation
+ 6. Clean and unctuous complexion of face, associated with gracious appearance of face and eyes.
+ 7. Soft silky touch of hands and foot.
+ 8. Person always finds fault with others and develops immensely hateful disposition.
+ 9. Person suffers from diseases like _jwara_ (having signs and symptoms of all dosha), nasal congestion, anorexia, painful flanks, altered voice.
+ 10. Feces hard or loose frequently without apparent cause stool.
+
+This is called _kshayaja kasa_ which leads to the death of the patient if he is already very weak. If the patient is strong, then the disease can be cured. 
+
+_Kshataja kasa_ is palliable if the patient is strong. If these two diseases(_kshataja_ and _kshayaja_) are in their initial stage and if all four _chikitsa chatushpada_ are endowed with efficiency, then both of these are curable. All types of _kasa_ are however palliable if the patient is old. [24-30] 
+
+### Prognosis
+
+The first three types of _kasa_ (vataja, pittaja, kaphaja) should be treated as these are _sadhya vyadhi_. Whereas other two types (_khataja_ and _kshayaja_) should be palliated with appropriate drugs and diet. 
+
+Treatment of different types of _kasa_ has been described here after.[31] 
+
+### Management
+
+### Management of vata dosha dominant kasa
+
+As dryness (rukshata) will be more prominent in vataja type of _kasa_ , it should be treated with unctuous therapies (snehika upacharas). Ghrita pana,basti, peya, yusha, ksheera, mamsa rasa etc. should be prepared with vataghna dravya and is to be administered properly. 
+
+Abhyanga, parisheka (sprinkling or pouring), snigdha sweda etc. should be followed appropriately. 
+
+If it is associated with constipation and flatulence should be treated with basti. If the person has dryness in the upper part of the body, and is associated with aggravated pitta, then he should be given medicated ghrita after intake of food. 
+
+If the person has dryness of the upper part of the body associated with kapha aggravation, then he should be treated with snigdha virechana.[32-34] 
+
+#### Kantakari ghrita
+
+Thirty _pala_ of _kantakari_ and _guduchi kashaya_ each is to be boiled with _ghrita_ to prepare 1 _Prastha_ of _ghrita_. This particular _ghrita_ is beneficial in _vatika kasa_. It promotes the power of digestion. Thus ends the description of _kantakari ghrita_.[35] 
+
+#### Pippalyadi ghrita
+
+One _prastha_ of _ghrita_ is to be cooked by adding one _adhaka_ of the decoction of _dashamoola_ and the paste of one _kola_ of each _pippali, pippali-moola, chavya, chitraka, nagara, dhanyaka, patha, vacha, rasna, yashtimadhu, kshara_ , and _hingu_. Intake of one _chaturthika_ (_pala_) of this _ghrita_ along with _peya, manda_ is beneficial in _shwasa, kasa, hridroga, parshwashoola, grahani_ and _gulma_. This particular formulation is known as _pipplyaadi ghrita_ and is propounded by Atreya. 
+
+Thus ends the description of _pipplyadi-ghrita_.[36-38] 
+
+#### Tryushanadi ghrita
+
+One _prastha_ of _ghrita_ should be cooked by adding four _prasthas_ of milk and the paste of one _karsha_ each of _tryushana, triphala, draksha, kashmari, parushaka, dve patha_ (_patha, raja patha_), _devadaru, rddhi, swagupta, chitraka, shati, brahmi, tamalaki, meda, kakanasa, shatavari, trikantaka, vidari_. This is an effective _kasahara_ formulation. It also cures _jwara, gulma, aruchi, pleeha, shirah shoola, hrit shoola, parshwa shoola, kamala, arshas, ashtheela, kshata, shosha, kshaya_. This well known formulation is named as _tryushanadi ghrita_. 
+
+Thus ends the description of _tryushanadi ghrita_. [39-42] 
+
+#### Rasna ghritam
+
+In one _drona_ of water, one _pala_ of each of _rasna, dashamoolas,_ one _manika_ of each of _kulattha, badara, yava_ and half _tula_ of _ajamamsa_ should be added and boiled till one fourth of water remains. To this decoction, one _adhaka_ of each of _ghrita, ksheera_ and one _pala_ of each of ten drugs belonging to _jivaneeya_ (_dashemani_) should be added and cooked. This prepared _ghrita_ should be used in the form of nasya, pana and _anuvasana_ , after proper assessment of the stages of vataroga. This cures five types of _kasa, shirahshoola, kamparoga, vankshna_ and _yoni roga_ , diseases afflicting whole body or only one limb of the body, pleeha roga, urdhwa vata. 
+
+Thus ends the description of _rasna- ghrita_.[43-46] 
+
+#### Various formulations
+
+Intake of the powder prepared out of _vidanga, nagara, rasna, pippali, hingu, saindhava lavana, bharangi_ and _kshara_ along with appropriate quantity of _ghrita_ is beneficial in vataja kasa, kaphaja kasa, shwasa, hikka and suppression of digestion power. 
+
+Fine _vastragalita_ powder prepared out of _dwou kshara_(_yava kshara_ & _sarja kshara_), _pancha kola, pancha lavana, shati, nagara_ and _udichya_ , taken along with appropriate quantity of _ghrita_ cures _vatika_ type of _kasa_. 
+
+Intake of the powder prepared out of _duralabha, shati, draksha, shringavera, sitopala, karkata shringi_ along with mixed with _taila_ and its licking will cure vataja kasa. 
+
+The powder of _dusparsha, pippali, musta, bharangi, karkataki,_ and _shati_ should be mixed with _purana guda_ and _taila_. 
+
+Taken this powder in the form of _leha_ is beneficial in _vatika_ type of _kasa_. 
+
+Powder prepared out of _vidanga, saindhava lavana, kushtha, vyosha, hingu, manahshila_ taken along with _madhua_ and _sarpi_ in the form of _leha_ eradicates _kasa, hikka_ and _shwasa_.[47-52] 
+
+#### _Chitrakadi leha_
+
+In half _tula_ of the decoction of _nidigdhika_(Solanum xanthocarpum), the powder or paste of one _karsha_ of each of _chitraka, pippalimula, vyosha, hingu, duralabha, shati, pushkaramoola, shreyasi, surasa, vacha, bharangi, chinnaruha, rasna, shringi, draksha_ should be added. To this twenty _palas_ of _matsyandika_ and one _kudava_ of _ghrita_ should be added and cooked, There after when it becomes cool, one _kudava_ of each of _madhu, pippali_ powder, four _palas_ of the powder of _tugakshiri_ should be added. This _leha_ will cure _kasa, hridroga, shwasa, gulma_. 
+
+Thus ends the description of _chitrakadi leha_.[53-56] 
+
+#### Agastya haritaki
+
+Two palas of each among _dashamoola, swayamgupta, shankahpushpi, shati, bala, hasti pippali, apamarga, pippalimoola, chitraka, bharangi, pushkaramoola_ should be added with one _adhaka_ of water, these drugs should be cooked till the grains of _yava_ becomes soft. And then decoction should be strained out. These hundred fruits of _abhaya_ should be added with above mentioned decoction, one _tula_ of _guda_ , one _kudava_ of _ghrita, taila_ and powder of _pippali_. This is to be cooked and after attaining coldness one _kudava_ of _makshika_ is to be added. 
+
+Intake of two fruits of _haritaki_ along with _leha_ daily is considered as rasayana. It removes _vali, palita_ ; increases varna, ayu and bala. Beneficial in _panchakasa, kshaya, shwaasa, hikka, vishamajwara, arshas, grahani, hridroga, aruchi, pinasa_. This excellent formulation is propounded by Agastya and is auspicious. 
+
+Thus, ends the description of _Agastya-haritaki_.[57-62] 
+
+#### Other formulations
+
+Intake of the powder of _saindhava, pippali, bharangi, shringavera_ and _duralabha_ along with lukewarm juice of sour _dadima_ or the decoction of _nagara_ cures vataja kasa. 
+
+Intake of _khadira saara_ along with _madira_ or _takra_ ; intake of _pippali_ fried with _ghrita_ mixed with _saindhava_ is beneficial in vataja kasa. [63-64] 
+
+#### Dhumapana (medicated smoke inhalation) formulations
+
+If there is pain in the _shiras, nasa srava, arrhythmia_ of _hridaya_ and _pratishyaya_ in _kasa_ then the physician should administer _dhuma_. A wise physician should keep the ingredients of the recipe which cause elimination of dosha from the head inside two earthen plates with their brims sealed with mud-smeared cloth. In the upper plate there should be a hole to which a tube, ten or eight _angulas_ in length, should be inserted in slightly curved form. The patient suffering from _kasa_ should smoke the fume emanating from this tube through his mouth. After the smoke pervades the entire chest, it should be smoked out through the mouth. Because of the sharpness of the ingredients used in this recipe, the phlegm located in the chest gets detached and forcibly thrown out as a result of which _kasa_ caused by vayu and kapha gets alleviated. [65-68] 
+
+Intake of lukewarm milk along with guda after the _dhumapana_ using _manahshila, ala_(_haritala_), _madhuka, jatamansi, ingudi_ cures _kasa_ of _prthakdosha_ (three dosha individually) or _sannipatika_. This can cure such ailments which were not cured even after the treatment with hundred other recipes. 
+
+The paste prepared out of _prapoundarika, madhuka, sharangeshta, manhashila, maricha, pippali, draksha, ela_ and _surasa manjari_(inflorescence of Ocimum sanctum), should be smeared on silk cloth and a _varti_ should be prepared. This _varti_ smeared with _ghrita_ should be used for _dhumapana_ , followed by intake of milk or jaggery mixed with water cures both _ekadoshaja_ and _sannipatika kasa_. 
+
+_Dhuma varti_ prepared out of _manahshila, ela, maricha, kshara, anjana, kutannata, vamshalekhana, sevya, ala, kshouma, alakthaka, rohisha_ as per earlier mentioned procedure and should be administered along with prior said _anupana_ , in _kasa_. 
+
+Similarly _dhumavarti_ can be prepared out of _manahshila, ala, pippali_ and _nagara_. 
+
+_Dhuma_ therapy using bark of _ingudi, brihati, kantakari, talamuli, manahshila, karpasasthi_ (Seeds of _karpasa_), _ashwagandha_ cures _kasa_. [69-75] 
+
+### Diet recipes
+
+Intake of _shashtikashali, shali, yava, godhuma_ along with the _mamsa rasa_ or _yusha_ prepared out of _masha_ or _Atmagupta_ is beneficial in _vataja kasa. Peya_ prepared out of _yavani, pippali, bilwa, nagara, chitraka, rasna, ajaji, prithakparni, palasha, shati_ and _pushkaramoola_ by adding _snigdha, amla_ and _lavana dravyas_ is beneficial in _vataja kasa_. This particular _peya_ is helpful in curing _vataja kasa_ associated with _shoola_ in _kati, parshwa, koshta, hikka_ and _shwasa_. 
+
+Intake of _peya_ prepared with _dashamoola kashaya_ by adding the powder of _panchakola_ and _gud_ is specifically useful in vataja kasa. Similarly the _peya_ prepared by adding equal quantity of _tila_ and boiled by adding _ksheera_ is also useful in this _kasa_. 
+
+_Peya_ prepared out of _matsya, kukkuta, varaha mamsa_ by adding _ghrita_ and _saindhava lavana_ should be taken by a person suffering from _vataja kasa_. Vegetables like _vastuka, vayasi, mulaka, sunishannaka_ should be used in _vataja kasa_ along with adequate quantity of _sneha, kshera, ikshurasa_ and _gud_. _Aranala, amla phala, prasanna_ etc foods and drinks which are _madhura, amla, lavana_ in nature are useful in _vataja kasa_.[76-82] 
+
+### Management of pitta dosha dominant kasa
+
+If pittaja kasa is associated with the aggravation of kapha, then vamana karma is to be advised with _ghrita_ or using the _kashaya_ prepared out of _madana, kashmari, madhuka_. Vamana can also be induced by using the _klaka_ of _madanaphal_ and _madhuyashti_ along with _vidari_ and _ikshurasa_. Once after the elimination of aggravated _doshas_ he should be treated with _sheeta_ and _madhura aharas_. 

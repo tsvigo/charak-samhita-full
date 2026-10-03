@@ -1,0 +1,268 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Significance of vayu
+ * 2.2 Important role of vayu in health
+ * 2.3 Types of vayu and their functions
+ * 2.4 Role of vata/vayu in causing diseases
+ * 2.5 Etiopathology
+ * 2.6 Premonitory symptoms
+ * 2.7 General signs and symptoms of vata vitiation
+ * 2.8 Clinical features of vitiation of vata at different sites
+ * 2.8.1 Koshthashrita vata (vitiation at gastrointestinal tract)
+ * 2.8.2 Sarvanga kupita vata (vitiation all over body)
+ * 2.8.3 Guda sthita vata (vitiation at anus)
+ * 2.8.4 Amashaya sthita vata (vitiation at stomach)
+ * 2.9 Pakwashaya sthita vata (vitiation at colon)
+ * 2.10 Indriya gata vata (vitiation in sense organs)
+ * 2.11 Twaksthita vata (vitiation at skin)
+ * 2.12 Raktagata vata(vitiation at blood)
+ * 2.13 Mamsa medogata vata (vitiation in muscles and fats)
+ * 2.14 Majja-asthigata vata (vitiation in bones and marrow)
+ * 2.15 Shukra gata vata (vitiation in semen)
+ * 2.16 Snayugata vata (vitiation in tendons)
+ * 2.17 Siragata vata (vitiation in vascular tissue)
+ * 2.18 Sandhigata vata (vitiation in joints)
+ * 2.19 _Ardita_ (facial paralysis)
+ * 2.20 _Antarayama_ (Emprosthotonous)
+ * 2.21 _Bahirayama_(ophisthotonous)
+ * 2.22 _Hanugraha_ (lock jaw)
+ * 2.23 _Aakshepaka_ (episodic contractions)
+ * 2.24 _Dandaka_ (stiffness of body)
+ * 2.25 Episodic nature of vata disorders
+ * 2.26 _Pakshaghata_ (paralysis)
+ * 2.27 _Gridhrasi_ (sciatica) and _khalli_ (radiculopathy)
+ * 2.28 Other local disorders
+ * 2.29 Pathological factors
+ * 2.30 Avrita vata (conditions due to obstructed vata)
+ * 2.30.1 Vata occluded by pitta
+ * 2.30.2 Vata occluded by kapha
+ * 2.30.3 Vata occluded by blood
+ * 2.30.4 Vata occluded by mamsa dhatu
+ * 2.30.5 Vata occluded by meda dhatu
+ * 2.30.6 Vata occluded by asthi dhatu
+ * 2.30.7 Vata occluded by majja dhatu
+ * 2.30.8 Vata occluded by shukra dhatu
+ * 2.30.9 Vata occluded by food
+ * 2.30.10 Vata occluded by urine
+ * 2.30.11 Vata occluded by feces
+ * 2.31 Prognosis
+ * 2.32 General management of vata disorders
+ * 2.32.1 Importance of snehana (oleation therapy) and swedana(sudation therapy)
+ * 2.32.2 _Mridu samshodhana_ (Mild purgation)
+ * 2.32.3 Specific treatment of various conditions
+ * 2.32.4 Treatment of vata located in alimentary tract
+ * 2.32.5 Treatment of vata located in colon
+ * 2.32.6 Treatment of vata located in stomach
+ * 2.32.7 Treatment of vata located in entire body
+ * 2.32.8 Treatment of vata located in skin
+ * 2.32.9 Treatment of vata located in blood
+ * 2.32.10 Treatment of vata located in muscle flesh and fat
+ * 2.32.11 Treatment of vata located in osseous tissue and bone marrow
+ * 2.32.12 Treatment of vata located in semen and intrauterine growth retardation
+ * 2.32.13 Treatment of vata located in cardiac region
+ * 2.32.14 Treatment of vata located in umbilicus
+ * 2.32.15 Treatment of vata located in parts of body
+ * 2.33 Treatment of vata disorders affecting tendon, ligaments and vessels
+ * 2.34 Specific treatment as per site and _dushya_
+ * 2.34.1 Brimhana (nourishment) treatment
+ * 2.35 Various formulations
+ * 2.35.1 _Sahachara taila_ and _baladi taila_
+ * 2.35.2 _Amritadi tailam_
+ * 2.35.3 _Rasna taila_
+ * 2.35.4 _Mulakadya taila_ and _vrishmuladi taila_
+ * 2.35.5 _Mulaka taila_
+ * 2.36 Management of avrita vata conditions
+ * 2.36.1 Management of pittavrita vata
+ * 2.37 Management of various condition of vata located in other sites
+ * 2.38 Mutual occlusions by types of vata and their management
+ * 2.39 General guidelines for management
+ * 2.40 Specific principles of management
+ * 2.41 Types of vata occluded by dosha
+ * 2.42 Guidelines for diagnosis of conditions
+ * 2.43 Complications and management
+ * 2.44 Similarity in macrocosm and microcosm
+ * 2.45 Four states of dosha
+ * 2.46 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Importance of vata dosha in overall health and disease
+ * 4.2 Nature of vata
+ * 4.3 Properties of vata
+ * 4.3.1 Types of vata dosha
+ * 4.4 General etiological factors and basic pathogenesis of _vata_ disorders
+ * 4.4.1 Premonitory signs and symptoms
+ * 4.4.2 Clinical features
+ * 4.4.3 Three modes of pathogenesis of vata diseases
+ * 4.5 Pathogenesis of various conditions
+ * 4.5.1 Management of vata at different sites
+ * 4.6 Management of _ardita_ (facial palsy)
+ * 4.7 Importance of site of affliction in treatment
+ * 4.8 Avagaha (immersion) sweda
+ * 4.9 Different formulations
+ * 4.10 Importance of oil in treatment of vata
+ * 4.11 Management of avrita vata
+ * 4.12 Rehabilitation of vata
+ * 4.13 Importance of udana and prana vata
+ * 4.14 Complications of Avarana
+ * 4.15 Related chapters
+ * 5 References
+
+## Introduction
+
+Vatavyadhi Chikitsa exclusively deals with certain common disorders where the specific vitiation of vata takes place. Before entering the chapter, let us consider the etymological derivations of the term vata. The technical term vata is derived from Sanskrit root verb _va_ which means _gati gandhanayoh_ (movement and continued efforts/enthusiasm.) or by the application of _kta_ to the root verb _va_ which again means the same as above, _vatiti vata_ , the term vata is derived. As all ancient Indian scientific treatise observe strict rules regarding formation of a word, for the brevity and secrecy of expressions, it should be analyzed in detail for better understanding. The meaning of _gati_ is to acquire; and _jnana_ is to get aware or to sense. The term _gandhana_ means to enthuse, to excite or to stimulate. Considering the different meanings of _gati_ , and _gandhana_ it is understood that the term vata itself conveys its role as a receptor as well as stimulator. Hence it can be said that vata is the biological force which recognizes and stimulates all the activities in the body. 
+
+Vata is the prime dosha. Owing to its incorporeal nature and instability it is inaccessible in comparison to other two dosha. The inaccessibility is characterized in regard to its functional and physical attributes but is more relevant regarding the therapeutic aspect. Vata is also explained as _achintyaveerya_ (inconceivable prowess) and _doshaanaam netah_ (propeller of all functional elements in the body).[1]
+
+Before discussing the importance and implications of vata, the references on vata and neurological elements in vedic literature is to be highlighted. In vedic science two terminologies namely _prana_ and _pranaja_ were used to denote nerve impulses. _Prana_ is _kriyashakti_ (power for action) and may be compared with motor impulse. _Pranaja_ is also same as _prana_ but conveys sensation of taste, smell, vision, sound, coitus, reproduction, pleasure and pain. It can be compared with sensory afferent impulse. Both _prana_ and _pranaja_ leave body at death. The entire neural axis is explained as _sushumna_ (spinal cord) and it extends from the mid-perineum to inside of cranium runing through the middle of the spine to reach the cerebrum, twelve fingers breadth from nose. The shape of _sushumna_ is compared with flower of _datura alba_ with two dilatations at thoracic and lumbar areas. The cross section of spinal column is compared with the letter _Aum_ in which grey matter and white matter is identified as _chitrini_ (name for grey matter) and _vajra_ (name for white matter). The neural networks are compared with _luta tantu_ (spider web).[2] Ten subtypes of _vata_ are explained and _dhananjaya_ (the tenth and last subtype) does not leave the body even after death. This is responsible for tissue transplantation after death. The description of _shadchakra_ (six _chakras_) is also very striking with latest functional modern neurology. The difference between vedic and ayurvedic neurology is that vedic science used it to attain higher level of consciousness through control of one’s nerve impulses. Ayurvedic science is meant for academic advancement or therapeutics. In Ayurveda it can be seen that practical utilization of vedic knowledge for therapeutic purpose by modification through experiments and experiences is done. Detailed descriptions of features of vata are available in various chapters of Charak Samhita including Deerghanjiviteeya Adhyaya, Vatakalakaliya Adhyaya and Rogabhishagjitiya Vimana, etc. The pathology and therapeutic aspects of vata is explained in this chapter. There is no separate chapter for diseases of pitta and kapha dosha. Vatavyadhi Chikitsa is an exclusive chapter dealing with vata janita vishesha vyadhi (diseases caused by vata vitiation). It is because of the supremacy of vata. The chapter is kept just after Urustambha Chikitsa since in that particular disease ama, kapha, meda, etc. are associated to cause vataprakopa and _urustambha_. On application of strenuous rukshana chikitsa in urustambha, vataprakopa alone may also happen. Even though in _nanatmaja_ (single dosha) vatavyadhi the presence of other dosha can be traced, the disease cannot manifest without the vitiation of vata. 
+
+Vata as explained earlier is the biological force present in the body which recognizes and stimulates all the activities. Instability of vata makes it inaccessible. It is characterized by an increase in the _chala_ (motion) property, which is favored and contributed by other properties also. The _chala guna_ is directional in nature and termed as _gati_. _Gati_ is the distinct quality of vata, very important on physiological and pathological aspects. The _gati_ of individual components of vata is to be analyzed according to the intensity, direction and area; depending upon the particular function it is carrying out. When the _gati_ is aggravated (_gatatva_) or obstructed (_avarana_) the functional normality’s of vata are impaired. The _gati_ or _gatatva_ have two implications, one subjected to activity (to move, carry out or reach-gata) and the second subjected to abode of activity (pathway). _Gatatva_ is an essential part of any vataja samprapti _(pathogenesis)._ Gatatva _ofvata is possible in dhatu, upadhatu, asaya_ (sites or hollow cavities of organs), _avayava_ (part or organ), etc. Consumption of _ahara_ of relatively higher _kittansha_ (waste products) leads to diminution of dhatu and aggravation of vata [ Cha. Sa. Sutra Sthana 28/4]. It leads to _riktata_ (emptiness) and more _avakasha_ (space) in dhatu, makes the engorgement and hyper movement of aggravated vata in the site. Dhatugatavata and dhatuavrita vata are also distinct pathologies as in _avarana_ the vitiation of vata is passive and the _gati_ is obstructed. 
+
+The chapter begins with praising of powerful vata followed with five subtypes of vata. After these descriptions, the etiopathological and therapeutic aspects of vata are explained. In the present chapter the two distinct pathology of vata is explained with possible causative factors. In the context of _gatavata_ , the pathology is related to the various dhatu, ashaya or _avayava_ involved in _gatatva_. The same way different _avarana_ of vata by other two dosha, dhatu, mala, anna, etc. are explained. Since different subtypes of vata possess different _gati_ mutual _avarana_ among subtypes are also possible. The chapter also explains various disorders like _pakshaghata, ardita, akshepaka, avabahuka_ etc. The general line of treatment of absolute vata vitiation is detailed in the chapter by giving importance to snehana, swedana, samshodhana, etc. An ample amount of medications including various _taila yoga, ghr̥ita yoga,_ etc. are also given in the chapter. The specific treatment approaches in exclusive conditions are also explained. 
+
+Vata vyadhi are group of disorders which are very commonly encountered by ayurvedic physicians. In many diseases like _pakshaghata, ardita, gridhrasi, kateegraha,_ etc. ayurvedic physicians are claiming better results and it is widely accepted also. Critical understandings of pathology, types, prognostic factors etc. are very important for academic and clinical success. Thus, thorough understanding of vata roga is essential for every treating physician. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter Vata vyadhi chikitsa (Management of diseases caused by vata dosha). Thus said Lord Atreya.[1-2] 
+
+### Significance of vayu
+
+Vayu is life, vayu is strength, vayu mainstays living organism, the same vayu is verily the universe, and hence the Lord Vayu is praised. [3] 
+
+### Important role of vayu in health
+
+When normal (non vitiated) vayu is at its abode with unobstructed (free) movement, is responsible for long lifespan of hundred years devoid of diseases.[4] 
+
+### Types of vayu and their functions
+
+Vayu is of five types namely prana, udana, samana, vyana and apana and they mechanize the body optimally occupying their sites without any irregular movement. 
+
+The location of _prana_ is vertex, thorax, trachea, tongue, mouth and nose and it performs functions of spitting, sneezing, eructation, respiration, deglutition etc. 
+
+The site of _udana_ is umbilicus, thorax and trachea and is responsible for vocalization, drive, energy, strength, complexion etc. _Samana_ is located in channels of sweat, humors and water and lateral to the seat of agni (digestive enzymes (agni) and yield strength to the digestive fire. 
+
+_Vyana_ has swift movement and spreads all over the body and is responsible for gait, flexion, extension, twinkling etc. _Apana_ is told to be located in testicles, urinary bladder, penis, umbilicus, thighs, inguinal region and anus and performs ejaculation, micturition, defecation, expulsion of menstrual blood and fetus. 
+
+When these five are located in respective sites optimally, perform their functions, supports life without any morbidity. [5-11] 
+
+### Role of vata/vayu in causing diseases
+
+_
+
+When dislodged or impaired, dosha harm the body by diseases according to their respective site and function, and may even lead to instantaneous death. 
+
+Even though the diseases caused by them are innumerable, starting from _nakhabheda_ (nail splitting), the major eighty diseases enlisted in Sutra Sthana are important. 
+
+Now the aforesaid synonymous diseases with etiology and therapeutics are about to explain here, the absolute vata as per different locations as well as that got obstructed. [12-14] 
+
+### Etiopathology
+
+Due to intake of dry, cold, deficient and light food; excessive sex and sleeplessness; improper treatments; expelling of dosha or blood letting; by excessive fasting, swimming, walking, exercising, and physical activity; depletion of tissue elements; worrying, grief, debilitating diseases; usage of uncomfortable beds or seats; anger, day sleep or even with fright; suppression of natural urges, indigestion, trauma, abstaining from food; injury to vital areas, falling from swift moving elephant, camel or horse etc. vata is aggravated. This gets filled in the vacuous channels in the body and leads to various generalized or localized disorders. [15-19] 
+
+### Premonitory symptoms
+
+Indistinct manifestation of the diseases are considered as prodromal symptoms.When the cardinal feature is clearly manifested, it is called as symptom, while the lessening of features are indicative of cure. [19-20] 
+
+### General signs and symptoms of vata vitiation
+
+Vitiated vata causes various symptoms like contractures, joint stiffness, splitting of bones and joints, horripilation, delirium, spasticity of hands, back and neck; limping, paraplegia, hunch back; organ atrophy, insomnia, intrauterine death of embryo and fetus, diminishing sperms and menstruation fasciculation, generalized numbness, benumbing or paralysis of muscles of head, nose, eyes, supraclavicular part and neck; splitting, pricking or aching type of pains; convulsions, loss of consciousness, fatigue etc. Different specific diseases of vata are caused by specificity in etiological factors and site of affliction. [20-24] 
+
+### Clinical features of vitiation of vata at different sites
+
+#### Koshthashrita vata (vitiation at gastrointestinal tract)
+
+When vitiated vata is located in gastrointestinal tract or in abdomen it leads to urinary retention and constipation, intestinal and epigastric discomforts, gulma, piles and pain in flanks.[24] 
+
+#### Sarvanga kupita vata (vitiation all over body)
+
+When vitiated vata is located all over the body, it produces generalized fasciculation and breaking pain; different types of pain and the generalized joint crepitus. [25] 
+
+#### Guda sthita vata (vitiation at anus)
+
+When vitiated vata is located in anus, it leads to retention of feces, urine and flatus; colicky pain, flatulence, renal calculi, micro-calculi; diseases with atrophy in calf, thigh, pelvis, and the back.[26] 
+
+#### Amashaya sthita vata (vitiation at stomach)
+
+When vitiated vata is located in stomach, symptoms manifest as pain in epigastrium, umbilicus, flanks and abdomen; morbid thirst, eructation, acute gastroenteritis, cough, dryness of throat and mouth and breathing difficulty.[27] 
+
+### Pakwashaya sthita vata (vitiation at colon)
+
+When vitiated vata is located in colon it causes gurgling, colicky pain, tympanites, difficulty in defecation and urination, flatulence and lumbar/ sacroiliac pain. [28] 
+
+### Indriya gata vata (vitiation in sense organs)
+
+When vitiated vata is located in ear like sense organs leads to sensorial loss in the respective organs. [29] 
+
+### Twaksthita vata (vitiation at skin)
+
+When vitiated vata is located in skin it becomes dry, fissured, numb, thin, blackish. It causes pain along with erythema and strain and leads to pain in distal end of bones.[30] 
+
+### Raktagata vata(vitiation at blood)
+
+When vitiated vata is located in blood it manifests as severe pain with warmth and discoloration; weight loss, anorexia, specific raised rashes in body and esophageal spasm.[31] 
+
+### Mamsa medogata vata (vitiation in muscles and fats)
+
+When vitiated vata is located in muscles and fat, it manifest as heaviness of body, pricking pain and as if beaten by a strong rod or fist cuff and painful severe fatigue.[32] 
+
+### Majja-asthigata vata (vitiation in bones and marrow)
+
+When vitiated vata is located in bones and marrow it leads to splitting pain of bones and joints, arthralgia, loss of muscle strength, insomnia and continuous pain.[33] 
+
+### Shukra gata vata (vitiation in semen)
+
+When vitiated vata is located in semen, it causes premature ejaculation or anejaculation. It may also lead to preterm or delayed labor. It may also cause deformity in fetus. [34] 
+
+### Snayugata vata (vitiation in tendons)
+
+When vitiated vata is located in neural tissue or tendons, it leads to ophisthotonus or emprosthotonus, radiculopathy, kyphosis, quadriplegia or hemiplegia. [35] 
+
+### Siragata vata (vitiation in vascular tissue)
+
+When vitiated vata is located in vascular tissue it leads to mildly painful edema in the body, emaciation, twitching, loss of pulsation along with dilation or coarctation of vessels. [36] 
+
+### Sandhigata vata (vitiation in joints)
+
+When vitiated vata is located in joints, it leads to palpatory feeling of air in joints(crepitus), swelling along with painful flexion and extension.[38] 
+
+Thus the symptomatology of vata according to various site are explained. [38] 
+
+### _Ardita_ (facial paralysis)
+
+If the excessively increased vata affects one half of the body, as it diminishes the blood there, leads to contracture of arm, leg and knee of the affected half, and causes distortion of one side of the face and produces asymmetry of the nose, eye brow, fore head, eye and jaw. 
+
+The food goes into one side of the mouth; while speaking the nose gets curved, the eye remains rigid and without blink; the sneeze gets suppressed. His speech is feeble, distorted, strenuous and indistinct. His teeth get rickety, hearing affected and voice is hoarse. There is pain in his feet, hand, eyes, calves, thighs, temples, ears and cheek. This condition, may affect half the body or half of the face only, is called _ardita_ (facial paralysis). [38-42] 
+
+### _Antarayama_ (Emprosthotonous)
+
+When vata get localised in the _manya_ (neck), lateral aspect of the neck and gets spread into the internal vessels, it causes _manyastambha_ otherwise named as _antarayam_ (Emprosthotonus). So the neck becomes convulsed inward and the lateral aspect becomes very stiff, the teeth get clenched with salivation, contraction of the back muscles and the head is stiff; yawning and lock jaw; these are the symptoms of _antarayam_. Thus _antarayam_ is explained. [43-45] 
+
+### _Bahirayama_(ophisthotonous)
+
+_Bahirayama_ , will now be described. The potently provoked vata, on getting localized in the posterior and lateral of the neck and constricting external vessels, causes bow leg like rigidity of the body which is called as _bahirayama_ (ophisthotonous). 
+
+As the body being bent like a bow, the head gets retracted almost touching his back and his chest is thrown forward, the sides of the neck become rigid and the neck in total get compressed along with clenching of teeth, salivation and aphasia. The attack may lead to death of the patient or deformity.[46-48] 
+
+### _Hanugraha_ (lock jaw)
+
+When the vata gets localized at the root of the jaws causes dislocation of the jaws and produces either a condition of stiff gaping of mouth without any pain; or by causing spasticity of the jaw, the mouth becomes fixed and cannot be opened. This is called as _hanugraha_ (lock jaw) 
+
+### _Aakshepaka_ (episodic contractions)
+
+In _akshepaka_ (..), the provoked vata contracts vessels, tendons and ligaments of the hands and feet cause episodic contraction in different parts of the body. [50-51] 
+
+### _Dandaka_ (stiffness of body)
+
+When vata causes rigidity of muscles of the hands, feet, head, back and hips, so that the body becomes stiff as a stick, is called as _dandaka_ , the condition is irremediable. [51-52] 
+
+### Episodic nature of vata disorders
+
+In diseases like _ardita_ etc. when the episodic convulsions are gone, the patient returns to normal. Later as the episodes return the patient gets severely afflicted with characteristic features; the physicians should regard this condition as incurable. [52-53] 
+
+### _Pakshaghata_ (paralysis)
+
+When vata paralyze one side of the body either right or left, leads to motor deficit, pain and aphasia on the affected side. [This is called as _pakshaghata_ (hemiplegia)]. By afflicting one side of the body,vata causes diminution of the vessels and nerves lead to contraction of either one leg or one arm with aching and piercing pain. That condition is to be known _ekangaroga_ (monoplegia). If it affects whole body it is called _sarvangaroga_ (quadriplegia).[53-55] 
+
+### _Gridhrasi_ (sciatica) and _khalli_ (radiculopathy)

@@ -1,0 +1,268 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Types of Prameha
+ * 2.2 Process of Onset of Disease
+ * 2.3 Etiology of _Kaphaja Prameha_
+ * 2.4 Pathogenesis
+ * 2.5 Signs, Types, and Prognosis of _Kaphaja Prameha_
+ * 2.6 Specific Features of Types of _Kaphaja Prameha_
+ * 2.7 Etiology and Types of _Pittaja Prameha_
+ * 2.8 Specific Features of Types of _Pittaja Prameha_
+ * 2.9 Etio-pathogenesis of _Vataja Prameha_
+ * 2.10 Incurability of _Vataja Prameha_ and its Other Characteristics
+ * 2.11 General Prodromal Features of _Prameha_
+ * 2.12 General Complications and Principles of Treatment
+ * 2.13 Consequences of _Prameha_
+ * 2.14 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 The process of onset of disease
+ * 4.2 The etymology of _prameha_
+ * 4.3 The scope of _prameha_
+ * 4.3.1 _Sahaja prameha_ / _jatah pramehi_ (hereditary)
+ * 4.3.2 _Apathyanimittaja prameha_ (acquired)
+ * 4.3.3 Causative factors of _prameha_ /diabetes mellitus
+ * 4.3.4 Type I Diabetes
+ * 4.3.5 Type II Diabetes
+ * 4.4 Jaggery and jaggery products including sugar (_gudavaikritum_)
+ * 4.5 The classification of _prameha_
+ * 4.5.1 Classification by _Dosha_ /Stage of Progression
+ * 4.6 _Prameha_ classified according to physique
+ * 4.7 _Samprapti_ (pathogenesis) of _prameha_
+ * 4.8 Various _dushyas_ involved in the pathogenesis
+ * 4.8.1 Meda dhatu
+ * 4.8.2 Mamsa dhatu
+ * 4.8.3 Majja dhatu
+ * 4.8.4 Shukra
+ * 4.8.5 Ojas
+ * 4.8.6 Kleda
+ * 4.8.7 Vasa
+ * 4.8.8 Lasika
+ * 4.8.9 Exclusion of asthi as a dushya
+ * 4.9 _Vataja prameha_ vis a vis type 1 diabetes mellitus
+ * 4.10 _Poorvarupa_ (prodromal symptoms) of _prameha_
+ * 4.11 Causes of lipoprotein abnormalities in diabetes [38]
+ * 4.12 Different colors of Urine
+ * 4.12.1 White
+ * 4.12.2 Red / Pink
+ * 4.12.3 Blue / Green
+ * 4.12.4 Brown /Black
+ * 4.13 Prognosis
+ * 4.13.1 Features of _Prameha_ Classified on the Basis of Prognosis
+ * 4.14 Future Scope for Research
+ * 4.15 Related Chapters
+ * 5 References
+
+## Introduction
+
+The fourth chapter in the Nidana Sthana, dealing with the diagnosis of _prameha_ , follows the diagnosis of _gulma_ disease associated with the mamsa dhatu. Twenty known types of _prameha_ , including diabetes mellitus (_madhumeha_), have been described here. However, there could be innumerable variations of a disease based on the presence or absence of disease (provoking or mitigating) factors in the body. The manifestation of the disease depends upon the interaction between causative factors, dosha, dushya and the defense mechanism of the body. Some of these factors can also help determine if there could be a delayed or an early onset of the disease, the severity of the disease, etc. Various etiological factors of _prameha_ are described here that lead to vitiation of kapha dosha, meda dhatu, and mutra. A vitiated kapha affects ten fluid-predominant body tissues, resulting in the production of excessive kleda (moisture/excess discharge of body fluids) that, when intermixed with meda (lipid)and mamsa (muscle protein), further vitiates mutra (urine) and results in _prameha_. A patient afflicted with diabetes mellitus, on an initial visit to the physician, may complain of numbness, tingling, burning sensation in feet, fatigue, dryness of mouth, drowsiness, etc. It is highlighted these signs and symptoms for an early diagnosis and management of _prameha_. Ten types of curable _kaphaja prameha_ , six variants of _yaapya_ (palliative) and four variants of incurable _vataja prameha_ , totaling twenty types of _prameha_ have been described here in this text. Prodromal symptoms, complications, treatment procedures (enumerated briefly), and some rules (do’s and don’ts) have been included in the course of this chapter. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Prameha Nidana" (Diagnosis and etiopatheogenesis of Obstinate Urinary Disorders including diabetes). Thus said Lord Atreya. [1-2] 
+
+### Types of Prameha
+
+Due to vitiation of three dosha, (any of) twenty types of _prameha_ could occur. However, there may be innumerable other variations of the disease. We shall now explain the ways in which vitiation of the three dosha leads to the manifestation of the various types of _prameha_. [3] 
+
+### Process of Onset of Disease
+
+Here, the specific interaction of etiological factors with _doshas_ and _dushyas_ , as well as the presence or absence of disease-resisting factors (individual’s immunity or ability to resist the disease), influence the outcome regarding the manifestation of a disease (including _prameha_). Temporal factors (e.g. season) also play a role here. For example, if the interaction of etiological factors, _doshas_ and _dushyas_ are weak and these are antagonistic to each other, and if the influence of temporal factors (time or seasonal influence) are also weak, then either the disease does not manifest, or there is a delay in manifestation of the disease. In such cases, even if there is an onset of the disease, its severity could be low, or all of its signs and symptoms may not manifest. Thus, the presence or absence of specific factors determine the ability or otherwise of the body to resist all types of diseases. [4] 
+
+### Etiology of _Kaphaja Prameha_
+
+An excessive intake of _kapha_ -vitiating food articles or lifestyle activities contributes to severe manifestations of _kaphaja prameha_. The following are some of the specific etiological factors for the _kaphaja_ variant of this disease: 
+
+ * Frequent and excessive intake of: 
+ * Newly harvested grains like _hayanaka, yavaka_ (a variety of Hordeum vulgare Linn), _chinaka, uddalaka,naishadha,itkata, mukundaka,_ _mahavrihi, promodaka,_ and _sugandhaka_ ;
+ * Newly harvested pulses like _harenu_ (Pisum sativum Linn.) and _masha_ (Phaseolus radiates Linn.), consumed with ghee;
+ * The meat of domesticated, marshy and aquatic animals;
+ * Vegetables, _tila_ (Sesamum indicum Linn.) oil, cakes of _tila_ , pastries, _payasa_ (milk-based pudding), _krisara_ (gruel prepared of _tila_ , rice, and black gram), _vilepi_ (a type of thick gruel), and sugarcane-based food preparations;
+ * Milk, new wine, immature curd (curd which is mostly liquid and sweet);
+ * Various dietary regimen that produces excess _kapha_ , fat, and urine;
+ * Lifestyle related activities, including 
+ * Avoidance of physical exercise; and
+ * Excessive sleep, bed rest and sedentary habits;
+
+The _kapha_ with excessive fluid component is specific vitiation in _prameha_. Specific _dushyas_ of _prameha_ include excess abaddha meda (loose fat), mamsa (muscle tissues), vasa (muscle fat), majja (marrow), kleda(body fluids), shukra (semen and reproductive tissues), rakta (blood), lasika (lymph) and rasa (plasma) and ojas (the purest of all dhatu). [5-7] 
+
+### Pathogenesis
+
+Etiological factors (especially _kapha_ -dominant ones), _doshas_ , and _dushyas_ mentioned in the preceding verses can trigger the manifestation of _kaphaja prameha_. The aggravated _kapha_ spreads all over the body quickly because of flaccid muscles and fatty tissues. The _kapha_ blends quickly with the _medas_ (fat) – primarily because the fats typically are excessive in quantity and viscous and soft in "favorable" body conditions but also because _kapha_ and _medas_ share identical qualities. As _kapha_ itself is vitiated, it vitiates _medas_ in the process. The vitiated _kapha \- meda_ then mixes with _mamsa_ (muscle tissues) and _kleda_ (moisture/body fluid), in as much as these two are supposed to have already exceeded their quantity. Vitiation of the muscle tissues provides a congenial atmosphere for the manifestation of putrified carbuncles (_pidika_) like _sharavika_ and _kacchapika_ in the muscle. The liquid _dhatus_ in the body get further vitiated and transformed into _mutra_ (urine). _Vrikka_ (kidney) and _basti_ (urinary bladder) are at the two ends of the channels carrying urine; the openings of these channels get affected by _[[[meda]]_ (fat) and _kleda_. The vitiated _kapha_ obstructs the openings of these channels. This results in the manifestation of _prameha_ which becomes chronic or incurable due to the affection of all qualities of _kapha_ and simultaneous vitiation of homogenous and heterogenous _dhatus_. [8] 
+
+### Signs, Types, and Prognosis of _Kaphaja Prameha_
+
+Fluids of the body (_kleda_) along with _kapha_ and _medas_ (fat) enter the _vrikka_ (kidney) and _basti_ (urinary bladder), transforming into _mutra_ (urine). During this process, they acquire the morbid qualities of _kapha_ , viz, white, cold, particulate, slimy, transparent, unctuous, heavy, sweet, dense, clear and slow. The morbid conditions are named after these qualities, one or many of which may dominate the process of pathogenesis. 
+
+The ten _kaphaja prameha_ variants are as follows: 
+
+ 1. _Udakameha_
+ 2. _Ikshuvalikarasameha_
+ 3. _Sandrameha_
+ 4. _Sandraprasadameha_
+ 5. _Shuklameha_
+ 6. _Shukrameha_
+ 7. _Sheetameha_
+ 8. _Sikatameha_
+ 9. _Shanirameha_
+ 10. _Alalameha_
+
+These are curable because: 
+
+ 1. The _medas_ (fat) and _kapha_ have similar properties and loci,
+ 2. The _kapha_ is dominant, and
+ 3. Both _medas_ and _kapha_ are amenable to the same treatment. [9-11]
+
+### Specific Features of Types of _Kaphaja Prameha_
+
+The specific features of different types of _kaphaja prameha_ are as follows (in verses): 
+
+ 1. In _udakameha_ the individual passes large quantities of water-like urine which is transparent, white, cold and without any smell.
+ 2. In _iksuvalikarasameha_ , the patient passes urine resembling sugarcane juice which is exceedingly sweet, cold, slightly saline, and turbid.
+ 3. In _sandrameha_ , the viscosity of urine of the individual increases when kept overnight.
+ 4. In _sandraprasadameha_ , the urine of the patient become partly viscous and partly clear when kept overnight.
+ 5. In _suklameha_ , the patient passes urine having opaque, white color like that of pasted flour.
+ 6. In _shukrameha_ patient passes semen-like urine or urine mixed with semen.
+ 7. In _sheetameha_ , the patient gets frequent micturition which is exceedingly sweet and cold.
+ 8. In _siktameha_ , vitiated _doshas_ pass with urine in the form of small gravels.
+ 9. In _shanirameha_ , the patient passes small quantity of urine with difficulty and very slowly.
+ 10. In _alalameha_ , the patient passes urine which is phlegm-like and slimy as if full of threads.
+
+Thus, the ten types of _prameha_ due to vitiation of _kapha_ have been explained. [12-23] 
+
+### Etiology and Types of _Pittaja Prameha_
+
+_Pitta_ gets immediately aggravated in an individual whose body is pre-conditioned by abovementioned (verse 5) factors and exposed to factors such as the following: 
+
+ 1. Intake of hot, sour, salty, alkaline and pungent foods;
+ 2. Intake of food before the digestion of the previous meal;
+ 3. Exposure to excessively hot sun, heat of the fire, physical exertion and anger; and
+ 4. Intake of mutually contradictory food articles.
+
+The aggravated _pitta_ following the same pathogenic process (as mentioned for _kaphaja prameha_) and manifests into one of six types of _pittaja prameha_. The process of manifestation is quicker than that of _kaphaja meha_. According to the characteristics of _pitta_ , they are named as follows: 
+
+ 1. _Kharameha_
+ 2. _Kalameha_
+ 3. _Nilameha_
+ 4. _Raktameha_
+ 5. _Manjisthameha_
+ 6. _Haridrameha_
+
+As described in earlier chapters, these variants also manifest due to permutations and combinations of the six qualities of _pitta_ ,i.e., alkaline, sour, saline, pungent, hot and having smell like that of raw fish. [24-26] 
+
+### Specific Features of Types of _Pittaja Prameha_
+
+All these types of _prameha_ are palliable (but not fully curable) because the loci of vitiated _medas_ in the pathogenesis of this disease are closer to those of the affected _doshas_ and the treatment of _pitta_ and _medas_ is in mutual contradiction. The specific features of different types of _prameha_ caused by _pitta_ are given below: 
+
+ 1. In _ksharameha_ the patient passes urine having the smell, color, taste and touch similar to those of alkalies.
+ 2. In _kalameha_ the patient passes large quantities of black or dark urine.
+ 3. In _nilameha_ the patient passes urine having sour taste and color like that of the feather of the blue jay.
+ 4. In _raktameha_ the patient passes urine having red color, saline taste and smell like that of raw fish.
+ 5. In _manjisthameha_ the patient passes urine frequently, and the urine smells like raw flesh and looks like the juice of _manjistha_ (Rubia cordifolia Linn.).
+ 6. In _haridrameha_ the patient passes urine having pungent taste and color like that of the juice of _haridra_ (Curcuma longa Linn.).
+
+Thus, six varieties of _prameha_ due to vitiation of _pitta_ are explained. [27-35] 
+
+### Etio-pathogenesis of _Vataja Prameha_
+
+_Vata_ gets immediately aggravated in an individual whose body is pre-conditioned by above mentioned (verse 5) factors and exposed to the following factors: 
+
+ 1. Excessive intake of astringent, pungent, bitter, rough, light and cold things;
+ 2. Excessive indulgence in sex and physical exercise.
+ 3. Excessive administration of emesis, purgations, asthapana type of enema and _shirovirechana_ (elimination of _doshas_ from the head),and
+ 4. Suppression of the manifested urges, fasting, trauma due to assault, exposure to sun, anxiety, grief, excessive bloodletting, staying awake at night, and irregular posture of the body.
+
+The aggravated _vata_ spreads throughout the body, and along with _vasa_ (muscle fat), enters the ureter leading to the manifestation of _vasameha_. When it carries marrow to the urinary bladder, it results in _majjameha_. 
+
+Due to the large quantity of _lasika_ (lymphs) in the body and also due to the property of _vata_ to dissipate things, _lasika_ entering the urinary bladder produces large quantity of urine, causing a continuous urge for micturition and, thus, passing copious amounts of urine continuously (even) without any pressure, like an elephant (_hasti_) gone amuck. Thus, this is also known as _hastimeha_. _Ojas_ is, by nature, of sweet taste. However, its roughness causes _vata_ to convert it into an astringent tasting element. This _vata_ -afflicted _ojas_ , when gets into the urinary bladder, causes _madhumeha_. [36-37] 
+
+### Incurability of _Vataja Prameha_ and its Other Characteristics
+
+These four types of _prameha_ (_vasameha, majjameha, hastimeha,_ and _madhumeha_) due to the vitiation of _vata_ are known to be serious conditions and are incurable because of the contradictions involved in their treatment. 
+
+As in the case of other _pramehas_ , these variants are also named after the attribute involved in the pathogenesis. Their specific features are as follows: 
+
+ 1. In _vasameha_ , the patient frequently passes urine mixed with _vasa_ or having the appearance of _vasa_. It is incurable and caused by the aggravation of _vata_.
+ 2. In _majjameha_ , the patient frequently passes urine mixed with _majja_. It is incurable and caused by the aggravation of _vata_.
+ 3. In _hastimeha_ , the patient passes large quantities of urine frequently “like an elephant gone amuck”, as mentioned earlier. It is incurable and caused by the aggravation of _vata_.
+ 4. In _madhumeha_ , the patient passes urine sweet and astringent in taste, pale in color and ununctuous. It is incurable and caused by the aggravation of _vata_.
+
+Thus explained are the four variants of _vataja prameha_ and twenty types of _prameha_ (due to vitiation of the three _doshas_).[38-46] 
+
+### General Prodromal Features of _Prameha_
+
+The three vitiated _doshas_ , while causing _prameha_ , produce the following prodromal symptoms: 
+
+ 1. Matting of hair;
+ 2. Sweet taste in the mouth;
+ 3. Numbness and burning sensation in hands and feet;
+ 4. Dryness in mouth, palate, and throat;
+ 5. Thirst and laziness;
+ 6. Increased amount of bodily waste excretion from the body sweat pores;
+ 7. Adherence of bodily wastes to the orifices of the body (like ear, eyes, nose and body pores)
+ 8. Burning sensation and numbness in various organs of the body;
+ 9. Attraction of insects and ants to the body and urine;
+ 10. Appearance of turbidity or other abnormalities in the urine;
+ 11. Smell of raw flesh in the urine; and
+ 12. Excessive sleep and continuous drowsiness. [47]
+
+### General Complications and Principles of Treatment
+
+Complications associated with _prameha_ are thirst, diarrhea, fever, burning sensation, weakness, anorexia, and indigestion. Carbuncles that putrify muscle tissues, like _alaji_ and _vidradhi_ , appear during the chronic stage of the disease. 
+
+Of all these variants, the curable types of _prameha_ should be treated with the appropriate elimination and alleviation therapies on time. [48-49] 
+
+### Consequences of _Prameha_
+
+Thus, it can be said: As the birds are attracted towards the trees where their nests are situated, similarly _prameha_ is attracted to people who are gluttonous, who have an aversion to bathing, or who have an aversion to physical exercises. Death immediately comes in the form of _prameha_ to those who are very lethargic and morbidly obese. 
+
+The individual who follows a dietary regimen or lifestyle that brings his _doshas_ and _dhatus_ to a state of equilibrium is said to be leading a healthy life. [50-52] 
+
+### Summary
+
+To sum up: 
+
+In this chapter on the diagnosis of _prameha_ the following topics were discussed: 
+
+ 1. Causative factors of the diseases and those about various types of _prameha_ ;
+ 2. Combination of _doshas_ and _dhatus_ ;
+ 3. Signs and symptoms (of different types of _prameha_);
+ 4. The process of manifestation of ten, six and four varieties of _prameha_ caused by _kapha, pitta,_ and _vata_ respectively.
+ 5. Prognosis, premonitory symptoms and complications; and
+ 6. Their line of treatment. [53-55]
+
+Thus, ends the fourth chapter on the diagnosis of _prameha_. 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ 1. _Nidana_ (etiological factors), _dosha_ , and _dushya_ are three major factors that cause any disease. Besides these, there are temporal influences, pre-existing conditions, genetic predispositions, as well as the presence or absence of resisting factors in the host body that decide the propensity of the affliction of a disease, including _prameha_.
+ 2. The onset of disease pathology, its severity and progress depend upon the cumulative effect of interaction between above-mentioned factors. If the disease resisting factors in the host body are stronger than the disease provoking factors, then the disease doesn't occur or occurs with less severity or with fewer symptoms. On the contrary, the disease is severe, acute, and fully manifested in the case of stronger disease provoking factors.
+ 3. _Prameha_ is a syndrome and not one disease entity. The manifestation of each of the twenty types of _prameha_ depends upon the dominant _dosha_ , as well as a host of etiological factors and _dushya_ at play. A common theme applicable to all the types, though, is prolonged exposure to the etiological factors (excess consumption of specific dietary articles and a sedentary lifestyle). Genetic predisposition also increases the propensity of an individual getting afflicted with _prameha_.
+ 4. Prognosis of _prameha_ depends on the quantity and quality of _doshas_ and the resistance capacity of _dhatus_. If they have similar site and properties, the prognosis is good due to the similarity in treatment principles. If they are dissimilar, the prognosis is bad because of contradiction in treatment principles.
+ 5. Vitiated _kapha dosha_ and _meda dhatu_ form the basis of pathogenesis of _prameha_. Further, the vitiation of _pitta_ and _vata dosha_ is observed as per their etiological factors to manifest respective types.
+ 6. The excessive _abaddha meda_ (loose fat), _mamsa_ (muscle proteins), _kleda_ (body fluids), _shukra_ (reproductive tissues), _shonita_ (blood), _vasa_ (muscle fats), _majja_ (bone marrow), _rasa_ (body fluid with plasma), _ojas_ (vital essence of all tissues) are important factors involved in pathogenesis of _prameha_. Hence the treatment is targeted to correct the imbalances in these tissue components.
+ 7. To treat _prameha_ , the above mentioned factors with the loci in urinary system of the bladder, kidneys shall be treated well.
+ 8. The quality and specific characteristics observed in urine are biomarkers in diagnosis and assessment of _prameha_.
+
+## Vidhi Vimarsha (Applied Inferences)
+
+### The process of onset of disease
+
+_Nidana,dosha_, and _dushya_ are the inherent factors involved in the pathogenesis of diseases. In addition to these inherent factors, the host also has antibodies and disease resisting factors in him. If the resisting factors are weak and _kala_ , or temporal influences (seasonal variations, age), are strong enough for the inherent causes of the disease, then the disease will be severe with complications and rapid progression. If all the four factors (i.e., _nidana,dosha, dushya,_ and _kala_) are not strong enough then any of the following manifestations may occur: 
+
+ 1. No disease
+ 2. Delayed onset
+ 3. Mild
+ 4. A few signs and symptoms present.
+
+In this chapter, the importance of exogenous (disease causative agents/pathogens), endogenous (deranged body defense mechanism) factors and tissue response in the development of the disease is emphasized. The disease appears either when the exogenous factor (pathogen) is strong enough to overcome the defense mechanism of the body or when the tissue response to exogenous factors or adaptive responses to foreign agents is deranged. 
+
+### The etymology of _prameha_
+
+In Sanskrit, the word _mih_ (from which _meha_ is derived) denotes water, to wet, and to emit semen. Regarding the above explanation, we can easily postulate that the disease _prameha_ resulted because of an excessive excretion of something (_ati-pravrittija_). _Prameha_ comprises of all those diseases that cause clinical abnormalities in urine due to derangement of metabolism at the level of tissues (_dhatvagnimandya_). 
+
+### The scope of _prameha_
+
+_Prameha_ is a complex syndrome encompassing obesity, metabolic syndrome, diabetes insipidus, alkaptonuria, hemoglobinuria, lipiduria, diabetes mellitus and more. At the gross level, _prameha_ is considered an endocrinal and metabolic disorder. Classification of _prameha_ as _sahaja_ (hereditary) and _apathyanimittaja_ (acquired) favors the correlation of _madhumeha_ as diabetes mellitus. The pathological foci of the disease lie in the kidney (_vrikka_) causing the destruction of nephrons (_srotomukh pratirudhyante_). 

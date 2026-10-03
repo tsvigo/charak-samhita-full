@@ -1,0 +1,222 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Digestion process and its effects
+ * 2.2 Metabolism, excretion, and homeostasis
+ * 2.3 Channels for the nourishment of tissues
+ * 2.4 Query of Agnivesha
+ * 2.5 Answer by Atreya about causative factors of disease and immunity
+ * 2.6 Description of diseases affecting various dhatu (tissue)
+ * 2.6.1 Diseases due to vitiation of rasa dhatu
+ * 2.6.2 Diseases due to vitiation of rakta dhatu
+ * 2.6.3 Diseases due to vitiation of mamsa dhatu
+ * 2.6.4 Diseases due to vitiation of meda dhatu
+ * 2.6.5 Diseases due to vitiation of asthi dhatu
+ * 2.6.6 Diseases due to vitiation of majja dhatu
+ * 2.6.7 Diseases due to vitiation of shukra dhatu
+ * 2.6.8 Disease of sense organs
+ * 2.6.9 Diseases of ligaments, vessels, and tendons
+ * 2.6.10 Vitiation of mala by dosha
+ * 2.7 Management principles
+ * 2.8 Movement of dosha from _koshtha_ (gut) to _shakha_ (periphery)
+ * 2.9 Movement of dosha from _shakha_ to _koshtha_
+ * 2.10 Prevention of diseases
+ * 2.11 Benefits and harms of observing and non-observance of regimen
+ * 2.12 The importance of food
+ * 2.13 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 _Kshira Dadhi Nyaya_ (milk-curd transformation phenomena/ analogy)
+ * 4.2 _Kedari Kulya Nyaya_ (vascular network)
+ * 4.3 _Khale Kapota Nyaya_ (distribution system)
+ * 4.4 Cross references of physiological aspects
+ * 4.5 Abbreviations
+ * 4.6 Related Chapters
+ * 5 References
+
+## Introduction
+
+The preceding chapter dealt with properties of various dietary articles and preparations, while this one explains digestion and metabolism processes in brief. Even though _**Vividhashitapitiyam**_ means different kinds of eatables and drinks, the chapter gives a detailed explanation of assimilation of food and its transformation into body tissues and diseases caused due to an abnormality of dhatus along with their line of treatment. Some references to this are also available later in the Charak Samhita Chikitsa Sthana 15th chapter (Grahani Chikitsa). 
+
+Wholesome food is vital for the nourishment of human body, the creation of healthy tissues, maintenance of health, and for the prevention of disease. Not following a wholesome food regimen causes vitiation of dosha. These dosha then reside within dhatu (tissue elements), upadhatu(tissues formed from the essence of dhatu during transformation process), or mala (metabolic wastes). In certain situations, the vitiated dosha get aggravated to cause diseases. The entire process is explained with clinical features of association of vitiated dosha with the respective pathogen. The causative factors for movement of dosha from the periphery to the gut and vice versa are important to understand the disease and prescribe the appropriate purification process. Digestion and assimilation are the most important physiological process in the body. Any abnormality in this process results in the improper formation of the dhatu thus resulting in either deficiency or excessive formation of dhatu resulting in disorders. The causes for the movement of vitiated dosha from alimentary tract (_koshtha_) to the raktadi dhatu and skin (_shakha_) results in the occurrence of diseases. Moving the dosha back to alimentary tract (_koshtha_) and after that removing them eliminates diseases. The line of treatment of various diseases due to an abnormality in the dhatu is mentioned in this chapter. Thus, the chapter presents important aspects of food, digestion, metabolism, immunity, diseases of affected tissues, and guidelines for their treatment. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Vividhashitapitiya" (Sequential effects of food and beverages). Thus said Lord Atreya. [1] 
+
+### Digestion process and its effects
+
+Different types of wholesome foods ingested in the form of eatables, drinkables, lickables and masticables stimulate the _antaragni_ (digestive process) and get properly digested by respective _bhutagni_ (specific digestion as per basic constituent or element). Further in due course of time food gets transformed into different dhatu in presence of _dhatvagni_ (tissue specific digestion and metabolism) and vata (_vyana vayu_) by the process of dhatvagnipaka or metabolism, nourishes the tissues through the channels of circulation without any interruption, and produces plumpness, strength, complexion, health and longevity. The tissues are sustained by getting fed by various nourishing factors (poshaka dhatu). [3] 
+
+### Metabolism, excretion, and homeostasis
+
+The food gets transformed into two forms i.e. _prasada_ or essence form (_ahara rasa_) and _kitta_ (the waste form). 
+
+The _kitta_ part nourishes mala or excretory products like sweat, urine, stool, vata, pitta, kapha, excreta of the ear, nose, mouth, hair follicle, excreta of genital organs, scalp hair, beard, body hair, nails, etc. 
+
+The essence part or _ahara rasa_ nourishes body components (dhatu) like rasa dhatu (body fluids), rakta dhatu (blood), mamsa dhatu (flesh), meda dhatu (fat), asthi dhatu (bone), majja dhatu (bone marrow), shukra dhatu (reproductive elements like semen and ovum), oja (essence of the seven fundamental tissue elements), basic components of five sense organs, joints, ligaments, tendons and mucilage part in the body. 
+
+All the mala (wastes) and dhatu (tissue elements) of the body are nourished by the waste part of food and essence of food or _ahara rasa_ respectively. 
+
+The rasadi dhatu and mala or waste products are nourished so that the quality is maintained according to the size and age of the body. 
+
+Thus, after digestion, the essence and waste of food in their normal quantity maintain the equilibrium of tissues. 
+
+The tissue elements may increase or decrease due to some etiology, which can be normalized by the essence part of digested food in decreased or increased quantity. Similarly, mala can be transformed into the waste part of _ahara rasa_. The waste products, when in excess, can be excreted and the status of the body can be brought to equilibrium through treatments with the therapies having opposite qualities like hot, cold, etc. [4] 
+
+### Channels for the nourishment of tissues
+
+The nourishing as well as excretory products enter different channels of circulation and nourish the respective dhatu. Thus, this body is maintained by the nourishment drawn from eatables, drinkables, linctuses, and chewable (food). 
+
+The diseases could also be caused by these sources (i.e., eatables, etc.). 
+
+Intake of wholesome and unwholesome food results in positive health and diseases respectively. [5] 
+
+### Query of Agnivesha
+
+After hearing an explanation of Lord Atreya, Agnivesha said “Oh Lord, some individuals consuming wholesome food get afflicted with diseases, while some individuals consuming unwholesome food remain healthy. In this regard, how does one infer that health and disease are influenced by wholesome and unwholesome foods respectively?”. [6] 
+
+### Answer by Atreya about causative factors of disease and immunity
+
+Lord Atreya replied: 
+
+An individual consuming wholesome food will not get afflicted with disease due to the food. Intake of wholesome food alone is not the causative factor for a disease or can prevent diseases. Apart from unwholesome food, there are many other etiological factors that lead to a disease, such as changes in season, intellectual errors, unwholesome contacts, excessive, wrong and over-utilization of senses of sound, touch, vision, taste and smell. 
+
+These etiological factors can cause diseases in an individual despite wholesome intake of tastes (rasa) and diet. Hence, an individual taking wholesome food has also been observed to have taken ill. 
+
+Similarly, consuming unwholesome diet does not immediately produce untoward effects. All unwholesome food articles are not equally harmful, all the dosha are not of equal strength, and all the bodies are not capable of preventing disease. 
+
+Unwholesome food can be more harmful depending upon the habitat, season, combination, potency, and intake in excessive quantity. 
+
+The dosha become acute and extremely difficult to manage when they get associated with multiple factors, treated with wrong therapies, become deep rooted, chronic, get vitiated in one of the ten seats of _prana_ , and when they afflict vital centers within the body known as _marma_. 
+
+Individuals, who are excessively obese, emaciated, whose muscles, blood, bones are depleted, who are physically very weak, who are habituated to consuming unwholesome food, who take in inadequate quantities of food, and who have very weak mind cannot withstand diseases. Contrary to this, individuals having opposite qualities to the ones mentioned above are capable of resisting diseases. Thus, unwholesome diet, dosha, and body constitution factors produce diseases of mild, severe, acute and chronic nature. [7] 
+
+### Description of diseases affecting various dhatu (tissue)
+
+The specific diseases caused due to vitiated dosha in the seats of rasa dhatu, rakta, etc. dhatu will be explained further. [8] 
+
+#### Diseases due to vitiation of rasa dhatu
+
+Aversion towards food, anorexia, altered sense of taste, inability to identify tastes, nausea, heaviness in the body, drowsiness, body ache, fever, blackouts, anemia, obstruction of channels, impotence, tiredness (_angavasada_), emaciation, diminished agni, and premature aging (wrinkling of skin and graying of hair) are some of the disorders caused due to vitiation of _rasa_. [9-11] 
+
+#### Diseases due to vitiation of rakta dhatu
+
+The following diseases are caused due to vitiation of rakta: Skin disorders including _kushtha_ , erysipelas (_visarpa_), furuncles (_pidaka_), _raktapitta_ (a kind of bleeding disorder), menorrhagia (_asrugdara_), inflammation of anus, penis, oral cavity, splenic disorders (_pliha_), abdominal lump (_gulma_), abscess (_vidradhi_), blue mole (_nilika_), jaundice (_kamala_), freckles/blemish (_vyanga_), portwine mark (_piplu_), black mole of the size of sesame seed (_tilakalaka_), ringworm (_dadru_), dermatitis (_charmadala_), leucoderma (_svitra_), scabies (_pama_), urticaria (_kotha_), and circular erythema (_asra mandala_). [11-13] 
+
+#### Diseases due to vitiation of mamsa dhatu
+
+Following diseases are caused due to vitiation of mamsa dhatu: _adhimamsa_ (granuloma), _arbuda_ (myoma), _kila_ (piles), _galashaluka_ (uvulitis), _galashundika_ (tonsillitis), _putimamsa_ (gangrene), _alaji_ (boils), _ganda_ (goiter), _gandamala_ (cervical lymphadenitis) and _upajihvika_ (inflammation of epiglottis). [13-15] 
+
+#### Diseases due to vitiation of meda dhatu
+
+Premonitory symptoms of persistent urinary disorders including diabetes mellitus and eight undesirable types of physical constitutions, which are not appreciable in the society (to be avoided, described earlier in chapter 21 of _ashta nindita_) are produced due to vitiation of meda dhatu. [15] 
+
+#### Diseases due to vitiation of asthi dhatu
+
+Hypertrophy of bones and teeth, splitting and severe pain in teeth and bone, discoloration, abnormality of body hair, nail and beard are the diseases caused due to vitiation of asthi dhatu. [16] 
+
+#### Diseases due to vitiation of majja dhatu
+
+Pain in the joints, giddiness, unconsciousness, blackouts and deep rooted abscess in joints are caused due to vitiation of majja dhatu. [17-18] 
+
+#### Diseases due to vitiation of shukra dhatu
+
+Due to vitiation of shukra dhatu, the person becomes sexually impotent, suffers from _aharshana_ (inability to penetrate despite erection), and may have sick, impotent, and short-lived children with congenital abnormalities. There could be cases of no conception, or there will be spontaneous abortion. Thus, abnormalities of shukra dhatu result in misery for the individual as well as his family. [18-19] 
+
+#### Disease of sense organs
+
+When the dosha get vitiated in sense organs, they either cause impairment or deformity of the respective sense organ. [20] 
+
+#### Diseases of ligaments, vessels, and tendons
+
+Stiffness, contraction, and neuralgia of upper and lower extremities, tumor, throbbing sensation and numbness are produced by the vitiated dosha in ligaments, blood vessels and tendons. [21] 
+
+#### Vitiation of mala by dosha
+
+The aggravation of dosha in the mala of the body causes excess discharge (_bheda_) of mala(as in diarrhea), decrease or dryness of mala, and abnormalities on normal color, smell, etc. leading to their retention or excessive elimination. [22] 
+
+### Management principles
+
+Various diseases produced due to the intake of unwholesome eatables, drinkables, linctuses, and chewables have been illustrated. 
+
+ * An intelligent individual desirous of preventing such disease should take wholesome food.
+ * Langhana(lightening) is the line of treatment for all the rasa dhatuja disorders.
+ * Treatment of raktaja disorders is mentioned in Vidhishonitiya Adhyaya (Charak Samhita Sutra Sthana 24th chapter).
+ * The mamsa dhatuja disorders should be treated with purification, surgery, utilizing _alkali_ and _agnikarma_ (cauterization).
+ * The treatment of meda dhatu disorders is mentioned in Ashtauninditiya Adhyaya (Charak Samhita, Sutra Sthana 21st chapter).
+
+The asthi dhatugata disorders should be treated with Panchakarma, especially basti (enema) prepared with bitter drugs, milk, and ghee. 
+
+Majja dhatu and shukra dhatugata disorders should be treated with diet having sweet and bitter taste, coitus, exercise and timely purification as required. 
+
+The treatment of disorders of sense organs is mentioned in Trimarmiya Chikitsa (Charak Samhita, Chikitsa Sthana, 26th chapter). 
+
+The treatment of disorders of ligaments, blood vessels, and tendons is mentioned in Vatavyadhi Chikitsa (Charak Samhita, Chikitsa Sthana, 28th chapter). 
+
+The treatment of disorders of waste products is mentioned in Naveganadharaniya Adhyaya (Charak Samhita, Sutra Sthana, 7th chapter) and few aspects in other sections. [23-30] 
+
+### Movement of dosha from _koshtha_ (gut) to _shakha_ (periphery)
+
+As mentioned earlier, the vitiated doshas move from the alimentary tract region (_koshtha_) to the periphery (_shakha_) i.e. raktadi dhatu and skin - due to several reasons such as excessive exercise, excessive heat, intake of unwholesome diet and regimen, and an excess pressure of fast-moving vata. These vitiated dosha stay in the peripheral regions in a dormant state and do not cause any disease till the season or environment is conducive for them to act. The dosha wait for other favorable provocative factors in the form of the region, season, etc. to cause diseases. [31-32] 
+
+### Movement of dosha from _shakha_ to _koshtha_
+
+The dosha leave the _shakha_ (extremities or peripheral regions) and come to _koshtha_ (alimentary tract) due to aggravation, liquefaction, suppuration, clearing of the obstacle at the opening of the channels, or pacification of vata. [33] 
+
+### Prevention of diseases
+
+An individual desirous of happiness should follow the regimen advocated in this scripture for prevention and management of the manifested diseases. All living beings strive in this direction to attain the goal of staying happy, and they follow the right and wrong path depending on their awareness and ignorance. [34-35] 
+
+### Benefits and harms of observing and non-observance of regimen
+
+An intelligent individual follows an effective regimen after a thorough evaluation of the disease and its etiological factors as well as his prakriti. An individual dominated by _Rajas_ and _Tamas_ mental faculty, on the other hand, follows a regimen that could be pleasant to his senses, without any consideration or evaluation of his condition, the treatment, and his constitution. An intelligent person possesses the qualities of obedience, intelligence, memory, stable, able, purity of speech, tranquility, courage, and follows a wholesome regimen. Ignorant individuals do not possess these qualities as their mind is enveloped in _moha_ (attachments to possessions) and _rajas_. Hence they suffer from various physical and mental disorders. [36-38] 
+
+An ignorant individual, due to intellectual errors, indulges in unwholesome behavior with respect to the five sense organs, withholds the natural urges, and indulges in rash behavior which could be pleasant temporarily, but lead to misery in due course of time. A wise person due to his clarity of mind and awareness does not indulge in such activities and remains happy. [39-40] 
+
+### The importance of food
+
+One should not take food with greed and ignorance. One should consume wholesome food after evaluation as the body is formed from food. [41] 
+
+Eight special factors are to be considered while consuming food. These factors should be evaluated before consuming food, as they are responsible for good and bad effects on the body. [43] 
+
+One should always avoid unwholesome food. If one gets afflicted with a disease despite leading a healthy lifestyle, then he is not at fault as it could be the effect of previous birth. [43-44] 
+
+### Summary
+
+The origin of life- and diseases - is food. Wholesome and unwholesome food articles are responsible for happiness and sorrow respectively. Food decides whether the human being can or can not sustain the diseases of body and mind. 
+
+Various diseases of each dhatu, and their treatment, the mode of movement of dosha from alimentary tract (koshtha) to periphery, i.e, rakta dhatu etc. dhatus and skin (shakha) and vice versa, features of intelligent and ignorant individuals, wholesome regimens for healthy and patients are highlighted in Vividhashitapitiya Adhyaya. [45-48] 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Food is considered as _prana_ or vital force, hence in this chapter, the process of transformation of this food into dhatu or body tissue into a fuel that sustains prana has been mentioned elaborately. [2]
+ * _Panchabhutagnis_ are responsible for the digestion of specific components of food.
+ * If _dhatavagni, dhatvahi strotas_ and _dhatuposhakrasavahi vyana vayu_ (enzymes for tissue metabolism, specific channels, and specific nutrient transporters) are normal, then normal tissues are created. All tissues, throughout life, continuously help in the nourishment of other tissues.
+ * The metabolic process of _ahara rasa_ (the end product of digestion) results in the formation of nourishing and waste products.
+ * The body is formed from food, and even diseases also originate from food. Wholesome and unwholesome foods are responsible for happiness and unhappiness respectively. [Cha.Sa.Sutra Sthana 28/45]
+ * Apart from unwholesome food, many other etiological factors for disease production are present, like a change of season, intellectual errors, unwholesome contacts (excessive, wrong and over-utilization) of senses of sound, touch, vision, taste and smell. [Cha.Sa.Sutra Sthana 28/7]
+ * All unwholesome food articles are not equally harmful, all the dosha are not of equal strength, and all the bodies are not capable of preventing disease. [Cha.Sa.[[Sutra Sthana 28/7]
+ * The doshas become acute and extremely difficult to manage when they get associated with multiple factors, get further aggravated or complicated when treated with a mutually contradictory therapy, become deep rooted, chronic, get vitiated in one of the ten seats of _prana_ , and afflict vital centers of the body known as _marma_. [Cha.Sa.Sutra Sthana 28/7]
+ * Individuals, who are excessively obese, emaciated, whose muscles, blood and bone are depleted, who are very weak physically, who are habituated to unwholesome food, who consume inadequate quantities of food, and who possess weak mind cannot withstand diseases. [Cha.Sa.Sutra Sthana 28/7]
+ * The specific diseases (dhatu pradoshaja vikara) are caused due to an interplay between dosha and _dushya_ and manifest as systemic disorders. [Cha.Sa.Sutra Sthana 28/8]
+ * All living beings strive to attain the goal of happiness and follow the right and the wrong path depending on their awareness and ignorance. [Cha.Sa.Sutra Sthana 28/35]
+ * Multiple factors are responsible for health and disease – a healthy person can contract a disease despite following a very healthy lifestyle.
+
+## Vidhi Vimarsha (Applied Inferences)
+
+### _Kshira Dadhi Nyaya_ (milk-curd transformation phenomena/ analogy)
+
+ * The formation of dhatu involves the transformation of rasa dhatu into rakta dhatu, rakta dhatu into mamsa dhatu, etc., in the presence of respective _dhatvagni_ in a similar manner as milk gets converted into curd, curds into butter and butter into ghee. According to Acharya Harita, within seven days rasa dhatu gets transformed into shukra dhatu. Even though this theory appears to be hypothetical, recent modern research has shown that this kind of transformation is possible. A team of Japanese and American scientists has managed to convert human skin cells into formed embryos by bathing them in weak citric acid for a duration of 30 minutes[1]. Researchers at Stanford University transformed skin fibroblast cells from mice into working neurons by inserting genes that encode transcription factors[2]. Researchers at Wake Forest University School of Medicine have successfully isolated stem cells from human skin, expanded them in the laboratory and coaxed them into becoming fat, muscle and bone cells[3] . More recently, scientists have successfully made immature sperm cells from human bone marrow samples. Therefore, the formation of shukra dhatu from majja dhatu is proved by these scientific evidence[4] .
+
+### _Kedari Kulya Nyaya_ (vascular network)
+
+ * According to _Kedari Kulya Nyaya_ innumerable microvascular channels transport nourishment to their respective sites in dhatu [tissues] in the body. The cells and tissues are bathed with nutrient plasma. But mere tissue perfusion is not enough to complete the process of nourishment. It needs the complementary play of two subsequent _nyayas_. [Cha.Sa.Sutra Sthana 28/4], [Cha.Sa.Chikitsa Sthana 15/36]
+ * Per modern science, vesicles transport nutrients to the target organs and get controlled by a set of genes [discovered by Randy Schekman]. Further, James Rothman found out that protein machinery allows vesicles to fuse with their targets and permits transfer of nutrients to their target tissue. Thomas Sudhof revealed how signals instruct vesicles to release their cargo with precision. Through their discoveries, Rothman, Schekman and Sudhof have revealed the exquisitely precise control system for the transport and delivery of cellular cargo. Disturbances in this system have deleterious effects and contribute to conditions such as neurological diseases, diabetes, and immunological disorders.
+
+### _Khale Kapota Nyaya_ (distribution system)
+
+ * According to _Khale Kapota Nyaya_ [distribution system], nutrients get directly absorbed by tissues selectively just as pigeons eat the grain of their choice. As per modern research, nutrients are transported to target tissues using vesicles and plasma binding/ transporter proteins when vesicles fuse with target membranes. Cells in those tissues have different organelles that produce various molecules like hormones, neurotransmitters, cytokines and enzymes etc. having specific functions that trigger at the right time and the target site.
+
+### Cross references of physiological aspects

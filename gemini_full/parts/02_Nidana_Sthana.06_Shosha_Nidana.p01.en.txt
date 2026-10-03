@@ -1,0 +1,155 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Four Causes of shosha
+ * 2.1.1 1\. Overexertion
+ * 2.1.2 2\. Suppression of natural urges
+ * 2.1.3 3\. Depletion of tissues
+ * 2.1.4 3a.Excessive sexual indulgence*
+ * 2.1.5 4\. Irregular meals/Improper meals
+ * 2.2 Prodromal symptoms
+ * 2.3 Eleven symptoms
+ * 2.4 Prognosis of disease
+ * 2.5 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 _Ojas_ (vital essence of the body)
+ * 4.2 Ancient Ayurvedic leads in Microbiology
+ * 4.3 Research Topics on this Subject
+ * 5 Further reading
+ * 5.1 Related Chapters
+
+## Introduction
+
+There are three interrelated entities mentioned by Charak in three distinct chapters within Charak Samhita: Shosha Nidana [Cha.Sa.Nidana Sthana.6], _rajayakshma_ [Cha.Sa.Chikitsa Sthana 8) and _kshataksheena_ [Cha.Sa.Chikitsa Sthana 11). 
+
+_Shosha_ is the preparatory stage of gradual, generalized emaciation due to four distinct causative factors mentioned earlier which, if untreated or ignored, may lead to _rajayakshma_. One of the contributing factors of _shosha_ is indicative of systemic depletion of _dhatu_ occurring due to divergent causes. An important point to note here is that _shosha_ is different from _kshataksheena_ , a post-treatment stage of localized or generalized emaciation needing further intensive treatment. 
+
+Another commonly used term for _shosha_ is _kshaya_ (emaciation). However, it is imperative to clarify here that while _shosha_ and _kshaya_ are contextually similar and synonymous to _yakshma_ , the specific meaning in Charak Samhita is different for all the three stages of the disease. Ayurveda is not very stringent when it comes to discerning cause-effect. Cause and effect are largely considered a continuum. While discussing the issue of cause-effect relationship between _kshaya-shosha-yakshma_ , the concept of _nidanarthakara roga_ has also to be kept in mind where one known disease or a morbid state can play as the _nidana_ of another disease. That is why, _kshaya_ is sometimes mentioned as cause of _shosha_ too. The word _kshaya_ in this particular context refers to pre-existing _kshaya_. _Kshaya_ is of two distinct types - _anuloma kshaya_ and _pratiloma kshaya_. _Anulomakshaya_ is caused by the initial depletion of the _ojas rasa_ situated in the heart, while _pratiloma kshaya_ occurs due to an excessive indulgence in sexual activities leading to the depletion of _shukra dhatu_ which in turn leads to generalized _vata vriddhi_ and _vata_ induces _shoshana_ of _dhatus_. Both these variants contribute to _shoshana_ (qualitative and quantitative depletion of _shariradhatus_ or body tissues). 
+
+_Shosha_ and _kshaya_ can be considered as independent clinical entities warranting independent strategies for diagnosis and treatment. Either of these may prove to be a _nidanarthakara_ factor for the occurrence of _rajayakshma_ (i.e., if _shosha_ or _kshaya_ are left untreated, could lead to _rajayakshma_). _Shosha_ is essentially a state of intractable emaciation, cachexia or consumption that could be equated to phthisis. It could be considered to be an intermediate state that may not necessarily exhibit any evidence of tubercular infection but because of persistent _dhatu kshaya_(depletion of tissues) it could be logically associated with an immunocompromised state. Some patients may catch infections that may manifest into a febrile state with probable bacteriological invasion warranting appropriate treatment on the lines of _rajayakshma_. Because _shosha_ and _kshaya_ are intermediary states that are more of diagnostic significance than of significance from a core treatment perspective. Charak wrote the chapter on _shosha_ in Nidana Sthana , while on _rajayakshma_ in Chikitsa Sthana with the same motive. 
+
+It may appear that _shosha_ and _rajayakshma_ are synonymous because in this chapter there are brief descriptions of _poorvarupa_ (preliminary signs) and _ekadasha rupa_ (advanced stage) of _yakshma_. However, the manifestation of _rajayakshma_ has been described in detail only in the Chikitsa Sthana. 
+
+While the focus of this chapter is to delineate the views of Charak, Sushruta in his text differs in his views on the relationship between _shosha_ and _yakshma_. While Charak considers them as dependent entities as mentioned above, Susruta considers _shosha_ distinctly different disease that could manifest itself in any of seven different variants caused by seven different causative factors (_vyavaya_ or excessive sexual indulgence, _shoka_ or sorrow, _jara_ or rapid aging process, _vyayama_ or excessive exercise, _adhwagaman_ or excessive travelling, _vrana_ or wound/trauma, and _urakshata_ or chest injury. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Shosha Nidana" (Diagnosis and etiopathogenesis of Progressive wasting disease). Thus said Lord Atreya. [1-2] 
+
+### Four Causes of shosha
+
+Ih khalu catvÁri ÐoÒasyÁyatanÁni bhavanti 
+
+There are four causes of _shosha_ : overexertion, suppression of urges, wasting, and irregular consumption of improper food articles [3]. 
+
+Each of these causes will be explained here in detail: 
+
+#### 1\. Overexertion
+
+Tatra sÁhasam ÐoÒasyÁyatanamiti yaduktam tadanu vyÁkhyÁsyÁmah - 
+
+Bhavati cÁtra- 
+
+When a weak person fights against a strong one, or exercises with an excessively large (or weighty) bow (weapon), or speaks too much, or physically carries a lot of weight, or swims across a long distance in water, or is habitually subjected to forceful massage including kneading with feet, or sprints over a long distance, or is assaulted, or practices various complicated or excessive physical exercises, his lungs are “traumatized” due to excessive exertion. This aggravates _vayu_ in the lung region, taking along _kapha_ residing in the lungs while also affecting _pitta_ , causing the vitiated _doshas_ to spread upwards, downwards and obliquely. A portion of this afflicted _dosha_ system that gets into body joints causes yawning, body ache, and fever. That which gets into the _amashaya_ causes diseases of lungs and anorexia. That which gets into the throat causes irritation of the throat and hoarseness of voice. That which gets into the channels carrying vital breath (bronchial channels) causes dyspnea and coryza. And that which gets into the head produces distress in the head. Thus, due to wound in lungs, irregular movement of _vayu_ causes a variety of diseases depending upon the organs it gets into. The lungs get damaged further, triggering conditions such as hemoptysis and consequently weakening the patient. This verse, therefore, advises the reader to engage in laborious activities appropriate to his strength and not overexert himself. [4-5] 
+
+#### 2\. Suppression of natural urges
+
+sa¿dhÁranam ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah - 
+
+bhavati cÁtra- 
+
+When a person suppresses the urge to pass flatulence, urination, and bowel movement due to various reasons such as attending a royalty, being in a formal setting (in the company of sages, teachers, nobles, etc), being in the midst of women, society of gambling, or while traveling on uneven vehicle, or due to fear, environment, bashfulness or disgust, _vayu_ gets vitiated due to suppression of urges. This vitiated _vayu_ aggravates _pitta_ and/or _kapha_ , spreading upwards, downwards or obliquely depending upon the combination of afflicted _doshas_. As said earlier, when a portion gets into specific body parts, it causes pain, diarrhea or drying up of feces, excessive pain in sides of the chest, pain in the shoulders, irritation in throat and lungs, headache, cough, dyspnea, fever, hoarseness of voice and coryza. Thereafter, having been afflicted with these wasting complications, the patient gradually gets afflicted with _shosha_. Hence the wise should carefully observe the ways that promote and protect the body. 
+
+Here is the verse: Setting all other things aside, one should protect the body, because in its absence there will be complete absence of all the bodily entities. [6-7] 
+
+#### 3\. Depletion of tissues
+
+kÒayah ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah – 
+
+Now explained is depletion of tissues as the cause of _shosha_. When a person is suffering excessively from anxiety and grief, or from emotions like envy, fear, anger, etc., and if the person is also afflicted with a wasting disorder and/or using rough food and drinks, or if a congenitally weak person is subjected to fasting or malnutrition, his _ojas_ gets diminished leading to _shosha_. Due to want of proper management and care, he could get afflicted with the disease having symptoms to be described later. [8] 
+
+#### 3a.Excessive sexual indulgence*
+
+bhavati cÁtra- 
+
+When a person indulges in excessive sexual intercourse habitually, his semen gets diminished. In spite of diminished semen, if he obsesses about sex mentally as well as physically and continues to engage in sexual acts with excessively determined passion, his semen is not discharged because of its already diminished state causing _vayu_ to enter his blood vessels and blood getting discharged from the seminal passage. Now, due to loss of semen and hemorrhage, his joints loosen, the skin loses its suppleness and becomes rough or scaly, body weakens further and _vayu_ gets vitiated. The vitiated _vayu_ spreads in the body deficient of semen and blood, aggravating _kapha_ and _pitta_ and drying up the muscles and blood. Further, the vitiated vayu expels kapha and pitta, causing pain in the sides of the chest and shoulders, irritation of throat, aggravating _kapha_ of the head and replacing it with the vitiated _kapha_ expelled from their natural locations, causing pain in joints, body ache, anorexia and indigestion. Due to frequent cough the lungs get damaged and hemoptysis ensues, debilitating the patient further and afflicting him with wasting complications. If untreated, the patient gradually is afflicted with phthisis. 
+
+Here is the verse: Semen is the final essence of one’s food hence it should be protected because its depletion leads to many diseases or even death. [8-9] 
+
+\- * This is not mentioned as a main cause of _shosha_ in verse 3, but is a derivation of verses 8-9. 
+
+#### 4\. Irregular meals/Improper meals
+
+viÒamÁÐanam ÐoÒasyÁyatanamiti yaduktam tadanuvyÁkhyÁsyÁmah – 
+
+bhavati cÁtra- 
+
+This verse talks of irregular diet as a cause of _shosha_. When a person takes food – drinkable, eatable, chewable and lickable – irregularly in terms of nature, preparation, combination, quantity, place, time, and various dietary rules (do’s and don’ts) appropriate for his constitution, his _doshas_ get imbalanced. These imbalanced _doshas_ spread in the body, obstructing the openings of various channels and the flow of _dhatus_. In such cases, the body survives on the support of _malas_. Hence _mala_ should be protected, particularly in case where the patient has already been afflicted with phthisis and in cases where the individual is emaciated or very weak. The vitiated 'vata _causes pain, body ache, irritation of throat, chest pain, pain in shoulders, hoarseness of voice and coryza. Vitiated_pitta _causes fever, diarrhea, internal heat and vitiated_kapha _causes coryza, heaviness of head, anorexia and cough. Due to frequent bouts of cough, lungs get damaged and hemoptysis ensues, consequently debilitating the patient further and causing_ shosha _. Having been afflicted with these wasting complications, the patient gradually becomes very weak and gaunt._
+
+The final verse advises thus: Observing many troublesome diseases caused by irregular dieting, the wise should eat wholesome, measured and timely food with self-restraint. [10-11] 
+
+Regular use of the four etiological factors of _shosha_ vitiates the _doshas_. These vitiated _doshas_ dry up the body while afflicting it with various complications. Physicians call it _rajayakshma_ because it is most troublesome among all the diseases (_rajayakshma_ would literally translate to the “king of _yakshmas_ ”) or because in _vedic_ mythologies, it afflicted Lord Moon, the king of stars. [12] 
+
+### Prodromal symptoms
+
+_Shosha_ ’s prodromal symptoms include coryza, frequent sneezing, excessive secretion of mucus, a sweet aftertaste in the mouth, aversion to food, exhaustion during meal time, finding fault with utensils, water, cereals, pulses flour preparations, spicy preparation and caterers who are free from fault or have a little fault. A person afflicted with _shosha_ will experience nausea after meals, intermittent vomiting during meals, swellings in the face and feet, tendency of frequently looking at the hands, excessive whitishness in the eyes, curiosity about measurement of arms, longing for women, disgust, loathsome view of his body, frequent dreams of waterless/arid places as well as places such as deserted villages, cities, districts and regions, of forests dried, burnt and destroyed. Such a person would often be using vehicles drawn by, or coming in contact with, or riding animals like chameleon, peacock, monkey, parrot, serpent, crow, owl, dog, camel, ass and boar, and riding over heaps of hair, bones, ash, chaff and charcoal. [13] 
+
+### Eleven symptoms
+
+There are eleven typical symptoms of _shosha_ (mentioned in this verse) such as fullness of head, cough, dyspnea, hoarseness of voice, vomiting of sputum, hemoptysis, chest-pain, pain in shoulders, fever, diarrhea, and anorexia. [14] 
+
+### Prognosis of disease
+
+One having all the above symptoms of _shosha_ should be considered curable in case his strength, muscles and blood are not wasted, he is strong and the fatal signs have not appeared. The strong and well-nourished, because of tolerance to intensity of disease and drugs, should be assumed to have fewer symptoms even if they have many, and treated accordingly. [15] 
+
+On the contrary, the patient who is weak and has excessively diminished strength, muscles and blood should be taken as having numerous symptoms including the fatal ones, even if he has few symptoms and no fatal signs because of his intolerance to the intensity of disease and drugs. Hence he should be discarded (for treatment) because the fatal signs appear in a moment and without any apparent cause.[16] 
+
+### Summary
+
+Now the (summing up) verse – 
+
+He is capable of treating the king who knows, in essence, the etiology, symptoms and prodroma of _shosha_. 
+
+Thus, ends the sixth chapter on diagnosis of _shosha_ in Nidana Sthana in the treatise composed by Agnivesha and redacted by Charak. [16-17] 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Wasting or emaciating conditions like _shosha_ occur because of four factors: _Sahasa_ (overexertion), _Sandhaarana_ (suppression of natural urges), _Kshaya_ (emaciation), and _Vishamasana_ (Dietary error).
+
+ * The common effect of the four factors is _dhatu kshaya_ (loss of body tissue), especially rasa which is responsible for maintaining _vyadhikshamatya_ (Immunity).
+
+ * _Sahajabala_ (Innate immunity) is fundamental to prognosis of the disease. If _sahajabala_ is intact, the outcome of treatment is favorable, even if the symptoms are full blown.
+
+ * Etiological factors, _dosha_ vitiation and clinical features help in understanding the pathophysiology of the disease.
+
+## Vidhi Vimarsha (Applied Inferences)
+
+The point of significance in this chapter is the identification of the intermediary clinical state called _shosha_ which is the precursor to _rajayakshma_ , a pathological state warranting early diagnosis and treatment as a promotive health care strategy. Sushruta acknowledges the specific role of microbial infection through direct physical contacts as the real cause, while Charak emphasizes upon the role of pre-existing progressive weakness and emaciation accompanied with lowered _vyadhikshamatva_ (poor immune strength) as some of the key causative factors responsible for the entire spectrum of the disease complex that includes _shosha, kshaya,_ and _rajayakshma_. This fundamental idea for which Charak devotes one full chapter in Nidana Sthana is an original contribution of Charak, drawing specific attention to the fact that the host factor and host resistance against disease is more important than the causative microbial organism in case of contagious diseases like tuberculosis. It also endorses the Ayurvedic stand that the solution lies in enhancing or strengthening the immunity of the host and not merely in tackling the microorganisms afflicting the person. Use of antibiotics, as is prevalent in western medicine, is now dwindling because of their adverse side effects and rapidly emerging problems associated with drug resistance. In fact, there is now a growing consensus that an idea of an antibiotic war in medicine is anti-life and anti-health. 
+
+The recent advances in biomedical sciences unfolding the shape and role of genome, epigenome and microbiome in human health have partly proven the generic fact that our genes, our environment and “friendly” microbes are our collective friends and are an integral part of our being. They are protective tool for the immune-enhancing through positive life style, healthy dietetics and regulated use of _rasayana_ remedies. _Rasayanas_ are described in Ayurveda for promotive and preventive health care as well as for promotion of longevity. 
+
+Recent researches on _rasayana_ drugs such as _amalaki_ and _ashwagandha_ have appeared in certain high impact journals. Lakhotia et al, in their 2012 study on drosophilia model, have recorded marked DNA repairing effects besides better maturation rate and healthier and longer life span in fruit flies treated with _amalaki rasayana_. Similarly, Kuboyama et al (2005) have reported that withanolide-A, isolated from the _ashwagandha rasayana_ , has significant regenerative effect on neurons. Singh et al (2008) reported neuro-nutrient impact of Ayurvedic _rasayana_ therapy while Jayprakash et al (2013) reported the neuroprotective role of _ashwagandha_ in experimentally induced Parkinsonism. In view of the conceptual strength and the recent scientific studies now it could be suggested that _rasayanas_ like _amalaki, chyavanprasha_ and _ashwagandha_ should be used in the management of _shosha, kshaya_ and _yakshma_ with great advantage, besides administration of other therapeutics described in Ayurvedic texts. 
+
+As mentioned earlier, Ayurvedic texts propound the doctrine of an immunocompromised state as the precursor of chronic wasting diseases like _shosha, kshaya_ and _yakshma_. Sushruta, while describing the _samkramaka_ (contagious diseases) specially, observes that _jwara_ , _shosha, rajayakshma, abhisyanda_ or conjunctivitis, and _kushtha_ (or dermatoses such as leprosy) spread from person to person by contact. The spread of such diseases may be prevented by avoiding personal contacts and by promoting _vyadhiksamatva_ or immunity with the help of leading a healthy lifestyle, following good nutrition and through administration of _rasayana_ therapy. 
+
+### _Ojas_ (vital essence of the body)
+
+The Ayurvedic classics describe a unique hitherto-less-known concept of _ojas_ (vital essence of the body) that is responsible for biological strength (including immunity). _Ojas_ is the final product of tissue nourishment and is quintessential to all the seven _dhatus_ namely _rasa, rakta, mamsa, meda, asthi, majja,_ and _shukra_. Sushruta describes _ojas_ as the _param teja_ of the _saptadhatus_ and as the _bala_ or biological strength of an individual. _Ojas_ is of two kinds, namely, _para ojas_ and _apara ojas_. _Para ojas_ is subtle and present in very minute quantities in the heart while _apara ojas_ is gross and as much as half an _anjali_ (handful) in quantity spread all over the body. _Para ojas_ is vital to life and any damage or vitiation of it may lead to instant death. _Apara ojas_ is responsible for gross immune strength. 
+
+The _oja-bala_ (_ojas_ strength) derived from _ojas_ has been categorized to be of three kinds: _sahaja bala_ or primary natural immunity, _kalaja bala_ or acquired immunity through environmental factors such as climate etc., and _yuktikrit bala_ or artificially-induced acquired immunity. The classics prompt to utilize these three resources to enhance the bala/immunity in order to prevent all ailments especially chronic wasting diseases and contagious diseases, such as _shosha, kshaya_ and _yakshma_. 
+
+The texts describe three categories of _bala-dosha_ or disorders of _bala_ which are comparable to three categories of immune disorders such as : 
+
+ 1. _Oja-vyapat_ (immune-aberrations and allergies),
+ 2. _Oja-visransa_ (dislodged immunity and autoimmune disorders), and
+ 3. _Oja-kshaya_ (immunodeficiency).
+
+There are specific methods and approaches to tackle the three categories of immune disorders. 
+
+It cannot be overemphasized that while looking at the above mentioned ancient classical descriptions on _ojabala_ and _bala-dosha_ it seems immunology was already highly advanced in the _Samhita_ period of Ayurveda and the knowledge in this field was almost comparable with the latest basic knowledge of immunology as known today. 
+
+### Ancient Ayurvedic leads in Microbiology
+
+It will be pertinent to review the concept of microbiology and parasitology in Ayurvedic classics in the context of immunity and body resistance. _Ojas, bala_ and _vyadhikshamatva_ need to be adequate within the body for it to possess immunity. Though the role of microbes in pathology was not known in modern medicine 200 years ago, Ayurveda had a good knowledge of their role, albeit of a primitive nature. Ayurveda describes two kinds of organisms, namely _prakrita_ (non-pathogenic) and _vaikrita_ (pathogenic). Also described are two categories of pathogens/parasites, namely, external and internal. The internal organisms are mainly of three categories in terms of their natural environments: those that thrive on mucus (_shleshma_), those thriving in fecal matter, and those thriving in blood. Some of these, particularly the ones thriving in fecal matter seem to be intestinal parasites while others simulate microbes. The texts repeatedly advocate protecting surgical wounds from these organisms. There is also a clear description of vector borne diseases and that diseases such as leprosy, tuberculosis, conjunctivitis and fever as contagious diseases spread by contact with other patients or vectors. 

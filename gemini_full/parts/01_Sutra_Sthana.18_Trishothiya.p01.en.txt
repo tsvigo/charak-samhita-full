@@ -1,0 +1,270 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Three types of _shotha_
+ * 2.2 Causes of exogenous swelling
+ * 2.3 Diagnosis and treatment of exogenous swelling
+ * 2.4 General causes of endogenous swellings
+ * 2.5 Specific causes of swelling due to _dosha_ dominance
+ * 2.5.1 Swelling due to vata dominance
+ * 2.5.2 Swelling due to pitta dominance
+ * 2.5.3 Swelling due to kapha dominance
+ * 2.5.4 Different types due to involvement of more than one dosha
+ * 2.6 Various types of _shotha_ and cardinal sign
+ * 2.7 Brief description of specific features
+ * 2.7.1 Specific features of vata dominant swellings
+ * 2.7.2 Specific features of pitta dominant swellings
+ * 2.7.3 Specific features of kapha dominant swellings
+ * 2.8 Prognosis
+ * 2.9 Complications of _shotha_
+ * 2.10 Different types of swelling at specific sites
+ * 2.10.1 _Upajivhika_
+ * 2.10.2 _Galashundika_
+ * 2.10.3 _Galaganda_
+ * 2.10.4 _Galagraha_
+ * 2.10.5 _Visarpa_
+ * 2.10.6 _Pidika_
+ * 2.10.7 _Tilaka-pipplava-vyanga-neelika_
+ * 2.10.8 Shankhaka
+ * 2.10.9 _Karnamulika shotha_ (swelling at base of ears)
+ * 2.10.10 _Pliha_ (splenomegaly)
+ * 2.10.11 _Gulma_ (abdominal lumps)
+ * 2.10.12 _Vriddhi_ (scrotum enlargement)
+ * 2.10.13 Udara (abdominal diseases)
+ * 2.10.14 _Anaha_ (obstruction in abdomen)
+ * 2.10.15 Tumors
+ * 2.10.16 _Rohini_ (diphtheria)
+ * 2.11 Prognosis of diseases
+ * 2.12 Criteria for classification of diseases
+ * 2.13 Identification of new diseases
+ * 2.14 Discussion on _dosha_
+ * 2.14.1 Functions of normal vata dosha
+ * 2.14.2 Functions of normal pitta dosha
+ * 2.14.3 Functions of normal kapha dosha
+ * 2.14.4 Diagnosis of abnormal state of dosha
+ * 2.15 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences)
+ * 4.1 Classification of _shotha_ (swelling/ distension)
+ * 4.2 Etiology of swelling
+ * 4.3 **Table 1:Differential diagnosis of types of swelling**
+ * 4.4 Types of _shotha_ and their location/site
+ * 4.5 Distribution of _shotha_ and prognosis
+ * 4.6 Complications
+ * 4.7 Various locations of _shotha_
+ * 4.8 Dosha and disease
+ * 5 Related Chapter
+ * 6 References
+
+## Introduction
+
+In the previous chapter, diseases of vital organs like head, heart, and the urinary system, signs of dhatu kshaya (depletion of dhatu) and _pidika_ (papules) with signs of swellings were described. This chapter deals with the etiology and symptomatology of endogenous and exogenous as well as local and generalized swellings and distensions. The name of the chapter denotes three types of swellings but later in the text, these swellings are classified into various types based upon several etiopathological factors and location. This chapter is important from the standpoint of diagnostics as it describes the main causes of all diseases that can be endogenous (innate origin) and exogenous (external agents). Some of the causative factors that can trigger non-infectious and infectious inflammations include traumatic injuries, contact with poisonous plants, animals, insect bites, animal bites, frost bite, and burns. The body’s reaction to invading micro-organisms, in terms of vitiation of dosha, can be observed and appropriate course of action can be planned. 
+
+Inflammation is an important pathology that includes tumor (swelling) as a cardinal sign. Further, classifications of _shotha_ (swelling/distension) based on cause, predominance of dosha, and prognosis as per site of swelling are explained. Principles of identification of new diseases are also elucidated. The normal functions of dosha and their importance in disease conditions is emphasized. Thus, the chapter is fundamental in knowing disease. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Trishothiya Adhyaya" (Three types of swellings and other conditions). Thus said Lord Atreya. [1-2] 
+
+### Three types of _shotha_
+
+There are three types of _shothas_ (swelling) i.e. vataja, pittaja and kaphaja. Further, they can be classified into two i.e. _nija_ (endogenous) and _agantuja_ (exogenous). [3] 
+
+### Causes of exogenous swelling
+
+### Diagnosis and treatment of exogenous swelling
+
+Exogenous swellings can be primarily identified by characteristic signs of injury and localization. After some time, they become similar to endogenous swellings (due to vitiation of dosha). They are treated by bandage, _mantra_ (holy chants), antidotes, local application of medicines, fomentation, cooling measures etc. [5] 
+
+### General causes of endogenous swellings
+
+Nija shotha i.e. endogenous swelling could be caused due to any of the following factors: 
+
+ 1. **Iatrogenic factors** : Improper administration of snehana(oleation), swedana(sudation), vamana(therapeutic emesis), virechana(therapeutic purgation), asthapana basti (non-unctuous enema), anuvasana basti(unctuous enema), shirovirechana(nasal errhines) and/or samsarjana krama(dietetic regimen after purification therapy).
+ 2. **Complication of other diseases** : It can also result as complication of _chhardi_ (vomiting), _alasaka_ (delayed and obstructive digestive process), _visuchika_ (cholera), _shwasa_ (dyspnoea), _kasa_ (cough), _atisara_ (diarrhea), _shosha_ (tuberculosis or pthysis ), _pandu roga_ (anemia), _udara roga_ (abdominal diseases including ascitis), _jwara_ (pyrexia), _pradara_ (excessive vaginal discharge), _bhagandara_ (fistula-in-ano), _arsha_ (piles) excessive emaciation, skin disorders, worm infestation, _pidika_ (boils) etc.
+ 3. **Lifestyle** : It may be due to suppression of natural urges like vomiting, sneezing, belching, ejaculation, flatus, micturition, defecation, excessive weakness caused by therapeutic purification procedures, chronic diseases, fasting, and excessive walking.
+ 4. **Dietary factors** : Excess intake of too heavy diet, sour, salty, preparations of rice flour/maida/pastry, fruits, vegetables, _raga_ preparations or pickles, curd, green salads, wine, unfermented curd, sprouted and new corn and cereals, consumption of meat of animals in marshy places or of acquatic animals such as certain types of fish, eating clay or pieces of earthen pots or bricks, or eating excessive salt (resulting in swelling).
+ 5. **Ante-natal and post-natal factors** : Due to excessive pressure of gravid uterus, abortion, pre mature delivery and improper follow up of puerperal regimen, doshas get aggravated and produce _shotha_. [6]
+
+### Specific causes of swelling due to _dosha_ dominance
+
+#### Swelling due to vata dominance
+
+Vata gets vitiated due to excess intake of _sheeta_ (cold things), _ruksha_ (rough or low calorie), _laghu_ (very light), _vishada_ (non-slimy substance) diets, _shrama_ (excessive exertion), _upavasa_ (excessive fasting), _ati-karshan_ (emaciation), and _kshapana_ (wasting). This vitiated vata gets into and stays within _twak_ (skin), mamsa dhatu(muscle tissue), along with rakta dhatu (blood) and produces shotha, i.e., swelling. This swelling increases as well as subsides quickly, black or reddish in color, fleeting, pulsating, with coarse skin, rough and broken hair. The person feels different types of pain sensation like _chhidyati_ (excision), _bhidyati_ (incision), _suchibhiriva_ (piercing by needles/pricking), crawling of ants, irritation (as if pasted with mustard) and a feeling of contraction or expansion. These are some of the traits of swelling caused by vata. [1] 
+
+#### Swelling due to pitta dominance
+
+Pitta is vitiated due to excessive intake of hot, irritant, pungent, alkaline, salt, sour food, taking food when ailing from indigestion, or due to excessive exposure to heat and sunlight. This gets into the skin, muscle tissue, or blood and produces swelling. It also increases and subsides quickly. The affected part becomes blackish, yellow, bluish, copper-tinged, hot, or soft with brown and coppery hair. It gives a burning sensation of various forms and could be hot, sweaty, and moist. The affected region could be tender to touch and very sensitive to heat. These are the traits of swelling due to pitta dosha. [2] 
+
+#### Swelling due to kapha dominance
+
+Kapha is vitiated due to excessive use of heavy to digest, sweet, cold and unctuous food, excessive sleep, sedentary life, etc. Vitiated kapha inhabits the skin, muscle tissues, and blood, causing swelling. A kapha-induced swelling grows slowly and subsides with difficulty. Affected part becomes pale, whitish, heavy, unctuous, smooth, stable, thick, with white hair, tolerant of touch and heat This is the swelling caused due to kapha. 
+
+#### Different types due to involvement of more than one dosha
+
+Through the combination of the causes and symptoms of two dosha (_dwidoshaja_), three types of swelling occur. Similarly, a sannipatika shotha is caused by the combination of respective causes and symptoms of all three dosha. Thus swelling is of seven types. [7] 
+
+### Various types of _shotha_ and cardinal sign
+
+On the basis of causative factors and classifications from different views, swelling may be of two, three, four, seven or eight types Again, there is only one type with common sign of ‘swelling’. [8] 
+
+### Brief description of specific features
+
+#### Specific features of vata dominant swellings
+
+In the case of vataja swelling, affected body parts are swollen, and there is a feeling of numbness, pain, the swelling rebounds immediately after releasing pressure (pitting edema). It is reddish in color and subsides during night, by application of unctuous and hot massage. [9-10] 
+
+#### Specific features of pitta dominant swellings
+
+In the case of paittika or pittaja swelling, the patient suffers from excessive thirst and fever, and in the affected parts there is a sensation of burning, sweating, moisture and foul smell. Patients have yellow eyes, face and skin, thin skin, diarrhea and the ailment emanates from the middle of the body (abdomen and trunk). [11-12] 
+
+#### Specific features of kapha dominant swellings
+
+In kaphaja swelling, the patient has cold, immobile, itchy, and pale swelling that does not rebound after pressure (solid edema). These swellings do not bleed on cutting with a sharp weapon or _kusha_ grass but instead ooze a slimy discharge. [13-14] 
+
+As mentioned earlier, there is a combination of causes and symptoms of two dosha, called _dwidoshaja_. A _sannipataja_ swelling, on the other hand, combines the causes and symptoms of all the three dosha. [15] 
+
+### Prognosis
+
+A swelling that starts from the feet and spreads all over the body and which starts from the face in women can only be cured with difficulty. In men or women, swellings that emanate from the genitalia, as well as all complicated variants of edema are mostly difficult to cure. [16-17] 
+
+### Complications of _shotha_
+
+Vomiting, breathlessness, anorexia, excessive thirst, pyrexia, diarrhea and weakness - these are seven complications of _shotha_. [18] 
+
+### Different types of swelling at specific sites
+
+#### _Upajivhika_
+
+When the vitiated kapha emanates or begins from the root of the tongue and causes swelling suddenly, is called _upajivhika_ (ranula or hypertrophied solitary lingual papilla). [19] 
+
+#### _Galashundika_
+
+The vitiated kapha inhabits at uvula and produces swelling suddenly, that is called _Galashundika_(uvulitis). [20] 
+
+#### _Galaganda_
+
+A swelling that is caused when a vitiated kapha affects the throat from the outside, and gradually produces swelling , is called _galaganda_ (goitre). [21] 
+
+#### _Galagraha_
+
+When the vitiated kapha, firmly located inside the throat causes swelling suddenly, it causes _galagraha_ (pharyingitis). [22] 
+
+#### _Visarpa_
+
+When a vitiated pitta (with rakta, or blood) spreads through the skin, it causes swelling with redness.Such a swelling is called _visarpa_ i.e. erysipelas. [23] 
+
+#### _Pidika_
+
+When the vitiated pitta is located within the skin and rakta, swelling and redness appears causing _pidika_ i.e. boils or pustules. [24] 
+
+#### _Tilaka-pipplava-vyanga-neelika_
+
+When the vitiated pitta goes into rakta and gets absorbed in it (i.e., within the blood), it causes _tilaka_ (moles), _piplu_ (port-wine marks), _vyanga_ (blemish/spots), or _nilika_ (blue-black moles). [25] 
+
+#### Shankhaka
+
+When a vitiated pitta inhabits the temporal regions of the head, severe and fatal swellings known as shankhaka (saggital sinus thrombosis/ intracranial growth/ temporal arteritis) are caused. [26] 
+
+#### _Karnamulika shotha_ (swelling at base of ears)
+
+When the vitiated pitta is located at the base of ears, a severe, incurable and fatal swelling arises at the terminal stage of the fever. [27] 
+
+#### _Pliha_ (splenomegaly)
+
+When the vitiated vata inhabits and elevates the spleen, it causes a gradual prickly pain in the sides, causing _pliha vriddhi_ i.e. splenomegaly. [28] 
+
+#### _Gulma_ (abdominal lumps)
+
+When the vitiated vata inhabits in the abdominal region causing swelling and pain, it causes _gulma_. [29] 
+
+#### _Vriddhi_ (scrotum enlargement)
+
+When the vitiated vata moves from the groins to testicles causing swelling and pain, it causes _vriddhi_ i.e. testicular swellings. [30] 
+
+#### Udara (abdominal diseases)
+
+When the vitiated vata located between the skin and muscles produces swelling in the abdomen, it is known as _udara roga_ i.e. diseases of abdominal cavity. [31] 
+
+#### _Anaha_ (obstruction in abdomen)
+
+When the vitiated vata is stuck in the belly and moves neither upwards nor downwards (neither passed through flatus nor through belching), it causes _anaha_ (obstruction in abdomen). [32] 
+
+#### Tumors
+
+Various diseases with names and features such as _adhimamsa_ (fleshy growth or extra growth of muscles), and _arbuda_ (tumors) are included in the family of shotha due to the common appearance of swelling. [33] 
+
+#### _Rohini_ (diphtheria)
+
+When all the three _doshas_ get aggravated simultaneously and inhabit the base of the tongue, they cause severe burning sensation, acute/intense swelling and various types of pain. This fatal disease is known as _rohini_ (diphtheria). If afflicted with this ailment and left untreated, the patient could die in three days. But if treated by an expert physician quickly, one can recover almost immediately. [34-36] 
+
+### Prognosis of diseases
+
+There are certain curable diseases that become fatal if improperly managed or not given adequate treatment. There are other curable diseases that are mild and get alleviated certainly with or without effort. There are incurable diseases, considered “palliable”, in which appropriate treatment enables the patient to move along. And finally, there are other incurable diseases that do not respond to any treatment. At times, ignorant physicians treat these enthusiastically. However, the wise should not treat them. Thus, diseases are primarily of two types: curable and incurable, and depending upon their severity and responsiveness to drugs, are further categorized into two sub-categories within each of these types. [37-41] 
+
+### Criteria for classification of diseases
+
+There are several diseases classified on the basis of type of pain, appearance (color), etiology, site, symptoms and name. Their systematic classification has been attempted in the form of some gross disease families or classes. However, in other cases general principle may be followed. [42] 
+
+### Identification of new diseases
+
+One should not be ashamed of one’s inability to name a disease, since all disorders cannot be given standard names. There are innumerable diseases because the same vitiated _dosha_ causes various disorders according to variations in etiology and location. Hence one should initiate any treatment after acquiring complete knowledge of the nature of the disease as well as its pathogenesis, location and etiological factors. The one who initiates the treatment after knowing all these things, rationally and according to prescribed procedure, does not get confused in actions. [44-47] 
+
+### Discussion on _dosha_
+
+Vata, pitta and kapha\- these three dosha are always present in the body of all living beings. The learned should know about their normal or abnormal states. [48] 
+
+#### Functions of normal vata dosha
+
+Enthusiasm, inspiration, expiration, movements, normal processing of dhatu (body tissues), and normal elimination of excreta are the normal functions of vayu(vata). [49] 
+
+#### Functions of normal pitta dosha
+
+Vision, digestion, (production of) heat, hunger, thirst, softness in body, luster, serenity and intelligence are the normal functions of pitta. [50] 
+
+#### Functions of normal kapha dosha
+
+Unctuousness, binding, firmness/stability, heaviness, virility, strength, forbearance, restraint and absence of greed are the properties of kapha. [51] 
+
+#### Diagnosis of abnormal state of dosha
+
+Any decrease in vata, pitta and kapha is thus indicated by a decrease in their natural functions or increase in functions of opposite dosha. (this is indicated by the properties associated with any of these dosha, for example, reduced unctuousness indicates a decrease in kapha, etc). [52] 
+
+Conversely, any aggravation in dosha is indicated by an increase in their normal functions. Thus normalcy, decrease and aggravation of dosha are examined. [53] 
+
+### Summary
+
+Types, causes, symptoms and prognoses of swelling, of various diseases, types of diseases, definitions of the three dosha, normal functions and symptoms of decrease and aggravation of dosha\- all these have been explained in this chapter on three types of swellings by Punarvasu , who is free from tamas and rajas qualities, dosha, greed, conceit, pride and ambition.[54-56] 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * _Shotha_ (swelling) is associated with tridosha and occurs due to endogenous and exogenous factors.
+ * The exogenous factors cause swelling first and then vitiate dosha. This leads to exogenous swellings getting transformed into endogenous swellings.
+ * Any treatment of swelling depends upon the causative factors and dosha associated with it. [5]
+ * Endogenous swelling can be caused by iatrogenic factors (e.g., poor administration of Panchakarma), complications arising from other diseases, consumption of improper food articles (e.g., allergic reactions to nuts or grains), not following proper ante-natal/post-natal regimen, etc. [6]
+ * Etiological factors specific to each dosha are involved in the pathogenesis of swelling.[7]
+ * The prognosis of swelling depends upon the involvement of dosha, the affected part and location of dosha accumulation. [16-41]
+ * There are innumerable diseases classified on the basis of type of pain, appearance (color), etiology, site, symptoms and name. [42]
+ * All the diseases cannot be named with standard nomenclature. [44]
+ * For knowing and treating a new disease that has not been described in the text, the underlying dosha, its location, etiological factors, and the movement of dosha should be well identified. Then pathogenesis should become evident and rational treatment can be started. [45-47]
+ * Three dosha \- vata, pitta and kapha \- are always present in the body of living beings. The learned should know about their normal and vitiated states. [48]
+ * Enthusiasm, inspiration, expiration, movements, processing of dhatu(body tissues) and elimination of excreta are natural functions of normal vata.[49]
+ * Vision, digestion, heat production, hunger, thirst, softness in body, luster, serenity and intelligence are the natural functions of normal pitta. [50]
+ * Unctuousness, binding, firmness/stability, heaviness (maintaining volume/mass), virility, strength, forbearance, restraint and absence of greed are the natural functions of normal kapha. [51]
+ * The decrease (or increase) of these dosha in a body can be best diagnosed by a decrease (or increase) in the functions mentioned above. The alternate method to examine the status is to check functions of other (opposite) dosha. Thus the status of dosha can be investigated based on their representative functions only.[52]
+
+## Vidhi Vimarsha (Applied Inferences)
+
+### Classification of _shotha_ (swelling/ distension)
+
+Depending on etiological factors diseases are grossly divided in to two categories: 
+
+ * The first category is of _nija_ (endogenous) diseases which are caused by endogenous factors i.e. the whole disease process starts within the body, although the provocation or aggravating factors may come from outside but the complete phenomenon of pathogenesis occurs inside body in a systematic way. According to Ayurvedic concepts, full-fledged involvement of vata, pitta and kapha dosha is present here.
+ * The second type of swelling is known as _agantuja_ (exogenous) in which the etiological factors are extraneous, which could be physical or environmental. Many times they circumvent the routine disease courses and cause diseases in a very short course of time. Conventional involvement of dosha take place later on i.e. after manifestation of disease.
+
+In addition to the types of swellings mentioned by Charak, Sushruta has added rakta based swellings as a separate type. [Su.Sa.Sutra Sthana 17/4][1] Sushruta has also emphasized on _vishaja_ (caused due to poisons) as another type while mentioning treatment. [Su.Sa.Chikitsa Sthana 23/3][1] Vagbhata has differentiated types based on causes of injuries (_abhighataja_) and contact with poisons (_vishaja_). Further he has mentioned two types of _shotha_ on the basis of distribution in body i.e. _sarvanga_ (generalized) and _ekanga_ (localized). According to its manifestation he has described three categories i.e. _prathu_ (diffused spread), _unnata_ (elevated) and _grathita_ (nodular). [A.H. Nidana Sthana 13/22-23][2] On the basis of prognosis, Madhava has divided _shotha_ into three i.e. _urdhvagata_ (in upper part of body), _madhyagata_ (in the middle part) and _adhogata_ (in the lower part) [Ma.ni.-36/17]. These types are of clinical importance since they help understand the origin of the swelling and the pre-dominant dosha involved in it. [3] 
+
+### Etiology of swelling
+
+The exogenous factors produce sudden swellings most of the time while endogenous swellings mostly occur gradually. Any type of trauma, direct or indirect, will produce a swelling first. Some plants contain allergens which may cause allergic reactions such as severe itching. Scorpion, wasp, honey bee, spider stings or their touch can cause inflammatory reaction including edema. Excessive cold air or prolonged contact with ice may cause frostbite like symptoms and swelling causes weakness of the affected organ resembling a paralytic disorder. [4] 

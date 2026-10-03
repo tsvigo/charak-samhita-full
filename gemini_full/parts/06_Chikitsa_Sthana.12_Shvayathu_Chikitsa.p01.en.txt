@@ -1,0 +1,323 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Causative factors of _nija_ (endogenous) swelling/edema
+ * 2.2 Causative factors of _agantuka_ (exogenous) swelling
+ * 2.3 Pathogenesis of swelling
+ * 2.4 Prodromal symptoms of edema
+ * 2.5 _Tridoshaja_ nature of all swellings
+ * 2.6 General symptoms of swelling
+ * 2.7 Symptoms of _vataja_ dominant edema/swelling
+ * 2.8 Symptoms of _pitta_ dominant swelling (inflammation)
+ * 2.9 Symptoms of _kapha_ -dominant edema
+ * 2.10 Symptoms of bad prognostic of edema
+ * 2.11 Symptoms of easily curable swelling
+ * 2.12 Principles of treatment of edema/swelling
+ * 2.13 _Apathya_ (unwholesome) for swelling/edema
+ * 2.14 _Vyoshadi churna_ for _kapha_ swelling/edema
+ * 2.15 Remedy for _tridoshaja_ edema
+ * 2.16 Remedy for _vata_ edema/swelling
+ * 2.17 Remedy for _vata-pitta_ swelling/edema
+ * 2.18 General remedies for edema
+ * 2.19 _Gandeeradyarishta_
+ * 2.20 _Ashtashato arishta_
+ * 2.21 _Punarnavadi arishta_
+ * 2.22 _Triphaladyarishta_
+ * 2.23 Powder preparations for edema
+ * 2.24 _Ksharagudika_
+ * 2.25 Course of _gud-adraka_
+ * 2.26 Course of _shilajatu_
+ * 2.27 _Kamsa haritaki_
+ * 2.28 Patoladi kashaya
+ * 2.29 _Chitraka ghrita_
+ * 2.30 Yavagu preparations
+ * 2.31 _Pathya_ (wholesome food) for _shotha_
+ * 2.32 External applications
+ * 2.33 _Shaileyadi taila_
+ * 2.34 Medicated water for bath
+ * 2.35 External application in _pitta_ dominance
+ * 2.36 External application in _kapha_ dominance
+ * 2.37 External application in burning sensation
+ * 2.38 Various types of local swellings
+ * 2.40 _Bidalika_ (Ludwig’s angina)
+ * 2.42 _Upakusha_ (gingivitis) and _danta-vidradhi_ (dental abscess)
+ * 2.44 _Granthi_ (nodule) and its management
+ * 2.45 Surgical management of _granthi_
+ * 2.46 Differential diagnosis of _arbuda_ (tumor)
+ * 2.47 _Alaji_ and _akshata_ (whitlow)
+ * 2.48 _Vidarika_ (lymphadenitis) and its management
+ * 2.49 _Visphotaka_ (eruption)
+ * 2.50 _Kaksha_ (herpes zoster)
+ * 2.51 _Romantika_ (measles)
+ * 2.52 Masurika (chickenpox) and its management
+ * 2.53 _Bradhna_ (hernia) and its management
+ * 2.54 Bhagandara (fistula-in-ano) and its management
+ * 2.55 _Shlipada_ (elephantiasis) and its management
+ * 2.56 _Jalakagardabha_ and its management
+ * 2.57 General guidelines of management
+ * 2.58 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Derivation of term
+ * 4.2 Pathogenesis
+ * 4.3 Types of _shotha_
+ * 4.4 Complications
+ * 4.5 _Shat-kriya-kala_ of _shotha_
+ * 4.6 Differential Diagnosis of _shotha_
+ * 4.7 _Chikitsa Sutra_ (Principles of treatment)
+ * 4.8 Clinical practices
+ * 4.9 Related Chapter
+ * 5 References
+
+## Introduction
+
+This chapter on Shvayathu Chikitsa (treatment of swelling) follows the chapter on _kshata-kshina_ because in both the diseases vital organs are involved. _Charaka_ defines _shvayathu_ as bulging (_utsedha_) from the skin and this chapter mainly deals with the management of various types of general swellings and local swellings such as _pidika_ (papules and pustules), nodules (including _gandhamala_), large swellings like galaganda (goiter), tumor etc are also described. 
+
+Chapter 18th of Sutra Sthana deals with diagnostic aspects of swelling under the name of _trishothiya_. Therein the word _shopha_ is frequently used for shotha. Thus, the words _shvayathu, shotha_ and _shopha_ are used as synonyms and all denote edema or swelling. For inflammatory swelling Sushruta has used the word _vrana-shotha_. 
+
+In the Sutra Sthana, Charaka classified _shotha_ in many ways but in this chapter which is mainly on the treatment, only those classifications are given which are important from treatment point of view, such as three types according to _dosha_ viz, _vata, pitta_ and _kapha_ ; two types viz. _nija_ (endogenous) and _agantuja_ (exogenous) as well as _ekanga_ (local) and _sarvanga_ (generalized ) types. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Shvayathu chikitsa" (Management of different types of swelling). Thus said Lord Atreya. [1-2] 
+
+Agnivesha approached the best physician and great sage, the son of Atri sitting midst of gods and saints and requested him to elaborate on the etiology, signs and symptoms and treatment of the major disease- _shvayathu_ [3] 
+
+Sage Atreya who is like Himalaya from which flows out the Indus of the science of healing, fully expounded the subject of swellings of three types based on _tridosha, nija_ and _agantuja_ based on etiology and _ekanga_ and _sarvanga_ type according to location [4] 
+
+### Causative factors of _nija_ (endogenous) swelling/edema
+
+Excessive use of _kshara_ (alkali) or food articles having sour, sharply acting, hot and heavy properties by an emaciated or weak person due to excessive _shodhana_ , fasting or disease. 
+
+Excessive intake of curd, raw food articles, soil, leafy vegetables, mutually contradictory food articles (_virodhi_), spoiled or mixed with toxic substance (such as pesticide), or a person suffering from piles, having sedentary life style, nonperforming of _shodhana_ therapy even if indicated, injury to vital organs (_marma_), abnormal delivery, due to improper treatment and as complication of improper purification treatment [5-6] 
+
+### Causative factors of _agantuka_ (exogenous) swelling
+
+External causative factors of swelling are trauma to skin with wood, stone, weapon, fire, poison etc. 
+
+Endogenous swelling is of three types i.e. of whole body, half body or limited to one part or organ [7] 
+
+### Pathogenesis of swelling
+
+Morbid _vata_ is obstructed by vitiated _kapha, rakta_ and _pitta_ aggravated at the site of peripheral superficial vessels. This vitiated _vata_ (due to obstruction) spreads to the various places causing swelling as its cardinal symptom. 
+
+If the _vata_ lodges in the chest, then it causes edema of upper parts of the body; if it lodges in its own place i.e. lower parts then it causes edema of lower parts and if it lodges in middle then it causes edema of middle parts. 
+
+If _vata_ spreads in the entire body then it causes edema all over the body but if it lodges in one place then it causes local swelling of that part or organ. These swellings are named after the particular region that it affects [8-9] 
+
+### Prodromal symptoms of edema
+
+Rise in temperature, burning sensation as if burnt by fire and dilation of the vessels are the prodromal symptoms of swelling [9½] 
+
+### _Tridoshaja_ nature of all swellings
+
+All types of swelling are produced by involvement of all the three _dosha_ but they are named based on the predominance of that particular _dosha_. The line of treatment is also according to the dominant _dosha_ [10] 
+
+### General symptoms of swelling
+
+Heaviness, movability, bulging, heat, thinning of the vessels, horripilation and discoloration of the affected skin are the general signs and symptoms of edema [11] 
+
+### Symptoms of _vataja_ dominant edema/swelling
+
+Skin of the effected part in _vata_ dominant swelling becomes thin and rough and dry (_parusha_), dusky-brown colored with horripilation and feeling of numbness and discomfort. The swelling is moveable and pitting on pressure but it attains normal position immediately, increases during the day time and often subsides without appreciable reason [12] 
+
+### Symptoms of _pitta_ dominant swelling (inflammation)
+
+The _pitta_ -dominant swelling is soft, painful to touch, with specific odor and blackish, yellow or red colored skin and has tendency of turning to abscess. It is accompanied with excessive burning sensation, fever, perspiration, giddiness, thirst, redness in eyes and intoxication [13] 
+
+### Symptoms of _kapha_ -dominant edema
+
+_Kapha_ -dominant swelling is heavy and firm/immovable. It is associated with anemia, anorexia, low digestion, water-brash, vomiting and sleepiness. It appears and disappears very slowly and on pressing it takes long time to attain its normal position and increases at the night time [14] 
+
+### Symptoms of bad prognostic of edema
+
+The edema/swelling of the patient, whose body is emaciated and weakened by a disease or is debilitated, or having complications or associated with vomiting, involving vital organs or whole body or spread with prominent vessels or in which profuse discharge oozes out, leads to death [15] 
+
+### Symptoms of easily curable swelling
+
+The swelling of a patient who is neither emaciated nor weak; that involved single _dosha_ or is of recent origin is easily curable. The physician expert in the knowledge of strength, _dosha_ and proper time of treatment should treat the curable patients by prescribing such measures which are opposite to cause, _dosha_ and season [16] 
+
+### Principles of treatment of edema/swelling
+
+If swelling is associated with _ama_ it should be managed first by prescribing lightening therapy (_langhana_) and digestive drugs and only then _shodhana_ therapy should be undertaken according to dominant _dosha_. General lines of treatment of _doshaja_ swelling are as follows: 
+
+ * If it involves head then _shiro-virechana_ is prescribed;
+ * If it involves lower parts of the body then _virechana_ (therapeutic purgation) is prescribed;
+ * If it involves upper parts of the body then _vamana_ (therapeutic emesis)is prescribed;
+ * If it is caused by unctuous then _rukshana_ (drying) therapy is done;
+ * If it is caused by un-unctuous (_ruksha_) then unctuous (_snehana_) therapy is done;
+ * If _vata_ swelling is associated with constipation then it should be treated with _niruhabasti_;
+ * If it is caused by _vata-pitta_ then it should be treated with ghee prepared with bitter drugs;
+ * If the patient is suffering from associated symptoms such as fainting, pain, burning sensation and thirst then it should be treated with intake of milk;
+ * If the patient is suffering from swelling where _shodhana_ is required then milk mixed with cow’s urine should be given.
+ * If the patient is suffering from _kapha_ swelling then _kshara_ or pungent and hot articles mixed in cow’s urine or buttermilk or _asava_ are given [17-19]
+
+### _Apathya_ (unwholesome) for swelling/edema
+
+Meat of domestic, aquatic and wet-land animals or weak animals; dry vegetables, fresh grains, molasses, fine flour products, curd, products of sesame, slimy and sour food articles, wine, roasted barley, dried meat, _samashana_ (taking of mixture of wholesome and unwholesome food), taking of unwholesome, heavy and irritant diet articles, day sleep and sexual acts should be avoided by the patient of edema/swelling [20] 
+
+### _Vyoshadi churna_ for _kapha_ swelling/edema
+
+Mixture of powders of _trikatu, trivrit, katuka_ and _lauha-bhasma_ taken with juice of _triphala_ ; or _haritaki_ powder taken by mixing with cow’s urine relieves _kapha_ edema/swelling [21] 
+
+### Remedy for _tridoshaja_ edema
+
+Mixture of _haritaki_ , dried ginger and _devadaru_ taken with lukewarm water, or _punarnava_ mixed with all the above drugs taken with cow‘s urine relieves swelling produced by all the three _dosha_. On digestion of the drug and after taking bath, the patient should take food with milk [22] 
+
+### Remedy for _vata_ edema/swelling
+
+The 500 ml of milk prepared with paste of 10 gm each _punarnava_ , dried ginger and _mustaka_ ; or milk prepared with _mayuraka, pippalimula_ and dried ginger taken orally relieves swelling due to _vata_ [23] 
+
+### Remedy for _vata-pitta_ swelling/edema
+
+One liter of milk prepared with 20 gm each of _danti, trivrit, trikatu_ and _chitraka_ added with one liter of water reduced to half, taken orally relieves edema caused by combination of _vata_ and _pitta_ [24] 
+
+### General remedies for edema
+
+Milk prepared with dry ginger and _daruharidra_ or prepared with _shyama_ , castor root and black pepper, or prepared with cinnamon, _devadaru, punarnava_ and dry ginger; or prepared with _guduchi_ , dry ginger and _danti_ ; taken orally relieves edema [25] 
+
+The patient by avoiding all other food and drinks if remains only on camel’s milk for a week or month or similarly remains on cow’s milk mixed with equal quantity of cow’s urine or on buffalo’s milk mixed with an equal quantity of cow’s urine or other milk with cow’s urine, then edema is cured [26] 
+
+Patient of edema if passes heavy (with mucous) and loose stools may drink butter milk mixed with _trikatu, sauvarchala_ -salt and honey; or if the stool is morbid, loose, with _ama_ or hard stool, then jaggery and _haritaki_ or jaggery with dry ginger are given [27] 
+
+If there is retention of feces and flatus, the patient may be given castor oil with milk or with meat-soup before meal; and if there is occlusion of channels or loss of digestion power and appetite, then the patient may be given simple or medicated wines [28] 
+
+### _Gandeeradyarishta_
+
+Take 1.280 Kg of _gandeera, bhallataka, chitraka, trikatu, vidnaga, kantakari_ and _brihati_ and add 1.024 Kg of kurchika-mastu (prepared by adding hot water in paneer) and boil on cow-dung fire till one-third remains and then filter. On cooling add to it 1.024 Kg natural-_mastu_ (prepared by adding water in curd), 4 kg of sugar-candy and put in a pitcher lined with paste of _chitraka_ and _pippali_ and leave this pot at a high-open place for 10 days for fermentation to prepare _arishta_. 
+
+Oral administration of _gandeeradyarishtha_ cures edema, fistula-in-ano, piles, helminthiasis, _kushtha_(obstinate skin diseases), polyuria, discoloration, emaciation and hiccup due to _vata_. Thus _gandeeradyarishtha_ is described [29-31] 
+
+### _Ashtashato arishta_
+
+Take 100 _pala_ each of _kashmarya, amalaki,_ black pepper, _haritaki, vibhitaki, pippali_ and grapes, add to it 100 _pala_ of old jaggery and two _drona_ of water, then put the mixture in a vessel lined with honey for 7 days in summer or for 14 days in winter for fermentation. Thus fermented _asava_ is known as _ashtashato-arishtha_. Its oral administration cures edema and constipation due to _kapha_ and _vata_ and stimulates digestion and metabolism (_agni_). Thus _ashthato-arishta_ is described [32-33] 
+
+### _Punarnavadi arishta_
+
+It provides quick cure in heart disease, anemia, severe edema, splenic disorders, fever, anorexia, polyuria, _gulma_ , fistula-in-ano, six types of _udararoga_ , cough, dyspnea, assimilation disorders (_grahani_), dermatosis (_kushtha_), pruritis, _vata_ disorders of limbs, constipation, hiccup, leukoderma and _halimaka_ (greenish coloration of skin). It also improves complexion, strength, ojas and vitality. Thus _punarnavadi arishta_ is described [34-38] 
+
+### _Triphaladyarishta_
+
+Make decoction from the coarse powder of 160 gm each of _triphala, ajawan, chitraka, pippali,_ iron bhasma and _vidanga_. To this decoction add 320 ml of honey and 4 kg of jaggery and put it in a vessel lined with ghee and place in a heap of barley for a month. Its oral administration cures all the diseases mentioned above. Thus _triphaladyarishtha_ is described. 
+
+The _asava_ and _arishtha_ mentioned for the treatment of piles and anemia are also beneficial for relieving the edema [39-40] 
+
+### Powder preparations for edema
+
+Use of any one of the following powder preparations cures chronic edema caused by all the three _dosha_ : 
+
+### _Ksharagudika_
+
+Properly administered pills cure splenomegaly, leukoderma, _halimaka_ (greenish coloration of the skin), piles, anemia, anorexia, emaciation, edema, gastroenteritis, _gulma_ , synthetic poisoning, lithiasis, dyspnea, cough and dermatosis. Thus _ksharagudika_ is described [43-46] 
+
+### Course of _gud-adraka_
+
+Mix equal quantity of jaggery and ginger and take it in 20 gm dose initially and then increase its dose by 20 gm daily till the dose becomes 200 gm per day. Then this dose is to be continued for the remaining days of the month. During this treatment, on digestion of the drug, rice gruel and milk or meat soup should be given to eat. 
+
+The one month course cures _gulma, udararoga,_ piles, edema, polyuria, dyspnea, coryza, cough, _alasaka,_ indigestion, jaundice, consumption, mental disorders and kapha disorders [47-48] 
+
+### Course of _shilajatu_
+
+Similarly juice of ginger may be taken with _shilajatu_ for one month in the doses and manner mentioned above. On getting the hunger food should be taken with milk. 
+
+### _Kamsa haritaki_
+
+Make 2.56 liter decoction of _dashamula_ and add to it _haritaki_ 100 in number and 4.0 kg of jaggery and powder of _trikatu_ and _trijata_ (three aromatics- leaves and bark of cinnamon and cardamom). Leave it overnight and next morning on cooling adds 320 gm of honey and little quantity of _yavakshara_. 
+
+### Patoladi kashaya
+
+### _Chitraka ghrita_
+
+Oral administration of _chitraka_ ghee cures edema/swelling even if it is difficult to cure as well as piles and _gulma_ and stimulate the digestion and metabolism (_agni_). [55-56] 
+
+iti citrakaghr̥tam 
+
+Put milk in a pot coated with paste of _chitraka_ and curdle it. Churn this curd well to get butter which is heated to ghee. Add to the ghee all the buttermilk (which contains mixed _chitraka_ also) from the pot and prepare the medicated _ghrita_. It is best to cure edema. It also provides relief in piles, diarrhea, _vata-gulma_, polyuria and stimulates digestion and metabolism (_agni_). 
+
+During the treatment the diet should be taken with buttermilk prepared as above with _chitraka_ along with ghee prepared from the above butter or gruels prepared with this butter milk and ghee. Thus _chitraka ghrita_ is described [58-59] 
+
+### Yavagu preparations
+
+### _Pathya_ (wholesome food) for _shotha_
+
+Followings diet articles are wholesome for the patient of edema/swelling: 
+
+ * Soup of _kulattha_ mixed with long piper
+ * Soup of _munga_ mixed with _trikatu_ and _yavakshara_
+ * Meat soup of gallinaceous and wild creatures,
+ * Meat soup of tortoise, iguana, peacock and pangolin,
+ * Vegetables such as heliotrope, turnip, _makoya_ (wild snake gourd), radish, _vetra, neem_ and _patola_
+ * Old _shali rice_ and old barley [62-63]
+
+### External applications
+
+Thus internal preparations have been described. Now external preparations beneficial for the patient of swelling will be described. _Snehana, swedana,_ smearing with pastes and effusions should be done in a patient having dominance of _vata_ swelling [64] 
+
+### _Shaileyadi taila_
+
+### Medicated water for bath
+
+### External application in _pitta_ dominance
+
+### External application in _kapha_ dominance
+
+In _kapha_ dominant edema, application of paste of long pepper, sand, old oil-cake, bark of drum-stick and linseed is advised. Effusion with decoction of _kulattha_ (hoarse gram), dry ginger and cow’s urine followed by anointing of the body with paste of sandal and _aguru_ is also beneficial (70). 
+
+### External application in burning sensation
+
+In all types of swelling, smearing with paste of fruit of _vibhitaka_ is recommended to cure burning sensation and discomfort. The topical application of paste of leaves of _kapittha_ (wood apple), sandal, liquorices and _mustaka_ provides relief in papules [71] 
+
+### Various types of local swellings
+
+### _Bidalika_ (Ludwig’s angina)
+
+### _Upakusha_ (gingivitis) and _danta-vidradhi_ (dental abscess)
+
+Provoked _rakta_ and _pitta_ causes suppuration of the gums and it is called _upakusha_. Accumulation of _kapha_ and _rakta_ produces elevated swelling in gums and it is known as _danta-vidradhi_ [78] 
+
+In all the above mentioned conditions blood-letting, purgation, _nasya, dhuma_ (medicated smoking therapy) and intake of old ghee is beneficial. 
+
+For the conditions specially affecting mouth, the line of treatment is _langhana_ and rubbing with medicated powders and mouth washes (_kavala_) are beneficial [80] 
+
+### _Granthi_ (nodule) and its management
+
+Swelling occurring in one organ or region due to _vata_ or other _dosha_ may be diagnosed on the basis of their characteristic symptoms. The swelling occurring in vessels are pulsating in nature. The nodular swelling occurring in muscles is large in size. Swelling of the adipose tissues is excessively unctuous and movable [81] 
+
+### Surgical management of _granthi_
+
+If the tumor is non-suppurative then after purification therapy, local sudation of the swelling should be done. Then the physician should try to dissolve the swelling by rubbing with stone or wooden apparatus or with manipulation of thumb or of a rod. Then it should be cut open and take out the tumor with its capsule. Then it should be cauterized and treatment of regular wound should be adopted [82] 
+
+If the tumor is not properly cauterized or if some of its part is left out then it starts gradually increasing again. In that case it should be removed completely by opening from all sides by the skillful surgeon keeping in view the regional anatomy. If some portion is still left then it may suppurate and slough and may lead to complication of _visarpa_ (erysipelas). The surgeon considering it as the severe complication first should try to treat it with great care by appropriate remedies described earlier. Therefore the wound specialist should quickly treat it in the prescribed manner following the appropriate line of treatment [83-85] 
+
+The tumors occurring in flanks, abdomen, in the throat and in vital organs are incurable. Similarly tumors of big size and indurated which occurs in children, aged and weak are also incurable [86] 
+
+### Differential diagnosis of _arbuda_ (tumor)
+
+There is no much difference in nodules and tumors with regards to site, causative factors, shape, _dosha_ morbidity and _dushya_ (susceptible tissues). Therefore, tumor specialist should treat the tumor on the line of nodules described above [87] 
+
+### _Alaji_ and _akshata_ (whitlow)
+
+### _Vidarika_ (lymphadenitis) and its management
+
+### _Visphotaka_ (eruption)
+
+### _Kaksha_ (herpes zoster)
+
+### _Romantika_ (measles)
+
+### Masurika (chickenpox) and its management
+
+### _Bradhna_ (hernia) and its management
+
+Due to _vata_ or other _dosha_ , the intestine frequently enters into scrotum and comes out and this condition is known as bradhna (hernia). 
+
+If liquid (_mutra_) accumulates in scrotum then the swelling is soft (hydrocele). 
+
+If fat accumulates in scrotum it is hard and unctuous. 
+
+Its treatment is _virechana karma_, oil massage, _niruhabasti_ and smearing of paste. If it suppurates then treatment of ulcer (_vrana_) should be adopted. 
+
+If there is oozing of liquid (_mutra_) and the swelling is due to _kapha,_ then it should be open up, cleaned and sutured as per line of treatment of ulcer [94-95] 
+
+### Bhagandara (fistula-in-ano) and its management

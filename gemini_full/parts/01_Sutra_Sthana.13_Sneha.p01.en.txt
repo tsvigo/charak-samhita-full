@@ -1,0 +1,255 @@
+## Contents
+
+ * 1 Introduction
+ * 1.1 History and broad outline of chapter
+ * 2 Sanskrit text, Transliteration and English Translation
+ * 2.1 Questions asked by Agnivesha
+ * 2.2 Sources of lipids
+ * 2.3 Oils
+ * 2.4 Four major lipids
+ * 2.5 Benefits of lipids
+ * 2.6 Time of administration
+ * 2.7 Vehicle for lipids
+ * 2.8 Various recipes of lipids
+ * 2.9 Preferred form of lipid
+ * 2.10 Doses of lipids and their indications
+ * 2.11 Persons suitable for maximum dose and its benefits
+ * 2.12 Persons suitable for moderate dose and its benefits
+ * 2.13 Persons suitable for lowest dose and its benefits
+ * 2.14 Persons suitable for consumption of _ghee_
+ * 2.15 Persons suitable for consuming oil
+ * 2.16 Persons suitable for consumption of muscle fat
+ * 2.17 Persons suitable for consumption of bone marrow
+ * 2.18 Duration of oleation
+ * 2.19 Persons suitable for _snehana_ (oleation)
+ * 2.20 Contraindications of oleation
+ * 2.21 Signs of inadequate, proper and excess oleation
+ * 2.21.1 Table 1: Signs of Inadequate, proper and excess oleation are as follows:
+ * 2.22 Regimen before sneha consumption
+ * 2.23 Regimen during _sneha_ consumption
+ * 2.24 Do’s and don’ts after _sneha_ consumption
+ * 2.25 Features according to bowel habits
+ * 2.26 Complications of improper _sneha_ consumption and its treatment
+ * 2.27 Prescription for therapeutic purgation and emesis after oleation
+ * 2.28 Alternative recipes for persons averse to lipids
+ * 2.29 Special precautions in skin disease, urinary diseases and swellings
+ * 2.30 Special precautions in diseases of reproductive system
+ * 2.31 Role of digestive power (agni) in oleation
+ * 2.32 Use of salt to expedite oleation
+ * 2.33 Sequence for oleation and sudation
+ * 2.34 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha(Applied Inferences)
+ * 4.1 Sources of _Sneha_
+ * 4.2 Reasons for superiority of sesame oil
+ * 4.3 Properties of Castor oil
+ * 4.4 Best _Sneha_ and their Therapeutic Applicabilities
+ * 4.4.1 _Ghrita_ (clarified butter / _ghee_)
+ * 4.4.2 _Vasa_ (muscle fat)
+ * 4.4.3 _Majja_ (bone marrow)
+ * 4.5 Proper season and time for _sneha_ consumption
+ * 4.6 _Anupana_ (after consumption)
+ * 4.7 _Pravicharana_ (medium of administration)
+ * 4.8 _Acchapana_ (drinking fat alone) as a preferred mode for oleation
+ * 4.9 Dose of _sneha_
+ * 4.10 Deciding suitable dose
+ * 4.10.1 Formula for calculating strength of agni
+ * 4.11 Indications of oleation
+ * 4.11.1 _Sneha_ in regular exercise
+ * 4.11.2 _Sneha_ in chronic alcoholics
+ * 4.11.3 _Sneha_ in excessive sex
+ * 4.11.4 Contraindications of _Sneha_
+ * 4.12 Signs of inadequate, proper and excess _Sneha_
+ * 4.13 Do’s and Don’ts after _Sneha_ Consumption
+ * 4.14 Bowel habits and duration of oleation therapy
+ * 4.15 Complications of oleation therapy
+ * 4.16 _Shodhana_ (purification) after oleation
+ * 4.17 _Vicharana_ (alternative methods of fat administration)
+ * 4.18 Benefits of _pravicharana_ in palatability and taste perception
+ * 4.19 Mode of action of _sneha_
+ * 4.19.1 I. Action as a solvent
+ * 4.19.2 II. Increase in the _apyamsha_ (liquid content) of the body
+ * 4.20 _Sadya snehana_ (instant oleation) and salt with fats for early oleation
+ * 4.21 Common method followed for oleation purpose before purification therapies
+ * 4.22 Researches
+ * 4.23 Scope for further research
+ * 4.24 Related Chapters
+ * 5 References
+
+## Introduction
+
+The chapter Snehadhyaya is the first chapter of _Kalpana Chatushka_ (tetrad describing planning of purification therapies). It follows the Vatakalakaliya Adhyaya, the last chapter of _Nirdesha Chatushka_ (tetrad describing guidelines for clinical practice). This sequential order of the tetrad suggests the logical progression in the clinical training of Ayurveda learners – from a foundational course in therapeutics to more specialized procedures (including purification therapies). Oleation (_Snehana_) is the first step before purification therapies, like therapeutic emesis [_vamana_] and therapeutic purgation [_virechana_], and is also the best medicine suggested for vitiated vata \- the key pathological factor responsible for many diseases. 
+
+### History and broad outline of chapter
+
+The earliest reference to _snehana_ is found in the ancient text _Markandeya Purana_ where _ghrita_ (clarified butter), _taila_ (oil), _vasa_ (muscle fat) and _majja_ (bone marrow) were quoted as _sneha_ drugs (Mar. 165, 166, 244-245). However, a detailed description of _snehana\- swedana_ (sudation) with complications and their treatments is only found in Charak Samhita and related Ayurveda texts. The Snehadhyaya provides comprehensive information about _sneha_ (lipids) and _snehana_ (its therapeutic administration/oleation). 
+
+_Sneha_ (lipids): _Sneha_ is any substance that produces unctousness, softness, moisture, increased secretions etc. in the body. [Cha.Sa.Sutra Sthana 22/11] _Sneha_ is predominantly composed of basic elements - _prithvi_ (earth) and _jala_ (water). [Su.Sa.Sutra Sthana 41/11][1] Hence it is responsible for moisture [Hemadri on A.H. Sutra Sthana 1/18][2], providing softness to the body while also playing a major role in producing strength. [Su.Sa.Sutra Sthana 46/516][1] _Sneha_ qualities can be described using adjectives such as _guru_ (heavy), _sheeta_ (cold), _sara_ (agility), _snigdha_ (unctuous), _manda_ (slow), _sukshma_ (penetrating), _mridu_ (soft), _drava_ (fluid), and _pichchila_ (slimy). [Cha.Sa.Sutra Sthana 22/15] and [A.H. Sutra Sthana 16/1][2] These qualities make oleation therapy a prerequisite for most of the Panchakarma (five purification) procedures since they help in ejecting impurities out through the gut. All _dhatu_ (body tissues) require _sneha_ for growth and maintenance. _Sneha_ adds unctuousness to food preparations, necessary in the process of digestion. [Cha.Sa.Chikitsa Sthana 15/6] _Kapha_ and _pitta_ are two basic _doshas_ that have _snigdha_ i.e. unctuousness. [A.H. Sutra Sthana 1/11-12][2] _Sneha_ therapy is mainly indicated for alleviation of _vata dosha_ , which is the main etiological factor responsible for most diseases. Modern science also gives importance to fats. Vitamins A, D, E, and K are fat-soluble[3] , meaning they can only be digested, absorbed, and transported using fats. Fats are also sources of essential fatty acids, an important dietary requirement. Fats play a vital role in maintaining healthy skin and hair, insulating body organs against shock, maintaining body temperature, and promoting healthy cell function.[4]
+
+The glycerol formed from catabolism of fats can be converted to glucose by the liver and thus used as a source of energy.[5] Fat also serves as a useful buffer against a host of diseases. When a particular substance - chemical or biotic—reaches unsafe levels in the bloodstream, the body can effectively dilute, or at least maintain, an equilibrium of the offending substances by storing them in a new fat tissue. This helps in protecting vital organs, until such time as the offending substances could be metabolized and/or removed from the body by such means as excretion, urination, accidental or intentional bloodletting, sebum excretion, and hair growth.[6] Beside pacifying vitiated _dosha_ , enhancing nutritional value and aiding in metabolic functions, _sneha_ can be utilized for body purification, as described earlier. _Sneha_ i.e. fats like _ghrita_ , oils etc. are used for Panchakarma and related purification processes since fats are essential component of cell membrane[7] and thus, have easy access to all parts of the body. Fats have multidimensional properties that can be utilized for therapeutic purpose. Thus, this chapter on _sneha_ is important from the standpoint of therapeutics. 
+
+## Sanskrit text, Transliteration and English Translation
+
+Now we shall expound the chapter "Sneha" (Oleation therapies). Thus said Lord Atreya. [1-2] 
+
+### Questions asked by Agnivesha
+
+Noticing Punarvasu sitting among learned sages, Agnivesha shared his doubts for the wellbeing of world by asking the following questions. [3] 
+
+ * What are the sources of _sneha_ (fats)?
+ * How many kinds are there?
+ * What are the qualities of each _sneha_?
+ * At what time should it be ingested?
+ * What are the _anupana_ (food articles to consume after ingesting _sneha_)?
+ * How many and which preparations or alternative methods are for administration of _sneha_?
+ * What are the acceptable forms of consumption of _sneha_?
+ * What dose is recommended of _sneha_?
+ * Which are the _manam_ (measurement) of _sneha_ in preparations?
+ * Which _sneha_ is better for whom?
+ * What is the end point of oleation therapy?
+ * Who are suitable for oleation?
+ * What is the _prakarsha_ (duration) of therapy?
+ * In whom is oleation contraindicated?
+ * What are the visible signs of proper, inadequate and excessive oleation?
+ * What is the regimen to be followed prior to, during and after oleation therapy?
+ * What kind of people have _mridu_ (soft) or _krura_ (rough and/or hard) _koshtha_ (bowel habit)?
+ * What are the complications of oleation therapy?
+ * What are the courses of treatment, if complications arise?
+ * What measures should be followed after _acchapana_ (drinking fats), for _samshodhana_ (purification) purposes or otherwise?
+ * To whom should _vicharana_ (alternative forms or recipes of _sneha_) be given and in what manner?
+
+Through these questions, I want to know all details of _snehana_ (oleation therapy), revered Sir. [4-8] 
+
+### Sources of lipids
+
+To remove all doubts (of Agnivesha), Punarvasu replied, “Dear (Agnivesha) _snehayoni_ (sources of fats) are of two types: _Sthavara_ (Vegetable origin) and _Jangama_ (Animal origin). 
+
+Among _sthavara_ (plant fats), _tila_ (sesame), _priyala_ (Buchanania lanzan), _abhishuka_ (pistacia vera Linn), _vibhitaka_ (belliric myrobalan), _chitra_ (Baliospermum montanum, or red physic nut), _abhaya_ (chebulic myrobalan), _eranda_ (Ricinus communis), _madhuka_ (madhuka indica), _sarshapa_ (mustard), _kusumbha_ (Brassica nigra Koch), _bilva_ (Aegle marmelos Corr, or bael fruit), _aruka_ (Prunus persica Linn), _mulaka_ (Raphanus sativas Linn, or radish), _atasi_ \- Linseed (Linum usitatissimum Linn), _nikochaka_(pistachio), _akshoda_ (Aleurites moluccana, or wild walnut), _karanja_ (Indian beech-Pongamia pinnata Merr), _shigruka_ (Moringa oleifera Lam, or drumstick) contains fat suitable for consumption. Among _jangama_ (animal fats), _matsya_ (fish), _mriga_ (antelopes) and _pakshi_ (birds), curd, milk, _ghee_ , meat, muscle fat and bone marrow are the animal sources of fat. [9-11] 
+
+### Oils
+
+Among all varieties of oils, sesame oil is considered the best and is ideal for giving strength and unctuousness. Castor oil is the best for _virechana_ (purgation). It is pungent, _ushna virya_ (hot potency), alleviates vitiated _vata_ and _kapha_ , _guru_ (dense, viscous or heavy) in nature and when used with astringent, sweet, bitter drugs it also helps mitigate aggravated _pitta_. [12] 
+
+### Four major lipids
+
+_Ghrita_ (clarified butter), oil (of sesame), _vasa_ (muscle fat) and _majja_ (bone marrow) are considered the best _sneha_. Among these, _ghrita_ is superior as it possesses the qualities of _samskara_ i.e. blending with other substances having different properties without losing its own properties. [13] 
+
+### Benefits of lipids
+
+ * _Ghrita_ alleviates _pitta_ and _vata_ , and is beneficial for _rasa_ , _shukra_ and _ojas_. Provides relief from burning sensation, softens the tissues, improves voice and complexion. [14]
+ * _Sesame_ oil alleviates vitiated _vata,_ does not aggravate _kapha_ (rather, it improves strength). It is very beneficial for the skin, _ushna virya_ , increases stability, and purifies or cleanses the vagina/ uterus. [15]
+ * _Vasa_ (muscle fat) is useful in healing punctured wounds, fractures, accidental trauma, prolapsed vagina, pain in ear and head, enhancing virility, oleation and for those doing physical exertion. [16]
+ * _Majja_ (bone marrow) improves strength, semen, _rasa_ , _kapha, meda_ and _majja_. It especially strengthens bones and useful for oleation. [17]
+
+### Time of administration
+
+_Ghrita_ (ghee) should be consumed in _sharada_ (autumn) season, while _vasa_ (muscle fat) and _majja_ (bone marrow) in _madhava_ (spring) season, and _taila_ (oil) during _pravrita_ (early monsoon). _Sneha_ should be consumed at a time when it is neither very hot nor cold. [18] 
+
+In case of aggravation of _vata \- pitta dosha_, and in hot (summer) season, _sneha_ should be consumed at night (evening time). In aggravation of _kapha_ and in cold season, it should be consumed at day time. [19] 
+
+_Sneha_ consumed at day time during hot season or by person who has great aggravation of _vata-pitta_, can lead to diseases such as fainting, severe thirst, insanity and jaundice. 
+
+_Sneha_ consumed at night during cold season or by person who has great aggravation of _kapha_ , can causes diseases such as flatulence, loss of taste, pain in abdomen, or anemia. [20-21] 
+
+### Vehicle for lipids
+
+After consuming _ghrita_ , hot water should be taken as _anupana_ (after drink), and after oil _yusha_ (pulses soup), and after consuming _vasa_ and _majja,_ consumption of _manda_ (scum of gruel) is advised.[22] 
+
+### Various recipes of lipids
+
+_Odana_ (boiled rice), _vilepi_ (thick gruel), _mamsa rasa_ (meat soup), _paya_ (milk), _dadhi_ (curd), _yavagu_ (thick gruel), soup _shaka_ (soup of green leafy vegetables), _yusha_ (pulses soup), _kambalika_ (Preparation of sesame with curd, oil, salt etc.), _khada_ (cooked buttermilk), _saktu_ (roasted flour of barli, horse gram etc.), _madya_ (wine), leha (confections), _bhakshya_ (snacks), _abhyanjana_ (oil massage), _basti_ (enema), _Uttara basti_ (urethral and vaginal enema), _gandusha_ (gargles), _karnataila_ (filling ear with oil), _nastakarma_ (nasal drops), _akshitarpana_ (filling eye with _sneha_) are twenty four types of _pravicharana_ (mode of administration of _sneha_). [23-25] 
+
+### Preferred form of lipid
+
+_Acchapeya_(drinking _sneha_ alone) is not considered as _vicharana_ (alternate form or recipe of administration of _sneha_), since physicians recommend it as the first preferred method of _snehana_ therapy. [26] 
+
+_Sneha_ though is only one, depending upon permutations and combinations based on six tastes, could be of sixty three types. Thus, _vicharana_ could be of sixty four kinds. These should be administered according to the habits, season, diseases and the constitution of the person. [27-28] 
+
+### Doses of lipids and their indications
+
+Dose of _sneha_ : Dose is divided into maximum, moderate and minimum based upon the time taken for it to get digested as follows: 
+
+ 1. _Pradhana_ (maximum): Dose that digests in one day and night (24 hours).
+ 2. _Madhyama_ (moderate): Dose that digests in one day (12 hours).
+ 3. _Hrasva_ (minimum): Dose that digests in half day (6 hours).
+
+Thus, these three doses of _sneha_ are administered by size (or quantity) of the dose, keeping in mind their ability to get digested. Further I will explain to you their usage depending upon individual patient. [29-30] 
+
+### Persons suitable for maximum dose and its benefits
+
+Those persons who consumes large quantity of _sneha_ daily, those who can tolerate hunger and thirst, whose digestive and bodily strength is strong, who suffer from _gulma_ (inflammation in digestive tract), snakebite cases, patients of _visarpa_ (erysipelas), _unmada_ (insanity), _mutrakrichchra_ (dysuria) and constipation are advised to consume maximum dose of _sneha_. Maximum dose when used correctly quickly cures diseases. It removes excess of vitiated _dosha_ out of the body, reaches all body channels, improves strength and rejuvenates the body, sense organs, and the mind. [31-34] 
+
+### Persons suitable for moderate dose and its benefits
+
+Patients of _arushka_ (eruptions on scalp), _sphota_ (vesicles), _pidaka_ (big eruptions), itching, _pama_ (scabies), _kushtha_ (skin disorders), _prameha_ (diabetics), _vatashonita_ (gout), those who never consume large quantities of food, those with _mridukoshtha_ (soft bowel habit) ,and those having moderate strength are advised to consume moderate dose of _sneha_. 
+
+A moderate dose never causes any serious complication. It never reduces strength, provides oleation with ease, and can be used for _shodhana_ (body purification). [35-37] 
+
+### Persons suitable for lowest dose and its benefits
+
+Those who are old, young (children), those with tender physique, living luxurious life, those who cannot tolerate hunger or have difficulty with empty stomach, those suffering from poor digestion, patients suffering from fever, diarrhea and cough, those having poor body strength are advised to consume the smallest dose of _sneha_. 
+
+The lowest dose of _sneha_ has minimal restrictions for its consumption. It does oleation and produces stoutness in the body, acts as an aphrodisiac, gives strength to the body, never causes any complication and can be used for longer duration. [38-40] 
+
+### Persons suitable for consumption of _ghee_
+
+Persons having _vata-pitta prakriti_, those suffering from _vata\- pitta_ disorders, those desiring good eyesight, those who are wounded, emaciated, old and infirm, children and women, those willing to live long, those willing to have good strength, complexion, voice, nourishment, healthy progeny, luxurious lifestyle, good vitality, memory, intelligence, digestive strength, strength of sense organs, and those suffering from burning sensation, injury by weapon, poison and fire should drink _ghrita_. [41-43] 
+
+### Persons suitable for consuming oil
+
+Those having aggravated _kapha dosha,_ excess _meda dhatu_ (fat tissue), those having thick neck and abdomen (excess flabbiness with deposition of fat in the neck and abdominal region), those suffering from _vata_ disorders, individuals with _vata prakriti_ (predisposition), those who desire strength, slim and lean physique, dexterity and agility, sturdiness and stability of body, unctuous, smooth and silky skin, those who have worms in their abdomen, have hard bowel, those suffering sinus ulcers, and those used to consuming oils, should drink oils especially during cold season. [44-46] 
+
+### Persons suitable for consumption of muscle fat
+
+Those who can tolerate breeze and sunlight, who have dryness in body, those who are emaciated due to excessive weightlifting and walking, those who have depleted semen and blood, decreased levels of _kapha_ and _meda_ , those who suffer from severe pain in bones, joints, veins, ligaments, vital spots and alimentary tract, those in whom highly aggravated _vata_ remains covered in blocked channels of the body, those who have strong digestive power and are used to drinking or consuming muscle fat should drink _vasa_ (muscle fat). [47-49] 
+
+### Persons suitable for consumption of bone marrow
+
+Those having strong digestive power, are capable of tolerating excessive physical exertion, who eat large quantities of food often, who consume _sneha_ often, those suffering from _vata_ disorders, and those suffering from hard bowel movement are advised to consume bone marrow. [50-51] 
+
+### Duration of oleation
+
+The recommended maximum duration for _snehapana_ is either seven nights or three nights. [51] 
+
+### Persons suitable for _snehana_ (oleation)
+
+Those who are scheduled for sudation or purification therapies, those having dryness in body, those suffering for vata disorders, those doing exercise regularly, those drinking alcohol often, those indulged in sexual activities often and those suffering from mental stress are advised to undergo oleation therapy. [52] 
+
+### Contraindications of oleation
+
+Those advised for therapy without undergoing body purifications and those having excessively increased _kapha_ and _meda_ are not advised to undergo oleation. Those having excessive secretions from their mouth and rectum, suffering from frequent bouts of indigestion, those suffering from thirst and fainting, pregnant women, those having dryness of throat, who have aversion to food, who are sick or suffer from vomiting sensation, accumulation of _ama_ in _jathara_ (stomach), those who have been exposed to artificial poisons, those who are weak, those in whom body tissues have depleted, those who are exhausted by the use of _sneha_ , those having alcohol intoxication, those undergoing _nasya_ therapy (nasal administration of drugs) or _basti_ (medicated enema) should not consume _sneha_. Oleation in such patients may cause serious ailments. [53-56] 
+
+### Signs of inadequate, proper and excess oleation
+
+#### Table 1: Signs of Inadequate, proper and excess oleation are as follows:
+
+### Regimen before sneha consumption
+
+On the day before administration of _sneha_ , one should take warm, liquid diet in proper quantity. The food should not increase secretions, possess unctuousness or material with opposing properties. 
+
+If _sneha_ is for the purpose of _samshamana_ (pacification of _dosha_ internally), it should be taken at the time of meals and if meant for _shuddhi_ (purification) it should be given when food consumed in the previous night has been digested. [60-61] 
+
+### Regimen during _sneha_ consumption
+
+### Do’s and don’ts after _sneha_ consumption
+
+ 1. Use warm water for all purposes
+ 2. Observe abstinence
+ 3. Sleep only at night
+ 4. Do not suppress the urge to pass feces, urine, flatus and belching
+ 5. Do not engage in physical exercises and rein in emotions, talking loudly, getting angry, or becoming upset, etc
+ 6. Do not get sleep or sit while exposed to snow, sunlight and breeze
+
+One who after consuming _sneha_ takes oily food and does not follow the aforementioned guidelines gets affected by severe diseases. [62-64] 
+
+### Features according to bowel habits
+
+Individuals with soft bowel movement require a maximum dose of three days of _acchapana_ (_sneha_ alone) while those suffering from _krura koshtha_ (hard bowel) require the seven-day long (maximum) dose regimen. 
+
+Individuals with soft bowel movement require the following as purgatives: jaggery, sugarcane juice, whey of curd, milk, water of curd, milk pudding, _krishara_ (rice cooked with black gram), _ghee_ , juice (decoction) of _kashmari_ (Gmelina arborea), _triphala_ (combination of Terminalia chebula, Terminalia bellirica and Emblica officinalis), _pilu_ (Salvadora persica Linn.), _draksha_ (Vitis vinifera Linn), warm water or fresh wine. 
+
+These do not help an individual suffering from hard bowel movement because of the prominence of _vata_ in their _grahani_ (duodenum). “Soft bowel individuals” have predominance of _pitta_ and less _kapha_ and _vata_ in their duodenum, and hence gets purgation easily. [65-69] 
+
+### Complications of improper _sneha_ consumption and its treatment
+
+Individuals with highly aggravated pitta in duodenum have excessive digestive strength, and therefore are able to digest or metabolize fat easily. Since their _ojas_ gets displaced and their digestive power produces thirst, even great quantities of solid food consumption does not quench the fire stimulated by drinking fat, and therefore they do not find relief even with cold water. They suffer from the burning sensation of _agni_ in them as if they have ingested snake venom. 

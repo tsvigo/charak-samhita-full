@@ -1,0 +1,419 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Etiology
+ * 2.2 Pathogenic factors
+ * 2.3 Premonitory signs and symptoms
+ * 2.4 Eighteen types of skin diseases
+ * 2.5 Seven major kushtha
+ * 2.5.1 1\. _Kapala Kushtha_
+ * 2.5.2 2\. _Udumbara kushtha_
+ * 2.5.3 3._Mandala Kushtha_
+ * 2.5.4 4._Rishyajivha Kushtha_
+ * 2.5.5 5._Pundarika Kushtha_
+ * 2.5.6 6._Sidhma Kushtha_
+ * 2.5.7 7._Kakanaka Kushtha_
+ * 2.6 Eleven _kshudra kushtha_
+ * 2.6.2 2._Charmakhya Kushtha_
+ * 2.6.3 3._Kitibha Kushtha_
+ * 2.6.4 4._Vaipadika Kushtha_
+ * 2.6.6 6._Dadru Kushtha_
+ * 2.6.7 7._Charmadala Kushtha_
+ * 2.7 _Dosha_ dominance in types of _kushtha_
+ * 2.8 General guidelines for diagnosis
+ * 2.9 _Dosha_ specific features of diagnosis of _dosha_ dominance in _kushtha_
+ * 2.10 Prognosis
+ * 2.11 Principles of management
+ * 2.12 Various formulations
+ * 2.13 Local treatments
+ * 2.14 _Mustadi churna_
+ * 2.15 Benefits of _lelitaka_ (sulphur)
+ * 2.16 _Madhvasava_
+ * 2.17 _Kanaka bindu arishta_
+ * 2.18 Diet in _kushtha_
+ * 2.19 _Siddharthaka snana_( medicinal bath)
+ * 2.20 External applications
+ * 2.21 _Shweta-karaviradya taila_
+ * 2.22 _Shweta karavira palladi tailam_
+ * 2.23 _Tikta-ikshwakwadi tailam_
+ * 2.24 _Kanakaksheeri tailam_
+ * 2.25 _Sidhmahara lepa_
+ * 2.26 _Vipadikahara ghee_ and _taila_
+ * 2.27 Management of _pitta-kapha_ dominant _kushtha_
+ * 2.28 Management of _pitta_ dominant _kushtha_
+ * 2.29 _Tikta shatpala_ ghee
+ * 2.30 _Mahatiktaka_ ghee
+ * 2.31 _Maha khadira_ ghee
+ * 2.32 Treatment of maggots/micro-organisms in _kushtha_
+ * 2.33 Management of _shwitra_(vitiligo)
+ * 2.34 Various stages of _shwitra_
+ * 2.35 Prognosis of vitiligo
+ * 2.36 Meta-physical causes of _kilasa_
+ * 2.37 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Patho-physiology of _kushtha_
+ * 4.1.2 2\. _Udumbara kushtha_
+ * 4.1.3 3\. _Mandala kushtha_
+ * 4.1.4 4\. _Rishyajivha kushtha_
+ * 4.1.5 5\. _Pundarika kushtha_
+ * 4.1.6 6\. _Sidhma kushtha_
+ * 4.1.7 7._Kakanaka kushtha_
+ * 4.1.8 Minor _kushtha_
+ * 4.1.9 1._Eka kushtha_
+ * 4.1.10 2\. _Charmakhya_
+ * 4.1.11 3\. _Kitibha kushtha_
+ * 4.1.12 4\. _Vaipadika kushtha_
+ * 4.1.13 5._Alasaka kushtha_
+ * 4.2 Current clinical management of skin diseases
+ * 4.2.1 Principal treatment modalities
+ * 4.2.2 Principal drugs
+ * 4.3 Related links
+ * 4.4 Further reading
+ * 4.5 Related Chapter
+
+## Introduction
+
+Skin is the largest organ of the body constituting the integumentary system, comprising of skin, hair and nails etc. It constitutes 16% of body weight. Skin has the total surface area varying 1.2-2.2 sq.m. It is a combined product of ectoderm as well as of mesoderm. _Kushtha_ (skin disorder or dermatosis) is a chronic disease which presents with ugly colors / complexion/ texture and altered tactile perceptions of the skin. The word _kushtha_ is derived from _kushnati vapuh_ meaning that which alters complexion of body by extracting. 
+
+All the types of _kushtha_ are caused due to vitiation of _tridosha_ with involvement of skin, blood, lymph and muscular issue. _Kushtha_ is often translated in English as leprosy, which is not correct because of absence of Mycobacterium leprae, though the appearance of skin lesions of _mahakushtha_ resemble leprosy. Etiological factors of _kushtha_ are antagonistic food, toxins released from suppressed natural urges, and practices harmful to the blood and skin. It is _tridoshaja_ disease, but because of variable proportion of one specific _dosha_ , causes variation in features and prognosis. Variable doshic impact on skin, gives different color, complexion, pain sensitivity, texture, deformities, discharge, and tactile perception. Generalized symptoms appear only in prodromal stage. 
+
+In the context of _kushtha_ , four aspects of skin are important. First is that it consists of six layers as described in [Cha. Sa.Sharira Sthana chapter 4], and each layer is seat of specific type of gradually progressing _kushtha_. 
+
+Second aspect is that it is a sensory organ too, and is seat of _vata dosha_. In case of _kushtha_ vitiated _vata_ in skin manifests as, horripilations, numbness, and loss of tactile perceptions. 
+
+Third aspect, skin is the sub-tissue or _upadhatu_ of _mamsa dhatu_ , texture of skin depends upon muscle texture, so the dermal deformities spread upto the mamsa dhatu or musculature and skin texture causing ugly shape of skin lesions. Lastly, affliction of deeper layers of skin deteriorates the ulcer healing ability of skin and damages the defense mechanisms against enormous pathological invasions. Thus, the _kushtha_ stands for long time with more and more uglier shape. 
+
+This chapter is placed after Prameha Chikitsa, because one of the complications of _prameha_ is carbuncle, which penetrates deeper into the muscles and is very similar to _kushtha_ but the etio-pathogenesis is very different. Indulging in heavy to digest food products is responsible for increase of _kleda_ (excess moisture) in the body. Such _kleda_ is carried by _mutra_ and leads to increase in quantity and frequency of _mutra_ leading to pathogenesis of _prameha_. When same _kleda_ spreads throughout the body causes _shaithilyata_ (looseness of body tissue) and also vitiates _meda dhatu_. Vitiated _kleda_ and _meda_ are responsible for _mamsa dusti_ which is responsible for _pidika_ genesis and manifest as change in color, texture and sensation of _tvacha_ (skin). This leads to various skin diseases. 
+
+Another disease named _visarpa_ is explained later in 21st chapter of this section also has these components commonly, but due to prominence of impurity in blood that is a rapidly spreading disease whereas _kushtha_ is slow progressing disease. Whereas _visarpa_ advances into the visceral parts, _kushtha_ spreads horizontally and limited to skin only. 
+
+All the _kushtha_ are curable except _mahakushtha_ named _kakanak_ , because it does not have any systemic involvements. At the end of the chapter, three types of skin disorders caused by hypo-pigmentations are mentioned as _shwitra_ with their treatments. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter _Kushtha Chikitsa_ (Management of skin diseases). Thus said Lord Atreya. 
+
+Etiology, factors essential for genesis of disease, symptoms and signs, premonitory features, pathogenesis along with treatment is being mentioned. Listen Agnivesha! The specialty of this disease is that there is loss of integrity of seat of _sparshanendriya_ i.e. _tvacha_. [1-3] 
+
+### Etiology
+
+_Viruddha annapana_ , excessive intake of _drava, snigdha_ and _guru dravyas_ ; restraining natural urges like vomiting etc; exercising or coming in contact of excessive heat after eating excessive quantity of food. Indulging in habits such as, taking _shita_ quality food etc. followed by _ushna_ quality or either fasting followed by heavy meals. Having cold water immediately after exposure to scorching sun, exertion and fear, eating uncooked or raw foods or having meals although previously taken meals have not been digested. Indulging in food and other habits which have been restricted during the phase of Panchakarma. 
+
+Consuming new grains, curds, fish, excessive salty and sour food items. Black grams, radish, food prepared from flour paste, sesame, milk and jaggery products. Indulging in sexual activity even if the food is not well digested (sexual intercourse immediately after taking food), sleeping during day time, insulting peers like brahmin / guru and other respected personal and doing sinful acts are the etiological and risk factors of _kushtha_. [4-8] 
+
+### Pathogenic factors
+
+The vitiated three _doshas_ \- _vata, pitta, kapha_ along with impaired _tvak,rakta, mamsa_ and _ambu_ together constitute seven essential entities which play role in pathogenesis of _kushtha_. _Kushtha_ can be classified into seven _mahakushtha_ (major skin disorders) and eleven _kshudrakushtha_ (eleven minor skin disorders). Single _dosha_ cannot cause _kushtha_ on its own i.e. _kushtha_ is not an _nanatmaja_ (disease caused by single specific _dosha_) disease. [9-10] 
+
+### Premonitory signs and symptoms
+
+Decreased touch sensation, excessive sweating or absence of sweating (which may be localized or generalized), change in color (discoloration), papules on skin, horripilation, pruritus, pricking pain, physical exhaustion, mental fatigue, severe pain in ulcerated area, sudden appearance and chronic the ulcers, burning sensation, numbness are the premonitory symptoms of skin disease.[11-12] 
+
+### Eighteen types of skin diseases
+
+### Seven major kushtha
+
+#### 1\. _Kapala Kushtha_
+
+The clinical presentation of _kapala kushtha_ is as follows: 
+
+**Texture of skin** _\- tanu_ (thin) 
+
+**Associated symptoms** – Excess pricking pain 
+
+#### 2\. _Udumbara kushtha_
+
+The clinical presentation of _udumbara kushtha_ is as follows: 
+
+**Color** – Similar to _udumbara_ fruit 
+
+**Associated symptoms** – burning sensation, pruritus and pain 
+
+#### 3._Mandala Kushtha_
+
+The clinical features of _mandala kushtha_ are as follows: 
+
+**Color** – white and red 
+
+**Associated symptoms** – patches are matted 
+
+**Sadhyasadhyata** – Difficult to cure 
+
+#### 4._Rishyajivha Kushtha_
+
+The clinical features of _rishyajivha kushtha_ are as follows: 
+
+**Associated symptoms** – pain 
+
+#### 5._Pundarika Kushtha_
+
+The clinical features of _pundarika kushtha_ are as follows: 
+
+**Color** – White with red edges 
+
+**Nature** – resembles lotus petals, elevated patches 
+
+**Associated symptoms** – burning sensation 
+
+#### 6._Sidhma Kushtha_
+
+The clinical features of _sidhma kushtha_ are as follows: 
+
+**Color** – white coppery, color resembles flower of _alabu_ (lagenaria siceraria) 
+
+**Nature** – thin 
+
+**Associated symptom** – particles resembling dust are observed, it is located mostly on chest due to dominance of _kapha_ on _ura pradesh_ [Cha.Sa Chikitsa Sthana 7/19 Chakrapani]. 
+
+#### 7._Kakanaka Kushtha_
+
+**Nature** – does not get suppurated 
+
+**Associated symptoms** – Pain and incurable, all the three _doshas_ are present 
+
+This ends the explanation of seven _mahakushtha_.[14-20] 
+
+### Eleven _kshudra kushtha_
+
+The clinical features of _eka kushtha_ are as follows: 
+
+**Nature** – resembles scales of fish 
+
+**Location** – Extensive 
+
+#### 2._Charmakhya Kushtha_
+
+The clinical features of _charmakhya_ are as follows: 
+
+**Nature** – skin is thick resembling elephant skin 
+
+#### 3._Kitibha Kushtha_
+
+The clinical features of are as follows: 
+
+**Color** – It is blackish brown 
+
+**Nature** – Rough similar to scar tissue and hard to touch 
+
+Touch similar to the granulation process in wound. 
+
+#### 4._Vaipadika Kushtha_
+
+The clinical features are as follows: 
+
+**Location** – Hand and legs 
+
+**Nature** – cracks in palms and sole 
+
+**Associated symptoms** – severe / excruciating pain 
+
+The clinical features are as follows: 
+
+**Nature** – Nodules 
+
+**Associated symptoms** – Pruritus 
+
+**Color** – redness 
+
+#### 6._Dadru Kushtha_
+
+The clinical features are as follows: 
+
+**Color** – redness 
+
+**Nature** – Elevated circular patch with _pidaka_
+
+**Associated symptoms** – Itching 
+
+#### 7._Charmadala Kushtha_
+
+The clinical features are as follows: 
+
+**Color** – Redness 
+
+**Nature** – pustules, cracks in skin which are crusted 
+
+**Associated symptoms** – Itching 
+
+The clinical features are as follows: 
+
+**Color** – white, reddish, brownish blackish 
+
+**Nature** – Itching 
+
+The clinical features are as follows: 
+
+**Color** – white reddish in appearance 
+
+**Nature** – erruptions and pustules with thin skin 
+
+The clinical features are as follows: 
+
+**Color** – reddish, blackish 
+
+**Nature** – ulcerated 
+
+**Associated symptoms** – burning sensation and pain 
+
+The clinical features are as follows: 
+
+**Color** – blackish brown 
+
+**Nature** – excessive exudation, eruptions 
+
+**Associated symptoms** – pruritus 
+
+### _Dosha_ dominance in types of _kushtha_
+
+The _dosha_ dominance in types of _kushtha_ is as enlisted below: 
+
+### General guidelines for diagnosis
+
+_Tridosha_ are involved in pathogenesis of all types of _kushtha_. Depending on _dosha_ predominant symptoms are manifested and treatment should be decided on the basis of symptoms shown in specific _kushtha_. The _dosha_ presenting important and specific symptoms should be alleviated firstly followed by the treatment of associated _dosha_.[31-32] 
+
+Specific _kushtha_ determine the predominance of specific _dosha_ and vice versa is also true i.e. predominance of _dosha_ determines the specific type of _kushtha_. Similarly specific symptoms determine the causative factors vice versa causative factors determine the specific symptoms.[33] 
+
+### _Dosha_ specific features of diagnosis of _dosha_ dominance in _kushtha_
+
+Symptoms due to _dosha_ predominance include dryness, atrophy, pricking pain / paraesthesia, pain, constriction or loss of elasticity, hardness, roughness, horripilation, blackish, brownish, slight reddish in color are manifestation of _vata dosha_. 
+
+Burning sensation, redness, exudation, suppuration, offensive smell, stickiness / moist and sloughing of body parts are the symptoms caused by predominance of _pitta dosha_. 
+
+_Kapha dosha_ is responsible for symptoms like whitish discoloration, cold in touch, pruritus, non-progressive / slow progression of disease, elevated; heaviness and oiliness are presented along with maggot’s formation and stickiness like symptoms.[34-36] 
+
+### Prognosis
+
+If all the symptoms are simultaneously observed, in weak (immune-compromised) patient, suffering from morbid thirst, burning sensation, loss of digestive power and presence of maggots then the intelligent person should avoid treatment (as it is incurable). Further _vata kapha_ predominated _kushtha_ and single _dosha_ predominated _kushtha_ are not so difficult to treat. Whereas _kapha pitta_ and _vata pitta_ dominated _kushtha_ are _krichchra sadhya_ i.e. curable, but with efforts. [37-38] 
+
+### Principles of management
+
+In _vataja kushtha_, firstly administer _ghritapana_ , whereas in _kaphaja kushtha vamana_ procedure should be done and in _pittaja kushtha, virechana_ along with _raktamokshana_ should be first line of treatment.[39] 
+
+For _vamana_ and _virechana_ drugs mentioned in Kalpa Sthana should be used. _Prachhana karma_ i.e. blood letting by rubbing with coarse device should be carried out if _dushya dushti_ is less and venesection should be carried out in condition where _dosha dusya dusti_ is strong.[40] 
+
+Patients with excessive vitiated _dosha_ should be given _shodhana_ therapy repeatedly; taking care about their _prana_ (strength). Excessive elimination of _dosha_ may increase _vata dosha_ which may bring about weakness and in rare condition endanger the life of patient.[41] 
+
+After _shodhana_ and letting of blood, _sneha_ should be administered since after _shodhana_ , _vata dosha_ enters the _shuddha koshtha_ of patient and is cause for immediate _bala kshaya_.[42] 
+
+### Various formulations
+
+If _dosha_ are _utklishta_ and located in _hridaya_ or _kushtha_ is manifested in the upper part of body, then _vamana_ should be administered with help of fruit of _kuthaja, madanaphala_ and _madhuka_ along with juice of _patola_ and _nimba_. _Sheeta rasa_ (cold effusion), _pakva rasa_(decoction), honey and _madhuka_ should be used for _vamana_.[43] 
+
+_Trivrita, danti_ and _triphala_ are to be used for _virechana_ in _kushtha_. _Sauviraka, tushodaka, alodhana, asava, sidhu_ are types of _aushadi kalpana_ to be used in _virechana_. Further _sansarjana karma_ should be followed as per order. [44-45] 
+
+_Darvi, brihati, patola, pichumarda, madanphala, kritamala, kalinga, yava_ and _musta_ should be used along with _sneha_ for _asthapana_. After _virechana_ and _asthapanabasti_ still if there is excess of _vata_ than give _anuvasanabasti_ should be given. In such condition _sneha_ fortified with _madanaphala, madhuka, nimba, kutaja,_ and _patola_ should be used. [46-47] 
+
+Drugs mentioned in Sutra Sthana for _vairechanika dhuma_ should be used in _krimija kushtha_ and _kilasa_ and also disease affecting the upper part of the body. [48-49] 
+
+If the patches are stable and hard, then give fomentation by _prastara sweda_ or _nadi sweda_ method and later on with the help of _kurcha_ (a surgical instrument) scrub the patches so that there is increased flow of _rakta_ in that specific area along with blood letting.[50] 
+
+### Local treatments
+
+If the patches are elevated then _swedana_ with lukewarm poultice of meat of aquatic animals should be followed by scrubbing with sharp edge surgical instrument for blood letting. For blood letting _shringa_ (horn), _alabu_ (gourd) may be used. Especially in _alpa kushtha, prachana,virechana_ and/or use of _jaluka_ should be done. 
+
+_Lepa_ explained in _kushtha_ become efficient if applied after _raktamokshana_ and other _shodhana_ procedures. [51-53] 
+
+When there is loss of sensation and/or surgical interventions is prohibited, _kshara_ should be used after _rakta_ and _dosha_ are eliminated. 
+
+If _kushtha_ is hard like stone with numbness, it is stable (not spreading) and chronic in such cases antidotes should be given internally prior to the application of poison in the form of _lepa_ followed by application of antidote. 
+
+In _pittaja kushtha_ line of treatment followed in _vata kaphaja kushtha_ should be followed along with _kapha, pitta_ and _rakta_ should be eliminated and _tikta_ (bitter), _kashaya_ (astringent) drugs are to be used for pacifying the _dosha_. Ghee fortified with _tikta_ (bitter) drugs and line of treatment of _raktapitta_ should be followed internally and externally for treatment of _pittaja kushtha_. [58-59] 
+
+Treatment of different _kushtha_ categorized on basis of aggravated _dosha_ has been explained henceforth treatment for pacifying of _kushtha_ is being explained wherein defect in skin is general symptom. [60] 
+
+One _pala_ of root of _patola_ and _gavakshi_ , contents of _triphala_ (_haritaki, bibhataki_ and _amalaki_) taken separately in one _pala_ quantity each. _Trayamana_ and _katuki_ in quantity of 6 _sanas_ and 4 _sana_ of _sunthi_ , should be taken together. One _pala_ of this combination should be boiled in water and administered for elimination of _dosha_. 
+
+After the combination has been digested by _jatharagni_ of patient, soup of animal and birds residing in arid land along with old _shali_ type of rice should be given. The preparation when administered for 6 days cures _kushtha, shotha, grahani, arsha, mutrakricha, halimaka,_ chest pain and pain in bladder region along with _vishama jwara_. [62-64] 
+
+### _Mustadi churna_
+
+### Benefits of _lelitaka_ (sulphur)
+
+Similarly _kushtha_ patient should regularly consume _parada_ (mercury) with _vajra shilajatu_ or _yogaraja_ which helps in curing of all diseases. [71-72] 
+
+### _Madhvasava_
+
+### _Kanaka bindu arishta_
+
+### Diet in _kushtha_
+
+Easily digestible and wholesome food, green leafy vegetables bitter in taste, food and ghee prepared by fortifying with _bhallataka, triphala_ and _nimba_ , one year old cereals, meat of animals inhabiting from arid area, preparations of _mudga_ and _patola_. 
+
+Avoid heavy to digest, sour food, milk, curd, meat of animals residing in marshy area, fish, jaggery and sesame. [82-83] 
+
+### _Siddharthaka snana_( medicinal bath)
+
+### External applications
+
+Following six decoctions viz. 
+
+ 3. Heart wood of _khadira_
+ 5. _Triphala_
+ 6. _Saptaparna_
+
+All of the above decoctions should be used for bathing, drinking, in the form of _lepa_ , for scrubbing and for dusting. The same decoctions can be used for fortifying of medicated ghee and oil.[97-99] 
+
+### _Shweta-karaviradya taila_
+
+### _Shweta karavira palladi tailam_
+
+### _Tikta-ikshwakwadi tailam_
+
+### _Kanakaksheeri tailam_
+
+### _Sidhmahara lepa_
+
+### _Vipadikahara ghee_ and _taila_
+
+ 3. Khandira
+ 4. Dhava
+
+### Management of _pitta-kapha_ dominant _kushtha_
+
+### Management of _pitta_ dominant _kushtha_
+
+### _Tikta shatpala_ ghee
+
+### _Mahatiktaka_ ghee
+
+After _shodhana_ of _dosha_ , blood letting, external and internal _shamana_ therapies and administration of ghee at appropriate time helps in curing skin diseases and also prevents recurrence. [151] 
+
+### _Maha khadira_ ghee
+
+### Treatment of maggots/micro-organisms in _kushtha_
+
+### Management of _shwitra_(vitiligo)
+
+The above 7 combination of lepa is useful in leucoderma.(168-171) 
+
+### Various stages of _shwitra_
+
+### Prognosis of vitiligo
+
+### Meta-physical causes of _kilasa_
+
+### Summary
+
+The above detailed description has been given by Lord Punarvasu with a view of sharpening the memory and intellect of disciple Agnivesha. 
+
+## Tattva Vimarsha (Fundamental Principles)
+
+ * Important etiological factors for skin diseases include: Diet and beverages with antagonistic properties, excess intake of liquid, unctuous, heavy to digest food, suppression of natural urges specially that of emesis, excess exercise, exposure to excess heat, excessive eating, quick change in environmental temperature, inappropriate follow up of purification procedures, eating new grains, curd, fish, sesame, excessive salty and sour food, black gram, radish, milk, sugar products, following daytime sleep, and bad thoughts and deeds towards venerable people.
+ * These factors vitiate water component of skin, blood, muscular layer and other layers of skin and localize three _dosha_ in the skin to cause _kushtha_ , layer by layer.
+ * Variable skin manifestations of _kushtha_ depend upon degree of involvement of three vitiated _dosha_ and their effect on four _dhatus_ i.e. _rasa, rakta, mamsa_ and _lasika_.
+ * With involvement of first and second layer, prodromal symptoms appear. Third and fourth layer involvement results in minor _kushtha_. Fifth and sixth layer involvement causes _mahakushtha_.
+ * Dryness, atrophy, pricking pain / paraesthesia, pain, constriction or loss of elasticity, hardness, roughness, horripilation, blackish, brownish, slight reddish in color are manifestation of _vata dosha_. Burning sensation, redness, exudation, suppuration, offensive smell, stickiness / moist and sloughing of body parts are the symptoms caused by predominance of _pitta dosha_. _Kapha dosha_ is responsible for symptoms like whitish discoloration, cold in touch, pruritus, non-progressive / slow progression of disease, elevated; heaviness and oiliness are presented along with maggot’s formation and stickiness like symptoms.
+ * Different degree of _doshic_ involvement determines the color, shape, size, symptoms and discharge from the lesions. The treatment differs as per dominance of _dosha_.
+
+ * If all symptoms appear simultaneously, then the _kushtha_ is untreatable. Similarly, immune-compromised patients and those suffering from morbid thirst, burning sensation, loss of digestive power and lesions have maggots then the prognosis is bad. _Vata kapha_ dominant and single _dosha_ predominated _kushtha_ are easily curable. Whereas _kapha pitta_ and _vata pitta_ dominated _kushtha_ are _kricchra sadhya_ i.e. curable with difficulty.
+ * If the skin lesion is small, then _prachchanna_ (bloodletting by rubbing with coarse device) should be done. If the skin lesions are large and spread all over body, _siravyadha_ (venesection) should be done for bloodletting.
+ * Frequent body purification procedures are needed in treatment of skin diseases. The treatment includes internal purification in the form of therapeutic emesis, purgation etc. and external purification in the form of local applications of _lepa_ of purifying herbs.
+ * _Shwitra_ may be caused by meta-physical causes like sinful deeds and those in previous life.
+ * Therapeutic purgation is main principle of management in _shwitra_ (vitiligo).
+ * Exposure to sunlight is one of the treatments of _shwitra_.
+
+## Vidhi Vimarsha (Applied Inferences )
+
+In the context of _kushtha_ , Ayurveda acknowledges that the human skin consists of six layers, and each layer is seat of specific type of gradually progressing _kushtha_ : 

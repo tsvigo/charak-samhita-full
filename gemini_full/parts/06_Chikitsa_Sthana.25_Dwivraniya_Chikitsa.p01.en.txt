@@ -1,0 +1,222 @@
+## Contents
+
+ * 1 Introduction
+ * 2 Sanskrit Text, Transliteration and English Translation
+ * 2.1 Query by Agnivesha
+ * 2.2 Classification and etiology of _vrana_
+ * 2.3 Importance of dosha dominance in treatment
+ * 2.4 Endogenous ulcers
+ * 2.5 Dosha dominant _vrana_ and their treatment
+ * 2.5.1 Vata dominant _vrana_ and treatment
+ * 2.5.2 Pitta dominant _vrana_ and treatment
+ * 2.5.3 Kapha dominant _vrana_ and treatment
+ * 2.6 Twenty types of ulcers
+ * 2.7 Three fold examination
+ * 2.8 Twelve types of ulcers
+ * 2.9 Sites of vitiation
+ * 2.10 Specific odors of _vrana_
+ * 2.11 Fourteen types of discharges and sixteen complications
+ * 2.12 Causes of non-healing ulcers
+ * 2.13 Factors affecting prognosis
+ * 2.14 Principles of management
+ * 2.15 Procedures for management of ulcers
+ * 2.16 Guidelines for management of ulcers
+ * 2.17 _Patana_ (incision) and _upanaha_ (poultice)
+ * 2.18 Six types of surgical procedures
+ * 2.19 Indications of various surgical procedures
+ * 2.20 _Vrana pidana_(pressing of wound)
+ * 2.21 Various treatment modalities for pacification of ulcer
+ * 2.22 Management of bone fracture and dislocation
+ * 2.23 Management of various conditions of _vrana_
+ * 2.24 _Eshana_ (Probing)
+ * 2.25 _Vrana shodhana_ (local purification of ulcers)
+ * 2.26 _Ropana_ (healing) of ulcer
+ * 2.27 _Patta bandhana_ (bandage)
+ * 2.28 Contraindications
+ * 2.29 Suitable food and medicines
+ * 2.30 Indications and contraindications of _agni karma_ (cauterization)
+ * 2.31 _Kshara karma_ (application of alkali) and _dhupana_(fumigation)
+ * 2.32 External applications
+ * 2.33 Summary
+ * 3 Tattva Vimarsha (Fundamental Principles)
+ * 4 Vidhi Vimarsha (Applied Inferences )
+ * 4.1 Classification of ulcers and causes
+ * 4.2 _Samprapti_ (pathogenesis of _vrana_): based on _shadakriya kala_
+ * 4.3 Clinical pictures of _vrana_
+ * 4.4 Investigations and their clinical interpretation in brief
+ * 4.4.1 Complications of ulcer
+ * 4.4.2 Causes of non-healing
+ * 4.5 Treatment of _vrana_ (ulcers)
+ * 4.5.1 Purification measures
+ * 4.5.2 Thirty six treatment measures
+ * 4.6 Indications and process of six fold surgical procedures
+ * 4.6.1 _Pidana_ (Compression)
+ * 4.6.2 Management of fracture and dislocation
+ * 4.6.3 _Eshanakarma_ (probing)
+ * 4.6.4 _Vrana shodhana_ (cleaning of ulcer)
+ * 4.7 Bandaging material, methods and its applicability in _vrana_ (wound)
+ * 4.8 Diet: Wholesome and unwholesome aahar-vihar and ulcer healing promoters
+ * 4.9 Indications and contraindications of agnikarma (cauterization) in various disorders
+ * 4.10 Importance of _dhupana karma_ (fumigation therapy) in wound sterilization healing process
+ * 4.11 Potential areas /Scope for research
+ * 4.12 _Shodhana_ (Cleansing) formulations
+ * 4.13 Remedies for post healing complications
+ * 5 References
+
+## Introduction
+
+The term _vrana_ literally means destruction or rupture or discontinuation of body tissues. This chapter gives comprehensive information about endogenous and exogenous ulcers. _Trividha pariksha_ or three different ways of examination of ulcer is done by _darshana_ (inspection), _prashna_ (interrogation) and _sparshana_ (palpation). Inspection i.e. visual examination deals with general examination (whole body) and local examination (specific part or organ) to make proper diagnosis. The etiological factors, nature of pain, ability to get used to food (_satmya/asatmya_), drugs, status of digestive power etc are examined by interrogation. Palpation is the mode of direct examination done by palpating the margin, size, depth, temperature, stiffness or hardness etc. Prognosis of ulcer is determined by its location eg. skin (_tvaka_), blood vessels (_shira_), muscle tissue (mamsa dhatu), fatty tissue (meda dhatu), bone (asthi dhatu), ligament (_snayu_), vital organs (_marma_)[1],visceras of chest and abdomen (_antarashraya_)[2] [ Cha. Sa. Sharira Sthana 7/10 ] 
+
+Various complications of ulcers like _visarpa_ (erysipelas), _pakshaghata_ (hemiplegia), _shirastambha_ (constricted vessels), _jwara_ (fever) etc. are described. Sloughing of ligaments and vessels, deep seated appearance of maggots, fracture of bone near the ulcer, presence of foreign body in the ulcer etc hamper the healing process. Treatment of _nija vrana_ (endogenous ulcer)[3] is different from _agantuja vrana_ (exogenous ulcer) because endogenous ulcers are caused by vitiation of vatadi doshaja, and exogenous ulcers are initially caused by various type of trauma such as _vadha_ (stab injury etc.), _bandha_ (excessive tying), _prapatana_ (injury due to fall), injury due to teeth and nail etc. But later on in exogenous ulcers also involvement of dosha takes place and then treatment should be adopted as _nija vrana_ (endogenous ulcer). In endogenous ulcers, _shodhana_ therapy should be adopted by vamana (emesis), virechana (purgation) and basti (medicated enema) and blood letting for removal of doshaja (toxic materials) from body. [ Cha. Sa. Sutra Sthana 16/17 ] and _agnikarma_. _Agnikarma_ has ushna guna (hot property) which is opposite to vata and kapha. Due to heat, vasodilation leads to alleviation of _srotorodha_ resulting in proper vascularity to organ or part. In exogenous ulcers, local treatment with use of _kshara_ (alkaline substances), surgical intervention and cauterization is recommended. 
+
+## Sanskrit Text, Transliteration and English Translation
+
+Now we shall expound the chapter "Dwivraniya chikitsa" (Management of two types of ulcers).Thus said Lord Atreya.[1-2] 
+
+### Query by Agnivesha
+
+Agnivesha, in opportune moment, respectfully submitted to his teacher Atreya, knower of the best and the worst and devoid of conceit, ego and suffering –“ O Lord ! Two types of ulcers have been mentioned earlier under enumeration of disorders; kindly describe their symptoms and treatment O conferer of happiness!”[3-4] 
+
+### Classification and etiology of _vrana_
+
+After listening the request of Agnivesa the teacher said – ‘O gentle! Listen about the symptoms and treatment of the two types of _vrana_ (ulcers) , endogenous ulcer and exogenous ulcer, as mentioned earlier.The endogenous ulcers occur from the bodily _dosha_ , whereas the exogenous ulcers are caused by external causative factors. Exogenous ulcer are caused by blowing, binding, falling down, injury with fangs, teeth or nails as well as due to poisonous contact, fire and weapons etc. Exogenous ulcers are different from the endogenous ones in respect of treatment with _mantra_ (incantations), anti-poisonous pastes for external application etc. While endogenous ulcer bears opposite characteristic features in respect of etiology, sign symptoms and treatment. [5-8] 
+
+### Importance of dosha dominance in treatment
+
+Exogenous ulcers not being pacified and having endogenous causative factors should be treated as endogenous ulcers according to predominance of dosha.[9] 
+
+### Endogenous ulcers
+
+Vata, pitta and kapha are vitiated by their respective causes get lodged in external passage and thus produce endogenous ulcers. [10] 
+
+### Dosha dominant _vrana_ and their treatment
+
+#### Vata dominant _vrana_ and treatment
+
+The ulcer caused by vata is stiff, hard to touch, with scanty exudation, excruciating and pricking pain with throbbing and blackish discoloration. _Vatika_ ulcer should be treated with _sampurana_ (filling of ulcer cavity), intake of unctuous substances (oleation therapy), unctuous fomentation and poultices, ointments and sprinklings.[11-12] 
+
+#### Pitta dominant _vrana_ and treatment
+
+Pittaja ulcer is known from thirst, unconsciousness, fever, sweating, burning sensation, impurity, tearing and foul smell with discharge of pus from ulcer. One should pacify the pittaja ulcer by anointing and sprinkling with cold, intake of sweet and bitter drugs, intake of ghee and purgation. [13-14] 
+
+#### Kapha dominant _vrana_ and treatment
+
+Kaphaja ulcer has much sliminess, heavyness, unctuousness, numbness, with mild pain, paleness in color, little slough and prolonged healing. Kaphaja ulcer is treated with anointing and sprinkling with astringent, pungent, dry and hot drugs as well as fasting and digestive measures.[15-16] 
+
+Above two types of ulcers are further divided into twenty types on the basis of distinctive features. Their examination can be done by three ways, signs of excess vitiation at site of ulcers are of twelve types, eight locations, fourteen types of discharges, sixteen complications, twenty four defects and thirty six therapeutic measures. Now listen about these in details. [17-19] 
+
+### Twenty types of ulcers
+
+Curable (can be treated with surgical intervention), incurable; infected, non-infected; situated in vital parts, not situated in vital parts; closed, open; hard, soft; discharging, non-discharging; poisonous, non-poisonous; unevenly located, evenly located; pouched, un-pouched; elevated, depressed – these are the twenty types of ulcers according to various distinguishing features.[20-21] 
+
+### Three fold examination
+
+Examination of ulcer can be performed by three methods e.g. by inspection, interrogation and palpation. 
+
+Age, complexion and color, body parts and sense organs are examined by inspection. Etiology, nature of pain, suitability and power of digestion should be known by patient’s statement. By palpation softness and coldness are known with their contraries. [22-23] 
+
+### Twelve types of ulcers
+
+White, with depressed margins, very thick margins, much greyish (_pinjara_), blue, blackish, surrounded with numerous boils, red, black, very fetid odor, non- healing nature and bottle-necked (narrow opening) these are twelve types of defective (_dushta_) ulcers.[24-25] 
+
+### Sites of vitiation
+
+In the treatise, eight locations of wounds have been mentioned such as skin, blood vessels, flesh, fat, bone, ligament, vital parts and viscera.[26] 
+
+### Specific odors of _vrana_
+
+Eight types of wound odors have been defined by the experts like ghee, oil, muscle-fat, pus, blood, and cadaver, sour and fetid.[27] 
+
+### Fourteen types of discharges and sixteen complications
+
+Discharges from ulcers are of fourteen types in appearance such as _lasika_ (like lymph), water, pus, blood, color of exudation as yellow, reddish, brownish, ochre-colored, blue, green, unctuous, rough, white and black. 
+
+The experts have mentioned sixteen complications of wounds such as erysipelas, paralysis, occlusion in blood vessels, tetanus, and mental confusion, and insanity, pain in wound, fever, thirst, lockjaw, cough, vomiting, diarrhea, hiccups, dyspnea and trembling.[28-31] 
+
+### Causes of non-healing ulcers
+
+Defects are known to be twenty four according to etiological factors which are as follows: moistening of ligaments, excess of fluid in blood vessels, deepness, eaten by maggots, cracking of bones, presence of foreign body, presence of toxins, spreading, excessive tearing with nails or wooden piece, friction of skin, friction of body hair, faulty bandage, over-application of uncting substance, excessive emaciation due to over dose, indigestion, over-eating, intake of incompatible food items, unsuitable food, grief, anger, day-sleep, physical exercise, sexual intercourse and inactivity.These factors lead to delay in the healing process. Ulcers having much impurity become difficult to be cured due to presence of excessive discharges, odors, defects and complications.[31-35] 
+
+### Factors affecting prognosis
+
+Wound is easily curable if it is located in skin and muscles, easy places, youthful age, without complication, in a wise patient and of recent origin. If it is devoid of some of these qualities it is curable with difficulty and when it is devoid of all the qualities it is incurable and thus not to be treated.[36-37] 
+
+### Principles of management
+
+In cases of wound, first of all, purification with therapeutic emesis, purgation, _shastra karma_ (surgical intervention) and basti (medicated enema) should be done after assessment of condition because the wounds get healed quickly in those with cleansed body.[38-39] 
+
+### Procedures for management of ulcers
+
+Hereafter listen about all the measures of treatment in order such as – measures for pacification of swelling, six types of surgical operations, pressing, cooling?, uniting, fomentation, pacification, probing, cleansing, healing, cleaning paste, healing paste, cleaning oil, healing oil, two types of covering with leaf, two types of bandaging, diet, elevation, two types of cauterization, depression, hardening fumigation, softening fumigation, hardening paste, softening paste, powdering, colorization, healing, repilatory- these are the thirty six measures of treatment of wounds.[39-43] 
+
+### Guidelines for management of ulcers
+
+The physician observing _shopha_ (swelling) as prodromal sign in the beginning should apply blood-letting to prevent the manifestation of wound. One should evacuate the persons with plenty of impurity and lighten those with little impurity. He should overcome the wound predominant in vata first with decoctions and ghritas. Paste of _nyogrodha_ bark (Ficus bengalensis Linn.), _udumbara_ (Ficus glomerata Roxb.), _ashwattha_ (Ficus religiosa Linn.), _plaksha_ (Ficus lacor Buch.Ham.) and _vetasa_ (Salix caprea Linn.) are mixed with ghee is an excellent cooling for inflammation, other local applications prescribed are (1) _vijaya_ (Terminalia chebula Retz.), _madhuka_ (Glycyrrhiza glabra Linn.), _vira , bisagranthi, shatavari_ (Asparagus racemosus Willd.), _nilotpala_ (Nymphea stellata Willd.), _nagapuspa_ (Mesua ferrea Linn.) and _sandal_ (Santalum album Linn.). (2) Parched grain flour, _madhuka, sarkara_ and ghee. _Avidahi_ (non-burning) food is the best remedy for inflammation.[44-48] 
+
+### _Patana_ (incision) and _upanaha_ (poultice)
+
+If swelling of ulcers treated in this way does not subside, poultice should be applied and when ripened should be incised. Warm poultice of the bolus of parched grain flour mixed with oil or ghee or both is useful for ripening of inflammation. The bolus of parched grain flour mixed with _tila_ (Sesamum indicum Linn.), linseeds (Linum usitatissimum Linn.), sour curd, yeast, _kustha_ (Saussurea lappa C. B. Clarke) and salt is recommended as poultice. 
+
+Swelling is known as _vidagdha_ (under ripening) by the symptoms such as pain, burning sensation, redness and piercing pain. The same should be known as ripened when it is like water-bag on palpation and rises on pressure. Linseed, _guggulu_ (Commiphora mukul), latex of _snuhi_ (Euphorbia neriifolia Linn.), feces of chicken and pigeon, alkali of _palasha_ (Butea monosperma Linn.), _svarnakhsiri_ (Argemone mexicana Linn.) and _mukulaka_ (Pistacia vera Linn.). This is the group of drugs which helps in the tearing of ripened inflammation in delicate patients otherwise it should be operated upon surgically.[49-54] 
+
+### Six types of surgical procedures
+
+Surgical treatment is of six types such as – incision, puncturing, excision, scrapping, scarification and suturing.[55] 
+
+### Indications of various surgical procedures
+
+Sinuses, ripened inflammations (i.e.suppurated ulcer or abscess), intestinal perforation, intestinal obstruction, having foreign body within and other similar conditions are incisable. Ascites, suppurated tumor and raktaja gulma (uterine tumor), blood disorders such as erysipelas, boils etc, are treated by puncturing. Wounds protruded with thick margins, elevated, hard, piles etc and other growths should be excised.The wise physician should scrape leucoderma, skin diseases and other such disorders which need scraping. The physician should perform scarification over vatarakta(nodular swelling), _granthi_ (cysts) pimples, urticarial rashes, red patches, skin diseases, injured parts and swellings. Suturing should be done in pelvic, abdominal surgeries (i.e., laparotomy) etc.Thus the scholars have mentioned six types of surgical treatments.[56-61] 
+
+### _Vrana pidana_(pressing of wound)
+
+Wounds with narrow opening and multiple loculi should be pressed on. _Kalaya_ (Pisum sativum Linn.), _masura_ (Lens culinaris Medic.), wheat (Triticum sativum Lam.) and peas pounded and applied as paste without mixing any fat are useful for pressing the wound.[61-62] 
+
+### Various treatment modalities for pacification of ulcer
+
+Bark of _shalmali_ (Salmalia malabarica Schott), _bala_ (Sida cordifolia) root, tender leaves of _nyagrodha_ – this group (of drugs) known as _nyagrodhadi_ or _baladi_ acts as cooling agent applied as paste and sprinkling. Wounds predominant in _raktapitta_ should be cooled by applying very cold ghee washed hundred times, milk or decoction of _madhuka_ (Madhuka indica).[63-65] 
+
+Chronic wound should be pasted with honey and ghee there after bandaged leads to evenly union.When they are evenly set, powder of _priyangu_ (Callicarpa macrophylla Vahl.), _lodhra_ (Symplocos racemosa Roxb.), _katphala_ (Myrica esculenta Buch-Ham.), _lajjalu_ (Mimosa pudica Linn.) and _dhataki_ (Woodfordia fruticosa Kurz.) should be applied thereon or the powder of _panchavalkala_ mixed with that of _sukti bhasma_ (pearl ash) or the powder of _dhataki_ and _lodhra_ should be applied. 
+
+Application of above measures leads to proper wounds healing.[65-68] 
+
+### Management of bone fracture and dislocation
+
+Fractured bone and dislocated joints should be set correctly comparing with its counterpart. Setting with firm pad-bandages and splints, it should be immobilized without any discomfort by binding with cloth pieces dipped in plenty of ghee. The patient should be kept on non-burning foods (_avidahi_) made of flour. Such patients should not resort to physical exercise which may cause dislocation of joint. The physician, according to time, should treat the complications such as erysipelas etc in fracture and dislocation of bone. [68-72] 
+
+### Management of various conditions of _vrana_
+
+Wounds which are dry, intensely painful, stiffened and predominant in vata should be fomented by bolus fomentation with _krishara_ and _payasa_ (a type of dietary preparation). Similarly, they should be fomented with seasoned _vesavara_ made of the meat of domestic, burrow-dwellers, aquatic or marshy animals or hot _utkarika_. Thus the patient gets relief. If the wounds predominant in vata have burning sensation and pain, they should be pasted upon with linseed and sesamum seeds roasted, then dipped in milk and again pounded with the same milk. _Bala_ (Sida cordifolia Linn.), _guduchi_ (Tinospora cordifolia), _madhuka_ (Glycyrrhiza glabra Linn.), _prishnaparni_ (Uraria picta Desv), _shatavari_ (Asparagus racemosus Willd), _jivanti_ (Leptadenia reticulate W. & A.), sugar, milk, oil, fish fat, ghee cooked with beeswax is known as _sneha sarkara_ , it relieves pain.The wound should be sprinkled with warm decoction of two _panchamula_ (ie._dashamula_), milk and ghee with oil. 
+
+Barley powder (Hordeum vulgare Linn.), _madhuka_ (Glycyrrhiza glabra Linn.) and _tila_ mixed with ghee should be applied as warm paste for alleviating burning sensation and pain. _Payasa_ prepared of _mudga_ (Phaseolus radiates Linn.) mixed with _tila_ should be applied as poultice to pacify pain and burning sensation. These management principles are beneficial in wounds.[72-79] 
+
+### _Eshana_ (Probing)
+
+In case of wounds with narrow opening, profuse discharge and pouch and not situated in vital parts, probing is beneficial. Probe is of two types – soft and hard, the former is made of soft stalks of plants and the latter of iron (metallic) rods. In deep and muscular parts iron rods preferred while in other parts plant stalks should be used for probing. [80-82] 
+
+### _Vrana shodhana_ (local purification of ulcers)
+
+Wounds with foul odor, abnormal color, profuse discharge and intense pain should be known as _dushta vrana_ (unclean) and as such wounds should be treated with cleansing agents. Decoctions of _triphala, khadira_ (Acasia catechu Willd), _daruharidra_ (Berberis aristata DC), _nyagrodhadi_ group, _bala_ (Sida cordifolia Linn.), _kusa_ (Desmostachya bipinnata Stapf.), leaves of _nimba_ (Azadirachta indica A. Juss) and _badara_ (Zizyphus jujube Lam.) are regarded as cleansing drugs. _Tila_ paste, salt, _haridra_ (Curcuma longa Linn.), _daruharidra_ (Berberis aristata DC), _trivrit_ (Operculina turpethum Linn.) _ghrita_ , _madhuka, nimba_ leaves – this formulation is said as wound cleanser. [83-85] 
+
+### _Ropana_ (healing) of ulcer
+
+Those ulcers, are not very red, pale, blackish, painful, elevated and protruded should be known as clean and appeals healing process. Decoction of _nyagrodha, udumbara, asvattha, kadamba, plaksha, vetasa, karavira_ (Nerium indicum Mill.), _arka_ (Calotropis procera R. Br.) and _kutaja_ (Holarrhena antidysentrica Linn.) are wound healing. _Chandana_ (Santalum album Linn.), lotus stamens, _daruharidra_ bark, blue water lily, _meda_ (Polygonatum airrhifolium Royle), _mahameda_ (Polygonatum airrhifolium Royle), _murva_ (Marsdenia tenacissima W. & A.), _lajjalu_ (Mimosa pudica Linn.) and _madhuyasti_ \- this formulation is wound healer. _Prapaundarika, jivanti, gojihva_ (Onosma bracteatum Wall.), _dhataki, bala_ and sesamum should be applied as paste with ghee for wound healing. _Kampillaka_ (Mallotus philippinensis Muell Arg), _vidanga_ (Embelia ribes Burm), _kutaja, triphala, bala, patola_ (Trichosanthes dioica Roxb.), _nimba, musta_ (Cyperus rotundus Linn.), _priyangu, khadira, dhataki, sarja, ela_ (Elleteria cardamomum Maton.), _aguru_ (Aquilaria agallocha Roxb.) and _chandana_ are pounded together and oil is extracted. This oil is used as ulcer healing agent. 
+
+Similarly, oil prepared with equal quantity of _prapaundarika, mahuka, kakoli_ (Roscoca procera Wall.), _kshirakakoli_ (Roscoca procera Wall.), _chandana_ and _rakta chandana_ (Pterocarpus santalinus Linn.) is an excellent ulcer healing agent. Oil cooked with _durva_ juice or _kampillaka_ or paste of _daruharidra_ bark is an important ulcer healer. By the above method _ghrita_ should be prepared and used for healing, ulcers predominant in rakta and pitta.[86-94] 
+
+### _Patta bandhana_ (bandage)
+
+For covering the wound, leaves of _kadamba, arjuna, nimba, patala_ (Stereospermum suaveolens DC.), _pippala_ (Ficus religiosa Linn.) and _arka_ should be used. Bandage made of plant bark, deer hide or flaxen cloth is used in wounds. Bandaging of wounds are of two types i.e, It can be started either from left or right side. [95-96] 
+
+### Contraindications
+
+Patients of ulcer should abstain from salt, sour, pungent, hot, burning and heavy food and drinks and also sexual intercourse. Food and drinks that are not too cold, heavy and fatty, non-burning, according to the nature of ulcer are beneficial, while day-sleep is not suitable in these patient.[97-98] 
+
+### Suitable food and medicines
+
+For raising the depressed wounds galactogogues (_stanyajanana_), vitalizers (_jeevaniya_) and bulk promotives (_brinhaniya_) drugs should be applied. Similarly, _bhurjagranthi_ (nodes in the tree of Butea utilis), _asmakasisa_ (copper sulphate), purgatives, _guggulu_ and excrement of sparrow and pigeon should be used for depressing the wounds. [99-100] 
+
+### Indications and contraindications of _agni karma_ (cauterization)
+
+Excessive hemorrhage after excision, excisable growths, kaphaja nodules, glands, stiffness and disorders due to vata, wounds with hidden pus and lymph, deep and firm; and after amputation of body part, cauterization is prescribed. The expert in cauterization should cauterize the spot with beeswax, oil, marrow, honey, muscle-fat, _ghrita_ or various heated metallic sticks. Wounds deep and predominant in vata and in patients rough and delicate should be cauterized with fat or beeswax otherwise with iron stick or honey. Cauterization should not be applied in children, debilitated, old persons, pregnant women, those suffering from internal hemorrhage, thirst, fever, weak and poisoned persons and in wounds situated at ligaments and vital parts, poisoned, foreign body, ophthalmic and leprotic wounds.[101-106] 
+
+### _Kshara karma_ (application of alkali) and _dhupana_(fumigation)
